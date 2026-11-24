@@ -100,18 +100,24 @@ npm run preview  # 预览构建结果
 - 自定义域名：https://020417.xyz
 - GitHub Pages 默认地址：https://ice-a.github.io/human-manual/
 
-## 自定义域名 DNS 设置
+## 自定义域名 DNS 设置（Cloudflare）
 
-在域名注册商的 DNS 管理里添加以下记录。`public/CNAME` 已写入 `020417.xyz`，
-同时仓库 Pages 设置里的 Custom domain 也需填同一个域名。
+域名托管在 Cloudflare。所有记录必须选 **DNS only（灰云）**，不要开代理（橙云）：
+Cloudflare 代理会挡住 GitHub 的证书校验，导致 Enforce HTTPS 无法开启，还可能返回 520。
 
-| 类型 | 名称 | 值 |
-| --- | --- | --- |
-| A | @ | 185.199.108.153 |
-| A | @ | 185.199.109.153 |
-| A | @ | 185.199.110.153 |
-| A | @ | 185.199.111.153 |
-| CNAME | www | ice-a.github.io |
+仓库 Pages 设置里的 Custom domain 与 `public/CNAME` 都是 `020417.xyz`。
 
-GitHub Pages 会自动把 `www.020417.xyz` 跳转到 `020417.xyz`。DNS 生效后，
-在仓库 Settings → Pages 勾选 Enforce HTTPS（最多可能需要 24 小时）。
+| 类型 | 名称 | 值 | 代理状态 |
+| --- | --- | --- | --- |
+| A | @ | 185.199.108.153 | DNS only |
+| A | @ | 185.199.109.153 | DNS only |
+| A | @ | 185.199.110.153 | DNS only |
+| A | @ | 185.199.111.153 | DNS only |
+| CNAME | www | ice-a.github.io | DNS only |
+| CNAME | apex | ice-a.github.io | DNS only |
+
+Cloudflare 支持 apex CNAME flattening，所以 `@` 也可以只写一条
+`CNAME → ice-a.github.io`（同样 DNS only），效果与四条 A 记录相同。
+
+GitHub Pages 会自动把 `www.020417.xyz` 和 `apex.020417.xyz` 跳转到 `020417.xyz`。
+DNS 生效后在仓库 Settings → Pages 勾选 Enforce HTTPS，证书签发最多可能需要 24 小时。
