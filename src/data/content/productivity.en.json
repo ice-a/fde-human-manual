@@ -1,0 +1,961 @@
+{
+  "slug": "productivity",
+  "sections": [
+    {
+      "title": "Tasks and Attention",
+      "items": [
+        {
+          "id": "productivity-0-1",
+          "title": "Write down the tasks in your head",
+          "core": "Lists can free up attention.",
+          "body": [
+            "Use a collection box to record uniformly.",
+            "Pick out just a few things to do each day."
+          ],
+          "tags": [
+            "List",
+            "Record"
+          ]
+        },
+        {
+          "id": "productivity-0-2",
+          "title": "If you can finish it in two minutes, do it now",
+          "core": "The accumulation of small tasks is very costly.",
+          "body": [
+            "The judgment takes no more than two minutes.",
+            "Process it immediately instead of writing it down again."
+          ],
+          "tags": [
+            "Habit",
+            "Execute"
+          ]
+        },
+        {
+          "id": "productivity-0-3",
+          "title": "Do one thing at a time",
+          "core": "The cost of switching is often underestimated.",
+          "body": [
+            "Close irrelevant notifications.",
+            "Set a time block for a single event."
+          ],
+          "tags": [
+            "Focus",
+            "Habit"
+          ]
+        },
+        {
+          "id": "productivity-0-4",
+          "title": "Only set three important things every day",
+          "core": "Too many priorities means nothing.",
+          "body": [
+            "Sort by importance.",
+            "Think about the next batch after you finish."
+          ],
+          "tags": [
+            "Priority",
+            "Plan"
+          ]
+        },
+        {
+          "id": "productivity-0-5",
+          "title": "Allow time for deep work",
+          "core": "Fragmented time cannot do complex tasks.",
+          "body": [
+            "Fix a period of time that will not be interrupted.",
+            "Indicate in advance that you will not be online during this period."
+          ],
+          "tags": [
+            "Focus",
+            "Time"
+          ]
+        },
+        {
+          "id": "productivity-0-6",
+          "title": "Empty the collection box every week",
+          "core": "The accumulation of to-dos will turn into noise.",
+          "body": [
+            "Fixed time to deal with pending matters.",
+            "Every decision is made, deleted or postponed."
+          ],
+          "tags": [
+            "Task",
+            "Organizing"
+          ]
+        },
+        {
+          "id": "productivity-0-7",
+          "title": "Break down tasks until they can be started",
+          "core": "Tasks that are too large can induce procrastination.",
+          "body": [
+            "Write down the first step.",
+            "The first step should take no more than ten minutes."
+          ],
+          "tags": [
+            "Task",
+            "Dismantle"
+          ]
+        },
+        {
+          "id": "productivity-0-8",
+          "title": "Defining completion of tasks",
+          "core": "Tasks that do not complete the standard will be delayed indefinitely.",
+          "body": [
+            "Write clearly the deliverables.",
+            "Confirm acceptance conditions."
+          ],
+          "tags": [
+            "Task",
+            "Standard"
+          ]
+        },
+        {
+          "id": "productivity-0-9",
+          "title": "Fixed planning time",
+          "core": "Allow a few minutes each day to schedule.",
+          "body": [
+            "Make plans for a fixed period of time.",
+            "Not executed when planned."
+          ],
+          "tags": [
+            "Plan",
+            "Habit"
+          ]
+        },
+        {
+          "id": "productivity-0-10",
+          "title": "Reduce multi-tasking switching",
+          "core": "The switching cost is higher than imagined.",
+          "body": [
+            "一次只开一个任务。",
+            "记录被打断的次数。"
+          ],
+          "tags": [
+            "Focus",
+            "Habit"
+          ]
+        },
+        {
+          "id": "productivity-0-11",
+          "title": "Start with a timer",
+          "core": "Timing can reduce starting resistance.",
+          "body": [
+            "Set a short time.",
+            "时间到就停或继续。"
+          ],
+          "tags": [
+            "Execute",
+            "Timing"
+          ]
+        },
+        {
+          "id": "productivity-0-12",
+          "title": "Find the reason for procrastination first",
+          "core": "Different reasons have different solutions.",
+          "body": [
+            "Is it because the task is unclear or because I am afraid of failure?",
+            "针对原因选方法。"
+          ],
+          "tags": [
+            "Procrastination",
+            "Judgment"
+          ]
+        },
+        {
+          "id": "productivity-0-13",
+          "title": "The Five-Minute Startup Technique",
+          "core": "Do it for five minutes and then look at it.",
+          "body": [
+            "Allow five minutes to stop.",
+            "It will continue most of the time."
+          ],
+          "tags": [
+            "Execute",
+            "Start"
+          ]
+        },
+        {
+          "id": "productivity-0-14",
+          "title": "Tackle the hardest thing first",
+          "core": "Leave high-cognitive tasks for when you are in good shape.",
+          "body": [
+            "Choose one hard task every day.",
+            "Take care of chores after you’re done."
+          ],
+          "tags": [
+            "Priority",
+            "Execute"
+          ]
+        },
+        {
+          "id": "productivity-0-15",
+          "title": "Batch processing of similar tasks",
+          "core": "Reduce switching and preparation costs.",
+          "body": [
+            "Centralize reply to messages.",
+            "Centralize processing of reimbursements."
+          ],
+          "tags": [
+            "Process",
+            "Batch"
+          ]
+        },
+        {
+          "id": "productivity-0-16",
+          "title": "Prepare topics before the meeting",
+          "core": "Meetings without topics are prone to idling.",
+          "body": [
+            "Write down what you want to decide.",
+            "Sent to participants in advance."
+          ],
+          "tags": [
+            "Meeting",
+            "Preparation"
+          ]
+        },
+        {
+          "id": "productivity-0-17",
+          "title": "Confirm immediately after the meeting",
+          "core": "Memory will be distorted quickly.",
+          "body": [
+            "Send conclusions and to-dos.",
+            "Indicate the person responsible and the time."
+          ],
+          "tags": [
+            "Meeting",
+            "Confirm"
+          ]
+        },
+        {
+          "id": "productivity-0-18",
+          "title": "Finishing every day",
+          "core": "The ending determines the starting point for the next day.",
+          "body": [
+            "Organize your desktop and lists.",
+            "Write it down first thing tomorrow."
+          ],
+          "tags": [
+            "Closing",
+            "Habit"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Recording and review",
+      "items": [
+        {
+          "id": "productivity-1-1",
+          "title": "Notes must be retrieved",
+          "core": "If you note them but cannot find them, it means you didn’t note them.",
+          "body": [
+            "Use a unified title and a small number of tags.",
+            "Organize collection boxes regularly."
+          ],
+          "tags": [
+            "Notes",
+            "Retrieval"
+          ]
+        },
+        {
+          "id": "productivity-1-2",
+          "title": "Template repetitive work",
+          "core": "Repetitive things should not be re-designed.",
+          "body": [
+            "Write the fixed steps into a list.",
+            "Improve the template every time you use it."
+          ],
+          "tags": [
+            "Template",
+            "Process"
+          ]
+        },
+        {
+          "id": "productivity-1-3",
+          "title": "Looking at trends on a weekly basis",
+          "core": "A single day’s fluctuations don’t mean much.",
+          "body": [
+            "Review the completion level at a fixed time.",
+            "Write down one thing to adjust next week."
+          ],
+          "tags": [
+            "Review",
+            "Cycle"
+          ]
+        },
+        {
+          "id": "productivity-1-4",
+          "title": "Meeting minutes only record conclusions and to-dos",
+          "core": "Full text records are rarely read.",
+          "body": [
+            "Write down who did what and when.",
+            "Confirmation will be sent immediately after the meeting."
+          ],
+          "tags": [
+            "Meeting",
+            "Record"
+          ]
+        },
+        {
+          "id": "productivity-1-5",
+          "title": "File naming should be sortable",
+          "core": "Good names save a lot of searching.",
+          "body": [
+            "Contains date and subject.",
+            "Avoid words like \"final version.\""
+          ],
+          "tags": [
+            "File",
+            "Organizing"
+          ]
+        },
+        {
+          "id": "productivity-1-6",
+          "title": "Only one entry is left for records",
+          "core": "Scattered records equal no records.",
+          "body": [
+            "All temporary ideas go into the same place.",
+            "Regularly diverted to projects."
+          ],
+          "tags": [
+            "Notes",
+            "Collection"
+          ]
+        },
+        {
+          "id": "productivity-1-7",
+          "title": "Title with date and subject",
+          "core": "Retrieval is more reliable than classification.",
+          "body": [
+            "Use a unified format.",
+            "Avoid vague titles."
+          ],
+          "tags": [
+            "Notes",
+            "Retrieval"
+          ]
+        },
+        {
+          "id": "productivity-1-8",
+          "title": "Keep the link to the original text when excerpting",
+          "core": "Useful for checking back.",
+          "body": [
+            "Write the source.",
+            "Indicate the time of excerpt."
+          ],
+          "tags": [
+            "Notes",
+            "Source"
+          ]
+        },
+        {
+          "id": "productivity-1-9",
+          "title": "Rewrite in your own words",
+          "core": "Retelling can become your own knowledge.",
+          "body": [
+            "Close the material after reading.",
+            "Write a brief summary."
+          ],
+          "tags": [
+            "Notes",
+            "Understand"
+          ]
+        },
+        {
+          "id": "productivity-1-10",
+          "title": "定期重读旧笔记",
+          "core": "笔记的价值在使用时显现。",
+          "body": [
+            "Choose a few articles to read back every week.",
+            "Update outdated conclusions."
+          ],
+          "tags": [
+            "Notes",
+            "Review"
+          ]
+        },
+        {
+          "id": "productivity-1-11",
+          "title": "删除过时信息",
+          "core": "噪音会降低检索质量。",
+          "body": [
+            "Marks content that is no longer valid.",
+            "Archive instead of pile."
+          ],
+          "tags": [
+            "Notes",
+            "Organizing"
+          ]
+        },
+        {
+          "id": "productivity-1-12",
+          "title": "项目结束要归档",
+          "core": "完成的材料不该占着工作区。",
+          "body": [
+            "Write a brief review.",
+            "Move to archive directory."
+          ],
+          "tags": [
+            "Project",
+            "归档"
+          ]
+        },
+        {
+          "id": "productivity-1-13",
+          "title": "记录决策理由",
+          "core": "只记结论会忘记为什么。",
+          "body": [
+            "Write down the constraints at that time.",
+            "Record negated options."
+          ],
+          "tags": [
+            "Decision-making",
+            "Record"
+          ]
+        },
+        {
+          "id": "productivity-1-14",
+          "title": "周复盘问三个问题",
+          "core": "做完什么、卡在哪、下周改什么。",
+          "body": [
+            "Do it at a fixed time.",
+            "只改一件事。"
+          ],
+          "tags": [
+            "Review",
+            "Cycle"
+          ]
+        },
+        {
+          "id": "productivity-1-15",
+          "title": "Monthly Review Target",
+          "core": "Long-term deviation is more dangerous than single-day inefficiency.",
+          "body": [
+            "对比月初计划。",
+            "调整下月重点。"
+          ],
+          "tags": [
+            "Review",
+            "Monthly"
+          ]
+        },
+        {
+          "id": "productivity-1-16",
+          "title": "Record failure experience",
+          "core": "Failures are more worth writing about than successes.",
+          "body": [
+            "Write down the triggering conditions and consequences.",
+            "Refine actions to avoid next time."
+          ],
+          "tags": [
+            "Review",
+            "Failure"
+          ]
+        },
+        {
+          "id": "productivity-1-17",
+          "title": "Maintain experience list",
+          "core": "Turn the pitfalls you have stepped into into checkable items.",
+          "body": [
+            "按主题归类。",
+            "定期补充。"
+          ],
+          "tags": [
+            "Experience",
+            "List"
+          ]
+        },
+        {
+          "id": "productivity-1-18",
+          "title": "Change the template when it is used up",
+          "core": "The template needs to evolve during use.",
+          "body": [
+            "Record the awkward areas.",
+            "每次改一点。"
+          ],
+          "tags": [
+            "Template",
+            "Iteration"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tools and Automation",
+      "items": [
+        {
+          "id": "productivity-2-1",
+          "title": "As long as the tools are enough",
+          "core": "Changing tools frequently will eat up time.",
+          "body": [
+            "Get familiar with a tool first.",
+            "Only replace when clear pain points arise."
+          ],
+          "tags": [
+            "Tools",
+            "Choices"
+          ]
+        },
+        {
+          "id": "productivity-2-2",
+          "title": "Leave repetitive input to automation",
+          "core": "Machines are good at taking the trouble.",
+          "body": [
+            "List actions that should be repeated more than three times a week.",
+            "Try with a simple script or template first."
+          ],
+          "tags": [
+            "Automation",
+            "Efficiency"
+          ]
+        },
+        {
+          "id": "productivity-2-3",
+          "title": "AI output needs to be verified",
+          "core": "Smooth does not mean correct.",
+          "body": [
+            "Give clear context and format.",
+            "Check the facts and figures one by one."
+          ],
+          "tags": [
+            "AI",
+            "Verification"
+          ]
+        },
+        {
+          "id": "productivity-2-4",
+          "title": "Back up important files",
+          "core": "The cost of loss is much higher than the cost of backup.",
+          "body": [
+            "Follow multiple copies, different locations, and different media.",
+            "Regular drill recovery."
+          ],
+          "tags": [
+            "Backup",
+            "Safety"
+          ]
+        },
+        {
+          "id": "productivity-2-5",
+          "title": "Shortcut keys and search are basic efficiency",
+          "core": "Repeated actions are worth memorizing.",
+          "body": [
+            "Learn the shortcut keys for commonly used operations.",
+            "Use search instead of clicking."
+          ],
+          "tags": [
+            "Tools",
+            "Habit"
+          ]
+        },
+        {
+          "id": "productivity-2-6",
+          "title": "First manual then automatic",
+          "core": "Processes that are not running smoothly are not suitable for automation.",
+          "body": [
+            "Made by hand more than three times.",
+            "Confirm that the step is stable."
+          ],
+          "tags": [
+            "Automation",
+            "Process"
+          ]
+        },
+        {
+          "id": "productivity-2-7",
+          "title": "Start with high-frequency moves",
+          "core": "The gains come from the number of repetitions.",
+          "body": [
+            "List weekly repeating items.",
+            "Choose the most time-consuming one."
+          ],
+          "tags": [
+            "Automation",
+            "Choices"
+          ]
+        },
+        {
+          "id": "productivity-2-8",
+          "title": "The script also needs to be written with instructions",
+          "core": "You will forget it in the future.",
+          "body": [
+            "Write clearly the purpose and operation method.",
+            "Record dependencies."
+          ],
+          "tags": [
+            "Automation",
+            "Maintenance"
+          ]
+        },
+        {
+          "id": "productivity-2-9",
+          "title": "Automation output to be checked",
+          "core": "Errors can be magnified quickly.",
+          "body": [
+            "Sampling verification results.",
+            "Set exception reminder."
+          ],
+          "tags": [
+            "Automation",
+            "Verification"
+          ]
+        },
+        {
+          "id": "productivity-2-10",
+          "title": "Important data needs to be backed up",
+          "core": "Automation will not back it up for you.",
+          "body": [
+            "Follow the principle of multiple locations.",
+            "Regular drill recovery."
+          ],
+          "tags": [
+            "Backup",
+            "Safety"
+          ]
+        },
+        {
+          "id": "productivity-2-11",
+          "title": "Minimized Permissions",
+          "core": "Tools do not require full permissions.",
+          "body": [
+            "Grant only necessary scope.",
+            "Regularly revoke redundant authorizations."
+          ],
+          "tags": [
+            "Tools",
+            "Safety"
+          ]
+        },
+        {
+          "id": "productivity-2-12",
+          "title": "Use a password manager",
+          "core": "Weak passwords and reuse are common entry points.",
+          "body": [
+            "Generate independent passwords for each site.",
+            "Turn on two-step verification."
+          ],
+          "tags": [
+            "Safety",
+            "Tools"
+          ]
+        },
+        {
+          "id": "productivity-2-13",
+          "title": "Notification hierarchical processing",
+          "core": "Not all reminders require immediate response.",
+          "body": [
+            "Distinguish between urgent and ordinary.",
+            "Concentrated period processing is normal."
+          ],
+          "tags": [
+            "Notice",
+            "Attention"
+          ]
+        },
+        {
+          "id": "productivity-2-14",
+          "title": "Get familiar with commonly used shortcut keys",
+          "core": "Repeated actions are worth memorizing.",
+          "body": [
+            "Remember only a few at a time.",
+            "Used to form muscle memory."
+          ],
+          "tags": [
+            "Tools",
+            "Efficiency"
+          ]
+        },
+        {
+          "id": "productivity-2-15",
+          "title": "Use search instead of clicking through layers",
+          "core": "It is more important to find it than to place it well.",
+          "body": [
+            "Uniform naming rules.",
+            "Take advantage of global search."
+          ],
+          "tags": [
+            "Tools",
+            "Retrieval"
+          ]
+        },
+        {
+          "id": "productivity-2-16",
+          "title": "Regular Cleanup of Tools",
+          "core": "Redundant tools themselves are a burden.",
+          "body": [
+            "List subscriptions and plugins.",
+            "Delete those that have not been used for three months."
+          ],
+          "tags": [
+            "Tools",
+            "Organizing"
+          ]
+        },
+        {
+          "id": "productivity-2-17",
+          "title": "Check Subscriptions and Renewals",
+          "core": "Automatic renewal is easy to forget.",
+          "body": [
+            "Record expiration date.",
+            "Cancel those no longer in use."
+          ],
+          "tags": [
+            "Expenses",
+            "Organizing"
+          ]
+        },
+        {
+          "id": "productivity-2-18",
+          "title": "Evaluate the learning cost of new tools",
+          "core": "The time saved is greater than the learning time.",
+          "body": [
+            "Try it first and then decide.",
+            "Don’t switch because of novelty."
+          ],
+          "tags": [
+            "Tools",
+            "Choices"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Energy and Rhythm",
+      "items": [
+        {
+          "id": "productivity-3-1",
+          "title": "Schedule tasks according to energy",
+          "core": "Not all times are suitable for puzzles.",
+          "body": [
+            "Place high-demand tasks during periods of good health.",
+            "Do tidying-up tasks when your energy level is low."
+          ],
+          "tags": [
+            "Energy",
+            "Arrangement"
+          ]
+        },
+        {
+          "id": "productivity-3-2",
+          "title": "Rest should be arranged in advance",
+          "core": "It is more expensive to wait until you are exhausted to rest.",
+          "body": [
+            "Pause briefly after each period of work.",
+            "Step away from the screen when taking breaks."
+          ],
+          "tags": [
+            "Rest",
+            "Rhythm"
+          ]
+        },
+        {
+          "id": "productivity-3-3",
+          "title": "Management Notification",
+          "core": "It takes time to return to the state after being interrupted.",
+          "body": [
+            "Close unnecessary push.",
+            "Concentrate time on processing messages."
+          ],
+          "tags": [
+            "Notice",
+            "Focus"
+          ]
+        },
+        {
+          "id": "productivity-3-4",
+          "title": "Learning must have output",
+          "core": "Reading does not mean learning.",
+          "body": [
+            "Retell in your own words.",
+            "Make a small result that can be tested."
+          ],
+          "tags": [
+            "Learn",
+            "Output"
+          ]
+        },
+        {
+          "id": "productivity-3-5",
+          "title": "Clean up your tool chain regularly",
+          "core": "Redundant tools are a burden in themselves.",
+          "body": [
+            "Delete subscriptions that are no longer in use.",
+            "Keep frequently used functions at your fingertips."
+          ],
+          "tags": [
+            "Organizing",
+            "Tools"
+          ]
+        },
+        {
+          "id": "productivity-3-6",
+          "title": "Identify energy peaks",
+          "core": "Not all times are suitable for puzzles.",
+          "body": [
+            "Record the status for two weeks.",
+            "Delegate important tasks to the peak period."
+          ],
+          "tags": [
+            "Energy",
+            "Arrangement"
+          ]
+        },
+        {
+          "id": "productivity-3-7",
+          "title": "Arrange rest in advance",
+          "core": "It is expensive to wait until collapse and then rest.",
+          "body": [
+            "Insert short breaks between work sessions.",
+            "Leave the screen while taking a break."
+          ],
+          "tags": [
+            "Energy",
+            "Rest"
+          ]
+        },
+        {
+          "id": "productivity-3-8",
+          "title": "Midday nap",
+          "core": "A short break to regain your afternoon energy.",
+          "body": [
+            "Control within twenty minutes.",
+            "Avoid affecting your sleep at night."
+          ],
+          "tags": [
+            "Energy",
+            "Rest"
+          ]
+        },
+        {
+          "id": "productivity-3-9",
+          "title": "散步是最低成本恢复",
+          "core": "走动能改变状态。",
+          "body": [
+            "It will be effective in ten minutes.",
+            "There is no need to pursue strength."
+          ],
+          "tags": [
+            "Energy",
+            "Activities"
+          ]
+        },
+        {
+          "id": "productivity-3-10",
+          "title": "减少上下文切换",
+          "core": "切换后会需要时间重新进入。",
+          "body": [
+            "Merge similar communications.",
+            "Set the do not disturb period."
+          ],
+          "tags": [
+            "Focus",
+            "Rhythm"
+          ]
+        },
+        {
+          "id": "productivity-3-11",
+          "title": "关闭非必要通知",
+          "core": "提醒会切走注意力。",
+          "body": [
+            "Keep only the truly urgent ones.",
+            "Concentrate the rest."
+          ],
+          "tags": [
+            "Focus",
+            "Notice"
+          ]
+        },
+        {
+          "id": "productivity-3-12",
+          "title": "设定深度工作块",
+          "core": "复杂任务需要连续时间。",
+          "body": [
+            "提前告知他人。",
+            "Does only one thing within a block."
+          ],
+          "tags": [
+            "Focus",
+            "Time"
+          ]
+        },
+        {
+          "id": "productivity-3-13",
+          "title": "Do an energy audit",
+          "core": "Find out the areas that consume the most energy.",
+          "body": [
+            "Record energy changes throughout the day.",
+            "Reduce unnecessary consumption."
+          ],
+          "tags": [
+            "Energy",
+            "Review"
+          ]
+        },
+        {
+          "id": "productivity-3-14",
+          "title": "Sleep takes precedence over overtime",
+          "core": "Chronic sleep deprivation can drag down output.",
+          "body": [
+            "Keep the basic sleep duration.",
+            "There is no long-term overdraft during peak periods."
+          ],
+          "tags": [
+            "Sleep",
+            "Basics"
+          ]
+        },
+        {
+          "id": "productivity-3-15",
+          "title": "Maintain basic exercise",
+          "core": "Regulation is more important than intensity.",
+          "body": [
+            "每周固定几次。",
+            "选择能持续的。"
+          ],
+          "tags": [
+            "Body",
+            "Habit"
+          ]
+        },
+        {
+          "id": "productivity-3-16",
+          "title": "Social interaction also depends on energy",
+          "core": "It is normal to need to recover after socializing.",
+          "body": [
+            "安排独处时间。",
+            "不必解释过多。"
+          ],
+          "tags": [
+            "Social",
+            "Energy"
+          ]
+        },
+        {
+          "id": "productivity-3-17",
+          "title": "Set up an off-duty ritual",
+          "core": "to help the brain switch states.",
+          "body": [
+            "Declutter your desktop and write down the finishing touches.",
+            "关闭工作通知。"
+          ],
+          "tags": [
+            "Closing",
+            "Rhythm"
+          ]
+        },
+        {
+          "id": "productivity-3-18",
+          "title": "Leave a blank space every week",
+          "core": "With full capacity there is no margin for unexpected events.",
+          "body": [
+            "Don’t fill up your schedule.",
+            "Allow for recovery time."
+          ],
+          "tags": [
+            "Rhythm",
+            "Leave blank"
+          ]
+        }
+      ]
+    }
+  ]
+}

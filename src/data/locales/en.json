@@ -2,24 +2,25 @@
   "site": {
     "name": "The Human Manual",
     "slogan": "Live more clearly and step into fewer traps.",
-    "sub": "Eight volumes, nearly two thousand practical entries."
+    "sub": "Fourteen volumes, over two thousand practical entries."
   },
   "ui": {
     "nav.guide": "Guide",
     "nav.about": "About",
     "hero.eyebrow": "OPEN SOURCE · LIFE INDEX",
-    "hero.desc": "Scams, health, relationships, money, cooking, love and recovery. Browse by topic, or search inside a volume.",
-    "hero.cta.primary": "Browse the eight-volume guide",
+    "hero.desc": "Scams, health, relationships, law, emergencies, emotions, focus, family and travel. Fourteen volumes, organized by topic.",
+    "hero.cta.primary": "Browse all fourteen volumes",
     "hero.cta.secondary": "See what's inside",
-    "hero.meta.volumes": "Volume guide",
+    "hero.meta.volumes": "volumes",
+    "hero.meta.principles": "entries",
     "hero.meta.opensource": "Searchable content",
 
     "quote.tab": "One word · HITOKOTO",
     "quote.label": "DAILY WORD · One sentence per day",
     "quote.refresh": "Change a sentence",
-    "catalog.title": "Eight-volume guide",
-    "catalog.en": "THE EIGHT VOLUMES",
-    "catalog.lead": "Each volume covers one area of life. Every entry gives a clear judgment, concrete steps and a source link — scan the index or search directly.",
+    "catalog.title": "Contents",
+    "catalog.en": "FOURTEEN VOLUMES",
+    "catalog.lead": "Fourteen volumes cover fourteen areas of life. Each entry gives a judgment, concrete steps and the necessary context — scan the index or search directly.",
     "card.principles": "Principles",
     "how.title": "What's Inside",
     "how.en": "WHAT'S INSIDE",
@@ -35,7 +36,7 @@
     "how.step3.text": "Cooking entries give ingredient weights, step order and doneness cues so you can reproduce the dish.",
     "closing1.eyebrow": "A NOTE ON THE CONTENT",
     "closing1.line": "Scams have patterns, health has evidence, cooking has measurements, and relationships have boundaries.\nOpen the right volume when you need it.",
-    "closing1.link": "See all content topics",
+    "closing1.link": "About the content",
     "guide.back": "← Return to Table of Contents",
     "guide.stamp": "Principles",
     "guide.index": "INDEX / Table of Contents",
@@ -48,7 +49,7 @@
     "guide.missing.cta": "Return to Table of Contents",
     "about.eyebrow": "ABOUT THE CONTENT",
     "about.title": "About the Content",
-    "about.lead": "Eight areas of life: scam breakdowns, health evidence, social scenarios, investing concepts, kitchen steps, relationship decisions, recovery after setbacks, and everyday practices. Each volume can be searched, collapsed and skimmed.",
+    "about.lead": "Fourteen areas of life: scams, health evidence, social situations, legal rights, emergencies, emotions, focus, family, travel and more. Each volume can be searched, collapsed and skimmed.",
     "about.why.title": "How It's Organized",
     "about.why.en": "HOW IT IS ORGANIZED",
     "about.why1.no": "01 / Topics",
@@ -78,7 +79,7 @@
     "about.deploy.github.1": "Source Select GitHub Actions.",
     "about.deploy.github.2": "The warehouse already comes with .github/workflows/deploy.yml, so there is no need to create another file.",
     "about.deploy.github.3": "Push the code once and publish it to https://<username>.github.io/<warehouse name>/.",
-    "about.notice": "To update content: rerun the matching script in scripts/extract/, then run bun scripts/translate-content.ts for English.",
+    "about.notice": "Content is organized by topic, available in Simplified Chinese and English, and continuously updated.",
     "closing2.eyebrow": "THE END OF THE COLLECTION",
     "closing2.line": "No standard answers here.\nJust pitfalls others hit, numbers they calculated and steps written down clearly.",
     "closing2.link": "Back to directory",
@@ -99,7 +100,7 @@
     "content.loadError": "Content loading failed, please refresh and try again.",
     "about.license.title": "Content Sources and Licensing",
     "about.license.en": "SOURCES & LICENSES",
-    "about.license.lead": "Permits vary. Six volumes reproduce the original text; the other two were rewritten by topic without copying the original wording.",
+    "about.license.lead": "Most topics reproduce the original text; restricted topics were rewritten by theme without copying the original wording.",
     "about.license.full": "Original text",
     "about.license.index": "Rewritten by topic",
     "content.indexOnly": "This project's license does not allow full public republication; only a guide and a link to the original are provided here."
@@ -932,6 +933,54 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Law & Rights",
+      "en": "LAW & RIGHTS",
+      "desc": "Basic rights and actions in employment, renting, consumer disputes, lending and family affairs.",
+      "longDesc": "Common legal issues by life scenario: keep evidence first, follow the process, and know what to fight for and what to avoid.",
+      "sourceName": "Compiled here",
+      "principles": []
+    },
+    {
+      "name": "Emergency & Safety",
+      "en": "EMERGENCY & SAFETY",
+      "desc": "First response, common accidents, health emergencies and household preparedness.",
+      "longDesc": "Call for help first, protect yourself before helping others. Each entry is written as a memorable sequence of actions.",
+      "sourceName": "Compiled here",
+      "principles": []
+    },
+    {
+      "name": "Mind & Emotions",
+      "en": "MIND & EMOTIONS",
+      "desc": "Recognizing emotions, daily regulation, low periods and seeking support.",
+      "longDesc": "Separate feelings, facts and thoughts; recover rhythm with small actions; recognize signs that professional help is needed.",
+      "sourceName": "Compiled here",
+      "principles": []
+    },
+    {
+      "name": "Focus & Tools",
+      "en": "FOCUS & TOOLS",
+      "desc": "Lightweight methods for tasks, notes, tools and personal energy.",
+      "longDesc": "Fewer tool switches, more records; use lists to free attention and reviews instead of self-blame.",
+      "sourceName": "Compiled here",
+      "principles": []
+    },
+    {
+      "name": "Family & Care",
+      "en": "FAMILY & CARE",
+      "desc": "Care basics, growth and education, household collaboration and safety preparation.",
+      "longDesc": "From infant care to elder support, make invisible household work and boundaries explicit.",
+      "sourceName": "Compiled here",
+      "principles": []
+    },
+    {
+      "name": "Travel & Mobility",
+      "en": "TRAVEL & MOBILITY",
+      "desc": "Preparation, safety on the road, health emergencies and post-trip review.",
+      "longDesc": "Documents, valuables, payments and emergency contacts are the basics; leave room in the itinerary for surprises.",
+      "sourceName": "Compiled here",
+      "principles": []
     }
   ],
   "references": [

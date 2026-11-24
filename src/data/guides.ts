@@ -1,3 +1,4 @@
+import { extraGuides } from './extraGuides'
 export interface Principle {
   title: string
   core: string
@@ -726,6 +727,7 @@ export const guides: Guide[] = [
       },
     ],
   },
+  ...extraGuides,
 ]
 
 export const totalPrinciples = guides.reduce(

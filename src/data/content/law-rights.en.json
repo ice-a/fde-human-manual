@@ -1,0 +1,1000 @@
+{
+  "slug": "law-rights",
+  "sections": [
+    {
+      "title": "Labor and work",
+      "items": [
+        {
+          "id": "law-rights-0-1",
+          "title": "Employment contracts should be in writing",
+          "core": "Oral agreements are the most difficult to prove in disputes.",
+          "body": [
+            "Confirm the contract subject, position and salary before joining.",
+            "Keep a signed original copy for yourself."
+          ],
+          "tags": [
+            "Labor",
+            "Contract"
+          ]
+        },
+        {
+          "id": "law-rights-0-2",
+          "title": "The probation period is not a free period",
+          "core": "You must also sign a contract and pay wages during the probation period.",
+          "body": [
+            "Confirm the probation period length and salary ratio.",
+            "Reasons must also be given for dismissal during the probation period."
+          ],
+          "tags": [
+            "Labor",
+            "Probation period"
+          ]
+        },
+        {
+          "id": "law-rights-0-3",
+          "title": "Overtime work must be recorded",
+          "core": "Without records, it is difficult to claim overtime pay.",
+          "body": [
+            "Save schedule, clock-in and communication records.",
+            "Confirm the calculation method of overtime pay or compensated time off."
+          ],
+          "tags": [
+            "Labor",
+            "Overtime"
+          ]
+        },
+        {
+          "id": "law-rights-0-4",
+          "title": "Resignation certificate is required",
+          "core": "It will affect the entry into the next job.",
+          "body": [
+            "Request a certificate of termination when resigning.",
+            "Confirm social security and file transfer."
+          ],
+          "tags": [
+            "Labor",
+            "Resignation"
+          ]
+        },
+        {
+          "id": "law-rights-0-5",
+          "title": "Try to keep paying social security as much as possible",
+          "core": "Stop paying will affect your medical and home purchase qualifications.",
+          "body": [
+            "Learn about the backpayment rules when changing jobs.",
+            "Keep payment records for future reference."
+          ],
+          "tags": [
+            "Social Security",
+            "Rights"
+          ]
+        },
+        {
+          "id": "law-rights-0-6",
+          "title": "The salary slip must be checked item by item",
+          "core": "The salary slip is the basis for checking social security and personal income tax.",
+          "body": [
+            "Reconfirm base salary, performance and deductions.",
+            "Report in the month when the abnormality is discovered."
+          ],
+          "tags": [
+            "Labor",
+            "Salary"
+          ]
+        },
+        {
+          "id": "law-rights-0-7",
+          "title": "Keep your own copy of the attendance record",
+          "core": "Company records may not be complete when a dispute occurs.",
+          "body": [
+            "Save punch-in screenshots and shift notifications.",
+            "Please leave as much text as possible when approving overtime work."
+          ],
+          "tags": [
+            "Labor",
+            "Evidence"
+          ]
+        },
+        {
+          "id": "law-rights-0-8",
+          "title": "Position transfer requires negotiation between both parties",
+          "core": "The position is part of the contract.",
+          "body": [
+            "Confirm the salary and location after the transfer.",
+            "Express in writing if you disagree."
+          ],
+          "tags": [
+            "Labor",
+            "Job transfer"
+          ]
+        },
+        {
+          "id": "law-rights-0-9",
+          "title": "The performance system must be transparent",
+          "core": "The assessment standards should be clear in advance.",
+          "body": [
+            "Ask for the assessment methods and weights.",
+            "Keep target confirmation records."
+          ],
+          "tags": [
+            "Labor",
+            "Performance"
+          ]
+        },
+        {
+          "id": "law-rights-0-10",
+          "title": "Clear the cost during the training service period",
+          "core": "There is an upper limit on liquidated damages during the service period.",
+          "body": [
+            "Confirm training costs and allocation rules.",
+            "Calculate the cost of early resignation before signing."
+          ],
+          "tags": [
+            "Labor",
+            "Training"
+          ]
+        },
+        {
+          "id": "law-rights-0-11",
+          "title": "Compensation should be paid for non-compete restrictions",
+          "core": "Compensation should be paid for restrictions on employment.",
+          "body": [
+            "Confirm scope and deadline.",
+            "Unpaid compensation can be claimed for termination."
+          ],
+          "tags": [
+            "Labor",
+            "Competition"
+          ]
+        },
+        {
+          "id": "law-rights-0-12",
+          "title": "Annual leave is calculated based on accumulated service years",
+          "core": "The number of vacation days is related to the service years.",
+          "body": [
+            "Confirm the number of days of leave due.",
+            "Untaken annual leave will be compensated at a discount."
+          ],
+          "tags": [
+            "Labor",
+            "Vacation"
+          ]
+        },
+        {
+          "id": "law-rights-0-13",
+          "title": "Sick leave requires compliance certificate",
+          "core": "The form of the certificate affects wages and benefits.",
+          "body": [
+            "Provide diagnostic materials as required by the company.",
+            "Understand sick pay standards."
+          ],
+          "tags": [
+            "Labor",
+            "Sick leave"
+          ]
+        },
+        {
+          "id": "law-rights-0-14",
+          "title": "Rights and interests during pregnancy are protected",
+          "core": "Salary cannot be reduced or dismissed due to pregnancy.",
+          "body": [
+            "Keep records of pregnancy check-ups.",
+            "Learn about maternity leave and breastfeeding time."
+          ],
+          "tags": [
+            "Labor",
+            "Rights"
+          ]
+        },
+        {
+          "id": "law-rights-0-15",
+          "title": "The collective contract covers all members",
+          "core": "The contract signed by the labor union is valid for all employees.",
+          "body": [
+            "Learn whether the position is suitable for you.",
+            "Individual contracts must not be lower than collective standards."
+          ],
+          "tags": [
+            "Labor",
+            "Contract"
+          ]
+        },
+        {
+          "id": "law-rights-0-16",
+          "title": "Probation must be provided for dismissal during the probationary period",
+          "core": "Cannot be terminated arbitrarily on the grounds of inappropriateness.",
+          "body": [
+            "Ask for specific reasons.",
+            "If the reason is not established, you can apply for arbitration."
+          ],
+          "tags": [
+            "Labor",
+            "Probation period"
+          ]
+        },
+        {
+          "id": "law-rights-0-17",
+          "title": "You can complain about wage arrears",
+          "core": "There is a clear time limit for wage payment.",
+          "body": [
+            "Use the warning first and keep records.",
+            "Report to the labor inspection."
+          ],
+          "tags": [
+            "Labor",
+            "Salary"
+          ]
+        },
+        {
+          "id": "law-rights-0-18",
+          "title": "Labor disputes must be negotiated first and then arbitrated",
+          "core": "Only by clear procedures can we avoid detours.",
+          "body": [
+            "Organize evidence and timeline.",
+            "Pay attention to the arbitration statute of limitations."
+          ],
+          "tags": [
+            "Labor",
+            "Arbitration"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Residence and Consumption",
+      "items": [
+        {
+          "id": "law-rights-1-1",
+          "title": "Look at the rental contract item by item",
+          "core": "Before signing, there is negotiation, and after signing, there is fulfillment.",
+          "body": [
+            "Confirm the rent, deposit, maintenance responsibility and return conditions.",
+            "Write verbal promises into supplementary terms."
+          ],
+          "tags": [
+            "Rent a house",
+            "Contract"
+          ]
+        },
+        {
+          "id": "law-rights-1-2",
+          "title": "Keep evidence of deposit return",
+          "core": "The status at check-in determines the dispute when checking out.",
+          "body": [
+            "We will take photos and videos during check-in and check-out.",
+            "Both parties sign the handover list."
+          ],
+          "tags": [
+            "Rent a house",
+            "Evidence"
+          ]
+        },
+        {
+          "id": "law-rights-1-3",
+          "title": "Consumption vouchers must be kept",
+          "core": "Invoices and orders are the basis for rights protection.",
+          "body": [
+            "Request an invoice for large purchases.",
+            "Save the product description and commitment page."
+          ],
+          "tags": [
+            "Consumption",
+            "Rights Protection"
+          ]
+        },
+        {
+          "id": "law-rights-1-4",
+          "title": "Online shopping for seven days without any reason or conditions",
+          "core": "Customized, fresh and unpacked audio and video products are usually not applicable.",
+          "body": [
+            "Confirm if the product is an exception.",
+            "Keep the item in good condition and retain the packaging."
+          ],
+          "tags": [
+            "Online shopping",
+            "Rights"
+          ]
+        },
+        {
+          "id": "law-rights-1-5",
+          "title": "You can claim compensation if you encounter counterfeit goods",
+          "core": "Preserving evidence is more effective than arguing on the spot.",
+          "body": [
+            "First fix the product and promotion pages.",
+            "Complain through the platform or regulatory authorities."
+          ],
+          "tags": [
+            "Consumption",
+            "Rights Protection"
+          ]
+        },
+        {
+          "id": "law-rights-1-6",
+          "title": "Verify property rights first",
+          "core": "Not all lessors have the right to rent.",
+          "body": [
+            "Check the property title certificate and ID card.",
+            "Confirm whether there is a mortgage or seizure."
+          ],
+          "tags": [
+            "Rent a house",
+            "Verification"
+          ]
+        },
+        {
+          "id": "law-rights-1-7",
+          "title": "Who pays the agency fee must be clearly stated",
+          "core": "Oral agreements are the most likely to cause disputes.",
+          "body": [
+            "Confirm the amount and payer.",
+            "The service content is written into the contract."
+          ],
+          "tags": [
+            "Rent a house",
+            "Expenses"
+          ]
+        },
+        {
+          "id": "law-rights-1-8",
+          "title": "Subletting requires the landlord’s consent",
+          "core": "Subletting without authorization may result in the termination of the contract.",
+          "body": [
+            "Obtain written consent.",
+            "Confirm new tenant responsibilities."
+          ],
+          "tags": [
+            "Rent a house",
+            "Contract"
+          ]
+        },
+        {
+          "id": "law-rights-1-9",
+          "title": "Maintenance responsibilities should be divided",
+          "core": "Natural loss and man-made damage are different.",
+          "body": [
+            "Record facility status upon check-in.",
+            "Agree on the repair process and the party responsible."
+          ],
+          "tags": [
+            "Rent a house",
+            "Maintenance"
+          ]
+        },
+        {
+          "id": "law-rights-1-10",
+          "title": "Check the terms for early cancellation",
+          "core": "Liquidated damages are usually written in very specific terms.",
+          "body": [
+            "Confirm notification period and amount.",
+            "Try to negotiate a sublease connection."
+          ],
+          "tags": [
+            "Rent a house",
+            "Returning the lease"
+          ]
+        },
+        {
+          "id": "law-rights-1-11",
+          "title": "Confirm who pays the property fees",
+          "core": "There are hidden costs besides rent.",
+          "body": [
+            "List water, electricity, gas and property.",
+            "Settlement of old accounts at handover."
+          ],
+          "tags": [
+            "Rent a house",
+            "Expenses"
+          ]
+        },
+        {
+          "id": "law-rights-1-12",
+          "title": "Contact a dealer during the warranty period",
+          "core": "Do not pay for repairs yourself first.",
+          "body": [
+            "Keep proof of purchase.",
+            "Apply for service according to warranty terms."
+          ],
+          "tags": [
+            "Consumption",
+            "Warranty"
+          ]
+        },
+        {
+          "id": "law-rights-1-13",
+          "title": "Be careful with prepayment",
+          "core": "The merchant may close after recharging.",
+          "body": [
+            "Choose short-term small amount.",
+            "Keep contracts and payment records."
+          ],
+          "tags": [
+            "Consumption",
+            "Risk"
+          ]
+        },
+        {
+          "id": "law-rights-1-14",
+          "title": "The deposit is different from the deposit",
+          "core": "One can be forfeited and the other can be refunded.",
+          "body": [
+            "Confirm the wording before signing.",
+            "Written contracts are used for large transactions."
+          ],
+          "tags": [
+            "Consumption",
+            "Contract"
+          ]
+        },
+        {
+          "id": "law-rights-1-15",
+          "title": "Price fraud can be complained",
+          "core": "It is illegal to make up the original price.",
+          "body": [
+            "Screenshot promotion page.",
+            "Report to the platform or regulatory authorities."
+          ],
+          "tags": [
+            "Consumption",
+            "Rights Protection"
+          ]
+        },
+        {
+          "id": "law-rights-1-16",
+          "title": "Secure the evidence before taking out foreign objects",
+          "core": "Photography is more effective than arguing.",
+          "body": [
+            "Keep the actual product and packaging.",
+            "Apply for processing through the platform."
+          ],
+          "tags": [
+            "Consumption",
+            "Evidence"
+          ]
+        },
+        {
+          "id": "law-rights-1-17",
+          "title": "Check the details of the travel contract",
+          "core": "Itinerary, accommodation, cancellations and changes must be clear.",
+          "body": [
+            "Confirm self-funded items and shopping arrangements.",
+            "Save the promotion page."
+          ],
+          "tags": [
+            "Travel",
+            "Contract"
+          ]
+        },
+        {
+          "id": "law-rights-1-18",
+          "title": "After-sales promises are written down",
+          "core": "Oral promises are difficult to fulfill.",
+          "body": [
+            "Ask the other person to confirm in the chat.",
+            "Save the screenshot of the promise."
+          ],
+          "tags": [
+            "Consumption",
+            "Evidence"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Finance and Disputes",
+      "items": [
+        {
+          "id": "law-rights-2-1",
+          "title": "The elements of the IOU must be complete",
+          "core": "Clearness is more important than politeness.",
+          "body": [
+            "Indicate the amount, term, interest and identity information.",
+            "Keep the transfer voucher."
+          ],
+          "tags": [
+            "Lending",
+            "Evidence"
+          ]
+        },
+        {
+          "id": "law-rights-2-2",
+          "title": "Be extra careful with guarantees",
+          "core": "Guarantee means repaying someone else’s debt.",
+          "body": [
+            "See clearly whether it is a general warranty or joint and several liability.",
+            "Don’t sign if you’re not sure."
+          ],
+          "tags": [
+            "Guarantee",
+            "Risk"
+          ]
+        },
+        {
+          "id": "law-rights-2-3",
+          "title": "Private lending interest rates are capped",
+          "core": "The excess may not be protected.",
+          "body": [
+            "Check the current judicial protection limit.",
+            "Record the repaid amounts one by one."
+          ],
+          "tags": [
+            "Lending",
+            "Interest rate"
+          ]
+        },
+        {
+          "id": "law-rights-2-4",
+          "title": "Verify first when facing debt collection",
+          "core": "Confirm the authenticity of the debt and the identity of the debt collector.",
+          "body": [
+            "Require the other party to provide proof of creditor's rights.",
+            "Keep call and text message records."
+          ],
+          "tags": [
+            "Debt",
+            "Collection"
+          ]
+        },
+        {
+          "id": "law-rights-2-5",
+          "title": "Don’t miss the statute of limitations",
+          "core": "Rights need to be asserted in a timely manner.",
+          "body": [
+            "Note the time your rights were violated.",
+            "Course or sue within the statute of limitations."
+          ],
+          "tags": [
+            "Litigation",
+            "Limitation"
+          ]
+        },
+        {
+          "id": "law-rights-2-6",
+          "title": "Purpose of writing transfer notes",
+          "core": "Remarks can help restore the loan relationship.",
+          "body": [
+            "Indicate the nature of the loan and repayment.",
+            "Avoid forwarding without leaving a message."
+          ],
+          "tags": [
+            "Lending",
+            "Evidence"
+          ]
+        },
+        {
+          "id": "law-rights-2-7",
+          "title": "Joint borrowing should be specified",
+          "core": "Whoever lends it must write clearly.",
+          "body": [
+            "Confirm the identity of the debtor.",
+            "The guarantor shall state separately."
+          ],
+          "tags": [
+            "Lending",
+            "Contract"
+          ]
+        },
+        {
+          "id": "law-rights-2-8",
+          "title": "The total cost of installments must be calculated",
+          "core": "Low interest rates do not equal low fees.",
+          "body": [
+            "Calculate the handling fee into the annualized cost.",
+            "Compare lump sum repayment plans."
+          ],
+          "tags": [
+            "Lending",
+            "Cost"
+          ]
+        },
+        {
+          "id": "law-rights-2-9",
+          "title": "Lending platforms look at qualifications",
+          "core": "The risk of non-compliant platforms is extremely high.",
+          "body": [
+            "Verify the filing and subject information.",
+            "Do not make payments to unfamiliar accounts."
+          ],
+          "tags": [
+            "Lending",
+            "Risk"
+          ]
+        },
+        {
+          "id": "law-rights-2-10",
+          "title": "Debt restructuring must be in writing",
+          "core": "Oral extensions are easy to repeat.",
+          "body": [
+            "Indicate the new term and amount.",
+            "Keep the repayment voucher."
+          ],
+          "tags": [
+            "Debt",
+            "Agreement"
+          ]
+        },
+        {
+          "id": "law-rights-2-11",
+          "title": "There is a time limit for enforcement",
+          "core": "You must apply in time after the judgment takes effect.",
+          "body": [
+            "Record effective date.",
+            "Understand the property inspection and control process."
+          ],
+          "tags": [
+            "Litigation",
+            "Execute"
+          ]
+        },
+        {
+          "id": "law-rights-2-12",
+          "title": "Understand the threshold of property preservation",
+          "core": "Prevent the other party from transferring assets.",
+          "body": [
+            "Prepare preliminary evidence.",
+            "Understand the warranty requirements."
+          ],
+          "tags": [
+            "Litigation",
+            "Preservation"
+          ]
+        },
+        {
+          "id": "law-rights-2-13",
+          "title": "Small claims litigation is more time-saving",
+          "core": "The process is simplified when the subject matter is small.",
+          "body": [
+            "Confirm if applicable.",
+            "Prepare complete evidence."
+          ],
+          "tags": [
+            "Litigation",
+            "Process"
+          ]
+        },
+        {
+          "id": "law-rights-2-14",
+          "title": "The chain of evidence must be complete",
+          "core": "Isolated screenshots have limited proving power.",
+          "body": [
+            "Keep the original vector.",
+            "Arranged in chronological order."
+          ],
+          "tags": [
+            "Evidence",
+            "Organizing"
+          ]
+        },
+        {
+          "id": "law-rights-2-15",
+          "title": "Recording evidence must be obtained legally",
+          "core": "A recording that infringes on the privacy of others may be invalid.",
+          "body": [
+            "Record conversation background and identity.",
+            "Keep the original file."
+          ],
+          "tags": [
+            "Evidence",
+            "Recordings"
+          ]
+        },
+        {
+          "id": "law-rights-2-16",
+          "title": "Do not delete chat records",
+          "core": "They may become key evidence in the future.",
+          "body": [
+            "Back up important conversations.",
+            "Keep the account and original device."
+          ],
+          "tags": [
+            "Evidence",
+            "Record"
+          ]
+        },
+        {
+          "id": "law-rights-2-17",
+          "title": "A reminder can interrupt the statute of limitations",
+          "core": "It is important to assert your rights in a timely manner.",
+          "body": [
+            "Use a traceable method to warn.",
+            "Save proof of delivery."
+          ],
+          "tags": [
+            "Litigation",
+            "Limitation"
+          ]
+        },
+        {
+          "id": "law-rights-2-18",
+          "title": "The mediation agreement must be signed",
+          "core": "The mediation results are also binding.",
+          "body": [
+            "Clear the performance deadline.",
+            "Apply for judicial confirmation when necessary."
+          ],
+          "tags": [
+            "Mediation",
+            "Agreement"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Person and Family",
+      "items": [
+        {
+          "id": "law-rights-3-1",
+          "title": "Secure evidence at the accident scene first",
+          "core": "Taking pictures and calling the police is more useful than arguing.",
+          "body": [
+            "The shooting scene, license plate and injury.",
+            "Call the police promptly and obtain accident identification."
+          ],
+          "tags": [
+            "Accident",
+            "Evidence"
+          ]
+        },
+        {
+          "id": "law-rights-3-2",
+          "title": "There is a time limit for work-related injury recognition",
+          "core": "The earlier you apply, the easier it is to verify.",
+          "body": [
+            "Preserve evidence of labor relations and injuries.",
+            "Submit the application within the specified time."
+          ],
+          "tags": [
+            "Work injury",
+            "Time limit"
+          ]
+        },
+        {
+          "id": "law-rights-3-3",
+          "title": "There is a time limit for labor arbitration",
+          "core": "Labor disputes cannot be applied for indefinitely.",
+          "body": [
+            "The calculation starts from the time when you know that your rights have been infringed.",
+            "Try to negotiate first but don’t push past the deadline."
+          ],
+          "tags": [
+            "Labor",
+            "Arbitration"
+          ]
+        },
+        {
+          "id": "law-rights-3-4",
+          "title": "You can file a complaint if personal information is leaked",
+          "core": "Reserve the right to claim evidence of leakage.",
+          "body": [
+            "Screenshots of leaked pages and propagation paths.",
+            "Report to the platform or regulatory authorities."
+          ],
+          "tags": [
+            "Privacy",
+            "Rights Protection"
+          ]
+        },
+        {
+          "id": "law-rights-3-5",
+          "title": "Likeness and voice cannot be misused",
+          "core": "Commercial use usually requires personal consent.",
+          "body": [
+            "Get evidence first if you find theft.",
+            "Request the platform to be removed from the shelves and reserve the right to pursue liability."
+          ],
+          "tags": [
+            "Personality rights",
+            "Rights Protection"
+          ]
+        },
+        {
+          "id": "law-rights-3-6",
+          "title": "Marriage property can be agreed upon",
+          "core": "Clear agreement can reduce future disputes.",
+          "body": [
+            "Distinguish between pre-marital and post-marital property.",
+            "Important agreements shall be in writing."
+          ],
+          "tags": [
+            "Family",
+            "Property"
+          ]
+        },
+        {
+          "id": "law-rights-3-7",
+          "title": "Inheritance procedures must be completed according to procedures",
+          "core": "Only with complete materials can the transfer be completed smoothly.",
+          "body": [
+            "Confirm the scope of will or legal heirs.",
+            "Prepare death certificate and kinship documents."
+          ],
+          "tags": [
+            "Inheritance",
+            "Procedure"
+          ]
+        },
+        {
+          "id": "law-rights-3-8",
+          "title": "Find professional help when needed",
+          "core": "Complex problems are not suitable for searching alone.",
+          "body": [
+            "Learn about legal aid channels.",
+            "Bring complete materials when consulting."
+          ],
+          "tags": [
+            "Ask for help",
+            "Professional"
+          ]
+        },
+        {
+          "id": "law-rights-3-9",
+          "title": "Keep your ID number safe",
+          "core": "Leakage of identity information will cause trouble.",
+          "body": [
+            "Do not take photos and send them out at will.",
+            "Mark the purpose of the copy."
+          ],
+          "tags": [
+            "Privacy",
+            "Safety"
+          ]
+        },
+        {
+          "id": "law-rights-3-10",
+          "title": "Personal information is only given to the necessary scope",
+          "core": "Excessive collection can be rejected.",
+          "body": [
+            "Ask for usage and shelf life.",
+            "Reject information not related to business."
+          ],
+          "tags": [
+            "Privacy",
+            "Boundary"
+          ]
+        },
+        {
+          "id": "law-rights-3-11",
+          "title": "Permission required for use of portrait",
+          "core": "Commercial use usually requires consent.",
+          "body": [
+            "Get evidence first if you find theft.",
+            "Request removal and reserve the right to pursue liability."
+          ],
+          "tags": [
+            "Personality rights",
+            "Rights Protection"
+          ]
+        },
+        {
+          "id": "law-rights-3-12",
+          "title": "Get evidence first if your reputation is damaged",
+          "core": "Save screenshots and links.",
+          "body": [
+            "Record the publishing time and account number.",
+            "Require the platform to take necessary measures."
+          ],
+          "tags": [
+            "Honor",
+            "Evidence"
+          ]
+        },
+        {
+          "id": "law-rights-3-13",
+          "title": "Domestic Violence Can Help",
+          "core": "This is not a family matter.",
+          "body": [
+            "Call the police and seek medical treatment promptly.",
+            "Preserve evidence of injuries and recordings."
+          ],
+          "tags": [
+            "Personal",
+            "Ask for help"
+          ]
+        },
+        {
+          "id": "law-rights-3-14",
+          "title": "Understand the process of personal safety protection order",
+          "core": "You can apply when there is actual danger.",
+          "body": [
+            "Prepare dangerous evidence.",
+            "Make an application to the court."
+          ],
+          "tags": [
+            "Personal",
+            "Protection"
+          ]
+        },
+        {
+          "id": "law-rights-3-15",
+          "title": "Guardianship responsibilities have boundaries",
+          "core": "Guardianship does not mean arbitrary disposal of property.",
+          "body": [
+            "Act in the interests of the ward.",
+            "Leave records of major punishments."
+          ],
+          "tags": [
+            "Family",
+            "Responsibility"
+          ]
+        },
+        {
+          "id": "law-rights-3-16",
+          "title": "Adoption must be handled according to procedures",
+          "core": "There are legal risks in private adoption.",
+          "body": [
+            "Confirm whether you meet the conditions.",
+            "Apply through the civil affairs department."
+          ],
+          "tags": [
+            "Family",
+            "Procedure"
+          ]
+        },
+        {
+          "id": "law-rights-3-17",
+          "title": "Pre-marital property can be stipulated",
+          "core": "Clearly agreed upon to reduce future disputes.",
+          "body": [
+            "Distinguish between pre-marital and post-marital property.",
+            "In writing."
+          ],
+          "tags": [
+            "Marriage",
+            "Property"
+          ]
+        },
+        {
+          "id": "law-rights-3-18",
+          "title": "Use the cooling-off period in divorce",
+          "core": "to give both parties time to think about it.",
+          "body": [
+            "Sort out the focus of controversy.",
+            "Consult professionals if necessary."
+          ],
+          "tags": [
+            "Marriage",
+            "Procedure"
+          ]
+        },
+        {
+          "id": "law-rights-3-19",
+          "title": "Custody depends on the interests of the child",
+          "core": "It does not belong to whoever wants it.",
+          "body": [
+            "Prepare evidence of caregiving ability.",
+            "Respect the expression of the child's wishes."
+          ],
+          "tags": [
+            "Marriage",
+            "Children"
+          ]
+        },
+        {
+          "id": "law-rights-3-20",
+          "title": "The obligation to support cannot be exempted",
+          "core": "Parents have the right to demand necessary living expenses.",
+          "body": [
+            "Clarify the sharing method.",
+            "Keep payment records."
+          ],
+          "tags": [
+            "Family",
+            "Obligations"
+          ]
+        },
+        {
+          "id": "law-rights-3-21",
+          "title": "The form of the will must be in compliance with regulations",
+          "core": "Defects in the form may lead to invalidity.",
+          "body": [
+            "Understand the requirements for self-writing, writing on behalf of others and notarization.",
+            "Keep the originals and tell them the clues."
+          ],
+          "tags": [
+            "Inheritance",
+            "Will"
+          ]
+        }
+      ]
+    }
+  ]
+}

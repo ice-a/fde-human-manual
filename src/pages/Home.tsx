@@ -1,9 +1,11 @@
 import { GuideCard } from '../components/GuideCard'
 import { Hitokoto } from '../components/Hitokoto'
 import { useLocale } from '../context/LocaleContext'
-import { totalPrinciples } from '../data/guides'
+import { contentStats } from '../data/content'
+
 export function Home() {
   const { t, content, locale } = useLocale()
+  const totalContent = Object.values(contentStats).reduce((sum, stat) => sum + stat.count, 0)
   const steps = [
     { no: t('how.step1.no'), title: t('how.step1.title'), text: t('how.step1.text') },
     { no: t('how.step2.no'), title: t('how.step2.title'), text: t('how.step2.text') },
@@ -26,7 +28,7 @@ export function Home() {
               {content.site.name.slice(4)}
             </h1>
             <p className="hero__sub enter enter--2">
-              {content.site.en} — VOL. 01 / 08
+              {content.site.en} — VOL. 01 / 14
             </p>
             <p className="hero__slogan enter enter--3">{content.site.slogan}</p>
             <p className="hero__desc enter enter--3">{content.site.sub} {t('hero.desc')}</p>
@@ -34,13 +36,11 @@ export function Home() {
               <button type="button" className="btn" onClick={scrollToCatalog}>
                 {t('hero.cta.primary')} <span className="btn__arrow" aria-hidden="true">→</span>
               </button>
-              <a className="btn btn--ghost" href="#/about">
-                {t('hero.cta.secondary')}
-              </a>
+
             </div>
             <div className="hero__meta enter enter--4">
-              <span><strong>08</strong> {t('hero.meta.volumes')}</span>
-              <span><strong>{totalPrinciples}</strong> {t('hero.meta.principles')}</span>
+              <span><strong>14</strong> {t('hero.meta.volumes')}</span>
+              <span><strong>{totalContent}</strong> {t('hero.meta.principles')}</span>
               <span><strong>100%</strong> {t('hero.meta.opensource')}</span>
             </div>
           </div>

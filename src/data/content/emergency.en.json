@@ -1,0 +1,961 @@
+{
+  "slug": "emergency",
+  "sections": [
+    {
+      "title": "On-site disposal",
+      "items": [
+        {
+          "id": "emergency-0-1",
+          "title": "Call for help first and then rescue",
+          "core": "Professional rescue always takes priority.",
+          "body": [
+            "Describe the location, number of people and injuries.",
+            "Follow the operator’s instructions."
+          ],
+          "tags": [
+            "First aid",
+            "Process"
+          ]
+        },
+        {
+          "id": "emergency-0-2",
+          "title": "Key points of cardiopulmonary resuscitation",
+          "core": "Compression should be fast and deep, and continue until help arrives.",
+          "body": [
+            "Confirm site safety and awareness.",
+            "Compress at the standard frequency and cooperate with artificial respiration."
+          ],
+          "tags": [
+            "First aid",
+            "Cardiopulmonary"
+          ]
+        },
+        {
+          "id": "emergency-0-3",
+          "title": "Compression first to stop bleeding",
+          "core": "Most external bleeding can be controlled with direct compression.",
+          "body": [
+            "Use a clean cloth to press continuously.",
+            "For severe limb bleeding, a tourniquet may be considered and the time recorded."
+          ],
+          "tags": [
+            "First aid",
+            "Stop bleeding"
+          ]
+        },
+        {
+          "id": "emergency-0-4",
+          "title": "Cool the temperature first for burns and scalds",
+          "core": "Immediate cooling can reduce the damage.",
+          "body": [
+            "Rinse with running cold water for sufficient time.",
+            "Do not apply home remedies or prick blisters."
+          ],
+          "tags": [
+            "First aid",
+            "Burns"
+          ]
+        },
+        {
+          "id": "emergency-0-5",
+          "title": "If a foreign object is stuck in the throat, first determine",
+          "core": "whether you can cough and speak to decide what to do.",
+          "body": [
+            "Encourage coughing if you can.",
+            "In case of complete obstruction, seek help immediately and perform rescue operations according to regulations."
+          ],
+          "tags": [
+            "First aid",
+            "Suffocation"
+          ]
+        },
+        {
+          "id": "emergency-0-6",
+          "title": "先确认现场安全",
+          "core": "施救者安全是前提。",
+          "body": [
+            "Observe fire, electricity, cars and chemicals.",
+            "When in doubt, call for help first and don’t get too close."
+          ],
+          "tags": [
+            "First aid",
+            "Safety"
+          ]
+        },
+        {
+          "id": "emergency-0-7",
+          "title": "呼救说清位置和人数",
+          "core": "信息完整才能快速派出救援。",
+          "body": [
+            "Describe landmarks and floors.",
+            "Report the number and status of the injured."
+          ],
+          "tags": [
+            "First aid",
+            "呼救"
+          ]
+        },
+        {
+          "id": "emergency-0-8",
+          "title": "多人现场要分工",
+          "core": "混乱会浪费黄金时间。",
+          "body": [
+            "Designate one person to make the call.",
+            "指定一人引导救援。"
+          ],
+          "tags": [
+            "First aid",
+            "Collaboration"
+          ]
+        },
+        {
+          "id": "emergency-0-9",
+          "title": "不要随意搬动伤者",
+          "core": "脊柱损伤可能因移动加重。",
+          "body": [
+            "Unless the environment is dangerous, wait where you are.",
+            "Keep your head and neck stable."
+          ],
+          "tags": [
+            "First aid",
+            "搬运"
+          ]
+        },
+        {
+          "id": "emergency-0-10",
+          "title": "休克时平卧保暖",
+          "core": "循环不足需要减少消耗。",
+          "body": [
+            "让伤者平躺并抬高下肢。",
+            "盖好衣物等待救援。"
+          ],
+          "tags": [
+            "First aid",
+            "休克"
+          ]
+        },
+        {
+          "id": "emergency-0-11",
+          "title": "记录关键时间",
+          "core": "时间线对后续救治有用。",
+          "body": [
+            "记下发病和呼叫时间。",
+            "Inform medical staff."
+          ],
+          "tags": [
+            "First aid",
+            "Record"
+          ]
+        },
+        {
+          "id": "emergency-0-12",
+          "title": "Do not leave while waiting",
+          "core": "Injury conditions may change suddenly.",
+          "body": [
+            "持续观察呼吸和意识。",
+            "按调度员指导操作。"
+          ],
+          "tags": [
+            "First aid",
+            "Observation"
+          ]
+        },
+        {
+          "id": "emergency-0-13",
+          "title": "服从现场调度",
+          "core": "专业指挥能减少重复劳动。",
+          "body": [
+            "听从急救人员安排。",
+            "Make way for rescue."
+          ],
+          "tags": [
+            "First aid",
+            "Collaboration"
+          ]
+        },
+        {
+          "id": "emergency-0-14",
+          "title": "做好基础防护",
+          "core": "避免交叉感染。",
+          "body": [
+            "使用一次性手套或隔离物。",
+            "Wash your hands afterwards."
+          ],
+          "tags": [
+            "First aid",
+            "Protection"
+          ]
+        },
+        {
+          "id": "emergency-0-15",
+          "title": "Evacuate the crowd of onlookers",
+          "core": "Onlookers will hinder rescue.",
+          "body": [
+            "Please ask irrelevant personnel to leave.",
+            "保持通道畅通。"
+          ],
+          "tags": [
+            "First aid",
+            "Scene"
+          ]
+        },
+        {
+          "id": "emergency-0-16",
+          "title": "Protect the privacy of the injured",
+          "core": "It is not suitable to shoot and disseminate the scene.",
+          "body": [
+            "不随意拍视频。",
+            "避免议论伤情。"
+          ],
+          "tags": [
+            "First aid",
+            "Privacy"
+          ]
+        },
+        {
+          "id": "emergency-0-17",
+          "title": "Explain the process when handing over",
+          "core": "Complete handover of information is more conducive to treatment.",
+          "body": [
+            "Describe what happened and what was done.",
+            "Hand over the records and time points."
+          ],
+          "tags": [
+            "First aid",
+            "Handover"
+          ]
+        },
+        {
+          "id": "emergency-0-18",
+          "title": "Make psychological adjustments afterwards",
+          "core": "Witnessing an accident will have an impact.",
+          "body": [
+            "Talk to someone you trust.",
+            "Seek help if you continue to feel unwell."
+          ],
+          "tags": [
+            "First aid",
+            "Psychology"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Common accidents",
+      "items": [
+        {
+          "id": "emergency-1-1",
+          "title": "Ensure your own safety before drowning rescue",
+          "core": "Don’t blindly go into the water if you don’t know how to swim.",
+          "body": [
+            "Toss a float or call first.",
+            "Check your breathing and keep warm when you get ashore."
+          ],
+          "tags": [
+            "Drowning",
+            "Safety"
+          ]
+        },
+        {
+          "id": "emergency-1-2",
+          "title": "Turn off the power first if you get an electric shock",
+          "core": "It is dangerous to approach when it is electrified.",
+          "body": [
+            "Cut off the power supply or separate it with insulation.",
+            "Check your breathing and seek medical attention as soon as possible."
+          ],
+          "tags": [
+            "Electric shock",
+            "Safety"
+          ]
+        },
+        {
+          "id": "emergency-1-3",
+          "title": "Escape from fire by walking low and fast",
+          "core": "Dense smoke is more deadly than fire.",
+          "body": [
+            "Cover your mouth and nose with a wet cloth and look for an exit along the wall.",
+            "Do not take the elevator or return to pick up items."
+          ],
+          "tags": [
+            "Fire",
+            "Escape"
+          ]
+        },
+        {
+          "id": "emergency-1-4",
+          "title": "Aim the fire extinguisher at the root",
+          "core": "Pull out the pin, aim, press, and shoot.",
+          "body": [
+            "Stand upwind.",
+            "Evacuate immediately as the fire expands."
+          ],
+          "tags": [
+            "Fire",
+            "Equipment"
+          ]
+        },
+        {
+          "id": "emergency-1-5",
+          "title": "Protect your head first during an earthquake",
+          "core": "Don't run in a hurry until the shaking stops.",
+          "body": [
+            "Hide next to a solid bunker.",
+            "Take the stairs when evacuating."
+          ],
+          "tags": [
+            "Earthquakes",
+            "Danger avoidance"
+          ]
+        },
+        {
+          "id": "emergency-1-6",
+          "title": "Clean small cuts first",
+          "core": "清洁比止血药更重要。",
+          "body": [
+            "用清水冲洗伤口。",
+            "Cover with sterile dressing."
+          ],
+          "tags": [
+            "Accident",
+            "Trauma"
+          ]
+        },
+        {
+          "id": "emergency-1-7",
+          "title": "Cold compress first for sprain",
+          "core": "Hot compress will aggravate swelling in the acute stage.",
+          "body": [
+            "冰敷并抬高肢体。",
+            "Avoid rubbing immediately."
+          ],
+          "tags": [
+            "Accident",
+            "Sprain"
+          ]
+        },
+        {
+          "id": "emergency-1-8",
+          "title": "Do not rub foreign objects in the eyes",
+          "core": "Rubbing may scratch the cornea.",
+          "body": [
+            "用清水轻轻冲洗。",
+            "嵌入异物立即就医。"
+          ],
+          "tags": [
+            "Accident",
+            "Eye"
+          ]
+        },
+        {
+          "id": "emergency-1-9",
+          "title": "Chemical Burns Flush Plenty",
+          "core": "Dilution and flushing are key.",
+          "body": [
+            "持续用流动清水冲洗。",
+            "脱去污染衣物并就医。"
+          ],
+          "tags": [
+            "Accident",
+            "Chemistry"
+          ]
+        },
+        {
+          "id": "emergency-1-10",
+          "title": "预防窒息",
+          "core": "进食时避免说笑打闹。",
+          "body": [
+            "老人儿童进食要慢。",
+            "学会基本急救方法。"
+          ],
+          "tags": [
+            "Accident",
+            "Suffocation"
+          ]
+        },
+        {
+          "id": "emergency-1-11",
+          "title": "防坠落措施",
+          "core": "高处作业要固定。",
+          "body": [
+            "使用合格防护设备。",
+            "不在无防护处探身。"
+          ],
+          "tags": [
+            "Accident",
+            "Fall"
+          ]
+        },
+        {
+          "id": "emergency-1-12",
+          "title": "Observe first after falling",
+          "core": "Getting up immediately may aggravate the injury.",
+          "body": [
+            "感受疼痛部位和活动能力。",
+            "怀疑骨折时保持不动。"
+          ],
+          "tags": [
+            "Accident",
+            "Fall"
+          ]
+        },
+        {
+          "id": "emergency-1-13",
+          "title": "If the baby chokes on milk, he should lie on his side",
+          "core": "to prevent the milk from being inhaled again.",
+          "body": [
+            "A pat on the back.",
+            "脸色异常立即就医。"
+          ],
+          "tags": [
+            "Accident",
+            "Infants and young children"
+          ]
+        },
+        {
+          "id": "emergency-1-14",
+          "title": "Flush pet bites",
+          "core": "There is a time limit for post-exposure treatment of rabies.",
+          "body": [
+            "用肥皂水和清水冲洗。",
+            "尽快就医评估疫苗。"
+          ],
+          "tags": [
+            "Accident",
+            "Animals"
+          ]
+        },
+        {
+          "id": "emergency-1-15",
+          "title": "Observe allergies after bee stings",
+          "core": "Most local reactions can be treated by yourself.",
+          "body": [
+            "拔出毒刺并冷敷。",
+            "出现全身症状立即就医。"
+          ],
+          "tags": [
+            "Accident",
+            "Insects"
+          ]
+        },
+        {
+          "id": "emergency-1-16",
+          "title": "Reduced activity after a snake bite",
+          "core": "Slow down the spread of toxins.",
+          "body": [
+            "保持肢体低于心脏。",
+            "记录蛇的特征并就医。"
+          ],
+          "tags": [
+            "Accident",
+            "Snake bite"
+          ]
+        },
+        {
+          "id": "emergency-1-17",
+          "title": "Rewarm frostbite slowly",
+          "core": "Rapid heating can cause damage.",
+          "body": [
+            "Soak in warm water.",
+            "不要摩擦受冻部位。"
+          ],
+          "tags": [
+            "Accident",
+            "Low temperature"
+          ]
+        },
+        {
+          "id": "emergency-1-18",
+          "title": "Prevention is the key to drowning",
+          "core": "Rescue is much more difficult than prevention.",
+          "body": [
+            "Do not go to unsafe waters.",
+            "Full care for children during swimming."
+          ],
+          "tags": [
+            "Accident",
+            "Drowning"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Health emergencies",
+      "items": [
+        {
+          "id": "emergency-2-1",
+          "title": "Move to a cool place first for heat stroke",
+          "core": "Cooling is the first priority.",
+          "body": [
+            "Hydrate and loosen clothes.",
+            "Send medical attention immediately if you have abnormal consciousness."
+          ],
+          "tags": [
+            "Heatstroke",
+            "Dealing with"
+          ]
+        },
+        {
+          "id": "emergency-2-2",
+          "title": "Hypoglycemia requires quick sugar replenishment",
+          "core": "Delay can damage the brain.",
+          "body": [
+            "Ingest sugar as soon as you can swallow it.",
+            "Do not force feed when unconscious."
+          ],
+          "tags": [
+            "Hypoglycemia",
+            "Dealing with"
+          ]
+        },
+        {
+          "id": "emergency-2-3",
+          "title": "Severe allergies require immediate help",
+          "core": "Laryngeal edema progresses quickly.",
+          "body": [
+            "Use your medication as directed by your doctor.",
+            "Call the emergency number and explain your allergy history."
+          ],
+          "tags": [
+            "Allergy",
+            "First aid"
+          ]
+        },
+        {
+          "id": "emergency-2-4",
+          "title": "Fix suspected fractures first",
+          "core": "Moving may cause secondary injuries.",
+          "body": [
+            "Use splint or alternative to fix.",
+            "Apply ice and seek medical attention as soon as possible."
+          ],
+          "tags": [
+            "Broken bones",
+            "Dealing with"
+          ]
+        },
+        {
+          "id": "emergency-2-5",
+          "title": "Observe for head impacts",
+          "core": "Delayed symptoms can easily be ignored.",
+          "body": [
+            "Pay attention to changes in consciousness, vomiting, and pupils.",
+            "Seek medical attention immediately if warning signs appear."
+          ],
+          "tags": [
+            "Head",
+            "Observation"
+          ]
+        },
+        {
+          "id": "emergency-2-6",
+          "title": "Be wary of heart problems if you have chest pain",
+          "core": "Don’t endure persistent chest pain.",
+          "body": [
+            "Stop activity and call emergency services.",
+            "Record the onset time and triggers."
+          ],
+          "tags": [
+            "Health",
+            "Chest Pain"
+          ]
+        },
+        {
+          "id": "emergency-2-7",
+          "title": "Recognizing Signs of Stroke",
+          "core": "Facial paralysis, arm weakness, difficulty speaking.",
+          "body": [
+            "Record the time of symptom onset.",
+            "Call emergency services immediately."
+          ],
+          "tags": [
+            "Health",
+            "Stroke"
+          ]
+        },
+        {
+          "id": "emergency-2-8",
+          "title": "Protect your head during convulsions",
+          "core": "Do not forcefully press the limbs.",
+          "body": [
+            "Remove dangerous objects around you.",
+            "记录持续时间。"
+          ],
+          "tags": [
+            "Health",
+            "Convulsions"
+          ]
+        },
+        {
+          "id": "emergency-2-9",
+          "title": "Check breathing after syncope",
+          "core": "Transient loss of consciousness requires evaluation.",
+          "body": [
+            "Have the patient lie down and loosen the collar.",
+            "Seek medical attention if it happens repeatedly."
+          ],
+          "tags": [
+            "Health",
+            "Faint"
+          ]
+        },
+        {
+          "id": "emergency-2-10",
+          "title": "Sit up if you have difficulty breathing",
+          "core": "A half-sitting position is more conducive to breathing.",
+          "body": [
+            "Remain calm and call emergency services.",
+            "Use oxygen as directed by your doctor."
+          ],
+          "tags": [
+            "Health",
+            "Breathe"
+          ]
+        },
+        {
+          "id": "emergency-2-11",
+          "title": "Do not relieve severe abdominal pain on your own",
+          "core": "Covering up symptoms will delay diagnosis.",
+          "body": [
+            "Record the location and nature of pain.",
+            "Seek medical attention as soon as possible."
+          ],
+          "tags": [
+            "Health",
+            "Abdominal pain"
+          ]
+        },
+        {
+          "id": "emergency-2-12",
+          "title": "See a doctor if a high fever persists",
+          "core": "especially if it is accompanied by a change in consciousness.",
+          "body": [
+            "Record body temperature changes.",
+            "Add moisture."
+          ],
+          "tags": [
+            "Health",
+            "Fever"
+          ]
+        },
+        {
+          "id": "emergency-2-13",
+          "title": "Recognize dehydration",
+          "core": "Dry mouth, oliguria, dizziness.",
+          "body": [
+            "Sip liquids in small sips.",
+            "Seek medical attention if severe."
+          ],
+          "tags": [
+            "Health",
+            "脱水"
+          ]
+        },
+        {
+          "id": "emergency-2-14",
+          "title": "药物过敏要停可疑药",
+          "core": "并保留药品信息。",
+          "body": [
+            "Record the time of taking medication.",
+            "出现皮疹或呼吸困难立即就医。"
+          ],
+          "tags": [
+            "Health",
+            "Allergy"
+          ]
+        },
+        {
+          "id": "emergency-2-15",
+          "title": "血糖异常要区分高低",
+          "core": "处理方向不同。",
+          "body": [
+            "Test if you can.",
+            "意识不清时不要喂糖。"
+          ],
+          "tags": [
+            "Health",
+            "血糖"
+          ]
+        },
+        {
+          "id": "emergency-2-16",
+          "title": "哮喘发作按计划用药",
+          "core": "随身药不要放家里。",
+          "body": [
+            "Use relief medications.",
+            "Ask for help immediately if it doesn’t work."
+          ],
+          "tags": [
+            "Health",
+            "哮喘"
+          ]
+        },
+        {
+          "id": "emergency-2-17",
+          "title": "心理危机要求助",
+          "core": "出现伤害自己的念头就是信号。",
+          "body": [
+            "联系可信的人陪伴。",
+            "拨打危机热线或就医。"
+          ],
+          "tags": [
+            "Health",
+            "Psychology"
+          ]
+        },
+        {
+          "id": "emergency-2-18",
+          "title": "Observe the mental state of children with fever",
+          "core": "Mental health is more important than body temperature.",
+          "body": [
+            "Watch your drinking and reaction.",
+            "Seek medical attention promptly if abnormality persists."
+          ],
+          "tags": [
+            "Health",
+            "Children"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Preparation and Recovery",
+      "items": [
+        {
+          "id": "emergency-3-1",
+          "title": "Have an emergency kit at home",
+          "core": "Keep frequently used items within easy reach.",
+          "body": [
+            "Put away flashlights, medicines, copies of IDs and water.",
+            "Check the shelf life regularly."
+          ],
+          "tags": [
+            "Preparation",
+            "Family"
+          ]
+        },
+        {
+          "id": "emergency-3-2",
+          "title": "Plan two escape routes",
+          "core": "There are alternatives if one is blocked.",
+          "body": [
+            "Arrange a meeting point with your family.",
+            "Rehearse regularly."
+          ],
+          "tags": [
+            "Preparation",
+            "Escape"
+          ]
+        },
+        {
+          "id": "emergency-3-3",
+          "title": "Write important contacts on paper",
+          "core": "The phone can still be used when the battery is out of power.",
+          "body": [
+            "Take note of family, doctors and properties.",
+            "Place it in a fixed location."
+          ],
+          "tags": [
+            "Preparation",
+            "Contact"
+          ]
+        },
+        {
+          "id": "emergency-3-4",
+          "title": "Keep it refrigerated during a power outage",
+          "core": "Opening the refrigerator will speed up the temperature rise.",
+          "body": [
+            "Try not to open the door after a power outage.",
+            "Prepare lighting and charging equipment in advance."
+          ],
+          "tags": [
+            "Power outage",
+            "Life"
+          ]
+        },
+        {
+          "id": "emergency-3-5",
+          "title": "Review afterwards",
+          "core": "Review can turn experience into ability.",
+          "body": [
+            "Record what is slow and what is missing.",
+            "Complete supplies and processes."
+          ],
+          "tags": [
+            "Review",
+            "Preparation"
+          ]
+        },
+        {
+          "id": "emergency-3-6",
+          "title": "The whole family participates in emergency drills",
+          "core": "You will not panic if you know the process.",
+          "body": [
+            "Drills every six months.",
+            "Let the children also know the meeting point."
+          ],
+          "tags": [
+            "Preparation",
+            "Drill"
+          ]
+        },
+        {
+          "id": "emergency-3-7",
+          "title": "Emergency contacts are posted in a fixed place",
+          "core": "The mobile phone can be used even if the battery is low.",
+          "body": [
+            "Indicate family members and doctors.",
+            "Teach your kids how to dial."
+          ],
+          "tags": [
+            "Preparation",
+            "Contact"
+          ]
+        },
+        {
+          "id": "emergency-3-8",
+          "title": "Have drinking water and ready-to-eat food available",
+          "core": "Cover for at least three days.",
+          "body": [
+            "Regularly replace the shelf life.",
+            "Consider special dietary needs."
+          ],
+          "tags": [
+            "Preparation",
+            "Supplies"
+          ]
+        },
+        {
+          "id": "emergency-3-9",
+          "title": "Prepare backup lighting",
+          "core": "When there is a power outage, give priority to using a flashlight.",
+          "body": [
+            "Avoid candles causing fire.",
+            "The charging device is fully charged in advance."
+          ],
+          "tags": [
+            "Preparation",
+            "Lighting"
+          ]
+        },
+        {
+          "id": "emergency-3-10",
+          "title": "Prepare radio equipment",
+          "core": "Get information when the network is interrupted.",
+          "body": [
+            "Have batteries ready.",
+            "Follow the official channel."
+          ],
+          "tags": [
+            "Preparation",
+            "Information"
+          ]
+        },
+        {
+          "id": "emergency-3-11",
+          "title": "Compile a list of commonly used medications",
+          "core": "Including dosage and allergy history.",
+          "body": [
+            "Put it in the medicine box.",
+            "Updated regularly."
+          ],
+          "tags": [
+            "Preparation",
+            "Drug"
+          ]
+        },
+        {
+          "id": "emergency-3-12",
+          "title": "Consider pet emergencies",
+          "core": "Pets need supplies and placement too.",
+          "body": [
+            "Prepare food and leash.",
+            "Confirm the place where you can stay temporarily."
+          ],
+          "tags": [
+            "Preparation",
+            "Pets"
+          ]
+        },
+        {
+          "id": "emergency-3-13",
+          "title": "Prioritize the elderly and children",
+          "core": "Do not leave them alone during evacuation.",
+          "body": [
+            "Designate an escort.",
+            "Bring necessary medications."
+          ],
+          "tags": [
+            "Preparation",
+            "人群"
+          ]
+        },
+        {
+          "id": "emergency-3-14",
+          "title": "撤离清单提前写",
+          "core": "出门时按清单拿。",
+          "body": [
+            "Documents, medicines, keys.",
+            "Place it in a fixed location."
+          ],
+          "tags": [
+            "Preparation",
+            "Evacuate"
+          ]
+        },
+        {
+          "id": "emergency-3-15",
+          "title": "Know community resources",
+          "core": "Know nearby shelters and hospitals.",
+          "body": [
+            "Save addresses and directions.",
+            "Confirm opening hours."
+          ],
+          "tags": [
+            "Preparation",
+            "Community"
+          ]
+        },
+        {
+          "id": "emergency-3-16",
+          "title": "Insurance and document backup",
+          "core": "Proof is required for post-disaster claims.",
+          "body": [
+            "Save photos in the cloud.",
+            "Keep paper copies."
+          ],
+          "tags": [
+            "Preparation",
+            "单据"
+          ]
+        },
+        {
+          "id": "emergency-3-17",
+          "title": "准备备用电源",
+          "core": "保证通讯设备可用。",
+          "body": [
+            "Prepare the power bank.",
+            "Check the battery regularly."
+          ],
+          "tags": [
+            "Preparation",
+            "Power"
+          ]
+        },
+        {
+          "id": "emergency-3-18",
+          "title": "Fill the gaps with post-event review",
+          "core": "Turn experience into improvement.",
+          "body": [
+            "Record failed links.",
+            "Update supplies and processes."
+          ],
+          "tags": [
+            "Preparation",
+            "Review"
+          ]
+        }
+      ]
+    }
+  ]
+}

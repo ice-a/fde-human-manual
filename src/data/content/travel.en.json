@@ -1,0 +1,961 @@
+{
+  "slug": "travel",
+  "sections": [
+    {
+      "title": "Before departure",
+      "items": [
+        {
+          "id": "travel-0-1",
+          "title": "Check the validity period of your documents in advance",
+          "core": "It will be too late to find out just before departure.",
+          "body": [
+            "Confirm visa and passport validity.",
+            "Keep the photo and copy of the ID."
+          ],
+          "tags": [
+            "Documents",
+            "Preparation"
+          ]
+        },
+        {
+          "id": "travel-0-2",
+          "title": "Leave room for travel",
+          "core": "Overscheduling can turn an unexpected event into a disaster.",
+          "body": [
+            "Only schedule one or two main things every day.",
+            "Allow traffic buffer."
+          ],
+          "tags": [
+            "Itinerary",
+            "Plan"
+          ]
+        },
+        {
+          "id": "travel-0-3",
+          "title": "Budget allowance",
+          "core": "Overspending often comes from uncalculated parts.",
+          "body": [
+            "List cash, card and emergency limits.",
+            "Keep your emergency fund separate."
+          ],
+          "tags": [
+            "Budget",
+            "Money"
+          ]
+        },
+        {
+          "id": "travel-0-4",
+          "title": "Prepare basic medicines",
+          "core": "It may not be convenient to buy medicines in a strange place.",
+          "body": [
+            "Bring commonly used medicines and prescriptions.",
+            "Learn about local ways to purchase medicines."
+          ],
+          "tags": [
+            "Drug",
+            "Preparation"
+          ]
+        },
+        {
+          "id": "travel-0-5",
+          "title": "Download offline data first",
+          "core": "You can still use it when the network is unstable.",
+          "body": [
+            "Save maps, addresses and tickets.",
+            "Prepare conversion plugs and charging equipment."
+          ],
+          "tags": [
+            "Tools",
+            "Preparation"
+          ]
+        },
+        {
+          "id": "travel-0-6",
+          "title": "Save trip data offline",
+          "core": "You can travel even when the network is unstable.",
+          "body": [
+            "Save maps, addresses and orders.",
+            "Print key documents."
+          ],
+          "tags": [
+            "Preparation",
+            "Information"
+          ]
+        },
+        {
+          "id": "travel-0-7",
+          "title": "Check the validity period of the document in advance",
+          "core": "The approaching expiration will affect entry.",
+          "body": [
+            "Confirm validity period and blank page.",
+            "Keep the ID photo."
+          ],
+          "tags": [
+            "Documents",
+            "Preparation"
+          ]
+        },
+        {
+          "id": "travel-0-8",
+          "title": "Prepare the visa materials according to the list",
+          "core": "Missing one item may cause delays.",
+          "body": [
+            "Check against the official list.",
+            "保留复印件。"
+          ],
+          "tags": [
+            "Documents",
+            "Visa"
+          ]
+        },
+        {
+          "id": "travel-0-9",
+          "title": "Check air ticket information item by item",
+          "core": "姓名拼写错误无法登机。",
+          "body": [
+            "核对姓名和证件号。",
+            "确认行李额度。"
+          ],
+          "tags": [
+            "Transportation",
+            "Air tickets"
+          ]
+        },
+        {
+          "id": "travel-0-10",
+          "title": "Accommodation location is more important than photos",
+          "core": "Transportation and safety affect the experience.",
+          "body": [
+            "查看周边和夜间环境。",
+            "确认前台服务时间。"
+          ],
+          "tags": [
+            "Accommodation",
+            "Choices"
+          ]
+        },
+        {
+          "id": "travel-0-11",
+          "title": "Allow time for transportation connections",
+          "core": "Tight transfers will cause chain delays.",
+          "body": [
+            "留出缓冲。",
+            "了解备用线路。"
+          ],
+          "tags": [
+            "Transportation",
+            "Plan"
+          ]
+        },
+        {
+          "id": "travel-0-12",
+          "title": "Prepare clothes according to the weather",
+          "core": "The weather at the destination is different from that at the departure place.",
+          "body": [
+            "查看历史同期数据。",
+            "准备轻便外层。"
+          ],
+          "tags": [
+            "Preparation",
+            "Weather"
+          ]
+        },
+        {
+          "id": "travel-0-13",
+          "title": "Understand baggage restrictions",
+          "core": "Overweight charges are often higher than expected.",
+          "body": [
+            "确认重量和尺寸。",
+            "液体按规定包装。"
+          ],
+          "tags": [
+            "Luggage",
+            "rule"
+          ]
+        },
+        {
+          "id": "travel-0-14",
+          "title": "Bring commonly used medicines and prescriptions",
+          "core": "It may not be convenient to buy medicines in other places.",
+          "body": [
+            "Keep original packaging.",
+            "Learn how to buy medicine locally."
+          ],
+          "tags": [
+            "Health",
+            "Drug"
+          ]
+        },
+        {
+          "id": "travel-0-15",
+          "title": "Prepare two payment methods",
+          "core": "If a single channel fails, it will be very passive.",
+          "body": [
+            "Credit cards and cash separately.",
+            "Inform the bank of your travel plans."
+          ],
+          "tags": [
+            "Payment",
+            "Preparation"
+          ]
+        },
+        {
+          "id": "travel-0-16",
+          "title": "Prepare network connection in advance",
+          "core": "Need navigation and contact after landing.",
+          "body": [
+            "Learn about eSIM or local cards.",
+            "Download offline maps."
+          ],
+          "tags": [
+            "Network",
+            "Preparation"
+          ]
+        },
+        {
+          "id": "travel-0-17",
+          "title": "Inform your family about your trip",
+          "core": "It is safer to have someone know where you are.",
+          "body": [
+            "Leave accommodation and flight information.",
+            "Agree on a safe time."
+          ],
+          "tags": [
+            "Safety",
+            "Contact"
+          ]
+        },
+        {
+          "id": "travel-0-18",
+          "title": "Insurance policies are saved on your mobile phone",
+          "core": "You need to recall them quickly when making claims.",
+          "body": [
+            "保存电子版。",
+            "Learn about coverage and calls."
+          ],
+          "tags": [
+            "Insurance",
+            "Preparation"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Safety on the way",
+      "items": [
+        {
+          "id": "travel-1-1",
+          "title": "Properties are stored dispersedly",
+          "core": "One loss will not cause the whole army to be wiped out.",
+          "body": [
+            "Separate cash and cards.",
+            "Keep valuables with you."
+          ],
+          "tags": [
+            "Properties",
+            "Safety"
+          ]
+        },
+        {
+          "id": "travel-1-2",
+          "title": "Original documents should be kept intact as much as possible",
+          "core": "Copies are usually sufficient for inspection.",
+          "body": [
+            "The original is locked in a safe place.",
+            "Carry copies separately."
+          ],
+          "tags": [
+            "Documents",
+            "Safety"
+          ]
+        },
+        {
+          "id": "travel-1-3",
+          "title": "Be wary of over-enthusiastic strangers",
+          "core": "Guidance and payment are often a prelude to asking for bribes.",
+          "body": [
+            "Unsolicited baggage transfer is not accepted.",
+            "Insist on confirming the price yourself."
+          ],
+          "tags": [
+            "Scam",
+            "Safety"
+          ]
+        },
+        {
+          "id": "travel-1-4",
+          "title": "Check the vehicle information when taking a taxi",
+          "core": "Confirm the license plate and driver before getting in the car.",
+          "body": [
+            "Priority is given to using formal platforms.",
+            "Share your itinerary with your fellow travelers."
+          ],
+          "tags": [
+            "Transportation",
+            "Safety"
+          ]
+        },
+        {
+          "id": "travel-1-5",
+          "title": "Read reviews before booking accommodation",
+          "core": "Location and safety are more important than photos.",
+          "body": [
+            "Read recent negative reviews.",
+            "Confirm check-in time and front desk."
+          ],
+          "tags": [
+            "Accommodation",
+            "Choices"
+          ]
+        },
+        {
+          "id": "travel-1-6",
+          "title": "Carry valuables with you",
+          "core": "It’s troublesome to deal with lost items when checking in.",
+          "body": [
+            "证件和电子设备随身。",
+            "Mark your luggage."
+          ],
+          "tags": [
+            "Properties",
+            "Safety"
+          ]
+        },
+        {
+          "id": "travel-1-7",
+          "title": "Original documents are rarely required",
+          "core": "Photocopies are usually sufficient.",
+          "body": [
+            "The original is locked in a safe place.",
+            "Carry copies separately."
+          ],
+          "tags": [
+            "Documents",
+            "Safety"
+          ]
+        },
+        {
+          "id": "travel-1-8",
+          "title": "Don’t show off your wealth or reveal your wealth",
+          "core": "Displaying valuables in public can lead to risks.",
+          "body": [
+            "Use equipment in a discreet manner.",
+            "不明场所不展示现金。"
+          ],
+          "tags": [
+            "Properties",
+            "Safety"
+          ]
+        },
+        {
+          "id": "travel-1-9",
+          "title": "打车前核对车辆",
+          "core": "Confirm the license plate and driver before getting in the car.",
+          "body": [
+            "使用正规平台。",
+            "Share your itinerary with your fellow travelers."
+          ],
+          "tags": [
+            "Transportation",
+            "Safety"
+          ]
+        },
+        {
+          "id": "travel-1-10",
+          "title": "入住检查门窗",
+          "core": "安全比装饰重要。",
+          "body": [
+            "Confirm that the lock is normal.",
+            "不让陌生人进门。"
+          ],
+          "tags": [
+            "Accommodation",
+            "Safety"
+          ]
+        },
+        {
+          "id": "travel-1-11",
+          "title": "Be careful when riding in the elevator",
+          "core": "Be careful when riding alone in the elevator at night.",
+          "body": [
+            "Stand near the button.",
+            "感觉不对立即离开。"
+          ],
+          "tags": [
+            "Accommodation",
+            "Safety"
+          ]
+        },
+        {
+          "id": "travel-1-12",
+          "title": "Recognizing Street Scams",
+          "core": "Over-enthusiasm often has a purpose.",
+          "body": [
+            "Do not accept initiative to lead the way.",
+            "Confirm the price yourself."
+          ],
+          "tags": [
+            "Scam",
+            "Safety"
+          ]
+        },
+        {
+          "id": "travel-1-13",
+          "title": "Accept help with caution",
+          "core": "The kindness of strangers may come at a cost.",
+          "body": [
+            "Priority is given to finding staff.",
+            "No food or drinks will be accepted."
+          ],
+          "tags": [
+            "Scam",
+            "Safety"
+          ]
+        },
+        {
+          "id": "travel-1-14",
+          "title": "Eat gradually",
+          "core": "The stomach needs time to adapt.",
+          "body": [
+            "Eat familiar foods first.",
+            "Cold and cautious."
+          ],
+          "tags": [
+            "Health",
+            "Diet"
+          ]
+        },
+        {
+          "id": "travel-1-15",
+          "title": "Make sure the water is safe",
+          "core": "Buy bottled water when in doubt.",
+          "body": [
+            "Also use safe water when brushing your teeth.",
+            "Prepare gastrointestinal medicine."
+          ],
+          "tags": [
+            "Health",
+            "Drink water"
+          ]
+        },
+        {
+          "id": "travel-1-16",
+          "title": "Avoid off-the-beaten-path routes at night",
+          "core": "Lighting and foot traffic are safety indicators.",
+          "body": [
+            "Take a taxi back to your residence.",
+            "Check the route in advance."
+          ],
+          "tags": [
+            "Safety",
+            "Night"
+          ]
+        },
+        {
+          "id": "travel-1-17",
+          "title": "Agreed meeting point",
+          "core": "No need to look around if you get separated.",
+          "body": [
+            "Choose a conspicuous and fixed location.",
+            "Write it down for your children and peers."
+          ],
+          "tags": [
+            "Safety",
+            "Travelers"
+          ]
+        },
+        {
+          "id": "travel-1-18",
+          "title": "Division of labor among companions",
+          "core": "Some people are responsible for looking after the luggage, while others are responsible for asking for directions.",
+          "body": [
+            "Speak clearly before departure.",
+            "Keep your contact information open."
+          ],
+          "tags": [
+            "Safety",
+            "Collaboration"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Health and Emergency",
+      "items": [
+        {
+          "id": "travel-2-1",
+          "title": "Pay attention to food hygiene",
+          "core": "Gastrointestinal discomfort will most affect the itinerary.",
+          "body": [
+            "Choose restaurants with regular crowds.",
+            "Be careful with raw and cold food."
+          ],
+          "tags": [
+            "Diet",
+            "Health"
+          ]
+        },
+        {
+          "id": "travel-2-2",
+          "title": "Confirm whether the water is drinkable",
+          "core": "Buy bottled water when in doubt.",
+          "body": [
+            "Understand local customs.",
+            "Prepare gastrointestinal medicine."
+          ],
+          "tags": [
+            "Drink water",
+            "Health"
+          ]
+        },
+        {
+          "id": "travel-2-3",
+          "title": "Make a note of the local emergency number",
+          "core": "Emergency numbers are not the same in many countries.",
+          "body": [
+            "Save to mobile phone and paper.",
+            "Write down the contact information of the embassy or consulate."
+          ],
+          "tags": [
+            "emergency",
+            "Contact"
+          ]
+        },
+        {
+          "id": "travel-2-4",
+          "title": "Check the terms of travel insurance",
+          "core": "Exclusions are more critical than the amount insured.",
+          "body": [
+            "Confirm medical and baggage terms.",
+            "Keep the insurance contract."
+          ],
+          "tags": [
+            "Insurance",
+            "Terms"
+          ]
+        },
+        {
+          "id": "travel-2-5",
+          "title": "Prepare two payment methods",
+          "core": "If a single channel fails, it will be very passive.",
+          "body": [
+            "Bring a small amount of cash and a backup card.",
+            "Inform the bank of your travel plans."
+          ],
+          "tags": [
+            "Payment",
+            "Preparation"
+          ]
+        },
+        {
+          "id": "travel-2-6",
+          "title": "Prevent acclimatization in advance",
+          "core": "Dietary changes require adaptation.",
+          "body": [
+            "Prepare commonly used gastrointestinal medicines.",
+            "Avoid overeating on the first day."
+          ],
+          "tags": [
+            "Health",
+            "Adaptation"
+          ]
+        },
+        {
+          "id": "travel-2-7",
+          "title": "Pay attention to sun protection",
+          "core": "Time spent outdoors is easily underestimated.",
+          "body": [
+            "Use sunscreen.",
+            "避开正午暴晒。"
+          ],
+          "tags": [
+            "Health",
+            "Environment"
+          ]
+        },
+        {
+          "id": "travel-2-8",
+          "title": "Prevention from mosquito bites",
+          "core": "Especially important in tropical areas.",
+          "body": [
+            "使用驱蚊用品。",
+            "穿长袖长裤。"
+          ],
+          "tags": [
+            "Health",
+            "Environment"
+          ]
+        },
+        {
+          "id": "travel-2-9",
+          "title": "Be prepared in advance for motion sickness and seasickness",
+          "core": "Taking medication in advance is more effective than after the attack.",
+          "body": [
+            "Learn about the side effects of medications.",
+            "选择靠前座位。"
+          ],
+          "tags": [
+            "Health",
+            "Transportation"
+          ]
+        },
+        {
+          "id": "travel-2-10",
+          "title": "Carry a Band-Aid with you",
+          "core": "The sooner minor wounds are treated, the better.",
+          "body": [
+            "保持伤口清洁。",
+            "异常时就医。"
+          ],
+          "tags": [
+            "Health",
+            "Trauma"
+          ]
+        },
+        {
+          "id": "travel-2-11",
+          "title": "Bring anti-allergy medicine",
+          "core": "Food and environment can trigger it.",
+          "body": [
+            "了解自己的过敏史。",
+            "严重时立即求助。"
+          ],
+          "tags": [
+            "Health",
+            "Allergy"
+          ]
+        },
+        {
+          "id": "travel-2-12",
+          "title": "Make a note of the local emergency number",
+          "core": "不同国家号码不同。",
+          "body": [
+            "保存在手机和纸上。",
+            "Includes embassy and consulate phone numbers."
+          ],
+          "tags": [
+            "emergency",
+            "Contact"
+          ]
+        },
+        {
+          "id": "travel-2-13",
+          "title": "Learn about nearby medical points",
+          "core": "Check the location when you arrive.",
+          "body": [
+            "Record the address and password.",
+            "确认营业时间。"
+          ],
+          "tags": [
+            "emergency",
+            "Medical"
+          ]
+        },
+        {
+          "id": "travel-2-14",
+          "title": "Confirm Insurance Coverage",
+          "core": "Exclusions are more critical than the amount insured.",
+          "body": [
+            "Understand the reimbursement process.",
+            "Keep all documents."
+          ],
+          "tags": [
+            "Insurance",
+            "Terms"
+          ]
+        },
+        {
+          "id": "travel-2-15",
+          "title": "Keep medical records",
+          "core": "Required for both claim settlement and follow-up treatment.",
+          "body": [
+            "Save diagnostics and tickets.",
+            "Record medication."
+          ],
+          "tags": [
+            "Health",
+            "Record"
+          ]
+        },
+        {
+          "id": "travel-2-16",
+          "title": "Confirmation is required when using medical insurance in other places",
+          "core": "Different systems have different rules.",
+          "body": [
+            "Learn if direct settlement is possible.",
+            "Keep the original ticket."
+          ],
+          "tags": [
+            "Insurance",
+            "Medical Insurance"
+          ]
+        },
+        {
+          "id": "travel-2-17",
+          "title": "See a doctor if symptoms persist",
+          "core": "Do not delay your discomfort until your return trip.",
+          "body": [
+            "Record symptoms and time.",
+            "Seek local medical help."
+          ],
+          "tags": [
+            "Health",
+            "See a doctor"
+          ]
+        },
+        {
+          "id": "travel-2-18",
+          "title": "Bring sufficient quantities of chronic disease medications",
+          "core": "It may be difficult to make temporary prescriptions.",
+          "body": [
+            "Bring enough for a few days.",
+            "Bring the prescription and name of the medicine."
+          ],
+          "tags": [
+            "Health",
+            "Chronic Disease"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Experience and Finishing",
+      "items": [
+        {
+          "id": "travel-3-1",
+          "title": "Respect local customs",
+          "core": "Knowing in advance can avoid offending.",
+          "body": [
+            "Be aware of clothing and physical boundaries.",
+            "Ask permission before taking photos."
+          ],
+          "tags": [
+            "Customs",
+            "Etiquette"
+          ]
+        },
+        {
+          "id": "travel-3-2",
+          "title": "Prepare key sentences in language",
+          "core": "Knowing a few sentences is enough to solve most problems.",
+          "body": [
+            "Remember the words for help, price and directions.",
+            "Write the address in local script."
+          ],
+          "tags": [
+            "Language",
+            "Preparation"
+          ]
+        },
+        {
+          "id": "travel-3-3",
+          "title": "Keep the shopping voucher",
+          "core": "Required for tax refund and after-sales service.",
+          "body": [
+            "Take a photo to keep the receipt.",
+            "Check the tax refund threshold."
+          ],
+          "tags": [
+            "Shopping",
+            "Vouchers"
+          ]
+        },
+        {
+          "id": "travel-3-4",
+          "title": "Check for omissions before returning",
+          "core": "Documents, chargers and medicines are most likely to be left behind.",
+          "body": [
+            "Check each item on the list.",
+            "Confirm the transportation time in advance."
+          ],
+          "tags": [
+            "Return",
+            "Check"
+          ]
+        },
+        {
+          "id": "travel-3-5",
+          "title": "Organize the records after coming back",
+          "core": "Turn the experience into an experience for next time.",
+          "body": [
+            "Write down the pitfalls you have stepped on and the useful places.",
+            "Organize photos and expenses."
+          ],
+          "tags": [
+            "Review",
+            "Record"
+          ]
+        },
+        {
+          "id": "travel-3-6",
+          "title": "Respect local customs",
+          "core": "Knowing in advance can avoid offending.",
+          "body": [
+            "Be aware of the dress code.",
+            "了解禁忌话题。"
+          ],
+          "tags": [
+            "Experience",
+            "Etiquette"
+          ]
+        },
+        {
+          "id": "travel-3-7",
+          "title": "Learn a few local phrases",
+          "core": "Basic communication is enough to solve the problem.",
+          "body": [
+            "Remember the help and price.",
+            "Write the address in local script."
+          ],
+          "tags": [
+            "Experience",
+            "Language"
+          ]
+        },
+        {
+          "id": "travel-3-8",
+          "title": "Ask permission before taking photos",
+          "core": "Especially when it comes to people and religious places.",
+          "body": [
+            "Ask or observe the sign first.",
+            "不强行拍摄。"
+          ],
+          "tags": [
+            "Experience",
+            "Etiquette"
+          ]
+        },
+        {
+          "id": "travel-3-9",
+          "title": "Keep the shopping voucher",
+          "core": "Required for tax refund and after-sales service.",
+          "body": [
+            "Take a photo to keep the receipt.",
+            "Check the tax refund threshold."
+          ],
+          "tags": [
+            "Shopping",
+            "Vouchers"
+          ]
+        },
+        {
+          "id": "travel-3-10",
+          "title": "Understand the tax refund process",
+          "core": "Not all stores can offer tax refunds.",
+          "body": [
+            "确认最低金额。",
+            "留出办理时间。"
+          ],
+          "tags": [
+            "Shopping",
+            "Tax Refund"
+          ]
+        },
+        {
+          "id": "travel-3-11",
+          "title": "Check items before returning",
+          "core": "Documents, chargers, and medicines are the easiest to leave behind.",
+          "body": [
+            "Check each item on the list.",
+            "Confirm the transportation time in advance."
+          ],
+          "tags": [
+            "Closing",
+            "Check"
+          ]
+        },
+        {
+          "id": "travel-3-12",
+          "title": "票据集中整理",
+          "core": "报销和记账都要用。",
+          "body": [
+            "按日期分类。",
+            "拍照备份。"
+          ],
+          "tags": [
+            "Closing",
+            "Tickets"
+          ]
+        },
+        {
+          "id": "travel-3-13",
+          "title": "Timely backup of photos",
+          "core": "The memory should not be lost if the device is lost.",
+          "body": [
+            "每晚备份一次。",
+            "Keep the original file."
+          ],
+          "tags": [
+            "Closing",
+            "Backup"
+          ]
+        },
+        {
+          "id": "travel-3-14",
+          "title": "Record actual expenses",
+          "core": "Budgets are only meaningful if compared.",
+          "body": [
+            "按类别记录。",
+            "回来后复盘。"
+          ],
+          "tags": [
+            "Closing",
+            "Accounting"
+          ]
+        },
+        {
+          "id": "travel-3-15",
+          "title": "Write down the pitfalls you have stepped on",
+          "core": "Experiences must be recorded before they can be reused.",
+          "body": [
+            "记下问题和解法。",
+            "整理成下次清单。"
+          ],
+          "tags": [
+            "Closing",
+            "Review"
+          ]
+        },
+        {
+          "id": "travel-3-16",
+          "title": "Adjust work and rest after return",
+          "core": "Jet lag and fatigue need to be recovered.",
+          "body": [
+            "先补睡眠。",
+            "逐步恢复正常节奏。"
+          ],
+          "tags": [
+            "Closing",
+            "Restore"
+          ]
+        },
+        {
+          "id": "travel-3-17",
+          "title": "Organize the items brought back",
+          "core": "Replace them in time to avoid accumulation.",
+          "body": [
+            "清点纪念品。",
+            "处理剩余药品。"
+          ],
+          "tags": [
+            "Closing",
+            "Organizing"
+          ]
+        },
+        {
+          "id": "travel-3-18",
+          "title": "Leave improvements for next time",
+          "core": "Optimize the process on every trip.",
+          "body": [
+            "写下最该改的一件事。",
+            "更新打包清单。"
+          ],
+          "tags": [
+            "Closing",
+            "改进"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,961 @@
+{
+  "slug": "family",
+  "sections": [
+    {
+      "title": "Basics of care",
+      "items": [
+        {
+          "id": "family-0-1",
+          "title": "Pregnancy check-ups should be carried out as planned",
+          "core": "Regular prenatal check-ups can detect problems early.",
+          "body": [
+            "Record the results of each inspection.",
+            "Concentrate your questions on the doctor."
+          ],
+          "tags": [
+            "Pregnancy",
+            "Health"
+          ]
+        },
+        {
+          "id": "family-0-2",
+          "title": "Baby sleep safety is priority",
+          "core": "Sleep environment is more important than sleeping position products.",
+          "body": [
+            "Sleep on your back, use a hard mattress, and have few items on the bed.",
+            "Avoid overheating and cover mouth and nose."
+          ],
+          "tags": [
+            "Infants and young children",
+            "Safety"
+          ]
+        },
+        {
+          "id": "family-0-3",
+          "title": "Feeding follows signals",
+          "core": "Feeding on demand does not mean feeding at any time.",
+          "body": [
+            "Recognize hunger and satiety signals.",
+            "Record the growth curve."
+          ],
+          "tags": [
+            "Feeding",
+            "Record"
+          ]
+        },
+        {
+          "id": "family-0-4",
+          "title": "Vaccine vaccination on time",
+          "core": "After a missed vaccination, follow the catch-up rules.",
+          "body": [
+            "Keep vaccination records.",
+            "Watch for reactions after vaccination."
+          ],
+          "tags": [
+            "Vaccines",
+            "Health"
+          ]
+        },
+        {
+          "id": "family-0-5",
+          "title": "Add complementary foods step by step",
+          "core": "Add only one new food at a time.",
+          "body": [
+            "Watch for allergic reactions.",
+            "Less salt and less sugar."
+          ],
+          "tags": [
+            "Complementary Food",
+            "Feeding"
+          ]
+        },
+        {
+          "id": "family-0-6",
+          "title": "Response is more important than device",
+          "core": "Soothing comes from human interaction.",
+          "body": [
+            "Respond to cries and expressions promptly.",
+            "Don’t rely on electronic devices."
+          ],
+          "tags": [
+            "Care",
+            "Interaction"
+          ]
+        },
+        {
+          "id": "family-0-7",
+          "title": "Parent-child reading starts from a few minutes",
+          "core": "Fixed time is more important than duration.",
+          "body": [
+            "Read a short paragraph every day.",
+            "Let the child turn the pages."
+          ],
+          "tags": [
+            "Reading",
+            "Habit"
+          ]
+        },
+        {
+          "id": "family-0-8",
+          "title": "Use safety seats in cars",
+          "core": "It is not safe to hold in your arms.",
+          "body": [
+            "Select by age and weight.",
+            "Use every time."
+          ],
+          "tags": [
+            "Safety",
+            "Travel"
+          ]
+        },
+        {
+          "id": "family-0-9",
+          "title": "Prevent falls at home",
+          "core": "Protect cribs and stairs.",
+          "body": [
+            "Fixed cabinets, doors and windows.",
+            "Keep the floor clean and tidy."
+          ],
+          "tags": [
+            "Safety",
+            "Home"
+          ]
+        },
+        {
+          "id": "family-0-10",
+          "title": "Prevent swallowing small objects",
+          "core": "Keep coins and button batteries away.",
+          "body": [
+            "Inspect the ground from a child's perspective.",
+            "The medicines are locked."
+          ],
+          "tags": [
+            "Safety",
+            "Foreign objects"
+          ]
+        },
+        {
+          "id": "family-0-11",
+          "title": "Establish a sleep routine",
+          "core": "A fixed routine to help you fall asleep.",
+          "body": [
+            "Take a bath, tell a story, turn off the lights.",
+            "The order remains consistent."
+          ],
+          "tags": [
+            "Sleep",
+            "Habit"
+          ]
+        },
+        {
+          "id": "family-0-12",
+          "title": "Night care requires division of labor",
+          "core": "Staying up late alone is not sustainable for a long time.",
+          "body": [
+            "Arrange the rotation in advance.",
+            "Compensatory rest during the day."
+          ],
+          "tags": [
+            "Care",
+            "Division of labor"
+          ]
+        },
+        {
+          "id": "family-0-13",
+          "title": "Record growth changes",
+          "core": "Data is more reliable than impressions.",
+          "body": [
+            "Measure height and weight regularly.",
+            "Keep the physical examination report."
+          ],
+          "tags": [
+            "Health",
+            "Record"
+          ]
+        },
+        {
+          "id": "family-0-14",
+          "title": "Don’t delay your medical checkup appointment",
+          "core": "Schedule your checkup according to your age.",
+          "body": [
+            "列出时间表。",
+            "记录异常指标。"
+          ],
+          "tags": [
+            "Health",
+            "Check"
+          ]
+        },
+        {
+          "id": "family-0-15",
+          "title": "Be careful when using medication in children",
+          "core": "Dosage is calculated based on body weight.",
+          "body": [
+            "Do not use adult drugs on your own.",
+            "Keep drug instructions."
+          ],
+          "tags": [
+            "Health",
+            "Medication"
+          ]
+        },
+        {
+          "id": "family-0-16",
+          "title": "Learn to take your temperature",
+          "core": "The data is the basis for medical treatment.",
+          "body": [
+            "Choose the right thermometer.",
+            "Record time and value."
+          ],
+          "tags": [
+            "Health",
+            "Record"
+          ]
+        },
+        {
+          "id": "family-0-17",
+          "title": "Prepare a list of questions before seeing a doctor",
+          "core": "The clinic time is short and it is easy to miss.",
+          "body": [
+            "Write down symptoms and a timeline.",
+            "带上既往记录。"
+          ],
+          "tags": [
+            "Health",
+            "See a doctor"
+          ]
+        },
+        {
+          "id": "family-0-18",
+          "title": "The status of the caregiver is also important",
+          "core": "Take care of yourself first when taking care of others.",
+          "body": [
+            "Arrange for replacement staff.",
+            "Don’t be proud of being tired."
+          ],
+          "tags": [
+            "Care",
+            "Boundary"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Growth and Education",
+      "items": [
+        {
+          "id": "family-1-1",
+          "title": "The reading habit starts with a few minutes a day",
+          "core": "A fixed time is more important than intensity.",
+          "body": [
+            "Keep books at your fingertips.",
+            "Don’t turn reading into an assessment."
+          ],
+          "tags": [
+            "Reading",
+            "Habit"
+          ]
+        },
+        {
+          "id": "family-1-2",
+          "title": "Guaranteed outdoor activities",
+          "core": "Vision and mood benefit.",
+          "body": [
+            "Set aside some time outside each day.",
+            "Events don’t have to be expensive."
+          ],
+          "tags": [
+            "outdoor",
+            "Health"
+          ]
+        },
+        {
+          "id": "family-1-3",
+          "title": "Have boundaries around screen time",
+          "core": "Clear rules are more effective than ad hoc scrambling.",
+          "body": [
+            "Agree on duration and content.",
+            "Adults also comply."
+          ],
+          "tags": [
+            "Screen",
+            "rule"
+          ]
+        },
+        {
+          "id": "family-1-4",
+          "title": "The rules must be consistent",
+          "core": "Inconsistency can cause children to test boundaries.",
+          "body": [
+            "Family members share the same message.",
+            "The consequences of a violation must be predictable."
+          ],
+          "tags": [
+            "rule",
+            "consistent"
+          ]
+        },
+        {
+          "id": "family-1-5",
+          "title": "Don’t compare your children to others",
+          "core": "Comparisons harm relationships rather than inspire.",
+          "body": [
+            "Describe specific behaviors rather than evaluating people.",
+            "Focus on his own progress."
+          ],
+          "tags": [
+            "Compare",
+            "Relationships"
+          ]
+        },
+        {
+          "id": "family-1-6",
+          "title": "Play is a child’s job",
+          "core": "Free play promotes development.",
+          "body": [
+            "Leave unstructured time.",
+            "Do not have a full schedule."
+          ],
+          "tags": [
+            "Growth",
+            "Play"
+          ]
+        },
+        {
+          "id": "family-1-7",
+          "title": "Respond seriously to questions",
+          "core": "Curiosity needs to be caught.",
+          "body": [
+            "If you don’t know, check it out together.",
+            "Don’t be perfunctory or over-explain."
+          ],
+          "tags": [
+            "Communication",
+            "Curiosity"
+          ]
+        },
+        {
+          "id": "family-1-8",
+          "title": "Have rules for screen time",
+          "core": "Clear boundaries are better than ad hoc scrambling.",
+          "body": [
+            "Agree on duration and content.",
+            "Adults also comply."
+          ],
+          "tags": [
+            "Screen",
+            "rule"
+          ]
+        },
+        {
+          "id": "family-1-9",
+          "title": "Involve children in housework",
+          "core": "Participation brings a sense of responsibility.",
+          "body": [
+            "Start with simple tasks.",
+            "Do not pursue perfect results."
+          ],
+          "tags": [
+            "Housework",
+            "Growth"
+          ]
+        },
+        {
+          "id": "family-1-10",
+          "title": "Give limited choices",
+          "core": "The power of choice reduces confrontation.",
+          "body": [
+            "Provide two or three options.",
+            "The results are acceptable."
+          ],
+          "tags": [
+            "Discipline",
+            "Choices"
+          ]
+        },
+        {
+          "id": "family-1-11",
+          "title": "Let natural consequences speak for themselves",
+          "core": "Experience results within the confines of safety.",
+          "body": [
+            "Don’t bear all the consequences for your children.",
+            "Review together afterwards."
+          ],
+          "tags": [
+            "Discipline",
+            "as a result of"
+          ]
+        },
+        {
+          "id": "family-1-12",
+          "title": "Praise the process, not the talent",
+          "core": "Hard work is more controllable than cleverness.",
+          "body": [
+            "Tell me how to do it.",
+            "Avoid labels."
+          ],
+          "tags": [
+            "Discipline",
+            "praise"
+          ]
+        },
+        {
+          "id": "family-1-13",
+          "title": "No personality labels",
+          "core": "Labels can become self-prophetic.",
+          "body": [
+            "Describe behaviors rather than define people.",
+            "Point out the parts that can be changed."
+          ],
+          "tags": [
+            "Communication",
+            "Label"
+          ]
+        },
+        {
+          "id": "family-1-14",
+          "title": "Help children name their emotions",
+          "core": "If you can talk, you can handle it.",
+          "body": [
+            "Use specific emotion words.",
+            "Don’t be in a hurry to reason."
+          ],
+          "tags": [
+            "Emotion",
+            "Communication"
+          ]
+        },
+        {
+          "id": "family-1-15",
+          "title": "Rules need to explain why",
+          "core": "Understanding lasts longer than obedience.",
+          "body": [
+            "Explain clearly what the rules protect.",
+            "Keep the caliber consistent."
+          ],
+          "tags": [
+            "rule",
+            "Communication"
+          ]
+        },
+        {
+          "id": "family-1-16",
+          "title": "The rules must be implemented consistently",
+          "core": "Inconsistency will make children tempted.",
+          "body": [
+            "Family members have unified standards.",
+            "The consequences are predictable."
+          ],
+          "tags": [
+            "rule",
+            "consistent"
+          ]
+        },
+        {
+          "id": "family-1-17",
+          "title": "Maintain communication with teachers",
+          "core": "Home and school information need to be aligned.",
+          "body": [
+            "Understand classroom performance.",
+            "Don’t deny the teacher in front of the children."
+          ],
+          "tags": [
+            "Education",
+            "Communication"
+          ]
+        },
+        {
+          "id": "family-1-18",
+          "title": "Focus on peer relationships",
+          "core": "Friend relationships affect emotions.",
+          "body": [
+            "Understand the situation of getting along.",
+            "Prompt support when being excluded."
+          ],
+          "tags": [
+            "Social",
+            "Children"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Family Collaboration",
+      "items": [
+        {
+          "id": "family-2-1",
+          "title": "The division of housework must be visible",
+          "core": "Invisible labor is most easily ignored.",
+          "body": [
+            "Make a list and frequency.",
+            "Redistribute periodically."
+          ],
+          "tags": [
+            "Housework",
+            "Division of labor"
+          ]
+        },
+        {
+          "id": "family-2-2",
+          "title": "Allow time for couples to communicate",
+          "core": "Don’t discuss things when you are tired.",
+          "body": [
+            "Fix a period of time that will not be interrupted.",
+            "Let’s talk about facts first and then feelings."
+          ],
+          "tags": [
+            "Communication",
+            "Partners"
+          ]
+        },
+        {
+          "id": "family-2-3",
+          "title": "Consent in Intimate Relationships",
+          "core": "Default is not a substitute for explicitness.",
+          "body": [
+            "Important decisions are confirmed by both parties.",
+            "Respect the right to change your mind at any time."
+          ],
+          "tags": [
+            "Agree",
+            "Boundary"
+          ]
+        },
+        {
+          "id": "family-2-4",
+          "title": "There must be boundaries between generations",
+          "core": "Care does not mean taking over.",
+          "body": [
+            "Make it clear who gets to decide what.",
+            "Appreciate the help but don’t give up the initiative."
+          ],
+          "tags": [
+            "Intergenerational",
+            "Boundary"
+          ]
+        },
+        {
+          "id": "family-2-5",
+          "title": "Be transparent about your family budget",
+          "core": "The more transparent you are about money, the less likely you will argue.",
+          "body": [
+            "Make a list of fixed spending and savings goals.",
+            "Discuss large expenditures in advance."
+          ],
+          "tags": [
+            "Budget",
+            "Money"
+          ]
+        },
+        {
+          "id": "family-2-6",
+          "title": "Make the division of household chores public",
+          "core": "Invisible labor is most easily ignored.",
+          "body": [
+            "Make a list and frequency.",
+            "Redistribute periodically."
+          ],
+          "tags": [
+            "Family",
+            "Division of labor"
+          ]
+        },
+        {
+          "id": "family-2-7",
+          "title": "Be transparent about finances",
+          "core": "The more transparent you are about money, the less likely you will argue.",
+          "body": [
+            "List fixed expenses.",
+            "Discuss large expenditures in advance."
+          ],
+          "tags": [
+            "Family",
+            "Money"
+          ]
+        },
+        {
+          "id": "family-2-8",
+          "title": "Making major decisions together",
+          "core": "It is easy to complain when one party makes the decision.",
+          "body": [
+            "Give each other time to express.",
+            "Record the final agreement."
+          ],
+          "tags": [
+            "Family",
+            "Decision-making"
+          ]
+        },
+        {
+          "id": "family-2-9",
+          "title": "Keep private time",
+          "core": "Intimacy does not mean no space.",
+          "body": [
+            "Agree on a time to be alone.",
+            "No response is required at any time."
+          ],
+          "tags": [
+            "Boundary",
+            "Partners"
+          ]
+        },
+        {
+          "id": "family-2-10",
+          "title": "Family groups maintain boundaries",
+          "core": "It is not necessary to respond to every message.",
+          "body": [
+            "Set viewing period.",
+            "Don’t let group messages interrupt business."
+          ],
+          "tags": [
+            "Boundary",
+            "Numbers"
+          ]
+        },
+        {
+          "id": "family-2-11",
+          "title": "The division of labor during festivals is decided in advance",
+          "core": "Temporary arrangements are the easiest to dispute.",
+          "body": [
+            "List preparations.",
+            "Make it clear who is responsible for what."
+          ],
+          "tags": [
+            "Holidays",
+            "Division of labor"
+          ]
+        },
+        {
+          "id": "family-2-12",
+          "title": "Care for the elderly must be rotated",
+          "core": "Long-term unilateral commitment is unsustainable.",
+          "body": [
+            "List care tasks.",
+            "Convene regular family meetings."
+          ],
+          "tags": [
+            "Elderly",
+            "Division of labor"
+          ]
+        },
+        {
+          "id": "family-2-13",
+          "title": "Medical Decisions Talk Upfront",
+          "core": "No one wants to discuss options during an emergency.",
+          "body": [
+            "Understand the wishes of the elderly.",
+            "Specify the contact person."
+          ],
+          "tags": [
+            "Elderly",
+            "Medical"
+          ]
+        },
+        {
+          "id": "family-2-14",
+          "title": "Discuss in advance before making a decision",
+          "core": "Cut first and tell later will hurt trust.",
+          "body": [
+            "Explain the considerations and basis.",
+            "Give the other party room to veto."
+          ],
+          "tags": [
+            "Communication",
+            "Decision-making"
+          ]
+        },
+        {
+          "id": "family-2-15",
+          "title": "When thanking you, be specific",
+          "core": "A general thank you has no memory.",
+          "body": [
+            "tell what the other person did.",
+            "Feedback after the results come out."
+          ],
+          "tags": [
+            "Communication",
+            "Thanks"
+          ]
+        },
+        {
+          "id": "family-2-16",
+          "title": "Pause in case of conflict",
+          "core": "Anything you say when you are at the peak of your emotions can easily hurt someone.",
+          "body": [
+            "Agreed cooling time.",
+            "Return to the question later."
+          ],
+          "tags": [
+            "Conflict",
+            "Rhythm"
+          ]
+        },
+        {
+          "id": "family-2-17",
+          "title": "Review the relationship regularly",
+          "core": "Long-term relationships need to be maintained.",
+          "body": [
+            "Ask each other if they are feeling well lately.",
+            "Small problems are solved when they are young."
+          ],
+          "tags": [
+            "Relationships",
+            "Review"
+          ]
+        },
+        {
+          "id": "family-2-18",
+          "title": "Ask external help when necessary",
+          "core": "You don’t have to deal with family problems alone.",
+          "body": [
+            "Learn about consultation channels.",
+            "If violence occurs, seek help immediately."
+          ],
+          "tags": [
+            "Ask for help",
+            "Boundary"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Safety and care",
+      "items": [
+        {
+          "id": "family-3-1",
+          "title": "Protect your home from falls and heat",
+          "core": "Most accidents happen in familiar places.",
+          "body": [
+            "Fixed carpets and cabinet doors.",
+            "Keep hot water and knives in a safe place."
+          ],
+          "tags": [
+            "Safety",
+            "Home"
+          ]
+        },
+        {
+          "id": "family-3-2",
+          "title": "Regular cleaning of home medicine cabinets",
+          "core": "Expired medicines are more dangerous than myrrh.",
+          "body": [
+            "Organize by category and mark the validity period.",
+            "Regularly clean up expired medicines."
+          ],
+          "tags": [
+            "Medical Chest",
+            "Health"
+          ]
+        },
+        {
+          "id": "family-3-3",
+          "title": "Chronic diseases of the elderly should be recorded",
+          "core": "Data is more reliable than impressions.",
+          "body": [
+            "Record blood pressure, blood sugar and other indicators.",
+            "Bring your records with you when you see a doctor."
+          ],
+          "tags": [
+            "Elderly",
+            "Record"
+          ]
+        },
+        {
+          "id": "family-3-4",
+          "title": "The whole family knows the emergency contact",
+          "core": "There is no need to find the number temporarily when there is an emergency.",
+          "body": [
+            "Written in a fixed location.",
+            "Teach your children how to ask for help."
+          ],
+          "tags": [
+            "emergency",
+            "Family"
+          ]
+        },
+        {
+          "id": "family-3-5",
+          "title": "Give yourself some alone time",
+          "core": "Caregivers need to be cared for too.",
+          "body": [
+            "Arrange replacement staff in advance.",
+            "Do not use exhaustion as a standard."
+          ],
+          "tags": [
+            "Caregivers",
+            "Boundary"
+          ]
+        },
+        {
+          "id": "family-3-6",
+          "title": "Be anti-slip in your home",
+          "core": "Bathrooms and kitchens are high-risk areas.",
+          "body": [
+            "Place anti-slip mat.",
+            "Keep the ground dry."
+          ],
+          "tags": [
+            "Safety",
+            "Home"
+          ]
+        },
+        {
+          "id": "family-3-7",
+          "title": "Kitchen Knives and Fire Management",
+          "core": "Children are curious but lack judgment.",
+          "body": [
+            "Knives should be locked or placed high.",
+            "Keep children away while cooking."
+          ],
+          "tags": [
+            "Safety",
+            "Kitchen"
+          ]
+        },
+        {
+          "id": "family-3-8",
+          "title": "Pharmaceuticals and detergents locked",
+          "core": "The risk of accidental ingestion is often underestimated.",
+          "body": [
+            "Keep original packaging.",
+            "Do not put in food containers."
+          ],
+          "tags": [
+            "Safety",
+            "Drug"
+          ]
+        },
+        {
+          "id": "family-3-9",
+          "title": "Carry out home escape drills",
+          "core": "You won’t panic if you know the route.",
+          "body": [
+            "Agreed meeting point.",
+            "Practice every six months."
+          ],
+          "tags": [
+            "emergency",
+            "Drill"
+          ]
+        },
+        {
+          "id": "family-3-10",
+          "title": "Measures to prevent lost children",
+          "core": "It is easy to get distracted in crowded places.",
+          "body": [
+            "Write contact information for your children.",
+            "Promise to stand where you are when you can’t find it."
+          ],
+          "tags": [
+            "Safety",
+            "Children"
+          ]
+        },
+        {
+          "id": "family-3-11",
+          "title": "Pay attention to your children’s online safety",
+          "core": "Online risks are just as real.",
+          "body": [
+            "Understand the platform you are using.",
+            "Personal information will not be disclosed."
+          ],
+          "tags": [
+            "Safety",
+            "Network"
+          ]
+        },
+        {
+          "id": "family-3-12",
+          "title": "Remind the elderly to prevent fraud",
+          "core": "The elderly are a high-frequency victim group.",
+          "body": [
+            "Explain common routines.",
+            "Discuss before committing to large expenditures."
+          ],
+          "tags": [
+            "Safety",
+            "Elderly"
+          ]
+        },
+        {
+          "id": "family-3-13",
+          "title": "Chronic disease indicators need to be recorded",
+          "core": "The data is more reliable than memory.",
+          "body": [
+            "Measurement based on fixed time.",
+            "Bring your records with you when you see a doctor."
+          ],
+          "tags": [
+            "Health",
+            "Record"
+          ]
+        },
+        {
+          "id": "family-3-14",
+          "title": "Insurance documents are stored in a centralized place",
+          "core": "and can be found when needed.",
+          "body": [
+            "Save photos in the cloud.",
+            "Inform family members of location."
+          ],
+          "tags": [
+            "Preparation",
+            "单据"
+          ]
+        },
+        {
+          "id": "family-3-15",
+          "title": "准备备用电源",
+          "core": "保证通讯设备可用。",
+          "body": [
+            "Charge the power bank regularly.",
+            "Place it in a fixed location."
+          ],
+          "tags": [
+            "Preparation",
+            "Power"
+          ]
+        },
+        {
+          "id": "family-3-16",
+          "title": "Build mutual aid with neighbors",
+          "core": "Neighbors are the fastest in times of emergency.",
+          "body": [
+            "Get to know people who live on the same floor.",
+            "Leave your contact information."
+          ],
+          "tags": [
+            "Preparation",
+            "Neighborhood"
+          ]
+        },
+        {
+          "id": "family-3-17",
+          "title": "Do regular home safety inspections",
+          "core": "Hidden dangers will appear as life changes.",
+          "body": [
+            "Go through the list item by item.",
+            "Deal with the problem immediately if you find it."
+          ],
+          "tags": [
+            "Safety",
+            "Check"
+          ]
+        },
+        {
+          "id": "family-3-18",
+          "title": "Centralized management of important documents",
+          "core": "Scattered storage is easy to miss.",
+          "body": [
+            "Use fireproof and moisture-proof boxes.",
+            "Inform trusted family members of their location."
+          ],
+          "tags": [
+            "Preparation",
+            "Documents"
+          ]
+        }
+      ]
+    }
+  ]
+}

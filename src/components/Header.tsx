@@ -19,9 +19,7 @@ export function Header({ page }: { page: string }) {
           <a href="#/" className={page === 'home' || page === 'guide' ? 'is-active' : ''}>
             {t('nav.guide')}
           </a>
-          <a href="#/about" className={page === 'about' ? 'is-active' : ''}>
-            {t('nav.about')}
-          </a>
+
           {content.site.repo && (
             <a className="site-nav__ext" href={content.site.repo} target="_blank" rel="noreferrer">
               GITHUB ↗

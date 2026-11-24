@@ -5,21 +5,21 @@ export const ui: Record<string, string> = {
 
   'hero.eyebrow': 'OPEN SOURCE · LIFE INDEX',
   'hero.desc':
-    '防骗、健康、人际、金钱、厨房、关系与低谷恢复。按主题分册，点开即查。',
-  'hero.cta.primary': '浏览八册指南',
+    '防骗、健康、人际、法律、应急、情绪、效率、家庭与出行。十四册内容，按主题分册，点开即查。',
+  'hero.cta.primary': '浏览十四册内容',
   'hero.cta.secondary': '看看有哪些内容',
-  'hero.meta.volumes': '册指南',
-  'hero.meta.principles': '条原则',
+  'hero.meta.volumes': '册内容',
+  'hero.meta.principles': '条内容',
   'hero.meta.opensource': '内容可检索',
 
   'quote.tab': '一言 · HITOKOTO',
   'quote.label': 'DAILY WORD · 每日一句',
   'quote.refresh': '换一句',
 
-  'catalog.title': '八册指南',
-  'catalog.en': 'THE EIGHT VOLUMES',
+  'catalog.title': '内容目录',
+  'catalog.en': 'FOURTEEN VOLUMES',
   'catalog.lead':
-    '八册内容分别对应八类生活主题。每条都写成「一句判断 + 具体做法 + 出处链接」，可以按目录跳读，也可以直接搜索。',
+    '十四册对应十四类生活主题。每条给一句判断、具体做法和必要的背景，可按目录跳读，也可直接搜索。',
   'card.principles': '条原则',
 
   'how.title': '内容特点',
@@ -39,7 +39,7 @@ export const ui: Record<string, string> = {
 
   'closing1.eyebrow': 'A NOTE ON THE CONTENT',
   'closing1.line': '骗局有套路，健康有证据，做饭有克数，关系有边界。\n该查的时候，翻到对应那一册。',
-  'closing1.link': '查看全部内容主题',
+  'closing1.link': '内容说明',
 
   'guide.back': '← 返回目录',
   'guide.stamp': '条原则',
@@ -56,7 +56,7 @@ export const ui: Record<string, string> = {
   'about.eyebrow': 'ABOUT THE CONTENT',
   'about.title': '内容说明',
   'about.lead':
-    '这里收录八类生活主题：骗局拆解、健康证据、人际场景、投资概念、厨房步骤、关系决策、低谷恢复与日常做法。条目按主题分册，每册可搜索、可折叠、可跳读。',
+    '十四类生活主题：骗局拆解、健康证据、人际场景、法律权益、应急安全、情绪调节、效率工具、育儿家庭、出行旅行等。条目按主题分册，每册可搜索、可折叠、可跳读。',
   'about.why.title': '内容编排',
   'about.why.en': 'HOW IT IS ORGANIZED',
   'about.why1.no': '01 / 主题',
@@ -92,8 +92,7 @@ export const ui: Record<string, string> = {
   'about.deploy.github.1': 'Source 选择 GitHub Actions。',
   'about.deploy.github.2': '仓库已附带 .github/workflows/deploy.yml，无需再建文件。',
   'about.deploy.github.3': '推送一次代码，即发布到 https://<用户名>.github.io/<仓库名>/。',
-  'about.notice':
-    '内容更新：先运行 scripts/extract/ 下对应脚本重新抓取，再运行 bun scripts/translate-content.ts 生成英文。',
+  'about.notice': '内容按主题分册，提供简体中文与英文两个版本，持续整理中。',
 
   'closing2.eyebrow': 'THE END OF THE COLLECTION',
   'closing2.line': '这里没有标准答案。\n只有别人踩过的坑、算过的账和写清楚的步骤。',
@@ -117,7 +116,7 @@ export const ui: Record<string, string> = {
   'content.loadError': '内容载入失败，请刷新重试。',
   'about.license.title': '内容来源与许可',
   'about.license.en': 'SOURCES & LICENSES',
-  'about.license.lead': '各项目许可不同。六册按原文收录；另外两册按主题独立改写，不复制原始文字。',
+  'about.license.lead': '多数主题按原文收录；许可受限的主题按主题独立改写，不复制原始文字。',
   'about.license.full': '原文收录',
   'about.license.index': '主题改写',
   'content.indexOnly': '该项目许可不允许公开收录全文，此处仅提供导读与原文入口。',

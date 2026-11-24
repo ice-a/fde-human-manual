@@ -1,0 +1,961 @@
+{
+  "slug": "mind",
+  "sections": [
+    {
+      "title": "See the emotion clearly",
+      "items": [
+        {
+          "id": "mind-0-1",
+          "title": "Name the emotion first",
+          "core": "If you can name it, you will be less likely to be held hostage by half.",
+          "body": [
+            "Use specific words to describe: anxiety, grievance, shame.",
+            "Distinguish between emotions and facts."
+          ],
+          "tags": [
+            "Emotion",
+            "Identify"
+          ]
+        },
+        {
+          "id": "mind-0-2",
+          "title": "Separate thoughts from facts",
+          "core": "The judgments in your mind are not equal to what happened.",
+          "body": [
+            "Write down facts, speculation, and unknowns.",
+            "Find counterexamples to the speculation."
+          ],
+          "tags": [
+            "Cognition",
+            "Judgment"
+          ]
+        },
+        {
+          "id": "mind-0-3",
+          "title": "Emotions are not instructions",
+          "core": "Just because you feel strong doesn't mean you have to act on it.",
+          "body": [
+            "Acknowledge your feelings first.",
+            "Then decide whether to act."
+          ],
+          "tags": [
+            "Emotion",
+            "Boundary"
+          ]
+        },
+        {
+          "id": "mind-0-4",
+          "title": "Record trigger points",
+          "core": "Recurring stimuli tend to have patterns.",
+          "body": [
+            "Take note of the time, scene, and physical reactions.",
+            "Look back and find common ground."
+          ],
+          "tags": [
+            "Record",
+            "Awareness"
+          ]
+        },
+        {
+          "id": "mind-0-5",
+          "title": "Allow emotions to exist",
+          "core": "Suppression often makes it last longer.",
+          "body": [
+            "Give yourself some non-judgmental time.",
+            "Breathe or write with it."
+          ],
+          "tags": [
+            "Acceptance",
+            "Adjustment"
+          ]
+        },
+        {
+          "id": "mind-0-6",
+          "title": "Pay attention to body signals",
+          "core": "Emotions are often reflected in the body first.",
+          "body": [
+            "Pay attention to your heartbeat, shoulders, neck and stomach.",
+            "Record the scene."
+          ],
+          "tags": [
+            "Emotion",
+            "Body"
+          ]
+        },
+        {
+          "id": "mind-0-7",
+          "title": "Rate emotional intensity",
+          "core": "Quantification can reduce the feeling of being overwhelmed.",
+          "body": [
+            "Mark on a scale of 1 to 10.",
+            "Observe when the peak occurs."
+          ],
+          "tags": [
+            "Emotion",
+            "Record"
+          ]
+        },
+        {
+          "id": "mind-0-8",
+          "title": "Set a time limit for emotions",
+          "core": "The emotions that spread infinitely are the most consuming.",
+          "body": [
+            "Agree a period of time to focus on your feelings.",
+            "When the time comes, do a small thing."
+          ],
+          "tags": [
+            "Emotion",
+            "Adjustment"
+          ]
+        },
+        {
+          "id": "mind-0-9",
+          "title": "Distinguish between needs and ideas",
+          "core": "Ideas may not be facts.",
+          "body": [
+            "Write down “what I need”.",
+            "Mark the speculation separately."
+          ],
+          "tags": [
+            "Cognition",
+            "Awareness"
+          ]
+        },
+        {
+          "id": "mind-0-10",
+          "title": "Recognizing Shame",
+          "core": "Shame often disguises itself as procrastination.",
+          "body": [
+            "Say “I don’t feel like I’m good enough.”",
+            "Separate it from the truth."
+          ],
+          "tags": [
+            "Emotion",
+            "Identify"
+          ]
+        },
+        {
+          "id": "mind-0-11",
+          "title": "Behind anger there are often needs",
+          "core": "Anger indicates that boundaries have been touched.",
+          "body": [
+            "Ask yourself what was violated.",
+            "Speak out your needs."
+          ],
+          "tags": [
+            "Anger",
+            "Needs"
+          ]
+        },
+        {
+          "id": "mind-0-12",
+          "title": "Record successful coping experiences",
+          "core": "Evidence is needed when you are at low points.",
+          "body": [
+            "Write down how you got through the past.",
+            "Keep reusable methods."
+          ],
+          "tags": [
+            "Record",
+            "Evidence"
+          ]
+        },
+        {
+          "id": "mind-0-13",
+          "title": "No need to rush to solve it",
+          "core": "Stabilize first and then deal with it.",
+          "body": [
+            "Allow yourself a moment.",
+            "Wait until the mood subsides before deciding."
+          ],
+          "tags": [
+            "Emotion",
+            "Rhythm"
+          ]
+        },
+        {
+          "id": "mind-0-14",
+          "title": "Allow ambivalence",
+          "core": "It's normal to like and hate something at the same time.",
+          "body": [
+            "There is no need to force unified feelings.",
+            "Write both sides separately."
+          ],
+          "tags": [
+            "Emotion",
+            "Acceptance"
+          ]
+        },
+        {
+          "id": "mind-0-15",
+          "title": "Naming subtle emotions",
+          "core": "The more precise it is, the easier it is to process.",
+          "body": [
+            "From \"annoyance\" to \"disappointment\".",
+            "Use specific words to express."
+          ],
+          "tags": [
+            "Emotion",
+            "Vocabulary"
+          ]
+        },
+        {
+          "id": "mind-0-16",
+          "title": "Emotion is not identity",
+          "core": "You are not an emotion itself.",
+          "body": [
+            "Start with \"I feel now.\"",
+            "Don’t take feelings as conclusions."
+          ],
+          "tags": [
+            "Cognition",
+            "Boundary"
+          ]
+        },
+        {
+          "id": "mind-0-17",
+          "title": "Observe trigger frequency",
+          "core": "Recurring stimuli appear regularly.",
+          "body": [
+            "Record time, people and events.",
+            "Look back at the commonalities."
+          ],
+          "tags": [
+            "Record",
+            "Awareness"
+          ]
+        },
+        {
+          "id": "mind-0-18",
+          "title": "Build your own emotional vocabulary",
+          "core": "The richer the vocabulary, the less likely it is to be confused.",
+          "body": [
+            "Remember an emotional word every day.",
+            "Used for real feelings."
+          ],
+          "tags": [
+            "Emotion",
+            "Vocabulary"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Daily Adjustment",
+      "items": [
+        {
+          "id": "mind-1-1",
+          "title": "Breathing is the fastest landing exercise",
+          "core": "Prolonged exhalation can slow down the body.",
+          "body": [
+            "Breathe in slowly and exhale longer.",
+            "Repeat a few rounds before taking care of things."
+          ],
+          "tags": [
+            "Adjustment",
+            "Body"
+          ]
+        },
+        {
+          "id": "mind-1-2",
+          "title": "Sleep is the base of emotions",
+          "core": "Long-term lack of sleep will amplify all fluctuations.",
+          "body": [
+            "Fixed wake-up time.",
+            "Reduce stimulation one hour before bed."
+          ],
+          "tags": [
+            "Sleep",
+            "Basics"
+          ]
+        },
+        {
+          "id": "mind-1-3",
+          "title": "Get your body moving",
+          "core": "Movement can change the chemical environment of your mood.",
+          "body": [
+            "Start with a ten-minute walk.",
+            "Choose the intensity you can persist with."
+          ],
+          "tags": [
+            "Exercise",
+            "Emotion"
+          ]
+        },
+        {
+          "id": "mind-1-4",
+          "title": "Reduce Rumination",
+          "core": "Thinking about the same thing over and over does not lead to new information.",
+          "body": [
+            "Write ideas into questions.",
+            "Limit a thinking time."
+          ],
+          "tags": [
+            "Rumination",
+            "Method"
+          ]
+        },
+        {
+          "id": "mind-1-5",
+          "title": "Basing in the sun and eating regularly",
+          "core": "Basic rhythm affects emotional stability.",
+          "body": [
+            "Exposure to natural light during the day.",
+            "Don’t rely on overeating to regulate."
+          ],
+          "tags": [
+            "Rhythm",
+            "Life"
+          ]
+        },
+        {
+          "id": "mind-1-6",
+          "title": "A fixed wake-up time",
+          "core": "​​is more effective than a fixed bedtime.",
+          "body": [
+            "Don’t make too much difference on weekends.",
+            "Expose yourself to light after getting up."
+          ],
+          "tags": [
+            "Sleep",
+            "Rhythm"
+          ]
+        },
+        {
+          "id": "mind-1-7",
+          "title": "Schedule activities during the day",
+          "core": "Physical activity helps you fall asleep at night.",
+          "body": [
+            "It doesn’t have to be intense.",
+            "Avoid strenuous exercise before going to bed."
+          ],
+          "tags": [
+            "Sleep",
+            "Activities"
+          ]
+        },
+        {
+          "id": "mind-1-8",
+          "title": "Reduce caffeine intake",
+          "core": "Affects sleep after the afternoon.",
+          "body": [
+            "Pay attention to personal sensitive times.",
+            "Reduce gradually rather than stop suddenly."
+          ],
+          "tags": [
+            "Sleep",
+            "Diet"
+          ]
+        },
+        {
+          "id": "mind-1-9",
+          "title": "Write down to-dos before going to bed",
+          "core": "Get thoughts out of your head.",
+          "body": [
+            "Just write the first step tomorrow.",
+            "Put it down after you finish writing."
+          ],
+          "tags": [
+            "Sleep",
+            "Record"
+          ]
+        },
+        {
+          "id": "mind-1-10",
+          "title": "Practice lengthening your exhales",
+          "core": "Exhales are longer and more relaxing than your inhales.",
+          "body": [
+            "Inhale for a count of four and exhale for a count of six.",
+            "Repeat for several rounds."
+          ],
+          "tags": [
+            "Adjustment",
+            "Breathe"
+          ]
+        },
+        {
+          "id": "mind-1-11",
+          "title": "Gradually relax your body",
+          "core": "Tense and then relax from your feet to your head.",
+          "body": [
+            "Hold each part for a few seconds.",
+            "Pay attention to how you feel after relaxing."
+          ],
+          "tags": [
+            "Adjustment",
+            "Body"
+          ]
+        },
+        {
+          "id": "mind-1-12",
+          "title": "Set aside some mindful time",
+          "core": "Observe the present moment without judgment.",
+          "body": [
+            "Start from three minutes.",
+            "Gently pull back when your mind wanders."
+          ],
+          "tags": [
+            "Adjustment",
+            "Mindfulness"
+          ]
+        },
+        {
+          "id": "mind-1-13",
+          "title": "Organize the space around you",
+          "core": "An orderly environment can reduce the load.",
+          "body": [
+            "Just tidy up a small piece.",
+            "Don’t pursue perfection."
+          ],
+          "tags": [
+            "Environment",
+            "Emotion"
+          ]
+        },
+        {
+          "id": "mind-1-14",
+          "title": "Write down your worries and categorize them",
+          "core": "Distinguish between what you can control and what you cannot control.",
+          "body": [
+            "Make a list of what you can do.",
+            "Put those that cannot be placed first."
+          ],
+          "tags": [
+            "Cognition",
+            "Write"
+          ]
+        },
+        {
+          "id": "mind-1-15",
+          "title": "Limit information intake",
+          "core": "Bad news can amplify anxiety.",
+          "body": [
+            "Set the time period for viewing news.",
+            "Do not read conflicting content before going to bed."
+          ],
+          "tags": [
+            "Anxiety",
+            "Information"
+          ]
+        },
+        {
+          "id": "mind-1-16",
+          "title": "Regular diet",
+          "core": "Blood sugar fluctuations affect mood.",
+          "body": [
+            "Don’t rely on sweets to cheer you up.",
+            "Eat meals on time."
+          ],
+          "tags": [
+            "Life",
+            "Diet"
+          ]
+        },
+        {
+          "id": "mind-1-17",
+          "title": "Replenish energy with social interaction",
+          "core": "Not all social interaction consumes energy.",
+          "body": [
+            "Find someone you can relax with.",
+            "It means you just want to chat."
+          ],
+          "tags": [
+            "Relationships",
+            "Support"
+          ]
+        },
+        {
+          "id": "mind-1-18",
+          "title": "Retain interest time",
+          "core": "Interest is the outlet of emotion.",
+          "body": [
+            "Set aside a set amount of time each week.",
+            "Do not target output."
+          ],
+          "tags": [
+            "Interest",
+            "Rhythm"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Facing depression",
+      "items": [
+        {
+          "id": "mind-2-1",
+          "title": "Only make the smallest movements when you are down",
+          "core": "If your goal is too big, it will stop.",
+          "body": [
+            "Choose something that can be done in five minutes.",
+            "No additional requirements after completion."
+          ],
+          "tags": [
+            "Down",
+            "Action"
+          ]
+        },
+        {
+          "id": "mind-2-2",
+          "title": "Write the problem instead of dwelling on it",
+          "core": "Write it down and it becomes a solvable problem.",
+          "body": [
+            "List known, unknown and next steps.",
+            "Break big problems into small pieces."
+          ],
+          "tags": [
+            "Write",
+            "Method"
+          ]
+        },
+        {
+          "id": "mind-2-3",
+          "title": "Don’t compete with yourself",
+          "core": "Blaming yourself will not improve efficiency.",
+          "body": [
+            "Replace \"Why am I doing this\" with \"What should I do next time\".",
+            "Give yourself and others the same tolerance."
+          ],
+          "tags": [
+            "Blame yourself",
+            "MENTALITY"
+          ]
+        },
+        {
+          "id": "mind-2-4",
+          "title": "Allow rest",
+          "core": "Rest is not evidence of failure.",
+          "body": [
+            "Schedule your breaks ahead of time rather than pushing yourself to the point of collapse.",
+            "Review the status after the break."
+          ],
+          "tags": [
+            "Rest",
+            "Boundary"
+          ]
+        },
+        {
+          "id": "mind-2-5",
+          "title": "Resources for Hope",
+          "core": "During lows, you need concrete evidence, not empty words.",
+          "body": [
+            "Record past recovery experiences.",
+            "Watch for the little signals that are getting better."
+          ],
+          "tags": [
+            "Hope",
+            "Evidence"
+          ]
+        },
+        {
+          "id": "mind-2-6",
+          "title": "Lowering standards to enforceability",
+          "core": "Perfect standards can shut down people when they are low.",
+          "body": [
+            "Only completion is required, not quality.",
+            "Complete it counts."
+          ],
+          "tags": [
+            "Down",
+            "Action"
+          ]
+        },
+        {
+          "id": "mind-2-7",
+          "title": "One thing at a time",
+          "core": "Too many choices can make you feel powerless.",
+          "body": [
+            "Write down the only thing you have to do.",
+            "After you finish, think about the next thing."
+          ],
+          "tags": [
+            "Down",
+            "Action"
+          ]
+        },
+        {
+          "id": "mind-2-8",
+          "title": "Record completions rather than feelings",
+          "core": "Feelings can be deceiving, recordings cannot.",
+          "body": [
+            "Write down the next thing you accomplished.",
+            "Read it before going to bed."
+          ],
+          "tags": [
+            "Down",
+            "Record"
+          ]
+        },
+        {
+          "id": "mind-2-9",
+          "title": "Find someone to talk to",
+          "core": "You don’t have to wait until you are in good shape to speak.",
+          "body": [
+            "Indicate whether you want to be listened to or helped.",
+            "Allow the other person not to know how to answer."
+          ],
+          "tags": [
+            "Support",
+            "Expression"
+          ]
+        },
+        {
+          "id": "mind-2-10",
+          "title": "Avoid major decisions",
+          "core": "Judgment is prone to bias during low times.",
+          "body": [
+            "Delay the decision until the state is restored.",
+            "Handle daily affairs first."
+          ],
+          "tags": [
+            "Down",
+            "决定"
+          ]
+        },
+        {
+          "id": "mind-2-11",
+          "title": "保留日常节律",
+          "core": "吃饭睡觉出门是底座。",
+          "body": [
+            "Restore the most basic rhythm first.",
+            "Do not pursue additional goals."
+          ],
+          "tags": [
+            "Down",
+            "Rhythm"
+          ]
+        },
+        {
+          "id": "mind-2-12",
+          "title": "Reduce being alone for long periods of time",
+          "core": "Being alone can amplify rumination.",
+          "body": [
+            "Go where there are people.",
+            "No need to socialize, just stay."
+          ],
+          "tags": [
+            "Down",
+            "Environment"
+          ]
+        },
+        {
+          "id": "mind-2-13",
+          "title": "不要用酒精助眠",
+          "core": "它会破坏睡眠结构。",
+          "body": [
+            "Short-term relaxation is exchanged for long-term fluctuations.",
+            "Seek alternatives when needed."
+          ],
+          "tags": [
+            "Down",
+            "Life"
+          ]
+        },
+        {
+          "id": "mind-2-14",
+          "title": "给自己一段时间",
+          "core": "恢复不是一瞬间的事。",
+          "body": [
+            "No short deadlines.",
+            "Repetitions allowed."
+          ],
+          "tags": [
+            "Down",
+            "Patience"
+          ]
+        },
+        {
+          "id": "mind-2-15",
+          "title": "Looking Back at Recovery",
+          "core": "Evidence is more helpful than encouragement.",
+          "body": [
+            "Write down your experience of coming out.",
+            "Refining the actions that were effective at the time."
+          ],
+          "tags": [
+            "Hope",
+            "Evidence"
+          ]
+        },
+        {
+          "id": "mind-2-16",
+          "title": "Look for small signals",
+          "core": "Changes often appear in the little things first.",
+          "body": [
+            "Watch your sleep and appetite.",
+            "Record small improvements."
+          ],
+          "tags": [
+            "Hope",
+            "Observation"
+          ]
+        },
+        {
+          "id": "mind-2-17",
+          "title": "Get a professional evaluation",
+          "core": "Persistent depression deserves to be taken seriously.",
+          "body": [
+            "Record duration and impact.",
+            "Consult a professional."
+          ],
+          "tags": [
+            "Ask for help",
+            "Professional"
+          ]
+        },
+        {
+          "id": "mind-2-18",
+          "title": "Prepare crisis plans",
+          "core": "The worst times also require plans.",
+          "body": [
+            "Write down people you can contact.",
+            "Save Crisis Hotline."
+          ],
+          "tags": [
+            "Crisis",
+            "Preparation"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Relationships and help-seeking",
+      "items": [
+        {
+          "id": "mind-3-1",
+          "title": "Speak out feelings rather than accuse",
+          "core": "\"I feel...\" is more effective than \"You always...\".",
+          "body": [
+            "Describe specific behavior.",
+            "Make a clear request."
+          ],
+          "tags": [
+            "Expression",
+            "Relationships"
+          ]
+        },
+        {
+          "id": "mind-3-2",
+          "title": "You don’t have to be responsible for everyone",
+          "core": "Boundaries are a prerequisite for a long-term relationship.",
+          "body": [
+            "Clear whose problem should be solved by whom.",
+            "Assess your own capabilities before helping."
+          ],
+          "tags": [
+            "Boundary",
+            "Relationships"
+          ]
+        },
+        {
+          "id": "mind-3-3",
+          "title": "Comparison steals satisfaction",
+          "core": "Other people’s progress is not your yardstick.",
+          "body": [
+            "Reduce exposure to comparison scenarios.",
+            "Use your last time as a reference."
+          ],
+          "tags": [
+            "Compare",
+            "MENTALITY"
+          ]
+        },
+        {
+          "id": "mind-3-4",
+          "title": "Social support is a real resource",
+          "core": "You don’t have to carry it all alone.",
+          "body": [
+            "Say what specific help you need.",
+            "Also allow yourself to be taken care of."
+          ],
+          "tags": [
+            "Support",
+            "Ask for help"
+          ]
+        },
+        {
+          "id": "mind-3-5",
+          "title": "Recognize signs that you need professional help",
+          "core": "If it persists, is severe, or affects your functionality, you should seek help.",
+          "body": [
+            "Be aware of your sleep, appetite, and daily functions.",
+            "Ask for help immediately if you have any crisis thoughts."
+          ],
+          "tags": [
+            "Ask for help",
+            "Signals"
+          ]
+        },
+        {
+          "id": "mind-3-6",
+          "title": "Be specific in your request",
+          "core": "A vague request makes it difficult for others to start.",
+          "body": [
+            "Describe what is needed and how long it will take.",
+            "Give the other party room to refuse."
+          ],
+          "tags": [
+            "Relationships",
+            "Request"
+          ]
+        },
+        {
+          "id": "mind-3-7",
+          "title": "Accept help",
+          "core": "There is no need to feel guilty about being cared for.",
+          "body": [
+            "Say something specific that can help.",
+            "Feedback the results afterwards."
+          ],
+          "tags": [
+            "Relationships",
+            "接受"
+          ]
+        },
+        {
+          "id": "mind-3-8",
+          "title": "拒绝后不要内疚",
+          "core": "拒绝不等于否定对方。",
+          "body": [
+            "Explain your limitations.",
+            "No additional explanation."
+          ],
+          "tags": [
+            "Boundary",
+            "Rejection"
+          ]
+        },
+        {
+          "id": "mind-3-9",
+          "title": "边界要提前说",
+          "core": "等冲突爆发再说就晚了。",
+          "body": [
+            "When you are calm, explain how you can help.",
+            "Start with \"I can\"."
+          ],
+          "tags": [
+            "Boundary",
+            "Communication"
+          ]
+        },
+        {
+          "id": "mind-3-10",
+          "title": "少用指责句式",
+          "core": "「你总是」会立刻激起防御。",
+          "body": [
+            "Describe the specific behavior this time.",
+            "Say how you feel."
+          ],
+          "tags": [
+            "Communication",
+            "Conflict"
+          ]
+        },
+        {
+          "id": "mind-3-11",
+          "title": "冲突后尝试修复",
+          "core": "No cold war is the bottom line.",
+          "body": [
+            "说清你在意什么。",
+            "Use actions to show your willingness to continue."
+          ],
+          "tags": [
+            "Conflict",
+            "Repair"
+          ]
+        },
+        {
+          "id": "mind-3-12",
+          "title": "Not responsible for others",
+          "core": "Clear whose problem should be solved by whom.",
+          "body": [
+            "帮忙前估自己的余力。",
+            "不接管对方的选择。"
+          ],
+          "tags": [
+            "Boundary",
+            "Responsibility"
+          ]
+        },
+        {
+          "id": "mind-3-13",
+          "title": "Pause when comparing",
+          "core": "Other people’s progress is not your yardstick.",
+          "body": [
+            "Reduce exposure to comparison scenarios.",
+            "Use your last time as a reference."
+          ],
+          "tags": [
+            "Compare",
+            "MENTALITY"
+          ]
+        },
+        {
+          "id": "mind-3-14",
+          "title": "Save energy when socializing",
+          "core": "Not all invitations must be accepted.",
+          "body": [
+            "按当前精力选择。",
+            "Politely refuse."
+          ],
+          "tags": [
+            "Social",
+            "Energy"
+          ]
+        },
+        {
+          "id": "mind-3-15",
+          "title": "说明自己的状态",
+          "core": "别人无法读心。",
+          "body": [
+            "告诉亲近的人你最近累了。",
+            "说出需要的支持。"
+          ],
+          "tags": [
+            "Expression",
+            "Support"
+          ]
+        },
+        {
+          "id": "mind-3-16",
+          "title": "Understand the channels for help",
+          "core": "Find them quickly when needed.",
+          "body": [
+            "保存咨询和热线信息。",
+            "知道去哪里就医。"
+          ],
+          "tags": [
+            "Ask for help",
+            "Channels"
+          ]
+        },
+        {
+          "id": "mind-3-17",
+          "title": "Ask for help immediately in times of crisis",
+          "core": "Don’t bear the responsibility alone.",
+          "body": [
+            "联系可信的人陪伴。",
+            "拨打热线或就医。"
+          ],
+          "tags": [
+            "Crisis",
+            "Ask for help"
+          ]
+        },
+        {
+          "id": "mind-3-18",
+          "title": "遭遇骚扰保留证据",
+          "core": "Taking screenshots and recording is important.",
+          "body": [
+            "Save the original information.",
+            "Seek platform or legal help."
+          ],
+          "tags": [
+            "Safety",
+            "Evidence"
+          ]
+        }
+      ]
+    }
+  ]
+}

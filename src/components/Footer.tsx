@@ -13,7 +13,7 @@ export function Footer() {
           </div>
           <div className="site-footer__links">
             <a href="#/">{t('footer.catalog')}</a>
-            <a href="#/about">{t('footer.about')}</a>
+
             {content.site.repo && (
               <a href={content.site.repo} target="_blank" rel="noreferrer">
                 {t('footer.github')}

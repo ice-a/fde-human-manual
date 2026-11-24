@@ -30,5 +30,29 @@
   "level-up": {
     "count": 110,
     "sections": 14
+  },
+  "law-rights": {
+    "count": 75,
+    "sections": 4
+  },
+  "emergency": {
+    "count": 72,
+    "sections": 4
+  },
+  "mind": {
+    "count": 72,
+    "sections": 4
+  },
+  "productivity": {
+    "count": 72,
+    "sections": 4
+  },
+  "family": {
+    "count": 72,
+    "sections": 4
+  },
+  "travel": {
+    "count": 72,
+    "sections": 4
   }
 }
