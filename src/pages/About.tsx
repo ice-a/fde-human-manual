@@ -110,7 +110,7 @@ export function About() {
             {sourceLicenses.map((source) => (
               <div className="ref-item" key={source.name}>
                 <span className="ref-item__no">
-                  {source.mode === 'full' ? '✓' : '·'}
+                  {source.mode === 'full' ? '✓' : '≈'}
                 </span>
                 <h3>{source.name}</h3>
                 <p>

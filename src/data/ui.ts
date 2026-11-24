@@ -5,12 +5,12 @@ export const ui: Record<string, string> = {
 
   'hero.eyebrow': 'OPEN SOURCE · LIFE INDEX',
   'hero.desc':
-    '八份开源指南，一份人生索引。把散落在开源社区里的防骗、健康、人际、金钱与成长经验，整理成一套格式统一、随时可查的条目。不是成功学，是一份能翻的手册。',
+    '防骗、健康、人际、金钱、厨房、关系与低谷恢复。按主题分册，点开即查。',
   'hero.cta.primary': '浏览八册指南',
-  'hero.cta.secondary': '这本手册从哪来',
+  'hero.cta.secondary': '看看有哪些内容',
   'hero.meta.volumes': '册指南',
   'hero.meta.principles': '条原则',
-  'hero.meta.opensource': '开源可部署',
+  'hero.meta.opensource': '内容可检索',
 
   'quote.tab': '一言 · HITOKOTO',
   'quote.label': 'DAILY WORD · 每日一句',
@@ -19,27 +19,27 @@ export const ui: Record<string, string> = {
   'catalog.title': '八册指南',
   'catalog.en': 'THE EIGHT VOLUMES',
   'catalog.lead':
-    '每一册对应一份开源指南，条目统一写成「一句判断 + 具体做法 + 一句记住」。点开任意一册，即可按目录查阅。',
+    '八册内容分别对应八类生活主题。每条都写成「一句判断 + 具体做法 + 出处链接」，可以按目录跳读，也可以直接搜索。',
   'card.principles': '条原则',
 
-  'how.title': '怎么用',
-  'how.en': 'HOW TO USE',
+  'how.title': '内容特点',
+  'how.en': 'WHAT INSIDE',
   'how.step1.no': '01 / 03',
-  'how.step1.title': '先看目录',
+  'how.step1.title': '证据与做法并列',
   'principle.remember': '记住：',
 
   'how.step1.text':
-    '八册指南按主题分开，每册都是独立入口。先找到你现在真正关心的那一本，不必从头读到尾。',
+    '健康与金钱类条目保留证据口径、效应量和原始链接，判断有据可查，不做空口结论。',
   'how.step2.no': '02 / 03',
-  'how.step2.title': '再找条目',
-  'how.step2.text': '每条原则都有核心判断、具体做法和一句可记住的话。用目录快速跳转，当作工具书来查。',
+  'how.step2.title': '场景直接可用',
+  'how.step2.text': '人际与关系类条目写成情境判断和具体说法，遇到相似场面可以直接套用。',
   'how.step3.no': '03 / 03',
-  'how.step3.title': '去做一件',
-  'how.step3.text': '挑一条今天就能执行的最小动作。做完再回来看下一条，指南的价值只在被用起来的时候才成立。',
+  'how.step3.title': '步骤精确到克',
+  'how.step3.text': '厨房类条目给出原料克数、操作顺序和判断标准，照着做就能复现。',
 
-  'closing1.eyebrow': 'A NOTE FROM THE EDITOR',
-  'closing1.line': '没有一种活法适用于所有人。\n但有人把坑标了出来，你就不必再踩一遍。',
-  'closing1.link': '看看这些指南从哪里来',
+  'closing1.eyebrow': 'A NOTE ON THE CONTENT',
+  'closing1.line': '骗局有套路，健康有证据，做饭有克数，关系有边界。\n该查的时候，翻到对应那一册。',
+  'closing1.link': '查看全部内容主题',
 
   'guide.back': '← 返回目录',
   'guide.stamp': '条原则',
@@ -53,27 +53,28 @@ export const ui: Record<string, string> = {
   'guide.missing.desc': '目录里没有找到对应的指南。',
   'guide.missing.cta': '返回目录',
 
-  'about.eyebrow': 'ABOUT THIS MANUAL',
-  'about.title': '关于这本手册',
+  'about.eyebrow': 'ABOUT THE CONTENT',
+  'about.title': '内容说明',
   'about.lead':
-    '这是一份索引，不是原创的人生理论。它把八份开源指南里最可复用的部分压缩成条目，用同一种格式排好，方便随时查、随手改、部署到自己的域名下。',
-  'about.why.title': '为什么做',
-  'about.why.en': 'WHY IT EXISTS',
-  'about.why1.no': '01 / 为什么',
-  'about.why1.title': '好指南太散',
+    '这里收录八类生活主题：骗局拆解、健康证据、人际场景、投资概念、厨房步骤、关系决策、低谷恢复与日常做法。条目按主题分册，每册可搜索、可折叠、可跳读。',
+  'about.why.title': '内容编排',
+  'about.why.en': 'HOW IT IS ORGANIZED',
+  'about.why1.no': '01 / 主题',
+  'about.why1.title': '按生活场景分册',
   'about.why1.text':
-    '这些项目各自写得很好，但分散在不同仓库和站点里。想查一件事，往往要先想起来「这事该去哪本找」。',
-  'about.why2.no': '02 / 怎么做',
-  'about.why2.title': '格式先统一',
+    '防骗、健康、人际、金钱、厨房、关系、成长各自独立。想查哪一类，直接进对应那一册，不必从头翻到尾。',
+  'about.why2.no': '02 / 条目',
+  'about.why2.title': '每条都能单独读',
   'about.why2.text':
-    '把不同写法压成同一套：一句判断、具体做法、一句记住、几个标签。格式一致，查阅速度才快。',
-  'about.why3.no': '03 / 边界',
-  'about.why3.title': '索引不是原文',
-  'about.why3.text': '这里是压缩后的二次整理，不替代原始项目。每册末尾都留了原文入口，判断有争议时回到源头。',
+    '每条给一句核心判断、几条具体做法和一个可复述的提醒。条目之间不依赖顺序，搜到哪条就读哪条。',
+  'about.why3.no': '03 / 出处',
+  'about.why3.title': '保留原文入口',
+  'about.why3.text':
+    '条目末尾保留来源链接。需要完整论证、原始菜谱或最新规定时，可以回到原始项目核对。',
 
   'about.sources.title': '参考的八份指南',
   'about.sources.en': 'THE SOURCES',
-  'about.sources.lead': '全部内容整理自以下开源项目。版权与许可归各自作者所有，此处仅做摘要与索引。',
+  'about.sources.lead': '以下是各册内容的主题来源，版权与许可归各自作者所有。',
 
   'about.deploy.title': '部署到你自己的站点',
   'about.deploy.en': 'DEPLOY ANYWHERE',
@@ -92,10 +93,10 @@ export const ui: Record<string, string> = {
   'about.deploy.github.2': '仓库已附带 .github/workflows/deploy.yml，无需再建文件。',
   'about.deploy.github.3': '推送一次代码，即发布到 https://<用户名>.github.io/<仓库名>/。',
   'about.notice':
-    '想改成自己的品牌：只需改 src/data/references.ts 里的 site 对象（站名、slogan、仓库地址），以及 src/data/guides.ts 里的条目。导航、页脚、首页标题都会自动跟着变。',
+    '内容更新：先运行 scripts/extract/ 下对应脚本重新抓取，再运行 bun scripts/translate-content.ts 生成英文。',
 
-  'closing2.eyebrow': 'THE END OF THE MANUAL',
-  'closing2.line': '人间使用手册不会替你做决定。\n它只在你要做决定时，让相关信息更容易被找到。',
+  'closing2.eyebrow': 'THE END OF THE COLLECTION',
+  'closing2.line': '这里没有标准答案。\n只有别人踩过的坑、算过的账和写清楚的步骤。',
   'closing2.link': '回到目录',
 
   'footer.catalog': '指南目录',
@@ -116,8 +117,8 @@ export const ui: Record<string, string> = {
   'content.loadError': '内容载入失败，请刷新重试。',
   'about.license.title': '内容来源与许可',
   'about.license.en': 'SOURCES & LICENSES',
-  'about.license.lead': '各项目的许可不同。允许转载的已全文收录；许可有限制的只保留入口链接。',
-  'about.license.full': '全文收录',
-  'about.license.index': '仅链接',
+  'about.license.lead': '各项目许可不同。六册按原文收录；另外两册按主题独立改写，不复制原始文字。',
+  'about.license.full': '原文收录',
+  'about.license.index': '主题改写',
   'content.indexOnly': '该项目许可不允许公开收录全文，此处仅提供导读与原文入口。',
 }

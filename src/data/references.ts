@@ -69,6 +69,6 @@ export const site = {
   name: '人间使用手册',
   en: 'THE HUMAN MANUAL',
   slogan: '活得明白一点，坑踩得少一点。',
-  sub: '八份开源指南，一份人生索引。',
+  sub: '八册内容、近两千条生活原则。',
   repo: 'https://github.com/ice-a/human-manual',
 }

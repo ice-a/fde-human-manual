@@ -1,0 +1,1070 @@
+{
+  "slug": "investing",
+  "sections": [
+    {
+      "title": "美股基础",
+      "items": [
+        {
+          "id": "investing-0-1",
+          "title": "先理解交易时间",
+          "core": "盘前盘后流动性不同，价格更容易跳动。",
+          "body": [
+            "常规时段之外成交可能更难。",
+            "把交易时区的换算写清楚。"
+          ],
+          "tags": [
+            "基础",
+            "交易时间"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-2",
+          "title": "认识订单类型",
+          "core": "市价单和限价单解决的是不同问题。",
+          "body": [
+            "市价追求成交，限价追求价格。",
+            "不确定时用限价单控制滑点。"
+          ],
+          "tags": [
+            "订单",
+            "基础"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-3",
+          "title": "看懂财报的三个层次",
+          "core": "收入、利润、现金流讲的是不同故事。",
+          "body": [
+            "利润可以通过会计处理变化。",
+            "现金流更难被修饰。"
+          ],
+          "tags": [
+            "财报",
+            "估值"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-4",
+          "title": "估值倍数不是答案",
+          "core": "倍数高低取决于增长和风险。",
+          "body": [
+            "同行业比较比跨行业比较更有意义。",
+            "把假设写下来再算。"
+          ],
+          "tags": [
+            "估值",
+            "方法"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-5",
+          "title": "分散不是买很多只",
+          "core": "相关性高的资产一起买，风险并没有分散。",
+          "body": [
+            "看行业和驱动因素的差异。",
+            "把仓位上限提前定好。"
+          ],
+          "tags": [
+            "风险",
+            "仓位"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-6",
+          "title": "手续费会吃掉小仓位收益",
+          "core": "频繁交易的成本常被低估。",
+          "body": [
+            "算清每次进出的总成本。",
+            "给策略设最小收益门槛。"
+          ],
+          "tags": [
+            "成本",
+            "交易"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-7",
+          "title": "止损要事先定",
+          "core": "盘中临时决定往往被情绪影响。",
+          "body": [
+            "写下可承受的亏损比例。",
+            "触发后按计划执行。"
+          ],
+          "tags": [
+            "风险",
+            "纪律"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-8",
+          "title": "不要把叙事当事实",
+          "core": "好故事不等于好价格。",
+          "body": [
+            "区分「可能发生」和「已经发生」。",
+            "给每个叙事加上反例。"
+          ],
+          "tags": [
+            "判断",
+            "风险"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-9",
+          "title": "关注流动性",
+          "core": "成交稀疏时，账面价格不等于成交价格。",
+          "body": [
+            "看成交量和买卖价差。",
+            "大单拆开执行。"
+          ],
+          "tags": [
+            "流动性",
+            "交易"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-10",
+          "title": "认识除权除息",
+          "core": "价格变化不一定代表涨跌。",
+          "body": [
+            "分红和拆股会改变报价。",
+            "看总回报而不是单看价格。"
+          ],
+          "tags": [
+            "基础",
+            "分红"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-11",
+          "title": "财报电话会听什么",
+          "core": "管理层措辞变化常常先于数字变化。",
+          "body": [
+            "留意反复强调和刻意回避。",
+            "对比上一期的表述。"
+          ],
+          "tags": [
+            "财报",
+            "信息"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-12",
+          "title": "指数基金的逻辑",
+          "core": "买下整个市场，赌的是长期增长。",
+          "body": [
+            "成本低于主动管理。",
+            "需要承受市场整体波动。"
+          ],
+          "tags": [
+            "基金",
+            "长期"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-13",
+          "title": "再平衡的意义",
+          "core": "让仓位回到计划，而不是追涨。",
+          "body": [
+            "按固定周期或阈值调整。",
+            "卖出涨多的、补回跌多的。"
+          ],
+          "tags": [
+            "仓位",
+            "纪律"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-14",
+          "title": "回撤不是失败",
+          "core": "波动是参与市场的成本。",
+          "body": [
+            "提前接受可能的回撤幅度。",
+            "用仓位而不是情绪应对。"
+          ],
+          "tags": [
+            "风险",
+            "心态"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-15",
+          "title": "复利的反面是亏损复利",
+          "core": "大亏之后需要更大涨幅才能回本。",
+          "body": [
+            "亏损 50% 需要上涨 100%。",
+            "控制回撤优先于追求高收益。"
+          ],
+          "tags": [
+            "风险",
+            "数学"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-16",
+          "title": "别用生活资金投资",
+          "core": "短期要用的钱不适合承受波动。",
+          "body": [
+            "先留足应急储备。",
+            "把投资资金和日常账户分开。"
+          ],
+          "tags": [
+            "资金",
+            "纪律"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-17",
+          "title": "看不懂就不买",
+          "core": "能力圈是最重要的风控。",
+          "body": [
+            "能用一句话说清商业模式。",
+            "说不清时先放着。"
+          ],
+          "tags": [
+            "判断",
+            "能力圈"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-18",
+          "title": "记录每笔交易的理由",
+          "core": "复盘需要原始证据。",
+          "body": [
+            "写下买入依据和预期。",
+            "事后对照结果和逻辑。"
+          ],
+          "tags": [
+            "复盘",
+            "纪律"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-19",
+          "title": "警惕内部人交易信号",
+          "core": "披露信息有滞后且可能误导。",
+          "body": [
+            "看方向和规模，不跟风。",
+            "结合基本面判断。"
+          ],
+          "tags": [
+            "信息",
+            "风险"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-20",
+          "title": "税收会影响实际收益",
+          "core": "税前收益不是最终收益。",
+          "body": [
+            "了解持仓期限对应的税率。",
+            "把税费计入交易成本。"
+          ],
+          "tags": [
+            "税务",
+            "成本"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-21",
+          "title": "财报季波动放大",
+          "core": "预期差比业绩本身更容易引发波动。",
+          "body": [
+            "降低财报前后的仓位暴露。",
+            "不把财报当作确定性事件。"
+          ],
+          "tags": [
+            "财报",
+            "波动"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-22",
+          "title": "认识做空的风险",
+          "core": "亏损理论上没有上限。",
+          "body": [
+            "做空需要更严格的止损。",
+            "借券成本也要计入。"
+          ],
+          "tags": [
+            "做空",
+            "风险"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-23",
+          "title": "不要把过去收益当未来承诺",
+          "core": "历史表现不能替代判断。",
+          "body": [
+            "看策略是否可持续。",
+            "警惕只展示最好成绩的宣传。"
+          ],
+          "tags": [
+            "判断",
+            "误区"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-24",
+          "title": "用清单对抗冲动",
+          "core": "下单前按固定项目核对。",
+          "body": [
+            "理由、风险、仓位、退出条件。",
+            "任何一项写不出就暂停。"
+          ],
+          "tags": [
+            "纪律",
+            "清单"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-25",
+          "title": "信息来源要分层",
+          "core": "新闻、观点和数据不是一回事。",
+          "body": [
+            "优先看原始披露。",
+            "二手解读只作参考。"
+          ],
+          "tags": [
+            "信息",
+            "判断"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-26",
+          "title": "长期持有不等于不检查",
+          "core": "买入逻辑变化时应当重新评估。",
+          "body": [
+            "定期回顾最初理由。",
+            "逻辑消失就退出。"
+          ],
+          "tags": [
+            "长期",
+            "复盘"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-27",
+          "title": "Small 仓位试错",
+          "core": "新知识先用小成本验证。",
+          "body": [
+            "把学习成本当成学费。",
+            "验证有效后再放大。"
+          ],
+          "tags": [
+            "仓位",
+            "学习"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-28",
+          "title": "警惕网红策略",
+          "core": "公开的策略一旦拥挤就会失效。",
+          "body": [
+            "问清楚谁在承担对手方。",
+            "理解策略的收益来源。"
+          ],
+          "tags": [
+            "策略",
+            "风险"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-29",
+          "title": "把风险写在收益前面",
+          "core": "先想最坏情况，再谈机会。",
+          "body": [
+            "列出可能出错的假设。",
+            "准备对应的应对动作。"
+          ],
+          "tags": [
+            "风险",
+            "清单"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-30",
+          "title": "投资是长期练习",
+          "core": "稳定胜过偶尔的漂亮交易。",
+          "body": [
+            "记录决策而不是结果。",
+            "把注意力放在可重复的流程上。"
+          ],
+          "tags": [
+            "长期",
+            "纪律"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        }
+      ]
+    },
+    {
+      "title": "期权入门",
+      "items": [
+        {
+          "id": "investing-1-1",
+          "title": "期权是权利不是义务",
+          "core": "买方付权利金换取选择权，卖方承担对应责任。",
+          "body": [
+            "买方损失有限，卖方责任更大。",
+            "先分清自己是买方还是卖方。"
+          ],
+          "tags": [
+            "期权",
+            "基础"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-2",
+          "title": "理解行权价与现价的关系",
+          "core": "实值、平值、虚值描述的是当下状态。",
+          "body": [
+            "状态会随标的价格变化。",
+            "不要只看期权价便宜。"
+          ],
+          "tags": [
+            "期权",
+            "定价"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-3",
+          "title": "时间价值会衰减",
+          "core": "越临近到期，时间损耗越快。",
+          "body": [
+            "买方在与时间赛跑。",
+            "卖方承担对应的风险。"
+          ],
+          "tags": [
+            "期权",
+            "时间"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-4",
+          "title": "认识 delta",
+          "core": "它近似反映标的价格变化对期权的影响。",
+          "body": [
+            "数值随标的价格变化。",
+            "不要把它当作收益保证。"
+          ],
+          "tags": [
+            "希腊字母",
+            "delta"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-5",
+          "title": "认识 theta",
+          "core": "它描述时间流逝带来的价值变化。",
+          "body": [
+            "买方通常 theta 为负。",
+            "临近到期时影响放大。"
+          ],
+          "tags": [
+            "希腊字母",
+            "theta"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-6",
+          "title": "认识 gamma",
+          "core": "它是 delta 的变化速度。",
+          "body": [
+            "临近到期时 gamma 会放大。",
+            "对冲难度随之上升。"
+          ],
+          "tags": [
+            "希腊字母",
+            "gamma"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-7",
+          "title": "认识 vega",
+          "core": "它衡量隐含波动率变化的影响。",
+          "body": [
+            "波动率上升利好买方。",
+            "事件前后波动率可能骤降。"
+          ],
+          "tags": [
+            "希腊字母",
+            "vega"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-8",
+          "title": "隐含波动率不是预测",
+          "core": "它是市场愿意支付的价格。",
+          "body": [
+            "高隐波意味着权利金贵。",
+            "方向看对也可能亏钱。"
+          ],
+          "tags": [
+            "波动率",
+            "定价"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-9",
+          "title": "买入看涨的基本逻辑",
+          "core": "方向、幅度和时间都要对。",
+          "body": [
+            "涨幅不够或时间太久都可能亏损。",
+            "先算盈亏平衡点。"
+          ],
+          "tags": [
+            "策略",
+            "看涨"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-10",
+          "title": "买入看跌的基本逻辑",
+          "core": "它既是方向工具也是保护工具。",
+          "body": [
+            "用于向下押注时对时机要求高。",
+            "作为保险时要接受成本。"
+          ],
+          "tags": [
+            "策略",
+            "看跌"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-11",
+          "title": "备兑开仓的代价",
+          "core": "收了权利金，也放弃了上行空间。",
+          "body": [
+            "适合温和看涨的判断。",
+            "大涨时机会成本明显。"
+          ],
+          "tags": [
+            "策略",
+            "卖权"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-12",
+          "title": "保护性看跌的成本",
+          "core": "保险不是免费的。",
+          "body": [
+            "把权利金视为支出。",
+            "按可承受成本选择保护范围。"
+          ],
+          "tags": [
+            "策略",
+            "保护"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-13",
+          "title": "价差组合限制风险",
+          "core": "同时买入和卖出可以压低净成本。",
+          "body": [
+            "收益和风险都被框定。",
+            "复杂度上升，需要理解腿间关系。"
+          ],
+          "tags": [
+            "策略",
+            "价差"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-14",
+          "title": "裸卖空的风险",
+          "core": "收益有限而损失可能很大。",
+          "body": [
+            "不建议在没有风控能力时使用。",
+            "保证金追加可能发生。"
+          ],
+          "tags": [
+            "风险",
+            "卖权"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-15",
+          "title": "保证金不是免费资金",
+          "core": "它会随波动被追加。",
+          "body": [
+            "预留额外现金缓冲。",
+            "按最坏情况估算占用。"
+          ],
+          "tags": [
+            "保证金",
+            "风险"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-16",
+          "title": "流动性决定能否退出",
+          "core": "价差大时成交成本很高。",
+          "body": [
+            "优先选成交活跃合约。",
+            "避免在临近到期时交易冷门合约。"
+          ],
+          "tags": [
+            "流动性",
+            "交易"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-17",
+          "title": "到期日规则要提前查清",
+          "core": "行权与结算方式可能不同。",
+          "body": [
+            "现金结算与实物交割差异很大。",
+            "不确定时提前平仓。"
+          ],
+          "tags": [
+            "到期",
+            "基础"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-18",
+          "title": "提前行权通常不划算",
+          "core": "剩余时间价值会被浪费。",
+          "body": [
+            "多数情况下平仓更优。",
+            "分红等特殊情况另作判断。"
+          ],
+          "tags": [
+            "行权",
+            "策略"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-19",
+          "title": "把最大亏损算在前面",
+          "core": "任何策略都要先写清最坏结果。",
+          "body": [
+            "用希腊字母做粗略估计。",
+            "把手续费计入。"
+          ],
+          "tags": [
+            "风险",
+            "清单"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-20",
+          "title": "事件驱动的波动率陷阱",
+          "core": "财报后隐波常快速回落。",
+          "body": [
+            "方向正确也可能因隐波下降亏损。",
+            "考虑波动率本身的暴露。"
+          ],
+          "tags": [
+            "波动率",
+            "事件"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-21",
+          "title": "别把期权当彩票",
+          "core": "高杠杆来自高损耗。",
+          "body": [
+            "用小仓位验证判断。",
+            "连续亏损时停止加码。"
+          ],
+          "tags": [
+            "心态",
+            "风险"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-22",
+          "title": "策略要有退出条件",
+          "core": "进场理由消失就离场。",
+          "body": [
+            "写出时间止损和价格止损。",
+            "达到目标后按计划处理。"
+          ],
+          "tags": [
+            "纪律",
+            "退出"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-23",
+          "title": "理解波动率微笑",
+          "core": "不同行权价的隐波并不相同。",
+          "body": [
+            "反映市场对尾部风险的定价。",
+            "简单模型会失真。"
+          ],
+          "tags": [
+            "波动率",
+            "定价"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-24",
+          "title": "税务处理要提前了解",
+          "core": "不同持有期和行权方式结果不同。",
+          "body": [
+            "记录每笔交易细节。",
+            "咨询专业意见。"
+          ],
+          "tags": [
+            "税务",
+            "合规"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-25",
+          "title": "模拟练习再实盘",
+          "core": "机制理解不等于执行能力。",
+          "body": [
+            "先用小额或模拟账户熟悉流程。",
+            "把错误留在低成本阶段。"
+          ],
+          "tags": [
+            "学习",
+            "纪律"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        }
+      ]
+    },
+    {
+      "title": "加密资产",
+      "items": [
+        {
+          "id": "investing-2-1",
+          "title": "私钥等于资产所有权",
+          "core": "丢掉私钥就丢掉资产。",
+          "body": [
+            "助记词离线保存，多份异地备份。",
+            "永不截图、永不发给他人。"
+          ],
+          "tags": [
+            "钱包",
+            "安全"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-2",
+          "title": "交易所资产不等于你的资产",
+          "core": "放在平台意味着信任平台。",
+          "body": [
+            "长期持有考虑自托管。",
+            "平台资产要留可提现的证据。"
+          ],
+          "tags": [
+            "交易所",
+            "风险"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-3",
+          "title": "授权要核对额度和合约",
+          "core": "无限授权是常见风险点。",
+          "body": [
+            "只授权需要的数量。",
+            "定期撤销不再使用的授权。"
+          ],
+          "tags": [
+            "授权",
+            "安全"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-4",
+          "title": "识别钓鱼签名",
+          "core": "签名请求可能悄悄转移资产。",
+          "body": [
+            "读懂你要签的内容。",
+            "对陌生页面保持默认怀疑。"
+          ],
+          "tags": [
+            "钓鱼",
+            "安全"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-5",
+          "title": "杠杆放大波动",
+          "core": "高杠杆下小幅反向波动就可能爆仓。",
+          "body": [
+            "理解强平价格和保证金机制。",
+            "把杠杆当作风险而不是收益工具。"
+          ],
+          "tags": [
+            "杠杆",
+            "风险"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-6",
+          "title": "认识永续合约的资金费率",
+          "core": "它是多空之间的定期支付。",
+          "body": [
+            "费率方向会随市场情绪变化。",
+            "长期持仓要把费率计入成本。"
+          ],
+          "tags": [
+            "合约",
+            "成本"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-7",
+          "title": "波动率是常态",
+          "core": "剧烈的价格变化不是异常。",
+          "body": [
+            "仓位要能承受常见波动。",
+            "不用短期资金参与。"
+          ],
+          "tags": [
+            "波动",
+            "风险"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-8",
+          "title": "区分链上和链下",
+          "core": "不同环境的结算规则不同。",
+          "body": [
+            "确认资产在哪一层。",
+            "跨链操作前核对地址格式。"
+          ],
+          "tags": [
+            "链上",
+            "基础"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-9",
+          "title": "Gas 费是交易成本",
+          "core": "网络拥堵时成本会上升。",
+          "body": [
+            "选择时机执行非紧急交易。",
+            "把费用计入收益测算。"
+          ],
+          "tags": [
+            "费用",
+            "交易"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-10",
+          "title": "合约风险不可忽略",
+          "core": "代码漏洞会造成不可逆损失。",
+          "body": [
+            "优先选择经过审计的协议。",
+            "不把全部资产放进单一协议。"
+          ],
+          "tags": [
+            "DeFi",
+            "风险"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-11",
+          "title": "稳定币也有风险",
+          "core": "锚定机制并非绝对可靠。",
+          "body": [
+            "了解储备和赎回机制。",
+            "脱锚时及时评估。"
+          ],
+          "tags": [
+            "稳定币",
+            "风险"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-12",
+          "title": "不要相信保本收益",
+          "core": "高收益必然对应高风险。",
+          "body": [
+            "问清收益来源。",
+            "对「稳赚」话术默认拒绝。"
+          ],
+          "tags": [
+            "骗局",
+            "判断"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-13",
+          "title": "项目白皮书要看团队和用例",
+          "core": "宏大叙事不能替代实际需求。",
+          "body": [
+            "检查是否有真实使用者。",
+            "看代币经济是否合理。"
+          ],
+          "tags": [
+            "项目",
+            "判断"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-14",
+          "title": "空投和领币链接要谨慎",
+          "core": "领取动作可能需要授权。",
+          "body": [
+            "先查来源是否官方。",
+            "不连接不明钱包。"
+          ],
+          "tags": [
+            "钓鱼",
+            "安全"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-15",
+          "title": "备份要验证可恢复",
+          "core": "没验证过的备份等于没有备份。",
+          "body": [
+            "定期演练恢复流程。",
+            "把恢复信息交给可信任的人。"
+          ],
+          "tags": [
+            "钱包",
+            "安全"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-16",
+          "title": "交易记录要留档",
+          "core": "对账和税务都需要原始记录。",
+          "body": [
+            "导出平台历史。",
+            "记录链上交易哈希。"
+          ],
+          "tags": [
+            "记录",
+            "合规"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-17",
+          "title": "不要共用地址",
+          "core": "地址复用会暴露资金关联。",
+          "body": [
+            "使用新地址接收不同来源资金。",
+            "注意隐私泄露风险。"
+          ],
+          "tags": [
+            "隐私",
+            "安全"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-18",
+          "title": "认识区块确认",
+          "core": "未确认的交易可能被重组。",
+          "body": [
+            "大额交易等待更多确认。",
+            "不要把未确认当作最终。"
+          ],
+          "tags": [
+            "链上",
+            "基础"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-19",
+          "title": "NFT 的流动性有限",
+          "core": "挂牌价不等于成交价。",
+          "body": [
+            "检查真实成交记录。",
+            "把流动性风险计入估值。"
+          ],
+          "tags": [
+            "NFT",
+            "风险"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-20",
+          "title": "监管政策会变化",
+          "core": "规则变化会影响可用性。",
+          "body": [
+            "关注所在地区的合规要求。",
+            "不把政策博弈当作投资逻辑。"
+          ],
+          "tags": [
+            "合规",
+            "风险"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        }
+      ]
+    }
+  ]
+}

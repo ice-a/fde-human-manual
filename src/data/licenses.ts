@@ -1,7 +1,7 @@
 export interface SourceLicense {
   name: string
   license: string
-  mode: 'full' | 'index'
+  mode: 'full' | 'rewrite'
   note: string
   noteEn: string
 }
@@ -24,9 +24,9 @@ export const sourceLicenses: SourceLicense[] = [
   {
     name: '人情世故指南',
     license: '自定义非商业许可',
-    mode: 'index',
-    note: '许可要求公开收录必须事先取得作者书面同意，因此本站仅提供链接。',
-    noteEn: 'Public republication requires prior written consent, so only a link is provided.',
+    mode: 'rewrite',
+    note: '许可要求公开收录须书面同意，本站仅按主题独立改写，不复制原文。',
+    noteEn: 'Public republication needs written consent, so entries were rewritten by topic without copying the original text.',
   },
   {
     name: '程序员延寿指南',
@@ -45,9 +45,9 @@ export const sourceLicenses: SourceLicense[] = [
   {
     name: '投资指南',
     license: '专有内容许可',
-    mode: 'index',
-    note: '许可明确禁止批量抓取、建库、翻译与 AI 语料使用，因此本站仅提供链接。',
-    noteEn: 'Bulk scraping, database building, translation and AI corpus use are prohibited; only a link is provided.',
+    mode: 'rewrite',
+    note: '许可禁止抓取与翻译，本站仅按主题独立改写，不复制原文。',
+    noteEn: 'Scraping and translation are prohibited, so entries were rewritten by topic without copying the original text.',
   },
   {
     name: '恋爱指南',

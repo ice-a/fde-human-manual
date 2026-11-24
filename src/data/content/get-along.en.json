@@ -1,0 +1,1133 @@
+{
+  "slug": "get-along",
+  "sections": [
+    {
+      "title": "Cooperation on campus",
+      "items": [
+        {
+          "id": "get-along-0-1",
+          "title": "Define the division of labor first when working in groups",
+          "core": "It is easiest to argue about the division of labor when working in groups, so clarify the boundaries before speaking.",
+          "body": [
+            "Assign tasks according to tasks rather than favors. Write clearly who will pay what and when.",
+            "Leave space for filling in, and agree on how to pick up the slack when someone falls behind."
+          ],
+          "tags": [
+            "Cooperation",
+            "Division of labor"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-0-2",
+          "title": "Don’t let one person do it all",
+          "core": "Long-term one-way dedication will make the relationship unbalanced.",
+          "body": [
+            "When you find that the progress is concentrated on yourself, propose reassignment as soon as possible.",
+            "Speak \"I need help\" as a specific request rather than an emotional complaint."
+          ],
+          "tags": [
+            "Cooperation",
+            "Boundary"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-0-3",
+          "title": "There must be a time for return of borrowed items",
+          "core": "Borrowing items is a turnover of trust, not a gift.",
+          "body": [
+            "Indicate the purpose and return node when speaking.",
+            "Please explain the condition of use when returning it, and you will be responsible for any damage."
+          ],
+          "tags": [
+            "Items",
+            "Credit"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-0-4",
+          "title": "If the group disagrees, return to the goal first",
+          "core": "Disputes are often due to different goals.",
+          "body": [
+            "First confirm what you want to achieve with this assignment, and then discuss the path.",
+            "Write the differences into two options and compare costs rather than people."
+          ],
+          "tags": [
+            "Conflict",
+            "Collaboration"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-0-5",
+          "title": "Don’t expose classmates’ shortcomings in public",
+          "core": "Correction in public will make people focus on face.",
+          "body": [
+            "Private reminder and public affirmation.",
+            "When it comes to principled errors, only state the facts and consequences."
+          ],
+          "tags": [
+            "Proportion",
+            "Classmate"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-0-6",
+          "title": "When asked to help, estimate one's own ability first",
+          "core": "If you agree too quickly, you often can't do it later.",
+          "body": [
+            "Ask first how much time and skills are required.",
+            "When unsure, give a clear reply time instead of a vague promise."
+          ],
+          "tags": [
+            "Ask for help",
+            "Rejection"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-0-7",
+          "title": "Leave a feedback after the cooperation is over",
+          "core": "The final feedback determines whether you are willing to cooperate next time.",
+          "body": [
+            "Name the specific things the other person did well.",
+            "Place suggestions for improvement in the context of next cooperation."
+          ],
+          "tags": [
+            "Feedback",
+            "Long-term relationship"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        }
+      ]
+    },
+    {
+      "title": "Ask for help and reward",
+      "items": [
+        {
+          "id": "get-along-1-1",
+          "title": "Narrow the problem down when asking for help",
+          "core": "The more specific the problem, the easier it is for others to help.",
+          "body": [
+            "Speak clearly at which step you are stuck and what you have tried.",
+            "Give the other party room to refuse."
+          ],
+          "tags": [
+            "Ask for help",
+            "Expression"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-1-2",
+          "title": "Don’t assume that others are available",
+          "core": "Taking “helping you” as a matter of course is the beginning of relationship consumption.",
+          "body": [
+            "Ask the other party about their current arrangements first.",
+            "Indicate approximately how much time it will take."
+          ],
+          "tags": [
+            "Boundary",
+            "Politeness"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-1-3",
+          "title": "Thank you should correspond to specific actions",
+          "core": "A general thank you has no memory.",
+          "body": [
+            "Tell me what the other person did that solved your problem.",
+            "Feedback again after the results come out."
+          ],
+          "tags": [
+            "Returns",
+            "Feedback"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-1-4",
+          "title": "Returns do not have to be equivalent, but they must be timely",
+          "core": "The accounts of the relationship are not settled at once.",
+          "body": [
+            "Take the initiative to appear when the other party needs it.",
+            "Tell the other person the resources you can provide instead of waiting for him to speak."
+          ],
+          "tags": [
+            "Returns",
+            "Long-term"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-1-5",
+          "title": "Don’t ask for reasons after being rejected",
+          "core": "Asking for reasons is often a form of pressure.",
+          "body": [
+            "Simple acknowledgment and then switch to other solutions.",
+            "Reserve the possibility that the other party will be willing to help in the future."
+          ],
+          "tags": [
+            "Rejection",
+            "Proportion"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-1-6",
+          "title": "Don’t make decisions for others",
+          "core": "The limit of helping is to give options, not to choose for them.",
+          "body": [
+            "List the risks and benefits you can see.",
+            "Leave the final choice to the parties involved."
+          ],
+          "tags": [
+            "Boundary",
+            "Help"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-1-7",
+          "title": "Big countries must respond to small matters",
+          "core": "Failure to respond to messages is a low-cost loss of trust.",
+          "body": [
+            "If you are busy, let me know when you can reply.",
+            "Always give clear answers even when you are unable to help."
+          ],
+          "tags": [
+            "Communication",
+            "Credit"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        }
+      ]
+    },
+    {
+      "title": "Internship and Workplace",
+      "items": [
+        {
+          "id": "get-along-2-1",
+          "title": "First figure out who is the decision-maker",
+          "core": "If you find the wrong person, no matter how much you do, you won't be able to push it away.",
+          "body": [
+            "Ask who makes the decisions and who executes the process.",
+            "Leave information for both executors and decision-makers when reporting."
+          ],
+          "tags": [
+            "Workplace",
+            "Process"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-2-2",
+          "title": "Reports should bring conclusions",
+          "core": "What superiors lack most is a sense of certainty.",
+          "body": [
+            "Let’s talk about the results and next steps first, and then add the background.",
+            "List the uncertainties separately."
+          ],
+          "tags": [
+            "Report",
+            "Expression"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-2-3",
+          "title": "Confirm acceptance standards when accepting tasks",
+          "core": "If the standards are unclear, rework is inevitable.",
+          "body": [
+            "Ask clearly about the delivery form and time.",
+            "Repeat verbal requests into written confirmation."
+          ],
+          "tags": [
+            "Task",
+            "Confirm"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-2-4",
+          "title": "Don’t judge colleagues behind their backs",
+          "core": "In the workplace, information will be distorted and spread.",
+          "body": [
+            "Talk to the situation, not the person, and only when necessary.",
+            "Leave your opinions to those who can change the outcome."
+          ],
+          "tags": [
+            "Workplace",
+            "Proportion"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-2-5",
+          "title": "Leave traces of your work",
+          "core": "What has been done needs to be traceable.",
+          "body": [
+            "Retain key communications in text.",
+            "Phased results are automatically synchronized."
+          ],
+          "tags": [
+            "Workplace",
+            "Record"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-2-6",
+          "title": "Learn to say \"I need resources\"",
+          "core": "It is not an ability, it is a risk.",
+          "body": [
+            "Explain what is missing and what the consequences will be.",
+            "Give acceptable alternatives."
+          ],
+          "tags": [
+            "Collaboration",
+            "Boundary"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-2-7",
+          "title": "Complete the handover before resigning",
+          "core": "The quality of the closing determines the reputation of the industry.",
+          "body": [
+            "List to-do, contacts and file locations.",
+            "Allow a period of time for the receiver to ask questions."
+          ],
+          "tags": [
+            "Resignation",
+            "Career"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-2-8",
+          "title": "Treat feedback as information instead of inappropriate evaluation",
+          "core": "Useful data is often hidden in criticism.",
+          "body": [
+            "Extract the executable points first.",
+            "You don’t have to accept the emotional part entirely."
+          ],
+          "tags": [
+            "Feedback",
+            "MENTALITY"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        }
+      ]
+    },
+    {
+      "title": "Friends and Money",
+      "items": [
+        {
+          "id": "get-along-3-1",
+          "title": "Think clearly about the relationship costs before borrowing money",
+          "core": "Once money is involved, there is one more variable in the relationship.",
+          "body": [
+            "Ask yourself if you can afford not to pay the money back.",
+            "Write the amount and deadline in words."
+          ],
+          "tags": [
+            "Money",
+            "Friends"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-3-2",
+          "title": "No intermediary guarantee",
+          "core": "Guarantee is taking other people's risks to yourself.",
+          "body": [
+            "Explain the principle when rejecting and do not evaluate the other party.",
+            "Provide alternative channels of information rather than credit."
+          ],
+          "tags": [
+            "Money",
+            "Risk"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-3-3",
+          "title": "AA Say it in advance",
+          "core": "Don’t talk about money until the bill arrives. The atmosphere is most likely to be awkward.",
+          "body": [
+            "Confirm the sharing method before dining.",
+            "When the gap is large, take the initiative to give the opponent steps."
+          ],
+          "tags": [
+            "Dinner party",
+            "Money"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-3-4",
+          "title": "Don’t hide obvious risks for your friends",
+          "core": "Really caring is not about following along.",
+          "body": [
+            "Point out risks privately and give specific evidence.",
+            "Respect the other party’s final decision."
+          ],
+          "tags": [
+            "Friends",
+            "Boundary"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-3-5",
+          "title": "Gifts should be based on relationship, not price",
+          "core": "Expensive gifts will bring burdens.",
+          "body": [
+            "Choose something that the other party can use.",
+            "Avoid putting pressure on the other person to reciprocate the gift."
+          ],
+          "tags": [
+            "Gifts",
+            "Proportion"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-3-6",
+          "title": "If the accounts are clear, the relationship will last longer",
+          "core": "Unclear money is the easiest way to accumulate resentment.",
+          "body": [
+            "Small transactions are settled promptly.",
+            "Keep records of large transactions."
+          ],
+          "tags": [
+            "Money",
+            "Long-term"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        }
+      ]
+    },
+    {
+      "title": "Dinner Party, Privacy and Conflict",
+      "items": [
+        {
+          "id": "get-along-4-1",
+          "title": "What is said at the dinner table will be spread out by default",
+          "core": "Private occasions do not mean confidential occasions.",
+          "body": [
+            "Do not disclose privacy, salary and evaluation to others.",
+            "Use a joke or deflect when questioned."
+          ],
+          "tags": [
+            "Dinner party",
+            "Privacy"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-4-2",
+          "title": "Don’t use other people’s shortcomings as a topic",
+          "core": "The boundary of the joke is that the person involved can also laugh.",
+          "body": [
+            "It is safer to make fun of yourself than to make fun of others.",
+            "Change the topic immediately when you find that the other person is uncomfortable."
+          ],
+          "tags": [
+            "Proportion",
+            "Conflict"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-4-3",
+          "title": "It is better to respect your choice than to persuade you to drink",
+          "core": "Take it as a personal decision whether to drink or not.",
+          "body": [
+            "Offer alternative drinks.",
+            "There is no need to put pressure with face-saving words."
+          ],
+          "tags": [
+            "Dinner party",
+            "Boundary"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-4-4",
+          "title": "Restate the conflict first and then respond",
+          "core": "People cannot listen to reason when they are misunderstood.",
+          "body": [
+            "First tell what you understand the other person’s meaning.",
+            "State your facts and feelings again."
+          ],
+          "tags": [
+            "Conflict",
+            "Communication"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-4-5",
+          "title": "Do not deal with private conflicts in the group",
+          "core": "Public occasions will make it difficult for both parties to step down.",
+          "body": [
+            "Go to one-to-one communication.",
+            "Only conclusions and follow-up arrangements are left in the group."
+          ],
+          "tags": [
+            "Conflict",
+            "Occasion"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-4-6",
+          "title": "You don’t have to say anything about your privacy when asked",
+          "core": "The obligation to answer does not equal the right to ask questions.",
+          "body": [
+            "Give me a fixed statement that won’t hurt anyone.",
+            "It is not necessary to explain the reason for rejection."
+          ],
+          "tags": [
+            "Privacy",
+            "Rejection"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-4-7",
+          "title": "Be considerate of the host’s feelings when leaving the table",
+          "core": "It is safer to explain in advance than to disappear suddenly.",
+          "body": [
+            "Explain the reason and thank you.",
+            "Add a greeting later."
+          ],
+          "tags": [
+            "Etiquette",
+            "Dinner party"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-4-8",
+          "title": "Remember the little things that others have mentioned",
+          "core": "Details are the lowest cost to care about.",
+          "body": [
+            "Write down the other person’s taboos and schedule.",
+            "Next time, take the initiative to mention it and don’t deliberately take credit."
+          ],
+          "tags": [
+            "Relationships",
+            "Details"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        }
+      ]
+    },
+    {
+      "title": "Long-term relationships and boundaries",
+      "items": [
+        {
+          "id": "get-along-5-1",
+          "title": "Boundaries should be stated when the relationship is good",
+          "core": "Wait until the conflict breaks out, and it becomes an accusation.",
+          "body": [
+            "When you are calm, explain how you can help.",
+            "Replace \"You can't...\" with \"I can...\"."
+          ],
+          "tags": [
+            "Boundary",
+            "Long-term relationship"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-5-2",
+          "title": "Allow others to say no",
+          "core": "Rejection does not mean denying you.",
+          "body": [
+            "Allow an escape route when making a request.",
+            "Don’t ask or care after the other party refuses."
+          ],
+          "tags": [
+            "Boundary",
+            "Rejection"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-5-3",
+          "title": "Give alternatives when rejecting",
+          "core": "Hard rejection is easy to hurt, but giving a path is more likely to be accepted.",
+          "body": [
+            "Explain what you can’t do.",
+            "Recommend another feasible method."
+          ],
+          "tags": [
+            "Rejection",
+            "Expression"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-5-4",
+          "title": "Relationships are maintained by predictability",
+          "core": "Hot and cold consumes most trust.",
+          "body": [
+            "Keep your promises on time.",
+            "State changes are explained in advance."
+          ],
+          "tags": [
+            "Trust",
+            "Long-term"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-5-5",
+          "title": "Don’t bind others with a sense of debt",
+          "core": "Relationships maintained by guilt are not strong.",
+          "body": [
+            "Do not mention it repeatedly when helping.",
+            "Don’t regard past efforts as bargaining chips."
+          ],
+          "tags": [
+            "Boundary",
+            "Relationships"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-5-6",
+          "title": "Intimacy does not mean no distance",
+          "core": "No matter how close the relationship is, personal space is needed.",
+          "body": [
+            "Respect each other’s alone time.",
+            "Feel free to contact us at any time without request."
+          ],
+          "tags": [
+            "Boundary",
+            "Intimacy"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-5-7",
+          "title": "Regular review of relationship status",
+          "core": "Long-term relationships need to be maintained rather than indulged.",
+          "body": [
+            "Ask each other if they are feeling well lately.",
+            "Solve small problems when you are young."
+          ],
+          "tags": [
+            "Long-term relationship",
+            "Review"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-5-8",
+          "title": "Ending a relationship should be dignified",
+          "core": "The ending method will affect each other's memory of the relationship.",
+          "body": [
+            "Explain why you cannot continue.",
+            "No personal evaluation."
+          ],
+          "tags": [
+            "End",
+            "Proportion"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        }
+      ]
+    },
+    {
+      "title": "Social Etiquette and Occasions",
+      "items": [
+        {
+          "id": "get-along-6-1",
+          "title": "Punctuality is the most basic form of respect",
+          "core": "Being late conveys the message that \"my time is more important.\"",
+          "body": [
+            "Confirm the route and transportation time in advance.",
+            "Inform us in advance if you may be late."
+          ],
+          "tags": [
+            "Etiquette",
+            "Time"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-6-2",
+          "title": "Give information to both parties when introducing others",
+          "core": "It is difficult to start a conversation by only giving names.",
+          "body": [
+            "Give a background for each sentence.",
+            "Give the topic back to them."
+          ],
+          "tags": [
+            "Social",
+            "Introduction"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-6-3",
+          "title": "Remembering names is more useful than remembering titles",
+          "core": "Being remembered is the most basic thing to be seen.",
+          "body": [
+            "Repeat it on the spot to confirm.",
+            "Take the initiative to greet me when you meet again."
+          ],
+          "tags": [
+            "Etiquette",
+            "Memory"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-6-4",
+          "title": "Visits must be arranged in advance",
+          "core": "Sudden visits can easily disrupt other people's arrangements.",
+          "body": [
+            "State the purpose and estimated duration.",
+            "Confirm if it is convenient upon arrival."
+          ],
+          "tags": [
+            "Etiquette",
+            "Boundary"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-6-5",
+          "title": "Messages are layered by occasion",
+          "core": "Not everything is suitable for instant messaging.",
+          "body": [
+            "Use the phone for emergencies.",
+            "Leave traces of complex matters in words."
+          ],
+          "tags": [
+            "Communication",
+            "Occasion"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-6-6",
+          "title": "Public praise, private reminders",
+          "core": "This applies to almost all relationships.",
+          "body": [
+            "Be specific in your praise.",
+            "Reminder is only for the parties concerned."
+          ],
+          "tags": [
+            "Communication",
+            "Proportion"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-6-7",
+          "title": "Don’t ask for attention when others are busy",
+          "core": "If the timing is wrong, no matter how good the content is, it will be ineffective.",
+          "body": [
+            "Observe the opponent's current rhythm.",
+            "Change a more suitable time."
+          ],
+          "tags": [
+            "Occasion",
+            "Judgment"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-6-8",
+          "title": "Accept good intentions and respond",
+          "core": "Relation needs to flow in both directions.",
+          "body": [
+            "Speak clearly about what you feel.",
+            "Give back when appropriate."
+          ],
+          "tags": [
+            "Etiquette",
+            "Returns"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-6-9",
+          "title": "Seriously say goodbye when leaving",
+          "core": "The final impression often determines the next meeting.",
+          "body": [
+            "Thanks for the specific arrangement.",
+            "Express your desire to see you again."
+          ],
+          "tags": [
+            "Etiquette",
+            "Closing"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-6-10",
+          "title": "Do not forcefully bring the relationship closer",
+          "core": "Excessive enthusiasm will make people retreat.",
+          "body": [
+            "Advance according to the opponent's rhythm.",
+            "Use \"Let's get together next time\" like an invitation rather than an arrangement."
+          ],
+          "tags": [
+            "Boundary",
+            "Social"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-6-11",
+          "title": "Speak less jokes in formal situations",
+          "core": "Humor needs a common context.",
+          "body": [
+            "Keep neutral expressions when in doubt.",
+            "Leave the jokes to those you know well."
+          ],
+          "tags": [
+            "Occasion",
+            "Expression"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        }
+      ]
+    },
+    {
+      "title": "Collaboration and expression",
+      "items": [
+        {
+          "id": "get-along-7-1",
+          "title": "Let’s talk about the conclusion first, then the reasons",
+          "core": "Information density determines communication efficiency.",
+          "body": [
+            "The first sentence is for judgment.",
+            "Supplementary evidence and examples will follow."
+          ],
+          "tags": [
+            "Expression",
+            "Report"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-7-2",
+          "title": "Write the request into an executable item",
+          "core": "A vague request equals no request.",
+          "body": [
+            "Write clearly what you want to do and when you want to do it.",
+            "Indicate priority."
+          ],
+          "tags": [
+            "Collaboration",
+            "Request"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-7-3",
+          "title": "Restate the confirmation to avoid misunderstanding",
+          "core": "The cost of confirmation is much lower than the cost of rework.",
+          "body": [
+            "Repeat it in your own words.",
+            "List the points of disagreement separately."
+          ],
+          "tags": [
+            "Communication",
+            "Confirm"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-7-4",
+          "title": "Speech at the meeting should be short and point-of-view",
+          "core": "It is easy to lose attention if you make a long foreshadowing.",
+          "body": [
+            "One idea with one example.",
+            "Leave the details until after the meeting."
+          ],
+          "tags": [
+            "Meeting",
+            "Expression"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-7-5",
+          "title": "Objections must be addressed",
+          "core": "Replace \"I don't agree with you\" with \"This plan has risks.\"",
+          "body": [
+            "Give verifiable reasons.",
+            "Attach your alternative."
+          ],
+          "tags": [
+            "Conflict",
+            "Collaboration"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-7-6",
+          "title": "Written communication must be read independently",
+          "core": "and it can be considered clear if it is still valid without context.",
+          "body": [
+            "Add background and conclusion.",
+            "Avoid abbreviations that only the person involved will understand."
+          ],
+          "tags": [
+            "Writing",
+            "Collaboration"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-7-7",
+          "title": "Don’t wait to be asked when synchronizing progress",
+          "core": "Active synchronization can reduce a lot of questioning.",
+          "body": [
+            "Fixed cadence for short updates.",
+            "Risks are exposed in advance."
+          ],
+          "tags": [
+            "Collaboration",
+            "Progress"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-7-8",
+          "title": "Allow time window for feedback",
+          "core": "It may not be digested on the spot.",
+          "body": [
+            "The explanation can be discussed later.",
+            "Agree a time for response."
+          ],
+          "tags": [
+            "Feedback",
+            "Communication"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        }
+      ]
+    },
+    {
+      "title": "Family and Intimacy",
+      "items": [
+        {
+          "id": "get-along-8-1",
+          "title": "At home, talk about facts before talking about feelings",
+          "core": "Discussions between stories can easily turn into quarrels.",
+          "body": [
+            "First describe what happened.",
+            "Let’s talk about the feelings brought about by this incident."
+          ],
+          "tags": [
+            "Family",
+            "Communication"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-8-2",
+          "title": "Not saying \"you always\"",
+          "core": "Full name Judgment will immediately trigger defensiveness.",
+          "body": [
+            "Replace it with what happened specifically this time.",
+            "State the requirements into actionable actions."
+          ],
+          "tags": [
+            "Communication",
+            "Conflict"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-8-3",
+          "title": "Intimacy also requires consent",
+          "core": "Default does not replace explicitness.",
+          "body": [
+            "Important decisions must be confirmed by both parties.",
+            "Respect the other person’s right to change their mind at any time."
+          ],
+          "tags": [
+            "Boundary",
+            "Agree"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-8-4",
+          "title": "The division of housework must be visible",
+          "core": "Invisible labor is most easily ignored.",
+          "body": [
+            "Make a list and frequency.",
+            "Regular review of whether it is fair."
+          ],
+          "tags": [
+            "Family",
+            "Division of labor"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-8-5",
+          "title": "Accept the difference in rhythm when communicating with parents",
+          "core": "Their experiences come from different environments.",
+          "body": [
+            "Understand the worry first, then explain the choice.",
+            "Persuade with results rather than arguments."
+          ],
+          "tags": [
+            "Family",
+            "Intergenerational"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-8-6",
+          "title": "There must be repair actions after conflict",
+          "core": "No cold war is the bottom line.",
+          "body": [
+            "Speak clearly about what you care about.",
+            "Use concrete actions to express your willingness to continue."
+          ],
+          "tags": [
+            "Conflict",
+            "Repair"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        }
+      ]
+    },
+    {
+      "title": "Job Hunting, Onboarding and Leaving",
+      "items": [
+        {
+          "id": "get-along-9-1",
+          "title": "Research the person before submitting",
+          "core": "Generic resumes have the lowest response rate.",
+          "body": [
+            "Align experience with job requirements.",
+            "Prepare a question that explains your motivation."
+          ],
+          "tags": [
+            "Job hunting",
+            "Preparation"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-9-2",
+          "title": "During the interview, talk about the process, not just the results",
+          "core": "The other party wants to know how you did it.",
+          "body": [
+            "Explain the constraints and choices at the time.",
+            "Give verifiable details."
+          ],
+          "tags": [
+            "Interview",
+            "Expression"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-9-3",
+          "title": "Understand the range before negotiating salary",
+          "core": "Information gaps will directly turn into losses.",
+          "body": [
+            "Understand the market level through public channels.",
+            "Give educated expectations rather than random quotes."
+          ],
+          "tags": [
+            "Salary",
+            "Negotiation"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-9-4",
+          "title": "Focus on observation in the first two weeks of joining the company",
+          "core": "First figure out the interpersonal and work rhythm.",
+          "body": [
+            "Ask more about the process and draw less conclusions.",
+            "Document key people and decision paths."
+          ],
+          "tags": [
+            "Onboarding",
+            "Adaptation"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-9-5",
+          "title": "Treat the probation period as a two-way choice",
+          "core": "You are also evaluating the other party.",
+          "body": [
+            "Record the gap between promises and fulfillment.",
+            "Stop losses as soon as possible when a fundamental mismatch is discovered."
+          ],
+          "tags": [
+            "Onboarding",
+            "Judgment"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-9-6",
+          "title": "Reason for leaving the job remains neutral",
+          "core": "The industry is small and evaluations will spread.",
+          "body": [
+            "Talk about development direction, not personnel conflicts.",
+            "Leave gratitude to specific people."
+          ],
+          "tags": [
+            "Resignation",
+            "Proportion"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-9-7",
+          "title": "Maintain minimal contact after separation",
+          "core": "Former colleagues are long-term resources.",
+          "body": [
+            "Keep greetings at reasonable times.",
+            "Do not ask for help beyond the scope of the relationship."
+          ],
+          "tags": [
+            "Resignation",
+            "Long-term"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-9-8",
+          "title": "Every experience must leave something reusable",
+          "core": "Turn work into ability, not consumption.",
+          "body": [
+            "Organize the results that can be displayed.",
+            "Record the pitfalls and solutions."
+          ],
+          "tags": [
+            "Growth",
+            "Review"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        }
+      ]
+    }
+  ]
+}

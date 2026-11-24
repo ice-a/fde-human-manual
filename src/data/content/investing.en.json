@@ -1,0 +1,1070 @@
+{
+  "slug": "investing",
+  "sections": [
+    {
+      "title": "Basics of U.S. stocks",
+      "items": [
+        {
+          "id": "investing-0-1",
+          "title": "Understand the trading hours first",
+          "core": "The liquidity before and after the market is different, and prices are more likely to jump.",
+          "body": [
+            "It may be more difficult to complete transactions outside regular hours.",
+            "Write the conversion of trading time zone clearly."
+          ],
+          "tags": [
+            "Basics",
+            "Trading hours"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-2",
+          "title": "Understanding order types",
+          "core": "Market orders and limit orders solve different problems.",
+          "body": [
+            "The market price pursues the transaction, and the limit price pursues the price.",
+            "Use limit orders to control slippage when unsure."
+          ],
+          "tags": [
+            "Orders",
+            "Basics"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-3",
+          "title": "Understand the three levels of financial reports",
+          "core": "Revenue, profit, and cash flow tell different stories.",
+          "body": [
+            "Profits can vary through accounting treatments.",
+            "Cash flow is harder to polish."
+          ],
+          "tags": [
+            "Financial Reports",
+            "Valuation"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-4",
+          "title": "Valuation multiples are not the answer",
+          "core": "The multiple depends on growth and risk.",
+          "body": [
+            "Comparisons within the same industry are more meaningful than comparisons across industries.",
+            "Write down the assumptions and then do the math."
+          ],
+          "tags": [
+            "Valuation",
+            "Method"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-5",
+          "title": "Diversification is not about buying many",
+          "core": "assets with high correlation together, and the risk is not spread.",
+          "body": [
+            "Look at the differences in industries and driving factors.",
+            "Set the position limit in advance."
+          ],
+          "tags": [
+            "Risk",
+            "Position"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-6",
+          "title": "Handling fees will eat up the profits of small positions",
+          "core": "The cost of frequent transactions is often underestimated.",
+          "body": [
+            "Calculate the total cost of each entry and exit.",
+            "Set a minimum return threshold for the strategy."
+          ],
+          "tags": [
+            "Cost",
+            "Trading"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-7",
+          "title": "Stop loss must be determined in advance",
+          "core": "Temporary intraday decisions are often affected by emotions.",
+          "body": [
+            "Write down the acceptable loss ratio.",
+            "Execute as planned after triggering."
+          ],
+          "tags": [
+            "Risk",
+            "Discipline"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-8",
+          "title": "Don’t take narrative as fact",
+          "core": "A good story does not equal a good price.",
+          "body": [
+            "Distinguish between \"may happen\" and \"has happened\".",
+            "Add counterexamples to each narrative."
+          ],
+          "tags": [
+            "Judgment",
+            "Risk"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-9",
+          "title": "Pay attention to liquidity",
+          "core": "When transactions are sparse, the book price is not equal to the transaction price.",
+          "body": [
+            "Look at trading volume and bid-ask spread.",
+            "Large orders are split and executed."
+          ],
+          "tags": [
+            "Liquidity",
+            "Trading"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-10",
+          "title": "Understand ex-rights and ex-dividends",
+          "core": "Price changes do not necessarily represent increases or decreases.",
+          "body": [
+            "Dividends and stock splits can change quotes.",
+            "Look at total return rather than price alone."
+          ],
+          "tags": [
+            "Basics",
+            "Dividends"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-11",
+          "title": "What to Listen for on Earnings Calls",
+          "core": "Changes in management’s rhetoric often precede changes in the numbers.",
+          "body": [
+            "Pay attention to repeated emphasis and deliberate avoidance.",
+            "Compare the statement in the previous issue."
+          ],
+          "tags": [
+            "Financial Reports",
+            "Information"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-12",
+          "title": "The logic of index funds",
+          "core": "Buy the entire market, betting on long-term growth.",
+          "body": [
+            "Lower cost than active management.",
+            "Need to withstand the overall market fluctuations."
+          ],
+          "tags": [
+            "Funds",
+            "Long-term"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-13",
+          "title": "The significance of rebalancing",
+          "core": "Let the position return to the plan, rather than chasing the rise.",
+          "body": [
+            "Adjust according to a fixed period or threshold.",
+            "Sell what goes up and cover what goes down."
+          ],
+          "tags": [
+            "Position",
+            "Discipline"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-14",
+          "title": "Retracements are not failures",
+          "core": "Volatility is the cost of participating in the market.",
+          "body": [
+            "Accept the possible retracement in advance.",
+            "React with positions rather than emotions."
+          ],
+          "tags": [
+            "Risk",
+            "MENTALITY"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-15",
+          "title": "The opposite of compound interest is compound interest on losses",
+          "core": "After a big loss, a larger increase is needed to recover the capital.",
+          "body": [
+            "A 50% loss requires a 100% gain.",
+            "Controlling drawdowns takes precedence over pursuing high returns."
+          ],
+          "tags": [
+            "Risk",
+            "Math"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-16",
+          "title": "Don’t invest with life money",
+          "core": "Money that is needed in the short term is not suitable to withstand fluctuations.",
+          "body": [
+            "Save enough emergency reserves first.",
+            "Separate investment funds from daily accounts."
+          ],
+          "tags": [
+            "Funds",
+            "Discipline"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-17",
+          "title": "Don’t buy if you don’t understand it",
+          "core": "The circle of competence is the most important risk control.",
+          "body": [
+            "Be able to explain the business model in one sentence.",
+            "Leave it alone if you can’t explain clearly."
+          ],
+          "tags": [
+            "Judgment",
+            "Circle of Competence"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-18",
+          "title": "Reason for recording each transaction",
+          "core": "Review requires original evidence.",
+          "body": [
+            "Write down the basis and expectations for buying.",
+            "Contact the results and logic afterwards."
+          ],
+          "tags": [
+            "Review",
+            "Discipline"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-19",
+          "title": "Beware of insider trading signals",
+          "core": "Disclosure information is delayed and may be misleading.",
+          "body": [
+            "Look at the direction and scale, don’t follow the trend.",
+            "Based on fundamental judgment."
+          ],
+          "tags": [
+            "Information",
+            "Risk"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-20",
+          "title": "Taxes will affect actual earnings",
+          "core": "Pre-tax earnings are not final earnings.",
+          "body": [
+            "Understand the tax rate corresponding to the holding period.",
+            "Include taxes into transaction costs."
+          ],
+          "tags": [
+            "Taxation",
+            "Cost"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-21",
+          "title": "Earnings season volatility increases",
+          "core": "Differences in expectations are more likely to cause volatility than performance itself.",
+          "body": [
+            "Reduce position exposure before and after earnings reports.",
+            "Do not treat financial reports as deterministic events."
+          ],
+          "tags": [
+            "Financial Reports",
+            "Volatility"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-22",
+          "title": "Understand the risks of short selling",
+          "core": "There is no theoretical upper limit to losses.",
+          "body": [
+            "Short selling requires tighter stops.",
+            "The cost of borrowing bonds must also be included."
+          ],
+          "tags": [
+            "Short selling",
+            "Risk"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-23",
+          "title": "Don’t treat past returns as a promise for the future",
+          "core": "Historical performance cannot replace judgment.",
+          "body": [
+            "See if the strategy is sustainable.",
+            "Be wary of promotions that only show the best results."
+          ],
+          "tags": [
+            "Judgment",
+            "Misunderstanding"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-24",
+          "title": "Use a checklist to fight impulse",
+          "core": "Check the fixed items before placing an order.",
+          "body": [
+            "Reasons, risks, positions, exit conditions.",
+            "If you cannot write any item, pause."
+          ],
+          "tags": [
+            "Discipline",
+            "List"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-25",
+          "title": "Information sources should be hierarchical",
+          "core": "News, opinion and data are not the same thing.",
+          "body": [
+            "See original disclosure first.",
+            "Second-hand interpretation is for reference only."
+          ],
+          "tags": [
+            "Information",
+            "Judgment"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-26",
+          "title": "Long-term holding does not mean not checking",
+          "core": "You should re-evaluate when the buying logic changes.",
+          "body": [
+            "Review the original rationale regularly.",
+            "Exit when the logic disappears."
+          ],
+          "tags": [
+            "Long-term",
+            "Review"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-27",
+          "title": "Small position trial and error",
+          "core": "New knowledge is first verified with a small cost.",
+          "body": [
+            "Treat the cost of study as tuition.",
+            "Enlarge after verification is valid."
+          ],
+          "tags": [
+            "Position",
+            "Learn"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-28",
+          "title": "Beware of influencer strategies",
+          "core": "Public strategies will be ineffective once they are crowded.",
+          "body": [
+            "Ask who is taking on the counterparty.",
+            "Understand the strategy’s revenue sources."
+          ],
+          "tags": [
+            "Strategy",
+            "Risk"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-29",
+          "title": "Put risks before benefits",
+          "core": "Think of the worst-case scenario first, then talk about opportunities.",
+          "body": [
+            "List assumptions that could be wrong.",
+            "Prepare corresponding response actions."
+          ],
+          "tags": [
+            "Risk",
+            "List"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-0-30",
+          "title": "Investing is a long-term exercise",
+          "core": "Stability is better than the occasional good deal.",
+          "body": [
+            "Record decisions rather than results.",
+            "Focus on repeatable processes."
+          ],
+          "tags": [
+            "Long-term",
+            "Discipline"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        }
+      ]
+    },
+    {
+      "title": "Introduction to options",
+      "items": [
+        {
+          "id": "investing-1-1",
+          "title": "Options are rights, not obligations",
+          "core": "The buyer pays a premium in exchange for the option, and the seller bears corresponding responsibilities.",
+          "body": [
+            "The buyer’s losses are limited, but the seller’s liability is greater.",
+            "First distinguish whether you are a buyer or a seller."
+          ],
+          "tags": [
+            "Options",
+            "Basics"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-2",
+          "title": "Understand the relationship between exercise price and current price",
+          "core": "Real value, at-value, and virtual value describe the current state.",
+          "body": [
+            "The status will change with the underlying price.",
+            "Don’t just look at option prices as cheap."
+          ],
+          "tags": [
+            "Options",
+            "Pricing"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-3",
+          "title": "The value of time will decay",
+          "core": "The closer to expiration, the faster the time loss.",
+          "body": [
+            "The buyer is in a race against time.",
+            "The seller bears the corresponding risks."
+          ],
+          "tags": [
+            "Options",
+            "Time"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-4",
+          "title": "Understand delta",
+          "core": "It approximately reflects the impact of changes in the underlying price on options.",
+          "body": [
+            "The value changes with the underlying price.",
+            "Don’t take it as a guarantee of income."
+          ],
+          "tags": [
+            "Greek letters",
+            "delta"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-5",
+          "title": "Understand theta",
+          "core": "It describes the change in value brought about by the passage of time.",
+          "body": [
+            "Buyers usually have negative theta.",
+            "The impact is magnified when expiration is approaching."
+          ],
+          "tags": [
+            "Greek letters",
+            "theta"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-6",
+          "title": "Understanding gamma",
+          "core": "It is the rate of change of delta.",
+          "body": [
+            "Gamma will increase as expiration approaches.",
+            "The difficulty of hedging increases accordingly."
+          ],
+          "tags": [
+            "Greek letters",
+            "gamma"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-7",
+          "title": "Get to know vega",
+          "core": "It measures the impact of changes in implied volatility.",
+          "body": [
+            "Rising volatility is good for buyers.",
+            "Volatility may plummet before and after the event."
+          ],
+          "tags": [
+            "Greek letters",
+            "vega"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-8",
+          "title": "Implied volatility is not a prediction",
+          "core": "It is the price the market is willing to pay.",
+          "body": [
+            "High hidden wave means expensive power.",
+            "You can lose money if you look in the right direction."
+          ],
+          "tags": [
+            "Volatility",
+            "Pricing"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-9",
+          "title": "The basic logic of buying bullish",
+          "core": "The direction, amplitude and time must be correct.",
+          "body": [
+            "You may lose money if the increase is not enough or the time is too long.",
+            "Calculate the break-even point first."
+          ],
+          "tags": [
+            "Strategy",
+            "Ballish"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-10",
+          "title": "The basic logic of buying bearish",
+          "core": "It is both a directional tool and a protective tool.",
+          "body": [
+            "is used for downward bets that require high timing.",
+            "Accept the cost when acting as insurance."
+          ],
+          "tags": [
+            "Strategy",
+            "Bearish"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-11",
+          "title": "The price of opening a covered position",
+          "core": "Received the premium and gave up the upside.",
+          "body": [
+            "Suitable for moderately bullish judgment.",
+            "The opportunity cost is obvious when there is a big rise."
+          ],
+          "tags": [
+            "Strategy",
+            "Puts"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-12",
+          "title": "Cost of Protective Puts",
+          "core": "Insurance is not free.",
+          "body": [
+            "Think of royalties as expenses.",
+            "Choose protection coverage at an affordable cost."
+          ],
+          "tags": [
+            "Strategy",
+            "Protection"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-13",
+          "title": "Spread portfolio limits risk",
+          "core": "Simultaneous buying and selling can drive down net costs.",
+          "body": [
+            "Returns and risks are framed.",
+            "The complexity increases and you need to understand the relationship between the legs."
+          ],
+          "tags": [
+            "Strategy",
+            "Spreads"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-14",
+          "title": "Risks of Naked Short Selling",
+          "core": "Profits are limited and losses may be large.",
+          "body": [
+            "Not recommended for use when there is no risk control capability.",
+            "Margin calls may occur."
+          ],
+          "tags": [
+            "Risk",
+            "Puts"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-15",
+          "title": "Margin is not free money",
+          "core": "It will be added with fluctuations.",
+          "body": [
+            "Set aside an extra cash buffer.",
+            "Estimated occupancy based on worst case scenario."
+          ],
+          "tags": [
+            "Margin",
+            "Risk"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-16",
+          "title": "Liquidity determines whether you can exit",
+          "core": "The transaction cost is very high when the price difference is large.",
+          "body": [
+            "Priority is given to contracts with active transactions.",
+            "Avoid trading unpopular contracts near expiration."
+          ],
+          "tags": [
+            "Liquidity",
+            "Trading"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-17",
+          "title": "Check the expiry date rules in advance",
+          "core": "The exercise and settlement methods may be different.",
+          "body": [
+            "There is a big difference between cash settlement and physical delivery.",
+            "Close positions in advance when uncertain."
+          ],
+          "tags": [
+            "Expiration",
+            "Basics"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-18",
+          "title": "Exercising options early is usually not cost-effective",
+          "core": "The value of the remaining time will be wasted.",
+          "body": [
+            "In most cases it is better to close the position.",
+            "Dividends and other special circumstances will be judged separately."
+          ],
+          "tags": [
+            "Exercise",
+            "Strategy"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-19",
+          "title": "Put the biggest loss first",
+          "core": "Any strategy must first write down the worst result.",
+          "body": [
+            "Use Greek letters to make a rough estimate.",
+            "Include the handling fee."
+          ],
+          "tags": [
+            "Risk",
+            "List"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-20",
+          "title": "Event-driven volatility trap",
+          "core": "The hidden wave often falls quickly after the financial report.",
+          "body": [
+            "If you are in the right direction, you may lose money due to the decline of hidden waves.",
+            "Consider exposure to volatility itself."
+          ],
+          "tags": [
+            "Volatility",
+            "Events"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-21",
+          "title": "Don’t treat options as lottery tickets",
+          "core": "High leverage comes with high losses.",
+          "body": [
+            "Use small positions to verify your judgment.",
+            "Stop adding when losing money continuously."
+          ],
+          "tags": [
+            "MENTALITY",
+            "Risk"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-22",
+          "title": "The strategy must have exit conditions",
+          "core": "Leave the market when the reason for entering the market disappears.",
+          "body": [
+            "Write the time stop loss and price stop loss.",
+            "Proceed as planned after reaching the goal."
+          ],
+          "tags": [
+            "Discipline",
+            "Exit"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-23",
+          "title": "Understand Volatility Smile",
+          "core": "The hidden waves of different exercise prices are not the same.",
+          "body": [
+            "Reflects the market’s pricing of tail risk.",
+            "Simple models will be distorted."
+          ],
+          "tags": [
+            "Volatility",
+            "Pricing"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-24",
+          "title": "You need to understand the tax treatment in advance",
+          "core": "The results are different for different holding periods and exercise methods.",
+          "body": [
+            "Record details of each transaction.",
+            "Seek professional advice."
+          ],
+          "tags": [
+            "Taxation",
+            "Compliance"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-1-25",
+          "title": "Simulation practice and then real offer",
+          "core": "Understanding the mechanism does not equal execution ability.",
+          "body": [
+            "First use a small amount or demo account to familiarize yourself with the process.",
+            "Save the mistakes for the low-cost stage."
+          ],
+          "tags": [
+            "Learn",
+            "Discipline"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        }
+      ]
+    },
+    {
+      "title": "Cryptoassets",
+      "items": [
+        {
+          "id": "investing-2-1",
+          "title": "Private key equals asset ownership",
+          "core": "Losing the private key means losing the asset.",
+          "body": [
+            "Mnemonic phrases are saved offline and backed up in multiple remote locations.",
+            "Never take screenshots and never send them to others."
+          ],
+          "tags": [
+            "Wallet",
+            "Safety"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-2",
+          "title": "Exchange assets are not equal to your assets",
+          "core": "Putting it on the platform means trusting the platform.",
+          "body": [
+            "Consider self-custody for long-term holdings.",
+            "Platform assets must have evidence that they can be withdrawn."
+          ],
+          "tags": [
+            "Exchange",
+            "Risk"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-3",
+          "title": "Check the limit and contract for authorization",
+          "core": "Unlimited authorization is a common risk point.",
+          "body": [
+            "Only authorize the required quantity.",
+            "Periodically revoke authorizations that are no longer in use."
+          ],
+          "tags": [
+            "Authorization",
+            "Safety"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-4",
+          "title": "Identify Phishing Signatures",
+          "core": "Signature requests may silently transfer assets.",
+          "body": [
+            "Read what you are signing.",
+            "Remain suspicious of unfamiliar pages by default."
+          ],
+          "tags": [
+            "Fishing",
+            "Safety"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-5",
+          "title": "Leverage amplifies fluctuations",
+          "core": "Small reverse fluctuations under high leverage may cause liquidation.",
+          "body": [
+            "Understand the liquidation price and margin mechanism.",
+            "Think of leverage as a risk rather than a return tool."
+          ],
+          "tags": [
+            "Leverage",
+            "Risk"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-6",
+          "title": "Understand the funding rate of perpetual contracts",
+          "core": "It is a regular payment between long and short.",
+          "body": [
+            "The direction of the fee rate will change with market sentiment.",
+            "For long-term positions, the fee rate must be included in the cost."
+          ],
+          "tags": [
+            "Contracts",
+            "Cost"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-7",
+          "title": "Volatility is the norm",
+          "core": "Dramatic price changes are not anomalies.",
+          "body": [
+            "The position must be able to withstand common fluctuations.",
+            "No short-term funds are required to participate."
+          ],
+          "tags": [
+            "Volatility",
+            "Risk"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-8",
+          "title": "Distinguish between on-chain and off-chain",
+          "core": "The settlement rules are different in different environments.",
+          "body": [
+            "Confirm which layer the asset is on.",
+            "Check the address format before cross-chain operations."
+          ],
+          "tags": [
+            "On-chain",
+            "Basics"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-9",
+          "title": "Gas fee is the transaction cost",
+          "core": "The cost will rise when the network is congested.",
+          "body": [
+            "Choose an opportunity to execute non-urgent transactions.",
+            "Include expenses into revenue calculations."
+          ],
+          "tags": [
+            "Expenses",
+            "Trading"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-10",
+          "title": "Contract risks cannot be ignored",
+          "core": "Code loopholes will cause irreversible losses.",
+          "body": [
+            "Prefer audited protocols.",
+            "Do not put all assets into a single agreement."
+          ],
+          "tags": [
+            "DeFi",
+            "Risk"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-11",
+          "title": "Stablecoins also have risks",
+          "core": "The anchoring mechanism is not absolutely reliable.",
+          "body": [
+            "Understand the reserve and redemption mechanisms.",
+            "Assess in time when anchor breaks."
+          ],
+          "tags": [
+            "Stablecoins",
+            "Risk"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-12",
+          "title": "Don’t believe in capital-guaranteed returns",
+          "core": "High returns must correspond to high risks.",
+          "body": [
+            "Ask about the source of income.",
+            "Reject the \"guaranteed profit\" talk by default."
+          ],
+          "tags": [
+            "Scam",
+            "Judgment"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-13",
+          "title": "Project white paper depends on the team and use cases",
+          "core": "Grand narrative cannot replace actual needs.",
+          "body": [
+            "Check if there is a real user.",
+            "See if the token economy is reasonable."
+          ],
+          "tags": [
+            "Project",
+            "Judgment"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-14",
+          "title": "Be careful with airdrop and coin receiving links",
+          "core": "The claiming action may require authorization.",
+          "body": [
+            "Check whether the source is official first.",
+            "Do not connect unknown wallets."
+          ],
+          "tags": [
+            "Fishing",
+            "Safety"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-15",
+          "title": "The backup must be verified to be recoverable",
+          "core": "A backup that has not been verified means no backup.",
+          "body": [
+            "Rehearse recovery procedures regularly.",
+            "Give recovery information to someone you trust."
+          ],
+          "tags": [
+            "Wallet",
+            "Safety"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-16",
+          "title": "Transaction records must be kept on file",
+          "core": "Original records are required for reconciliation and taxation.",
+          "body": [
+            "Export platform history.",
+            "Record the on-chain transaction hash."
+          ],
+          "tags": [
+            "Record",
+            "Compliance"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-17",
+          "title": "Don’t share addresses",
+          "core": "Address reuse will expose fund connections.",
+          "body": [
+            "Use a new address to receive funds from different sources.",
+            "Be aware of the risk of privacy leakage."
+          ],
+          "tags": [
+            "Privacy",
+            "Safety"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-18",
+          "title": "Understand block confirmations",
+          "core": "Unconfirmed transactions may be reorganized.",
+          "body": [
+            "Large transactions are waiting for more confirmations.",
+            "Don’t treat unconfirmed as final."
+          ],
+          "tags": [
+            "On-chain",
+            "Basics"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-19",
+          "title": "NFT has limited liquidity",
+          "core": "The listing price is not equal to the transaction price.",
+          "body": [
+            "Check the real transaction records.",
+            "Incorporate liquidity risk into valuation."
+          ],
+          "tags": [
+            "NFT",
+            "Risk"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        },
+        {
+          "id": "investing-2-20",
+          "title": "Regulatory policies will change",
+          "core": "Rule changes will affect availability.",
+          "body": [
+            "Pay attention to the compliance requirements in your region.",
+            "Do not regard policy games as investment logic."
+          ],
+          "tags": [
+            "Compliance",
+            "Risk"
+          ],
+          "sourceUrl": "https://github.com/xuchonglang/investing-for-beginners"
+        }
+      ]
+    }
+  ]
+}

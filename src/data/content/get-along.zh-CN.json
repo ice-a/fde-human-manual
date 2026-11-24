@@ -1,0 +1,1133 @@
+{
+  "slug": "get-along",
+  "sections": [
+    {
+      "title": "校园里的合作",
+      "items": [
+        {
+          "id": "get-along-0-1",
+          "title": "分组作业先定分工",
+          "core": "小组合作最容易在分工上扯皮，开口前先把边界说清。",
+          "body": [
+            "按任务而不是按人情分配，写清楚谁交什么、什么时候交。",
+            "留出补位空间，约定有人掉队时怎么顶上。"
+          ],
+          "tags": [
+            "合作",
+            "分工"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-0-2",
+          "title": "别让一个人扛全部",
+          "core": "长期单向付出会让关系失衡。",
+          "body": [
+            "发现进度集中在自己身上时，尽早提出重新分配。",
+            "把「我需要帮忙」说成具体请求，而不是情绪抱怨。"
+          ],
+          "tags": [
+            "合作",
+            "边界"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-0-3",
+          "title": "借东西要有归还时间",
+          "core": "借用物品是信任的周转，不是赠送。",
+          "body": [
+            "开口时说明用途和归还节点。",
+            "归还时顺带说明使用状况，损坏主动承担。"
+          ],
+          "tags": [
+            "物品",
+            "信用"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-0-4",
+          "title": "小组意见不合先回到目标",
+          "core": "争论常常是因为各自的目标不同。",
+          "body": [
+            "先确认这次作业要达成什么，再讨论路径。",
+            "把分歧写成两个方案，比较成本而不是比较人。"
+          ],
+          "tags": [
+            "冲突",
+            "协作"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-0-5",
+          "title": "公开场合不揭同学短处",
+          "core": "当众纠正会让人把精力放在面子上。",
+          "body": [
+            "私下提醒，公开肯定。",
+            "涉及原则性错误时，只陈述事实和后果。"
+          ],
+          "tags": [
+            "分寸",
+            "同学"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-0-6",
+          "title": "被拉去帮忙先估自己的余力",
+          "core": "答应得太快，后面往往做不到。",
+          "body": [
+            "先问清楚需要多少时间和什么技能。",
+            "不确定时给一个明确的答复时间，而不是含糊答应。"
+          ],
+          "tags": [
+            "求助",
+            "拒绝"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-0-7",
+          "title": "合作结束留一句反馈",
+          "core": "收尾反馈决定下一次是否还愿意合作。",
+          "body": [
+            "说出对方做得好的具体点。",
+            "把改进建议放在下一次合作的语境里说。"
+          ],
+          "tags": [
+            "反馈",
+            "长期关系"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        }
+      ]
+    },
+    {
+      "title": "求助与回报",
+      "items": [
+        {
+          "id": "get-along-1-1",
+          "title": "求助要把问题缩小",
+          "core": "问题越具体，别人越容易帮。",
+          "body": [
+            "说清卡在哪一步、已经试过什么。",
+            "给出对方可以拒绝的余地。"
+          ],
+          "tags": [
+            "求助",
+            "表达"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-1-2",
+          "title": "不要默认别人有空",
+          "core": "把「帮个忙」当作理所当然，是关系消耗的开始。",
+          "body": [
+            "先询问对方当前安排。",
+            "说明大约占用多少时间。"
+          ],
+          "tags": [
+            "边界",
+            "礼貌"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-1-3",
+          "title": "感谢要对应到具体行为",
+          "core": "泛泛的谢谢没有记忆点。",
+          "body": [
+            "说出对方做的哪件事解决了你的问题。",
+            "在结果出来后再反馈一次。"
+          ],
+          "tags": [
+            "回报",
+            "反馈"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-1-4",
+          "title": "回报不必等价，但要及时",
+          "core": "关系的账不是一次结清的。",
+          "body": [
+            "在对方需要时主动出现一次。",
+            "把能提供的资源告诉对方，而不是等他开口。"
+          ],
+          "tags": [
+            "回报",
+            "长期"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-1-5",
+          "title": "被拒绝后不要追问理由",
+          "core": "追问理由往往是在施压。",
+          "body": [
+            "简单 acknowledgment 后转到别的方案。",
+            "保留对方以后愿意帮忙的可能。"
+          ],
+          "tags": [
+            "拒绝",
+            "分寸"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-1-6",
+          "title": "不替别人做决定",
+          "core": "帮忙的边界是给选项，不是替他选。",
+          "body": [
+            "列出你能看到的风险和收益。",
+            "把最终选择权留给当事人。"
+          ],
+          "tags": [
+            "边界",
+            "帮助"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-1-7",
+          "title": "大国小事都要有回应",
+          "core": "消息不回是低成本的信任损耗。",
+          "body": [
+            "忙的时候先说明什么时候能回复。",
+            "无法帮忙时也要给明确答复。"
+          ],
+          "tags": [
+            "沟通",
+            "信用"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        }
+      ]
+    },
+    {
+      "title": "实习与职场",
+      "items": [
+        {
+          "id": "get-along-2-1",
+          "title": "先弄清谁是决策者",
+          "core": "找错人，事情做得再多也推不动。",
+          "body": [
+            "问清流程里谁拍板、谁执行。",
+            "汇报时同时给执行者和决策者留信息。"
+          ],
+          "tags": [
+            "职场",
+            "流程"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-2-2",
+          "title": "汇报要带结论",
+          "core": "上级最缺的是确定感。",
+          "body": [
+            "先说结果和下一步，再补背景。",
+            "把不确定处单独列出。"
+          ],
+          "tags": [
+            "汇报",
+            "表达"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-2-3",
+          "title": "接任务时确认验收标准",
+          "core": "标准不清，返工 inevitable。",
+          "body": [
+            "问清楚交付形式和时间。",
+            "把口头要求复述成书面确认。"
+          ],
+          "tags": [
+            "任务",
+            "确认"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-2-4",
+          "title": "不要在背后评价同事",
+          "core": "职场里信息会变形传播。",
+          "body": [
+            "对事不对人，且只在必要场合说。",
+            "把意见留给能改变结果的人。"
+          ],
+          "tags": [
+            "职场",
+            "分寸"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-2-5",
+          "title": "留下工作痕迹",
+          "core": "做过的事需要可追溯。",
+          "body": [
+            "关键沟通用文字留存。",
+            "阶段性成果主动同步。"
+          ],
+          "tags": [
+            "职场",
+            "记录"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-2-6",
+          "title": "学会说「我需要资源」",
+          "core": "硬扛不是能力，是风险。",
+          "body": [
+            "说明缺什么、会造成什么后果。",
+            "给出可接受的替代方案。"
+          ],
+          "tags": [
+            "协作",
+            "边界"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-2-7",
+          "title": "离职前把交接做完整",
+          "core": "收尾质量决定行业口碑。",
+          "body": [
+            "列出待办、联系人和文件位置。",
+            "给接手人留一段可询问的时间。"
+          ],
+          "tags": [
+            "离职",
+            "职业"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-2-8",
+          "title": "把反馈当信息，不当评价",
+          "core": "批评里常常藏着有用的数据。",
+          "body": [
+            "先提取可执行的点。",
+            "对情绪化部分不必全盘接受。"
+          ],
+          "tags": [
+            "反馈",
+            "心态"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        }
+      ]
+    },
+    {
+      "title": "朋友与金钱",
+      "items": [
+        {
+          "id": "get-along-3-1",
+          "title": "借钱前先想清楚关系成本",
+          "core": "钱一旦介入，关系就多了一个变量。",
+          "body": [
+            "问自己能否承受这笔钱不还。",
+            "金额、期限用文字写下来。"
+          ],
+          "tags": [
+            "金钱",
+            "朋友"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-3-2",
+          "title": "不做中间担保",
+          "core": "担保是把别人的风险接到自己身上。",
+          "body": [
+            "拒绝时说明原则，不评价对方。",
+            "提供替代的信息渠道而不是信用。"
+          ],
+          "tags": [
+            "金钱",
+            "风险"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-3-3",
+          "title": "AA 要提前说",
+          "core": "账单到了才谈钱，气氛最容易尴尬。",
+          "body": [
+            "用餐前确认分摊方式。",
+            "差距大时主动给对方台阶。"
+          ],
+          "tags": [
+            "饭局",
+            "金钱"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-3-4",
+          "title": "不替朋友隐瞒明显风险",
+          "core": "真正的在意不是顺着说。",
+          "body": [
+            "私下指出风险，给出具体依据。",
+            "尊重对方最终决定。"
+          ],
+          "tags": [
+            "朋友",
+            "边界"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-3-5",
+          "title": "礼物看关系而不是价格",
+          "core": "贵重的礼物会带来负担。",
+          "body": [
+            "选对方用得上的东西。",
+            "避免让对方产生必须回礼的压力。"
+          ],
+          "tags": [
+            "礼物",
+            "分寸"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-3-6",
+          "title": "账目清楚了，关系才长久",
+          "core": "模糊的钱最容易积累怨气。",
+          "body": [
+            "小额往来及时结清。",
+            "大额往来保留记录。"
+          ],
+          "tags": [
+            "金钱",
+            "长期"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        }
+      ]
+    },
+    {
+      "title": "饭局、隐私与冲突",
+      "items": [
+        {
+          "id": "get-along-4-1",
+          "title": "饭桌上的话默认会被传出去",
+          "core": "私下场合不等于保密场合。",
+          "body": [
+            "不替他人透露隐私、薪资与评价。",
+            "被追问时用玩笑或事实转移。"
+          ],
+          "tags": [
+            "饭局",
+            "隐私"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-4-2",
+          "title": "不拿别人的短板当话题",
+          "core": "玩笑的边界是当事人也笑得出来。",
+          "body": [
+            "拿自己开涮比拿别人开涮安全。",
+            "发现对方不自在时立刻换话题。"
+          ],
+          "tags": [
+            "分寸",
+            "冲突"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-4-3",
+          "title": "劝酒不如尊重选择",
+          "core": "把喝不喝当作个人决定。",
+          "body": [
+            "提供替代饮品。",
+            "不用面子话施压。"
+          ],
+          "tags": [
+            "饭局",
+            "边界"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-4-4",
+          "title": "冲突先复述再回应",
+          "core": "人在被误解时听不进道理。",
+          "body": [
+            "先说出你理解到的对方意思。",
+            "再陈述自己的事实和感受。"
+          ],
+          "tags": [
+            "冲突",
+            "沟通"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-4-5",
+          "title": "不在群里处理私人矛盾",
+          "core": "公开场合会让双方都下不来台。",
+          "body": [
+            "转到一对一沟通。",
+            "群内只留结论和后续安排。"
+          ],
+          "tags": [
+            "冲突",
+            "场合"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-4-6",
+          "title": "被问隐私可以不说",
+          "core": "回答义务不等于提问权利。",
+          "body": [
+            "给一个不伤人的固定说法。",
+            "不必解释拒绝的理由。"
+          ],
+          "tags": [
+            "隐私",
+            "拒绝"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-4-7",
+          "title": "离席要照顾主人感受",
+          "core": "提前说明比突然消失稳妥。",
+          "body": [
+            "说明原因并致谢。",
+            "后续补一句问候。"
+          ],
+          "tags": [
+            "礼节",
+            "饭局"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-4-8",
+          "title": "记住别人提过的小事",
+          "core": "细节是最低成本的在意。",
+          "body": [
+            "记下对方的忌口和时间安排。",
+            "下次主动提及，不刻意邀功。"
+          ],
+          "tags": [
+            "关系",
+            "细节"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        }
+      ]
+    },
+    {
+      "title": "长期关系与边界",
+      "items": [
+        {
+          "id": "get-along-5-1",
+          "title": "边界要在关系好时说",
+          "core": "等矛盾爆发再说，就变成了指责。",
+          "body": [
+            "平静时说明自己能帮到哪一步。",
+            "用「我可以…」代替「你不能…」。"
+          ],
+          "tags": [
+            "边界",
+            "长期关系"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-5-2",
+          "title": "允许别人拒绝",
+          "core": "拒绝不等于否定你。",
+          "body": [
+            "提出请求时同时给退路。",
+            "对方拒绝后不追问、不计较。"
+          ],
+          "tags": [
+            "边界",
+            "拒绝"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-5-3",
+          "title": "拒绝时给替代方案",
+          "core": "硬拒绝容易伤人，给路径更容易被接受。",
+          "body": [
+            "说明自己不能做的部分。",
+            "推荐另一个可行的办法。"
+          ],
+          "tags": [
+            "拒绝",
+            "表达"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-5-4",
+          "title": "关系靠可预测维持",
+          "core": "忽冷忽热最消耗信任。",
+          "body": [
+            "承诺的事按时兑现。",
+            "状态变化提前说明。"
+          ],
+          "tags": [
+            "信任",
+            "长期"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-5-5",
+          "title": "不要用亏欠感绑定别人",
+          "core": "靠愧疚维持的关系不牢靠。",
+          "body": [
+            "帮助时不反复提起。",
+            "不把过去的付出当作筹码。"
+          ],
+          "tags": [
+            "边界",
+            "关系"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-5-6",
+          "title": "亲密不等于没有距离",
+          "core": "再近的关系也需要个人空间。",
+          "body": [
+            "尊重对方的独处时间。",
+            "不要求随时可联系。"
+          ],
+          "tags": [
+            "边界",
+            "亲密"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-5-7",
+          "title": "定期复盘关系状态",
+          "core": "长期关系需要维护而不是放任。",
+          "body": [
+            "问彼此最近是否舒服。",
+            "把小问题在小的时候解决。"
+          ],
+          "tags": [
+            "长期关系",
+            "复盘"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-5-8",
+          "title": "结束关系也要体面",
+          "core": "收尾方式会影响彼此对这段关系的记忆。",
+          "body": [
+            "说清不可继续的原因。",
+            "不做人身评价。"
+          ],
+          "tags": [
+            "结束",
+            "分寸"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        }
+      ]
+    },
+    {
+      "title": "社交礼节与场合",
+      "items": [
+        {
+          "id": "get-along-6-1",
+          "title": "守时是最基本的尊重",
+          "core": "迟到传递的信息是「我的时间更重要」。",
+          "body": [
+            "提前确认路线和交通时间。",
+            "可能迟到时提前告知。"
+          ],
+          "tags": [
+            "礼节",
+            "时间"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-6-2",
+          "title": "介绍别人时给双方信息",
+          "core": "只报名字，对话很难开始。",
+          "body": [
+            "各给一句可以接话的背景。",
+            "把话题交还给他们。"
+          ],
+          "tags": [
+            "社交",
+            "介绍"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-6-3",
+          "title": "记住名字比记住头衔有用",
+          "core": "被记住是最基础的被看见。",
+          "body": [
+            "当场复述一次以确认。",
+            "再次见面时主动称呼。"
+          ],
+          "tags": [
+            "礼节",
+            "记忆"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-6-4",
+          "title": "拜访要提前约定",
+          "core": "突然到访容易打乱别人安排。",
+          "body": [
+            "说明目的和预计时长。",
+            "到达后确认是否方便。"
+          ],
+          "tags": [
+            "礼节",
+            "边界"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-6-5",
+          "title": "消息按场合分层",
+          "core": "不是所有事都适合即时通讯。",
+          "body": [
+            "紧急事项用电话。",
+            "复杂事项用文字留痕。"
+          ],
+          "tags": [
+            "沟通",
+            "场合"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-6-6",
+          "title": "公开表扬、私下提醒",
+          "core": "这条几乎适用于所有关系。",
+          "body": [
+            "表扬要具体。",
+            "提醒只对当事人。"
+          ],
+          "tags": [
+            "沟通",
+            "分寸"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-6-7",
+          "title": "别在别人忙的时候求关注",
+          "core": "时机不对，内容再好也无效。",
+          "body": [
+            "观察对方当前节奏。",
+            "换一个更合适的时间。"
+          ],
+          "tags": [
+            "场合",
+            "判断"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-6-8",
+          "title": "接受好意要给回应",
+          "core": " Relation 需要双向流动。",
+          "body": [
+            "说清你感受到了什么。",
+            "在适当时候回赠。"
+          ],
+          "tags": [
+            "礼节",
+            "回报"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-6-9",
+          "title": "离开时认真道别",
+          "core": "收尾印象往往决定下一次见面。",
+          "body": [
+            "感谢具体安排。",
+            "表达期待再见的意愿。"
+          ],
+          "tags": [
+            "礼节",
+            "收尾"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-6-10",
+          "title": "不强行拉近关系",
+          "core": "过度热情会让人后退。",
+          "body": [
+            "按对方节奏推进。",
+            "把「下次一起」说得像邀请而不是安排。"
+          ],
+          "tags": [
+            "边界",
+            "社交"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-6-11",
+          "title": "在正式场合少讲段子",
+          "core": "幽默需要共同语境。",
+          "body": [
+            "不确定时保持中性表达。",
+            "把玩笑留给熟悉的人。"
+          ],
+          "tags": [
+            "场合",
+            "表达"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        }
+      ]
+    },
+    {
+      "title": "协作与表达",
+      "items": [
+        {
+          "id": "get-along-7-1",
+          "title": "先说结论，再说理由",
+          "core": "信息密度决定沟通效率。",
+          "body": [
+            "第一句给判断。",
+            "后续补充依据和例子。"
+          ],
+          "tags": [
+            "表达",
+            "汇报"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-7-2",
+          "title": "把请求写成可执行项",
+          "core": "模糊的请求等于没有请求。",
+          "body": [
+            "写清要做什么、什么时候要。",
+            "标明优先级。"
+          ],
+          "tags": [
+            "协作",
+            "请求"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-7-3",
+          "title": "复述确认避免理解偏差",
+          "core": "确认成本远低于返工成本。",
+          "body": [
+            "用自己的话复述一遍。",
+            "把分歧点单独列出。"
+          ],
+          "tags": [
+            "沟通",
+            "确认"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-7-4",
+          "title": "会上发言要短且有观点",
+          "core": "长篇铺垫容易失去注意力。",
+          "body": [
+            "一个观点配一个例子。",
+            "把细节留到会后。"
+          ],
+          "tags": [
+            "会议",
+            "表达"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-7-5",
+          "title": "反对意见要对事",
+          "core": "把「我不同意你」换成「这个方案有个风险」。",
+          "body": [
+            "给出可验证的理由。",
+            "附上你的替代方案。"
+          ],
+          "tags": [
+            "冲突",
+            "协作"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-7-6",
+          "title": "书面沟通要能独立读懂",
+          "core": "脱离上下文仍成立，才算写清楚。",
+          "body": [
+            "补上背景和结论。",
+            "避免只有当事人懂的简称。"
+          ],
+          "tags": [
+            "写作",
+            "协作"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-7-7",
+          "title": "同步进度不要等到被问",
+          "core": "主动同步能减少大量追问。",
+          "body": [
+            "固定节奏给简短更新。",
+            "风险提前暴露。"
+          ],
+          "tags": [
+            "协作",
+            "进度"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-7-8",
+          "title": "给反馈留时间窗口",
+          "core": "当场未必能消化。",
+          "body": [
+            "说明可以之后再讨论。",
+            "约定一个回应的时间。"
+          ],
+          "tags": [
+            "反馈",
+            "沟通"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        }
+      ]
+    },
+    {
+      "title": "家庭与亲密关系",
+      "items": [
+        {
+          "id": "get-along-8-1",
+          "title": "家事先讲事实再讲感受",
+          "core": "夹叙夹议容易变成争吵。",
+          "body": [
+            "先描述发生了什么。",
+            "再说这件事带来的感受。"
+          ],
+          "tags": [
+            "家庭",
+            "沟通"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-8-2",
+          "title": "不说「你总是」",
+          "core": "全称判断会立刻激起防御。",
+          "body": [
+            "换成这次具体发生的事。",
+            "把要求说成可执行的动作。"
+          ],
+          "tags": [
+            "沟通",
+            "冲突"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-8-3",
+          "title": "亲密关系也需要同意",
+          "core": "默认不会替代明确。",
+          "body": [
+            "重要决定要双方确认。",
+            "尊重对方随时改变主意的权利。"
+          ],
+          "tags": [
+            "边界",
+            "同意"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-8-4",
+          "title": "家务分工要可见",
+          "core": "看不见的劳动最容易被忽略。",
+          "body": [
+            "列出清单和频率。",
+            "定期回顾是否公平。"
+          ],
+          "tags": [
+            "家庭",
+            "分工"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-8-5",
+          "title": "和父母沟通要接受节奏差",
+          "core": "他们的经验来自不同环境。",
+          "body": [
+            "先理解担心，再解释选择。",
+            "用结果而不是争论说服。"
+          ],
+          "tags": [
+            "家庭",
+            "代际"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-8-6",
+          "title": "冲突后要有修复动作",
+          "core": "不冷战是底线。",
+          "body": [
+            "说清自己在意的是什么。",
+            "用具体行动表示愿意继续。"
+          ],
+          "tags": [
+            "冲突",
+            "修复"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        }
+      ]
+    },
+    {
+      "title": "求职、入职与离开",
+      "items": [
+        {
+          "id": "get-along-9-1",
+          "title": "投递前先研究对方",
+          "core": "通用简历的回应率最低。",
+          "body": [
+            "把经历对齐岗位要求。",
+            "准备一个能说明动机的问题。"
+          ],
+          "tags": [
+            "求职",
+            "准备"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-9-2",
+          "title": "面试时讲过程而不只讲结果",
+          "core": "对方想知道你怎么做成的。",
+          "body": [
+            "说明当时的约束和选择。",
+            "给出可验证的细节。"
+          ],
+          "tags": [
+            "面试",
+            "表达"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-9-3",
+          "title": "谈薪资前先了解区间",
+          "core": "信息差会直接变成损失。",
+          "body": [
+            "通过公开渠道了解市场水平。",
+            "给出有依据的期望而不是随口报价。"
+          ],
+          "tags": [
+            "薪资",
+            "谈判"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-9-4",
+          "title": "入职前两周以观察为主",
+          "core": "先弄清人际和工作节奏。",
+          "body": [
+            "多问流程少下结论。",
+            "记录关键人和决策路径。"
+          ],
+          "tags": [
+            "入职",
+            "适应"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-9-5",
+          "title": "把试用期当成双向选择",
+          "core": "你也在评估对方。",
+          "body": [
+            "记录承诺与兑现的差距。",
+            "发现根本性不匹配时尽早止损。"
+          ],
+          "tags": [
+            "入职",
+            "判断"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-9-6",
+          "title": "离职理由保持中性",
+          "core": "行业很小，评价会传。",
+          "body": [
+            "说发展方向，不说人事矛盾。",
+            "把感谢留给具体的人。"
+          ],
+          "tags": [
+            "离职",
+            "分寸"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-9-7",
+          "title": "离职后保持最低限度联系",
+          "core": "前同事是长期资源。",
+          "body": [
+            "在合理时间保持问候。",
+            "不索要超出关系范围的帮助。"
+          ],
+          "tags": [
+            "离职",
+            "长期"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        },
+        {
+          "id": "get-along-9-8",
+          "title": "每一段经历都要留下可复用的东西",
+          "core": "把工作变成能力，而不是消耗。",
+          "body": [
+            "整理可展示的成果。",
+            "记录踩过的坑与解法。"
+          ],
+          "tags": [
+            "成长",
+            "复盘"
+          ],
+          "sourceUrl": "https://github.com/kkk-bot/HowToGetAlong"
+        }
+      ]
+    }
+  ]
+}
