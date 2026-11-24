@@ -1392,6 +1392,57 @@ button {
   .detail-index a { border-bottom: 1px dashed var(--rule); }
 }
 
+.support-block {
+  margin-top: 36px;
+  border: 1px solid var(--rule);
+  background: var(--card);
+  padding: 16px 20px;
+}
+
+.support-block summary {
+  cursor: pointer;
+  font-family: var(--mono);
+  font-size: 12px;
+  color: var(--accent);
+  letter-spacing: 0.06em;
+}
+
+.support-desc {
+  font-size: 14px;
+  color: var(--ink-2);
+  margin: 16px 0;
+}
+
+.support-qr-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.support-qr {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.support-qr img {
+  width: 100%;
+  max-width: 160px;
+  height: auto;
+  border: 1px solid var(--rule);
+  background: #fff;
+}
+
+.support-links { margin: 18px 0 0; font-size: 13px; }
+.support-links a { color: var(--accent); border-bottom: 1px solid currentColor; }
+
+@media (max-width: 780px) {
+  .support-qr-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
 @media (max-width: 780px) {
   .about-grid, .deploy-grid, .steps { grid-template-columns: 1fr; }
   .ref-item { grid-template-columns: 34px 1fr; }

@@ -14,7 +14,6 @@
     "hero.meta.volumes": "volumes",
     "hero.meta.principles": "entries",
     "hero.meta.opensource": "Searchable content",
-
     "quote.tab": "One word · HITOKOTO",
     "quote.label": "DAILY WORD · One sentence per day",
     "quote.refresh": "Change a sentence",
@@ -103,7 +102,16 @@
     "about.license.lead": "Most topics reproduce the original text; restricted topics were rewritten by theme without copying the original wording.",
     "about.license.full": "Original text",
     "about.license.index": "Rewritten by topic",
-    "content.indexOnly": "This project's license does not allow full public republication; only a guide and a link to the original are provided here."
+    "content.indexOnly": "This project's license does not allow full public republication; only a guide and a link to the original are provided here.",
+    "support.title": "Support the author",
+    "support.desc": "If these entries helped you, you may optionally buy the author a coffee. No support is required to use anything here.",
+    "support.wechat": "WeChat QR code",
+    "support.alipay": "Alipay QR code",
+    "support.qq": "QQ QR code",
+    "support.usdt": "USDT receiving address",
+    "support.toggle": "Show QR codes",
+    "support.hide": "Hide QR codes",
+    "support.bmc": "Buy Me a Coffee"
   },
   "guides": [
     {

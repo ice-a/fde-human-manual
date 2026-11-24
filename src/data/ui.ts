@@ -120,4 +120,13 @@ export const ui: Record<string, string> = {
   'about.license.full': '原文收录',
   'about.license.index': '主题改写',
   'content.indexOnly': '该项目许可不允许公开收录全文，此处仅提供导读与原文入口。',
+  'support.title': '支持作者',
+  'support.desc': '如果这些内容帮到了你，可以自愿赞赏一杯咖啡。不赞赏也完全不影响使用。',
+  'support.wechat': '微信赞赏码',
+  'support.alipay': '支付宝赞赏码',
+  'support.qq': 'QQ 赞赏码',
+  'support.usdt': 'USDT 赞赏地址',
+  'support.toggle': '查看赞赏码',
+  'support.hide': '收起赞赏码',
+  'support.bmc': 'Buy Me a Coffee',
 }

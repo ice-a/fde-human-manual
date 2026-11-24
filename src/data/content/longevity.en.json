@@ -16,7 +16,8 @@
             "Limitations: Food questionnaire, residual confounding; two different exposure time windows",
             "Evidence: Associations of Processed Meat, Unprocessed Red Meat, Poultry, or Fish Intake With Incident Cardiovascular Disease and All-Cause Mortality. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7042891/",
             "Evidence: Association of changes in red meat consumption with total and cause specific mortality among US women and men: two prospective cohort studies. — https://pmc.ncbi.nlm.nih.gov/articles/PMC6559336/",
-            "Reader summary: Multiple long-term follow-up studies in the United States have found that eating more red meat and processed meat is associated with a higher risk of death. Fish and poultry are less associated with mortality risk, so it’s also worth considering what to replace them with and how to cook them."
+            "Reader summary: Multiple long-term follow-up studies in the United States have found that eating more red meat and processed meat is associated with a higher risk of death. Fish and poultry are less associated with mortality risk, so it’s also worth considering what to replace them with and how to cook them.",
+            "Case: In the nutrition clinic, 53-year-old Mr. Chen asked the doctor about two meat studies. He reduced sausages to once a week and red meat to twice a week. He did not add poultry as a risk-free meal and changed his dinner to fish, beans and vegetables."
           ],
           "remember": "Reduce processed meat, replace some red meat with beans, nuts, fish, etc.; pay attention to cooking and overall diet.",
           "tags": [
@@ -38,7 +39,8 @@
             "Limitations: Specific diabetes population; nonrandom; citation outcome and dose mismatch",
             "Evidence: Fresh fruit consumption in relation to incident diabetes and diabetic vascular complications: A 7-y prospective study of 0.5 million Chinese adults. — https://pmc.ncbi.nlm.nih.gov/articles/PMC5388466/",
             "Evidence: Estimated Global, Regional, and National Cardiovascular Disease Burdens Related to Fruit and Vegetable Consumption: An Analysis from the Global Dietary Database (FS01-01-19) — https://pmc.ncbi.nlm.nih.gov/articles/PMC6578394/",
-            "Reader Summary: In a long-term follow-up of people with diabetes in China, people who ate more fresh fruit had a lower risk of death and vascular complications. This study looked at whole fruit, not juice."
+            "Reader Summary: In a long-term follow-up of people with diabetes in China, people who ate more fresh fruit had a lower risk of death and vascular complications. This study looked at whole fruit, not juice.",
+            "Case: During the follow-up visit for diabetes, the patient saw \"200 grams of fruit a day will reduce the weight by 17%\" and wanted to do it immediately. The nurse explained that the data came from the correlation of every 100 grams per day for people with diabetes. He changed it to half an apple with meals and monitored blood sugar. The misunderstanding was eliminated."
           ],
           "remember": "Replace dessert with appropriate amounts of whole fruit, adjusted according to blood sugar and personal treatment plan; do not substitute with fruit juice.",
           "tags": [
@@ -59,7 +61,8 @@
             "Design: Prospective cohort",
             "Limitations: Healthy diet and socioeconomic confounding; single FFQ; supplement effect cannot be inferred",
             "Evidence: Flavonoid intake is associated with lower mortality in the Danish Diet Cancer and Health Cohort. — https://pmc.ncbi.nlm.nih.gov/articles/PMC6692395/",
-            "Reader summary: Long-term follow-up in Denmark found that people with higher dietary flavonoid intake had a lower risk of death. Flavonoids are found in a variety of plant foods."
+            "Reader summary: Long-term follow-up in Denmark found that people with higher dietary flavonoid intake had a lower risk of death. Flavonoids are found in a variety of plant foods.",
+            "Case: After the health lecture, Ms. Li planned to eat only 100 grams of broccoli every day in exchange for a \"20% reduction.\" The nutritionist showed that the total flavonoids leveled off at about 500 mg/day and the difference after adjusting the model. She switched to a variety of fruit and vegetable teas and no longer focused on a single number."
           ],
           "remember": "A variety of fruits, vegetables, beans, etc. provide plant nutrients; do not rely on flavonoid supplements, and do not use them to offset smoking and drinking.",
           "tags": [
@@ -80,7 +83,8 @@
             "Design: Prospective cohort",
             "Limitations: Crude death proportion is confounded by age; single dietary measurement",
             "Evidence: The Association of Hot Red Chili Pepper Consumption and Mortality: A Large Population-Based Cohort Study. — https://pmc.ncbi.nlm.nih.gov/articles/PMC5222470/",
-            "Reader Summary: In a follow-up of U.S. adults, red pepper eaters had a lower risk of death; age, diet, and lifestyle habits also influence this association."
+            "Reader Summary: In a follow-up of U.S. adults, red pepper eaters had a lower risk of death; age, diet, and lifestyle habits also influence this association.",
+            "Case: When chatting at a dinner party, Xiao Wang persuaded everyone to eat more spicy food by saying, \"People who eat spicy food are 12% less likely to die.\" A friend pointed out that it was the crude proportion difference in the American study, which was about 13% lower after adjustment, so Xiao Wang only used chili pepper as seasoning."
           ],
           "remember": "You can use it as a seasoning if you like it and tolerate it; there is no need to force it to increase if you have gastrointestinal discomfort.",
           "tags": [
@@ -101,7 +105,8 @@
             "Design: Prospective cohort",
             "Limitations: Residual diet/lifestyle confounding; capsaicin intervention not proven effective",
             "Evidence: Chili Pepper Consumption and Mortality in Italian Adults. — https://pubmed.ncbi.nlm.nih.gov/31856971/",
-            "Reader summary: Follow-up in Italy found that people who regularly eat chili peppers have a lower risk of all-cause and cardiovascular death."
+            "Reader summary: Follow-up in Italy found that people who regularly eat chili peppers have a lower risk of all-cause and cardiovascular death.",
+            "Case: Someone in the family group forwarded \"Chili pepper can reduce total deaths by 61%\", and my aunt was going to eat it every day. My daughter found out that an Italian study reported a relative reduction in cerebrovascular deaths, based on those who rarely ate, so my aunt changed to eating a small amount with meals every week."
           ],
           "remember": "It can be taken as tolerated and cannot be used as a substitute for pressure control or other treatments.",
           "tags": [
@@ -122,7 +127,8 @@
             "Design: Large prospective cohort",
             "Limitations: Self-report, single baseline diet, residual confounding, results may differ across regions",
             "Evidence: Egg and cholesterol consumption and mortality from cardiovascular and different causes in the United States: A population-based cohort study. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7872242/",
-            "Reader summary: Higher whole egg intake is associated with a higher risk of death in follow-up of middle-aged and older adults in the United States; findings from other regions are not entirely consistent. How to match the overall diet is more valuable than focusing on eggs alone."
+            "Reader summary: Higher whole egg intake is associated with a higher risk of death in follow-up of middle-aged and older adults in the United States; findings from other regions are not entirely consistent. How to match the overall diet is more valuable than focusing on eggs alone.",
+            "Case: In the physical examination center, Mr. Zhang wanted to throw away the eggs after seeing that \"eggs increase the risk of death by 7%\". The doctor explained that this was an observation and assumption of equal amounts of substitution among middle-aged and elderly Americans, which does not mean cause and effect. He kept an appropriate amount of eggs and paired them with vegetables according to the doctor's instructions."
           ],
           "remember": "Choose eggs based on your overall diet and blood lipids; you can replace part of the animal protein with beans, nuts, etc. Don’t ban eggs completely just because of research alone.",
           "tags": [
@@ -143,7 +149,8 @@
             "Design: Two-cohort analysis",
             "Limitations: Healthy user bias; lifespan estimated from model; industry funding of concern",
             "Evidence: Association of Walnut Consumption with Total and Cause-Specific Mortality and Life Expectancy in U.S. Adults. — https://pmc.ncbi.nlm.nih.gov/articles/PMC8401409/",
-            "Reader summary: Long-term follow-up in the United States found that people who regularly eat walnuts have a lower risk of death. The lifespan differences in the study were statistical estimates, and other health habits of the participants may also have contributed."
+            "Reader summary: Long-term follow-up in the United States found that people who regularly eat walnuts have a lower risk of death. The lifespan differences in the study were statistical estimates, and other health habits of the participants may also have contributed.",
+            "Case: In front of the supermarket shelf, Aunt Liu was attracted by the advertisement of walnuts \"extending life by more than a year\" and bought three bags. The nutritionist explained that the lower 14% was the observed correlation and 1.30/1.26 was the model estimate for age 60, and she switched to about five servings of alternative cookies per week."
           ],
           "remember": "For those who are not allergic to nuts, use an appropriate amount of unsalted nuts instead of snacks, which will be included in the total energy.",
           "tags": [
@@ -165,7 +172,8 @@
             "Limitations: Intake grouping is not randomized; raw/baked advantages and disadvantages not directly tested",
             "Evidence: Association of nut consumption with total and cause-specific mortality. — https://pmc.ncbi.nlm.nih.gov/articles/PMC3931001/",
             "Evidence: Frequency of nut consumption and mortality risk in the PREDIMED nutrition intervention trial. — https://pmc.ncbi.nlm.nih.gov/articles/PMC3738153/",
-            "Reader summary: Multiple follow-up studies have found that people who regularly eat nuts have a lower risk of death. The study covered different dietary contexts and did not directly compare the advantages and disadvantages of raw nuts versus roasted nuts."
+            "Reader summary: Multiple follow-up studies have found that people who regularly eat nuts have a lower risk of death. The study covered different dietary contexts and did not directly compare the advantages and disadvantages of raw nuts versus roasted nuts.",
+            "Case: During the coffee break in the office, a colleague said that 50 grams of raw nuts are necessary every day. Xiao Zhou pointed out that the research was grouped by the number of times per week, and 39% also came from observational analysis. He switched to eating nuts several times a week, no longer superstitious about eating them raw or in fixed grams."
           ],
           "remember": "Avoid for those with allergies; choose salt-free and low-sugar nuts instead of other high-energy snacks.",
           "tags": [
@@ -186,7 +194,8 @@
             "Design: Cross-sectional ecological analysis",
             "Limitations: ecological fallacy, national income and medical confounding, estimated intake error",
             "Evidence: Sodium intake, life expectancy, and all-cause mortality. — https://pmc.ncbi.nlm.nih.gov/articles/PMC8169157/",
-            "Reader summary: Cross-national comparisons have found that countries with higher sodium intake have lower mortality rates, but national differences in income, medical care, etc. may also affect this association. The arrangement of personal salt consumption is more suitable to be determined based on blood pressure and physical condition."
+            "Reader summary: Cross-national comparisons have found that countries with higher sodium intake have lower mortality rates, but national differences in income, medical care, etc. may also affect this association. The arrangement of personal salt consumption is more suitable to be determined based on blood pressure and physical condition.",
+            "Case: At the reading meeting, someone used the transnational sodium intake beta value to say that \"it is healthier for individuals to eat more salt.\" The leader reminded that this was ecologically relevant at the national level, and the author clearly opposed intervention on this basis. Participants finally followed blood pressure and doctor's orders without adding salt."
           ],
           "remember": "Don’t add sodium to extend your life; control salt based on individual blood pressure, disease, and diet.",
           "tags": [
@@ -207,7 +216,8 @@
             "Design: Open-label cluster randomized trial, ACM as secondary endpoint",
             "Limitations: High-risk specific populations; Open label; Limited applicability to those at risk for renal disease or high potassium",
             "Evidence: Effect of Salt Substitution on Cardiovascular Events and Death. — https://pubmed.ncbi.nlm.nih.gov/34459569/",
-            "Reader summary: A randomized trial in high-risk rural Chinese populations found that replacing regular salt with low-sodium and potassium-rich salt reduced deaths and cardiovascular events. Participants had a history of stroke or were older adults with high blood pressure."
+            "Reader summary: A randomized trial in high-risk rural Chinese populations found that replacing regular salt with low-sodium and potassium-rich salt reduced deaths and cardiovascular events. Participants had a history of stroke or were older adults with high blood pressure.",
+            "Case: In the village clinic, a 65-year-old villager with high blood pressure often put two spoons of ordinary salt in cooking. According to SSaSS, the doctor asked his family to switch to 75% sodium chloride and 25% potassium chloride salt and recheck the serum potassium. During the follow-up, the family knew that the contribution of sodium deficiency and potassium supplementation could not be separated."
           ],
           "remember": "Those with high blood pressure and other suitable conditions can use potassium-rich and low-sodium salt after confirmation by medical staff; those with renal insufficiency, high potassium, or those using potassium-raising drugs should consult first and do not change salts by themselves.",
           "tags": [
@@ -228,7 +238,8 @@
             "Design: Forward Queue + Queue Meta",
             "Limitations: Observational, self-reported; differences in intake groups and alternative foods; lifespan estimation, non-interventional",
             "Evidence: Dietary carbohydrate intake and mortality: a prospective cohort study and meta-analysis. — https://pmc.ncbi.nlm.nih.gov/articles/PMC6339822/",
-            "Reader's summary: In long-term follow-up, the proportion of carbohydrate intake is associated with higher risk of death at both ends. What food you use to replace carbohydrates also affects the results."
+            "Reader's summary: In long-term follow-up, the proportion of carbohydrate intake is associated with higher risk of death at both ends. What food you use to replace carbohydrates also affects the results.",
+            "Case: In the fitness group, Xiao Zhao saw that 50% to 55% carbohydrates had the lowest risk, so he asserted that very low carbon would be short-lived. The nutritionist explained that the 2018 study was a U-shaped observational relationship, and alternative sources are also important. He replaced polished rice with whole grain potatoes."
           ],
           "remember": "Prioritize improving the quality of carbohydrates and adding whole grains and legumes; diabetes or therapeutic ketosis needs to be individualized.",
           "tags": [
@@ -249,7 +260,8 @@
             "Design: Systematic review/meta-review of observational studies",
             "Limitations: I²85%; product formula, residual contamination from smoking and drinking; non-random",
             "Evidence: Chewing betel quid and the risk of metabolic disease, cardiovascular disease, and all-cause mortality: a meta-analysis. — https://pmc.ncbi.nlm.nih.gov/articles/PMC3734295/",
-            "Reader's abstract: A pooled analysis of Asian studies finds that chewing betel nut is associated with a higher risk of death. Different chew formulas, as well as smoking and drinking at the same time, will affect the risk."
+            "Reader's abstract: A pooled analysis of Asian studies finds that chewing betel nut is associated with a higher risk of death. Different chew formulas, as well as smoking and drinking at the same time, will affect the risk.",
+            "Case: During a break at the construction site, a worker said that betel nut only hurts the mouth and does not affect the total death rate. Xiao Chen took out the combined study and said that the observed risk increased by about 21%, and the heterogeneity was high, and the ingredients and the co-exposure to tobacco and alcohol would interfere. Then he reduced chewing pieces and avoided using tobacco and alcohol together."
           ],
           "remember": "Avoid or stop betel quid, do not use non-tobacco as a safety reason; seek help for those who are dependent on it.",
           "tags": [
@@ -271,7 +283,8 @@
             "Limitations: Animals cannot be extrapolated to humans; the two centers have different feed, age, and control food intake",
             "Evidence: Caloric restriction delays disease onset and mortality in rhesus monkeys. — https://pmc.ncbi.nlm.nih.gov/articles/PMC2812811/",
             "Evidence: Caloric restriction reduces age-related and all-cause mortality in rhesus monkeys. — https://pmc.ncbi.nlm.nih.gov/articles/PMC3988801/",
-            "Reader summary: Studies in rhesus monkeys have found that caloric restriction may improve survival, but results vary between studies. The effectiveness of caloric restriction in humans to extend lifespan remains unproven."
+            "Reader summary: Studies in rhesus monkeys have found that caloric restriction may improve survival, but results vary between studies. The effectiveness of caloric restriction in humans to extend lifespan remains unproven.",
+            "Case: A reader who was concerned about anti-aging strictly controlled his diet after seeing early reports of calorie restriction experiments on rhesus monkeys. Later he learned that the differences in the early experiments stemmed from excess early age-related deaths in the control group. An updated analysis in 2014 showed that the difference in all-cause mortality risk was far from 3-fold, and the life-extending effect in humans has not yet been confirmed."
           ],
           "remember": "Avoid overeating and maintain adequate nutrition; those with low body weight, pregnant women, minors, frail elderly and eating disorders do not limit calories on their own.",
           "tags": [
@@ -292,7 +305,8 @@
             "Design: Large prospective cohort and nonlinear modeling",
             "Limitations: Self-reported 24-hour recall, selection bias, residual confounding; cannot combine the lowest point of each curve into a validated prescription",
             "Evidence: Associations of fat and carbohydrate intake with cardiovascular disease and mortality: prospective cohort study of UK Biobank participants. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7190059/",
-            "Reader summary: A large-scale follow-up study in the UK found that the relationship between fat, protein, carbohydrate and fiber and health is not simple. Whole food matching is more practical than pursuing a precise nutritional ratio."
+            "Reader summary: A large-scale follow-up study in the UK found that the relationship between fat, protein, carbohydrate and fiber and health is not simple. Whole food matching is more practical than pursuing a precise nutritional ratio.",
+            "Case: For the sake of health, Ms. Li arranges three meals strictly according to the \"optimal nutritional ratio\" on the Internet, and accurately calculates the proportions of protein, fat and carbohydrates. But her physical exam reports showed no significant improvement, and doctors pointed out that the combined associations in the observational data were not universally optimal and that total fat was not significantly associated with all-cause mortality."
           ],
           "remember": "Based on the overall food quality, avoid chasing precise macro proportions; if you have kidney disease, diabetes, etc., follow the medical nutrition plan.",
           "tags": [
@@ -313,7 +327,8 @@
             "Design: Prospective cohort",
             "Limitations: Only 335 deaths; sample selected with high educational level; dietary confounding; wide CI",
             "Evidence: Association between consumption of ultra-processed foods and all cause mortality: SUN prospective cohort study. — https://pmc.ncbi.nlm.nih.gov/articles/PMC6538973/",
-            "Reader's abstract: People who ate more ultra-processed foods had a higher risk of death during follow-up in Spain. The participants were mainly college graduates, and dietary habits and population background also affected the results."
+            "Reader's abstract: People who ate more ultra-processed foods had a higher risk of death during follow-up in Spain. The participants were mainly college graduates, and dietary habits and population background also affected the results.",
+            "Case: 58-year-old Mr. Wang is used to eating ultra-processed foods such as potato chips and instant noodles every day. He panicked after seeing the news that \"people who regularly eat ultra-processed foods have a 62% increase in all-cause mortality.\" The doctor explained that this refers to group-related risks, and 58 years old is the average age of the deceased, which does not mean that his life expectancy is 58 years old."
           ],
           "remember": "Replace some UPF with less processed whole foods, retaining essential nutrients and affordability.",
           "tags": [
@@ -335,7 +350,8 @@
             "Limitations: Non-ACM endpoint; the original PDF of the comment was not successfully accessed, only the bibliography was reviewed",
             "Evidence: Ultra-processed food intake and risk of cardiovascular disease: prospective cohort study (NutriNet-Santé). — https://pmc.ncbi.nlm.nih.gov/articles/PMC6538975/",
             "Evidence: Ultra-processed food and adverse health outcomes. — https://pubmed.ncbi.nlm.nih.gov/31142449/",
-            "Reader's summary: A follow-up study in France found that the higher the proportion of ultra-processed foods in the diet, the higher the risk of cardiovascular disease."
+            "Reader's summary: A follow-up study in France found that the higher the proportion of ultra-processed foods in the diet, the higher the risk of cardiovascular disease.",
+            "Case: At a health lecture, the speaker juxtaposed three studies including SUN and NutriNet-Santé, claiming that they all confirmed that ultra-processed foods increase the risk of death. An attentive listener pointed out that the endpoint of the NutriNet-Santé study was the onset of cardiovascular disease, while the other two were just reviews and not independent death studies."
           ],
           "remember": "The overall dietary direction to reduce UPF can be supported, but mortality risk cannot be calculated from this article.",
           "tags": [
@@ -356,7 +372,8 @@
             "Design: Dose-response meta-analysis of prospective studies",
             "Limitations: ACM I² 83%, observational; portion size definitions heterogeneous",
             "Evidence: Whole grain consumption and risk of cardiovascular disease, cancer, and all cause and cause specific mortality: systematic review and dose-response meta-analysis of prospective studies. — https://pmc.ncbi.nlm.nih.gov/articles/PMC4908315/",
-            "Reader summary: A pooled analysis of multiple long-term studies finds that eating more whole grains is associated with a lower risk of death. Serving sizes in the study refer to the weight of whole grain foods."
+            "Reader summary: A pooled analysis of multiple long-term studies finds that eating more whole grains is associated with a lower risk of death. Serving sizes in the study refer to the weight of whole grain foods.",
+            "Case: After seeing the research on the benefits of whole grain foods, Mr. Zhang ate whole wheat bread labeled as “high fiber” on the market for breakfast every day, totaling 90 grams. The nutritionist reminded him that the 90 grams in the study refers to the total weight of whole grain foods, not 90 grams of pure dry grains or 90 grams of dietary fiber. The two concepts are completely different."
           ],
           "remember": "Gradually replace refined grains with whole grains; for those with celiac disease, choose gluten-free whole grains and adjust according to digestive tolerance.",
           "tags": [
@@ -377,7 +394,8 @@
             "Design: Systematic review and meta-analysis (ACM from cohort)",
             "Limitations: ACM evidence is not randomized; does not extrapolate from total range to ACM CI",
             "Evidence: Carbohydrate quality and human health: a series of Systematic reviews and meta-analyses. — https://pubmed.ncbi.nlm.nih.gov/30638909/",
-            "Reader abstract: Multiple follow-ups have linked higher dietary fiber intake to lower risk of death; clinical trials also observed improvements in blood pressure, blood lipids and other indicators."
+            "Reader abstract: Multiple follow-ups have linked higher dietary fiber intake to lower risk of death; clinical trials also observed improvements in blood pressure, blood lipids and other indicators.",
+            "Case: In order to reduce all-cause mortality, Ms. Zhao consumes a large amount of high-fiber supplements every day, believing that the higher the intake ratio, the better. But she ignored that the 15-30% in the review was a broad range covering multiple health outcomes, not a precise effect on death, and the randomized trials only proved risk factor improvements."
           ],
           "remember": "Gradually increase fiber through whole grains, beans, fruits and vegetables, and pay attention to drinking water; follow medical advice for intestinal stenosis and acute gastrointestinal disease.",
           "tags": [
@@ -398,7 +416,8 @@
             "Design: Prospective cohort systematic review/dose-response meta-analysis",
             "Limitations: Heterogeneity I² 57.5%; residual confounding; difficult to separate food and protein components",
             "Evidence: Dietary intake of total, animal, and plant proteins and risk of all cause, cardiovascular, and cancer mortality: systematic review and dose-response meta-analysis of prospective cohort studies. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7374797/",
-            "Reader summary: Multiple cohort studies have found that people who consume higher plant protein intakes have a lower risk of death. Food sources and substitution relationships are key to understanding the results."
+            "Reader summary: Multiple cohort studies have found that people who consume higher plant protein intakes have a lower risk of death. Food sources and substitution relationships are key to understanding the results.",
+            "Case: After a physical examination, Mr. Chen found that his blood lipids were slightly high. He heard that plant protein is good for health, so he added two extra spoons of soy protein powder every day. Nutritionists point out that the research conclusion emphasizes the use of plant protein to replace part of red meat, rather than supplementing the original diet. Simply adding protein powder does not mean obtaining the same health association."
           ],
           "remember": "Replace some red/processed meat with beans, soy products, and nuts; adjust for individual needs if you have allergies or kidney disease.",
           "tags": [
@@ -425,7 +444,8 @@
             "Limitations: FFQ error, residual confounding by income and dietary structure; dairy type and alternative foods affect results; HR 0.90 for >1 serving of milk is a death/CVD composite endpoint and cannot be used as a milk ACM.",
             "Evidence: Association of dairy intake with cardiovascular disease and mortality in 21 countries from five continents (PURE): a prospective cohort study. — https://pubmed.ncbi.nlm.nih.gov/30217460/",
             "Evidence: Milk and Dairy Product Consumption and Risk of Mortality: An Overview of Systematic Reviews and Meta-Analyses. — https://pubmed.ncbi.nlm.nih.gov/31089743/",
-            "Reader abstract: One cross-national follow-up found that dairy intake was associated with a lower risk of death, but other reviews have found inconsistent results. Milk, yogurt, etc. can provide nutrition, and the choice depends on personal needs."
+            "Reader abstract: One cross-national follow-up found that dairy intake was associated with a lower risk of death, but other reviews have found inconsistent results. Milk, yogurt, etc. can provide nutrition, and the choice depends on personal needs.",
+            "Case: Ms. Liu saw that the PURE study said that eating more dairy products could reduce the risk of death by 17%, so she drank two glasses of milk every day, hoping that it would reduce the risk of cardiovascular death. However, the doctor explained that 17% is the association between the total dairy products > 2 servings and the non-intake group, not the effect of milk alone; and the confidence interval of cardiovascular death HR spans 1, so it cannot be concluded that there is a 23% decrease."
           ],
           "remember": "You can choose milk or yogurt without added sugar according to your nutritional needs; those with lactose intolerance and milk allergy can choose appropriate alternatives and do not forcefully increase their intake in the pursuit of life extension.",
           "tags": [
@@ -446,7 +466,8 @@
             "Design: China-PAR three prospective cohorts merged",
             "Limitations: self-reported tea drinking; residual confounding by smoking, drinking, socioeconomic and health behaviors; cup size, concentration and tea type cannot be equated; life span difference model estimation.",
             "Evidence: Tea consumption and the risk of atherosclerotic cardiovascular disease and all-cause mortality: The China-PAR project. — https://pubmed.ncbi.nlm.nih.gov/31914807/",
-            "Reader's abstract: Regular tea drinkers had a lower risk of death during long-term follow-up in China. The tea drinker's lifestyle and socioeconomic background may also be involved."
+            "Reader's abstract: Regular tea drinkers had a lower risk of death during long-term follow-up in China. The tea drinker's lifestyle and socioeconomic background may also be involved.",
+            "Case: Lao Zhou is a loyal tea drinker. When he saw the China-PAR study that habitual tea drinkers have a life expectancy of 1.26 years longer at the age of 50, he thought that he could live more than one year longer by drinking more tea. Experts explained that this is a group estimate based on a model, which reflects correlation and cannot be equated to the fact that tea drinking intervention can extend a specific life span for each individual."
           ],
           "remember": "Those who like and tolerate it can drink unsweetened, non-scalding tea; those with insomnia, palpitations, or those who need to limit caffeine should reduce the amount and do not use tea as a substitute for smoking cessation or treatment.",
           "tags": [
@@ -467,7 +488,8 @@
             "Design: Prospective cohort",
             "Limitations: Gender interaction P<0.05; Smoking and drinking may confound cancer outcomes; Baseline tea drinking information is self-reported; Individual causal benefit is not proven.",
             "Evidence: [Association between tea consumption and all-cause mortality in Chinese adults]. — https://html.rhhz.net/zhlxbx/20220201.htm",
-            "Reader summary: Another large follow-up in China found that the association between tea consumption and lower mortality risk was mainly seen in men. Daily tea drinking did not lead to better outcomes than non-daily tea drinking."
+            "Reader summary: Another large follow-up in China found that the association between tea consumption and lower mortality risk was mainly seen in men. Daily tea drinking did not lead to better outcomes than non-daily tea drinking.",
+            "Case: After reading the CKB research report, Uncle Wang was convinced that drinking tea can lead to longevity, so he never left his hand with a cup of tea from morning to night every day. But he ignored that research showed that the protective association was mainly seen in men, and that \"daily tea drinking\" was not significantly better than \"non-daily tea drinking\". More frequent tea drinking does not directly deduce the conclusion of longer life."
           ],
           "remember": "Choose tea that is sugar-free and at the right temperature; drinking tea cannot offset the risks of smoking and excessive drinking.",
           "tags": [
@@ -488,7 +510,8 @@
             "Design: Multi-country prospective cohort",
             "Limitations: People with obesity or metabolic risk may switch to sugar substitutes; One baseline FFQ; Different sweeteners cannot be separately attributed; Not a randomized trial of sugary drink substitution.",
             "Evidence: Association Between Soft Drink Consumption and Mortality in 10 European Countries. — https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2749350",
-            "Reader Summary: Higher intake of artificially sweetened beverages is associated with a higher risk of death in a large European follow-up. People with existing metabolic problems may switch to sugar-substitute drinks more often, making the results harder to interpret."
+            "Reader Summary: Higher intake of artificially sweetened beverages is associated with a higher risk of death in a large European follow-up. People with existing metabolic problems may switch to sugar-substitute drinks more often, making the results harder to interpret.",
+            "Case: Ms. Li, who is of normal weight, drinks at least one cup of sugar-free Coke every day in order to control her weight. She cited data saying that this will only increase the risk by 11%. But looking at the original text carefully, the data is limited to the subgroups with BMI <25 and ≥1 cup/day versus <1 cup/month; in the entire cohort, the HR for all-cause death for ≥2 cups/day of artificially sweetened beverages is 1.26."
           ],
           "remember": "Priority is given to plain water or unsweetened tea and coffee for daily drinking; those who transition from sugary drinks to sugar substitute drinks should not return to drinking sugary drinks according to this queue.",
           "tags": [
@@ -510,7 +533,8 @@
             "Limitations: Mostly health professionals; Self-reported intake; Residual confounding; Cup/serving definitions cannot be mixed across studies; Continuous models per cup differ from categorical models. BMJ cancer papers are incidences per 100mL/day, not deaths.",
             "Evidence: Long-Term Consumption of Sugar-Sweetened and Artificially Sweetened Beverages and Risk of Mortality in US Adults. — https://www.medicosadventistas.org/wp-content/uploads/2019/03/CIRCULATIONAHA.118.037401.pdf",
             "Evidence: Sugar drink consumption and risk of cancer: results from NutriNet-Santé prospective cohort. — https://pubmed.ncbi.nlm.nih.gov/31292122/",
-            "Reader Summary: Long-term follow-up in the United States found that drinking more sugar-sweetened beverages was associated with a higher risk of all-cause and cardiovascular death."
+            "Reader Summary: Long-term follow-up in the United States found that drinking more sugar-sweetened beverages was associated with a higher risk of all-cause and cardiovascular death.",
+            "Case: Xiao Chen, a college student, drinks more than two sugary drinks a day and feels anxious when he sees a news headline saying that the risk of death is \"as high as 62%.\" After reviewing the original paper, it was found that the risk of all-cause death was actually 21% higher with ≥2 servings/day and the risk of cancer death was 16% higher. However, the 18% and 12% listed by BMJ were cancer incidence data and had nothing to do with the risk of death."
           ],
           "remember": "Reduce regular sugary soft drinks, sweetened milk tea, etc., and replace them with plain water; do not regard the research dose threshold as a safety limit.",
           "tags": [
@@ -531,7 +555,8 @@
             "Design: Secondary analysis of an existing prospective cohort",
             "Limitations: Original abstract 1.11 Exposure is total; direct comparison of juice and SSB cannot be made across models; HR1.14 (0.97–1.33) in high and low intake groups is not significant; not applicable to whole fruits.",
             "Evidence: Association of Sugary Beverage Consumption With Mortality Risk in US Adults: A Secondary Analysis of Data From the REGARDS Study. — https://pubmed.ncbi.nlm.nih.gov/31099861/",
-            "Reader Summary: Follow-up of middle-aged and older adults in the United States found that greater pure fruit juice intake was associated with a higher risk of death."
+            "Reader Summary: Follow-up of middle-aged and older adults in the United States found that greater pure fruit juice intake was associated with a higher risk of death.",
+            "Case: Mr. Li drinks 12 ounces of pure juice every day and mistakenly believes that juice is as harmful as drinks with added sugar after reading research. The doctor clarified that the HR for each additional 12 ounces of juice in the REGARDS analysis was 1.24, but 11% of the original pool was due to the mixed drink effect and cannot be attributed to juice alone."
           ],
           "remember": "Prioritize whole fruits and small amounts of juice rather than the main source of drinking water; those with diabetes or those who need to limit sugar should combine it with a medical diet plan.",
           "tags": [
@@ -552,7 +577,8 @@
             "Design: Observational cohort dose-response meta-analysis",
             "Limitations: Coffee withdrawal may be caused by disease; tobacco, alcohol and diet are mixed; preparation methods, cup sizes, added sugar and caffeine amounts are different; there is no evidence to directly convert the risk ratio into lifespan.",
             "Evidence: Coffee consumption and all-cause and cause-specific mortality: a meta-analysis by potential modifiers. — https://pubmed.ncbi.nlm.nih.gov/31055709/",
-            "Reader summary: A review of large studies finds that people who drink moderate amounts of coffee have a lower risk of death. Cup size, brewing method, added sugar, and personal tolerance are all worth considering."
+            "Reader summary: A review of large studies finds that people who drink moderate amounts of coffee have a lower risk of death. Cup size, brewing method, added sugar, and personal tolerance are all worth considering.",
+            "Case: Ms. Wang drinks 3.5 cups of coffee a day. She saw research saying that this amount is associated with the lowest mortality rate, and thought she had found a precise prescription for extending life. The nutritionist pointed out that this is the point of the observed correlation fitting curve. The reduction in the action section is not a unified effect of the meta and cannot be copied mechanically."
           ],
           "remember": "Those who are used to it and tolerate it can drink it in moderation and add less sugar; when it is necessary to limit caffeine for insomnia, heart palpitations, pregnancy, etc., it will be individualized and do not forcefully start drinking it to extend life.",
           "tags": [
@@ -573,7 +599,8 @@
             "Design: ACM systematic review and meta-regression",
             "Limitations: underreporting of alcohol use, alcohol abstinence disease, binge drinking patterns, gender differences, meta-regression restrictions at the research level; female risk appears at lower intakes; it is not an alcohol abstinence intervention trial, and the percentage of benefit from abstinence cannot be directly given.",
             "Evidence: Association Between Daily Alcohol Intake and Risk of All-Cause Mortality: A Systematic Review and Meta-analyses. — https://pubmed.ncbi.nlm.nih.gov/37000449/",
-            "Reader Summary: A large review of studies found no lower risk of death after accounting for biases such as past drinking; higher amounts of alcohol consumed were associated with higher risks."
+            "Reader Summary: A large review of studies found no lower risk of death after accounting for biases such as past drinking; higher amounts of alcohol consumed were associated with higher risks.",
+            "Case: Mr. Zhang often drinks alcohol when socializing. He thought that drinking a small amount of alcohol was good for his health. After correcting for bias, the new review showed that there was no significant protection at low doses, but the risk increased at high doses of more than 45 g/day. Based on this, he reduced the frequency of drinking and no longer believed in \"appropriate amount to extend life\"."
           ],
           "remember": "Non-drinkers should not start for health; drinkers should reduce their total amount and binge drink. People with a history of alcohol dependence or withdrawal should seek medical support to avoid unsupported arrest.",
           "tags": [
@@ -600,7 +627,8 @@
             "Limitations: Crude mortality denominator was miswritten; age can explain most of the crude association; 20-year adjusted cumulative deaths 0.48/0.41/0.38, respectively; registration as a trial does not change the cohort design; supplementation cannot be extrapolated.",
             "Evidence: Higher spermidine intake is linked to lower mortality: a prospective population-based study. — https://www.vascular-proteomics.com/pub/2018/KiechlS_AJCN_108_371.pdf",
             "Evidence: Effects of Spermidine Supplementation on Cognition and Biomarkers in Older Adults With Subjective Cognitive Decline: A Randomized Clinical Trial. — https://pubmed.ncbi.nlm.nih.gov/35616942/",
-            "Reader summary: A follow-up study found that people who consumed more spermidine from food had a lower risk of death. This is a different issue than taking spermidine supplements, whose life-extending effects have not been proven."
+            "Reader summary: A follow-up study found that people who consumed more spermidine from food had a lower risk of death. This is a different issue than taking spermidine supplements, whose life-extending effects have not been proven.",
+            "Case: In a large nutritional survey of middle-aged and older adults, researchers assessed subjects' dietary spermidine intake through dietary questionnaires. After years of follow-up, they found that after adjusting for factors such as age, gender, lifestyle habits and overall diet quality, those with the highest intakes did indeed have significantly lower all-cause mortality than those with the lowest intakes. This finding suggests that whole foods rich in spermidine (such as wheat germ, soybeans) may be associated with a lower risk of death."
           ],
           "remember": "It can be consumed through ordinary balanced foods such as whole grains and beans; if you do not buy or take spermidine according to \"reduce 60% mortality\", patients with diseases should check with their doctor before taking supplements.",
           "tags": [
@@ -622,7 +650,8 @@
             "Limitations: Very short follow-up, lack of long-term efficacy and safety; The original RCT had controversy over baseline liver fat differences; changes in NAD or insulin signals cannot be equated with life extension.",
             "Evidence: Nicotinamide mononucleotide increases muscle insulin sensitivity in prediabetic women. — https://pubmed.ncbi.nlm.nih.gov/33888596/",
             "Evidence: Effects of Nicotinamide Mononucleotide on Glucose and Lipid Metabolism in Adults: A Systematic Review and Meta-analysis of Randomized Controlled Trials. — https://pubmed.ncbi.nlm.nih.gov/39531138/",
-            "Reader summary: Existing human trials mainly study metabolic indicators, are small in scale and short in time. The effect of NMN on extending human lifespan has not yet been confirmed, and there is a lack of sufficient data on its long-term safety."
+            "Reader summary: Existing human trials mainly study metabolic indicators, are small in scale and short in time. The effect of NMN on extending human lifespan has not yet been confirmed, and there is a lack of sufficient data on its long-term safety.",
+            "Case: Mr. Liu bought NMN supplements and took them for three months, and his fatigue was slightly reduced. A review of 8 RCTs with a total of 342 people found that there was no significant benefit in major metabolic indicators within 14 days to 12 weeks, and there was no evidence of longevity, so he stopped taking it and returned to his regular schedule."
           ],
           "remember": "Do not use NMN as a proven life-extending drug; if you participate in research, it should be managed as a formal trial and it does not replace the treatment of chronic diseases.",
           "tags": [
@@ -644,7 +673,8 @@
             "Limitations: The control of the old trial is different from the modern standard treatment, and does not extrapolate to people without diabetes; For the applicable caliber of adverse reaction numbers in the original database, please see the \"Metformin Adverse Reactions\" record.",
             "Evidence: Effect of intensive blood-glucose control with metformin on complications in overweight patients with type 2 diabetes (UKPDS 34). UK Prospective Diabetes Study (UKPDS) Group. — https://pubmed.ncbi.nlm.nih.gov/9742977/",
             "Evidence: Reappraisal of metformin efficacy in the treatment of type 2 diabetes: a meta-analysis of randomized controlled trials. — https://pubmed.ncbi.nlm.nih.gov/22509138/",
-            "Reader's summary: Among overweight people with newly diagnosed diabetes, a randomized trial found fewer deaths in the metformin group; subsequent trials pooled results that are less certain. These studies discuss diabetes treatment."
+            "Reader's summary: Among overweight people with newly diagnosed diabetes, a randomized trial found fewer deaths in the metformin group; subsequent trials pooled results that are less certain. These studies discuss diabetes treatment.",
+            "Case: Mr. Zhao was newly diagnosed with type 2 diabetes and was overweight. The doctor recommended metformin to strengthen blood sugar control. He saw that UKPDS34 showed that the death of such patients was relatively reduced by 36%, but the RR of 13 subsequent RCTs was 0.99, and he understood that this is not a universal life-extending drug for healthy people."
           ],
           "remember": "For those with indications for diabetes, doctors should choose medications based on renal function, tolerance and B12 assessment; do not stop taking the prescription on your own, nor start anti-aging in healthy people on your own.",
           "tags": [
@@ -667,7 +697,8 @@
             "Evidence: Can people with type 2 diabetes live longer than those without? A comparison of mortality in people initiated with metformin or sulphonylurea monotherapy and matched, non-diabetic controls. — https://pubmed.ncbi.nlm.nih.gov/25041462/",
             "Evidence: Effect of Metformin and Lifestyle Interventions on Mortality in the Diabetes Prevention Program and Diabetes Prevention Program Outcomes Study. — https://pubmed.ncbi.nlm.nih.gov/34697033/",
             "Evidence: Paternal metformin use and risk of congenital malformations in offspring in Norway and Taiwan: population based, cross national cohort study. — https://pubmed.ncbi.nlm.nih.gov/39414354/",
-            "Reader summary: Observational studies have compared diabetic patients taking metformin with controls without diabetes and found that the former had better survival; however, long-term randomized follow-up did not find a reduction in the risk of death among people at high risk for diabetes. The life-extending effect of taking medication in healthy people has not yet been proven."
+            "Reader summary: Observational studies have compared diabetic patients taking metformin with controls without diabetes and found that the former had better survival; however, long-term randomized follow-up did not find a reduction in the risk of death among people at high risk for diabetes. The life-extending effect of taking medication in healthy people has not yet been proven.",
+            "Case: Ms. Qian is in good health. She heard that metformin can extend life and wanted to try it. The doctor pointed out that in the 2014 review cohort non-randomized trial, DPP/DPPOS followed up for 21 years with HR0.99 and found no benefit in healthy people; the 2024 study also found no significant association with birth defects caused by father's medication."
           ],
           "remember": "Healthy people should not take metformin on their own to extend their lifespan; diabetic men preparing for pregnancy should not stop taking metformin on their own due to second-hand reports and discuss individual risks with their doctor.",
           "tags": [
@@ -690,7 +721,8 @@
             "Evidence: Multivitamins in the prevention of cancer in men: the Physicians' Health Study II randomized controlled trial. — https://pubmed.ncbi.nlm.nih.gov/23162860/",
             "Evidence: Multivitamins in the prevention of cancer and cardiovascular disease: the COcoa Supplement and Multivitamin Outcomes Study (COSMOS) randomized clinical trial. — https://pubmed.ncbi.nlm.nih.gov/35294969/",
             "Evidence: Multivitamin Use and Mortality Risk in 3 Prospective US Cohorts. — https://pubmed.ncbi.nlm.nih.gov/38922615/",
-            "Reader Summary: Randomized trials and large follow-ups of multivitamins have not shown a reduced risk of death in generally healthy people. Some studies have found a reduction in cancer incidence, which is another study outcome."
+            "Reader Summary: Randomized trials and large follow-ups of multivitamins have not shown a reduced risk of death in generally healthy people. Some studies have found a reduction in cancer incidence, which is another study outcome.",
+            "Case: Mr. Sun takes multivitamins every day and his physical examination indicators are normal, thinking that this will prevent cancer and extend his life. After reading PHS II, it was found that cancer incidence decreased by 8% but not death. COSMOS and the 2024 cohort also showed no benefit from ACM. He recognized that there was no evidence to support healthy people extending their lives."
           ],
           "remember": "Do not take multivitamins regularly for longevity; those with nutritional deficiencies, specific life stages, or absorption disorders will be supplemented according to assessment.",
           "tags": [
@@ -711,7 +743,8 @@
             "Design: Nationwide cohort mortality follow-up analysis",
             "Limitations: Age Adjustment and multivariable adjustment should not be mixed; exposure to combined supplements cannot be separated into the unique effect of aminoglycosides; baseline self-reported use, and follow-up did not track dosage and continued compliance; users exercise more often, do not smoke, and are more educated, and adjustment cannot eliminate the confounding of healthy users and other supplements.",
             "Evidence: Glucosamine/Chondroitin and Mortality in a US NHANES Cohort. — https://pubmed.ncbi.nlm.nih.gov/33219063/",
-            "Reader summary: US follow-up found that long-term users of glucose and chondroitin had a lower risk of death; users also exercised more often and did not smoke. Research has not proven that these supplements extend life in healthy people."
+            "Reader summary: US follow-up found that long-term users of glucose and chondroitin had a lower risk of death; users also exercised more often and did not smoke. Research has not proven that these supplements extend life in healthy people.",
+            "Case: Aunt Zhou has joint discomfort and has been taking glucosamine chondroitin for a long time. She feels that walking is easier. I saw a study saying that death was reduced by 39%, but the doctor explained that it was only adjusted for age; it was 27% lower after full adjustment, and it could not be proven to be equivalent to exercise or the introduction of a 500 mg dose."
           ],
           "remember": "Do not start glucosamine/chondroitin to extend your life; if you have joint symptoms or anticoagulant therapy, discuss the applicability and interactions with your doctor first, and continue regular exercise.",
           "tags": [
@@ -732,7 +765,8 @@
             "Design: narrative drug development review",
             "Limitations: different molecules, dosages, and indications cannot be combined into \"comprehensive anti-aging drugs\"; benefits for disease indications are not equal to life extension for healthy people; review in 2020, does not claim to comprehensively search all new drugs as of 2026.",
             "Evidence: The quest to slow aging through drug discovery. — https://pubmed.ncbi.nlm.nih.gov/32467649/",
-            "Reader summary: A review of anti-aging drugs discusses a variety of candidate molecules, with evidence derived primarily from animal and limited human studies. Their effectiveness in extending lifespan in healthy people remains unproven."
+            "Reader summary: A review of anti-aging drugs discusses a variety of candidate molecules, with evidence derived primarily from animal and limited human studies. Their effectiveness in extending lifespan in healthy people remains unproven.",
+            "Case: Mr. Wu is concerned about anti-aging. He saw candidate drugs such as rapamycin and senolytics mentioned in a review, and planned to try them. Experts pointed out that the review was stratified based on preclinical and partial clinical results and was not a meta-analysis confirming that these drugs can reduce all-cause death in healthy people."
           ],
           "remember": "Do not combine anti-aging drugs by yourself; if there are clear disease indications, treatment should be carried out by specialists, and experimental anti-aging intervention should be carried out in standardized research.",
           "tags": [
@@ -753,7 +787,8 @@
             "Design: Randomized Meta-analysis of trial individual data",
             "Limitations: The study includes primary and secondary prevention, and the 0.91 given is for the subgroup without medical history; the absolute benefits of high and low risks are different; the 2026 local medication threshold has not been independently verified, and the medication cannot be prescribed here.",
             "Evidence: The effects of lowering LDL cholesterol with statin therapy in people at low risk of vascular disease: meta-analysis of individual data from 27 randomized trials. — https://pubmed.ncbi.nlm.nih.gov/22607822/",
-            "Reader summary: A summary of randomized trials finds that statin therapy reduces cardiovascular events, and reduced deaths were also observed in people without preexisting vascular disease. Personal gain depends on the original risk."
+            "Reader summary: A summary of randomized trials finds that statin therapy reduces cardiovascular events, and reduced deaths were also observed in people without preexisting vascular disease. Personal gain depends on the original risk.",
+            "Case: Mr. Zheng’s physical examination showed that his LDL was high but he had no vascular disease, so he started taking statins. After reviewing the LDL drop by 1mmol/L, I saw that the meta of 27 trials showed ACM RR0.91. Doctors remind that this applies to those who are suitable for lipid lowering. The absolute benefits vary with the baseline risk and not everyone needs to take it."
           ],
           "remember": "Discuss statins for those who already suffer from ASCVD or meet the indications for lipid-lowering as assessed by a doctor; low-risk healthy people should not start on their own just because of \"life extension\"; muscle symptoms, interactions, and pregnancy situations require individual evaluation.",
           "tags": [
@@ -774,7 +809,8 @@
             "Design: Randomized double-blind placebo-controlled 2×2 factorial trial",
             "Limitations: Not screened for severe deficiencies; most non-deficient populations, results do not cover all doses and indications; cannot translate observational low-dimensional D associations into causal effects of supplementation.",
             "Evidence: Vitamin D Supplements and Prevention of Cancer and Cardiovascular Disease. — https://pubmed.ncbi.nlm.nih.gov/30415629/",
-            "Reader summary: Large randomized trials have not found that routine vitamin D supplementation reduces the risk of death in the general population of middle-aged and older adults. Treatment needs such as nutritional deficiencies and bone disease require separate evaluation."
+            "Reader summary: Large randomized trials have not found that routine vitamin D supplementation reduces the risk of death in the general population of middle-aged and older adults. Treatment needs such as nutritional deficiencies and bone disease require separate evaluation.",
+            "Case: Ms. Feng takes 2000IU vitamin D3 every day and looks forward to extending her life. The VITAL trial showed an ACM HR of 0.99 with a confidence interval spanning 1. The doctor explained that this does not negate the indication for deficiency treatment, but it does not support healthy people relying on this dose to prolong life."
           ],
           "remember": "Do not blindly supplement in large doses for the purpose of extending life; those who are suspected of being deficient or have clear indications such as bone health should supplement according to the doctor's assessment.",
           "tags": [
@@ -795,7 +831,8 @@
             "Design: SPRINT randomized controlled trial; median follow-up 3.26 years, early stopping",
             "Limitations: Early stopping may overestimate benefit; hypotension, syncope, electrolyte abnormalities, and acute kidney injury were more common; cannot be generalized to diabetics or low-risk normotensive individuals.",
             "Evidence: A Randomized Trial of Intensive versus Standard Blood-Pressure Control. — https://europepmc.org/article/MED/26551272",
-            "Reader summary: A randomized trial found that hypertensive people without diabetes and with higher cardiovascular risk died less after intensive blood pressure reduction; adverse events such as hypotension and kidney disease were also more common."
+            "Reader summary: A randomized trial found that hypertensive people without diabetes and with higher cardiovascular risk died less after intensive blood pressure reduction; adverse events such as hypotension and kidney disease were also more common.",
+            "Case: A 58-year-old hypertensive patient without diabetes but with high cardiovascular risk. On the advice of his doctor, he lowered his systolic blood pressure target to below 120mmHg. By adjusting his medication and lifestyle, his blood pressure stabilized and his cardiovascular health improved significantly after half a year. He felt at ease with the treatment plan."
           ],
           "remember": "Those diagnosed with high blood pressure and at higher risk should discuss their goals with their doctor and monitor kidney function, electrolytes, and postural symptoms; do not add medications or pursue trial goals on your own.",
           "tags": [
@@ -816,7 +853,8 @@
             "Design: Double-blind randomized placebo control; ACM is the preset key secondary endpoint",
             "Limitations: The trial was terminated early due to efficacy; cannot be extrapolated to healthy people without CKD, type 1 diabetes, or excluded kidney disease types. 4.7%/6.8% is the proportion of deaths during the trial, not the lifetime risk.",
             "Evidence: Effects of dapagliflozin on mortality in patients with chronic kidney disease: a pre-specified analysis from the DAPA-CKD randomized controlled trial — https://pmc.ncbi.nlm.nih.gov/articles/PMC8244648/",
-            "Reader summary: The randomized trial found fewer deaths in the dapagliflozin group among eligible patients with chronic kidney disease, including those with and without diabetes. The life-extending effect on healthy people has not yet been proven."
+            "Reader summary: The randomized trial found fewer deaths in the dapagliflozin group among eligible patients with chronic kidney disease, including those with and without diabetes. The life-extending effect on healthy people has not yet been proven.",
+            "Case: A 62-year-old patient with type 2 diabetes was diagnosed with stage 3 chronic kidney disease and had high urinary protein. Dapagliflozin was prescribed after evaluation by a nephrologist. A review one year after taking the medication showed that the urinary protein dropped and the renal function indicators were stable. The patient continued to take the medication regularly and was followed up regularly."
           ],
           "remember": "Evaluated by clinicians based on CKD and other indications; risks such as fluid deficiency, infection, and ketoacidosis need to be considered. Dosage describes the trial protocol only.",
           "tags": [
@@ -838,7 +876,8 @@
             "Limitations: cannot be generalized to young people, without cardiovascular disease, normal BMI; funded by the manufacturer; 16.6% vs 8.2% of the main trial discontinued due to adverse events.",
             "Evidence: The Effect of Semaglutide on Mortality and COVID-19-Related Deaths: An Analysis From the SELECT Trial. — https://pubmed.ncbi.nlm.nih.gov/39217559/",
             "Evidence: Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes — https://www.nejm.org/doi/full/10.1056/NEJMoa2307563",
-            "Reader's abstract: In the SELECT trial, fewer deaths occurred in the semaglutide group among participants who had cardiovascular disease, were overweight or obese, and did not have diabetes; this death result was an exploratory finding."
+            "Reader's abstract: In the SELECT trial, fewer deaths occurred in the semaglutide group among participants who had cardiovascular disease, were overweight or obese, and did not have diabetes; this death result was an exploratory finding.",
+            "Case: An obese patient with a history of cardiovascular disease and a BMI of 32 was started on semaglutide. After half a year, the weight dropped by 8%, and the blood lipid and blood sugar indicators improved. The doctor reminded that cardiovascular outcomes need to be continued to be observed, and the patient was satisfied with the current results."
           ],
           "remember": "Only evaluate under corresponding clinical indications, and do not regard exploratory ACM results as a promise to extend life for healthy people.",
           "tags": [
@@ -860,7 +899,8 @@
             "Limitations: Not completely consistent with other previous studies; not suitable for secondary prevention after myocardial infarction/stroke, does not mean that medication increases ACM for all ages.",
             "Evidence: Effect of Aspirin on All-Cause Mortality in the Healthy Elderly. — https://pubmed.ncbi.nlm.nih.gov/30221595/",
             "Evidence: Effect of Aspirin on All-Cause Mortality in the Healthy Elderly — Discussion — https://www.nejm.org/doi/full/10.1056/NEJMoa1803955",
-            "Reader Abstract: Daily aspirin conferred no life-extending benefit and signaled more deaths in a randomized trial of older adults without prior cardiovascular disease. This result is in a different context than treatment after myocardial infarction or stroke."
+            "Reader Abstract: Daily aspirin conferred no life-extending benefit and signaled more deaths in a randomized trial of older adults without prior cardiovascular disease. This result is in a different context than treatment after myocardial infarction or stroke.",
+            "Case: A 70-year-old healthy man with no history of cardiovascular disease wants to prevent myocardial infarction through daily aspirin after a physical examination. Doctors assessed that the risk of bleeding outweighed the benefits and recommended no medication. The old man followed the advice and maintained his exercise habits, and his physical examination indicators were normal one year later."
           ],
           "remember": "Do not initiate aspirin on your own just to extend your life; you should not discontinue aspirin on your own based on this trial, as the user and physician have been specifically advised to evaluate it.",
           "tags": [
@@ -881,7 +921,8 @@
             "Design: Adverse reaction trials and post-marketing reports from official drug labels, non-ACM intervention studies",
             "Limitations: Response rates of different preparations, titrations, doses, follow-up and populations cannot be directly compared; no unified definition is provided for 17.4%; the frequency of adverse reactions is not regarded as the risk of death.",
             "Evidence: Metformin hydrochloride tablets — Full prescribing information, sections 5.1–5.2, 6.1–6.2 — https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4f70f907-08d5-4c2e-a4be-32c6124faa7b",
-            "Reader summary: Metformin can cause gastrointestinal discomfort such as diarrhea, and may also reduce vitamin B12 levels; lactic acidosis is also a risk that needs attention. Reactions may vary with preparation, dose, and physical condition."
+            "Reader summary: Metformin can cause gastrointestinal discomfort such as diarrhea, and may also reduce vitamin B12 levels; lactic acidosis is also a risk that needs attention. Reactions may vary with preparation, dose, and physical condition.",
+            "Case: A patient with type 2 diabetes just started taking metformin and was very worried after seeing the adverse reactions listed in the instructions. Doctors explain that these numbers come from specific trials and may not happen to everyone. The patient continued to take the medicine after adjusting his mentality, and no obvious discomfort occurred during follow-up."
           ],
           "remember": "Use medication as clinically indicated and monitor renal function and B12; this record is used to correct the frequency and is not used to start or stop medication on your own.",
           "tags": [
@@ -903,7 +944,8 @@
             "Limitations: The study excluded patients with previous decompensated cirrhosis, liver cancer, or liver transplantation; cannot be extrapolated to the uninfected, nor is it a randomized comparison of a certain regimen. Antibody positivity by itself does not confirm current infection.",
             "Evidence: Clinical outcomes in patients with chronic hepatitis C after direct-acting antiviral treatment: a prospective cohort study. — https://pubmed.ncbi.nlm.nih.gov/30765123/",
             "Evidence: Testing for Hepatitis C (CDC) — https://www.cdc.gov/hepatitis-c/testing/index.html",
-            "Reader's Summary: Hepatitis C can be asymptomatic for long periods of time. Follow-up studies of patients with chronic hepatitis C have found that people who receive antiviral treatment have a lower risk of death. It is important to find out whether they are infected and treat them in time."
+            "Reader's Summary: Hepatitis C can be asymptomatic for long periods of time. Follow-up studies of patients with chronic hepatitis C have found that people who receive antiviral treatment have a lower risk of death. It is important to find out whether they are infected and treat them in time.",
+            "Case: A 45-year-old man was found to be positive for hepatitis C antibodies during a physical examination, and further examination confirmed chronic hepatitis C. He received direct antiviral therapy in the infectious disease department for 12 weeks. During the reexamination, the viral load turned negative. Six months later, his liver function returned to normal and his quality of life improved significantly."
           ],
           "remember": "After being positive for hepatitis C antibodies, further test to see if the virus is still present; after confirming a current infection, receive a liver evaluation and choose antiviral treatment with your doctor.",
           "tags": [
@@ -930,7 +972,8 @@
             "Limitations: Smoking volume changes over time; negative results for non-daily smoking in this cohort cannot prove safety; the CI of the US study is 99% and should not be marked as 95%.",
             "Evidence: Low-intensity daily smoking and cause-specific mortality in Mexico: prospective study of 150 000 adults. — https://pubmed.ncbi.nlm.nih.gov/33659992/",
             "Evidence: 21st-century hazards of smoking and benefits of cessation in the United States. — https://pubmed.ncbi.nlm.nih.gov/23343063/",
-            "Reader summary: Long-term follow-up continues to show that smokers are at higher risk of death, even if they smoke a small amount per day. People who quit smoking have lower risks than those who continue to smoke."
+            "Reader summary: Long-term follow-up continues to show that smokers are at higher risk of death, even if they smoke a small amount per day. People who quit smoking have lower risks than those who continue to smoke.",
+            "Case: A 35-year-old office worker smoked 5 cigarettes a day and decided to quit smoking after seeing the research data. He diverted his attention through nicotine replacement therapy and exercise, and successfully quit smoking after three months. A physical examination a year later showed that his lung function had improved, and he felt that he was breathing easier and had more energy."
           ],
           "remember": "Don’t start smoking, and smokers should quit smoking as soon as possible; seek smoking cessation clinics and evidence-based drug support when necessary. Reducing the number of cigarettes does not mean eliminating risks.",
           "tags": [
@@ -951,7 +994,8 @@
             "Design: National open cohort",
             "Limitations: Older adults in the United States; zip code exposure does not equal personal inhalation; lack of detailed information such as individual smoking; association cannot directly give personal purification intervention effects.",
             "Evidence: Air Pollution and Mortality in the Medicare Population. — https://pubmed.ncbi.nlm.nih.gov/28657878/",
-            "Reader's summary: A large follow-up of older adults in the United States found that long-term exposure to higher levels of fine particulate matter and ozone was associated with a higher risk of death."
+            "Reader's summary: A large follow-up of older adults in the United States found that long-term exposure to higher levels of fine particulate matter and ozone was associated with a higher risk of death.",
+            "Case: A resident living in a city center is concerned about the long-term impact of PM2.5 on health. He goes out less often on hazy days, wears an N95 mask, and uses an air purifier indoors. A physical examination a year later showed stable lung function, and he believes these measures were protective."
           ],
           "remember": "Pay attention to local air quality, reduce strenuous outdoor activities during high-exposure periods when pollution is high, and improve indoor air when feasible; ventilation should take into account pollution and infection situations.",
           "tags": [
@@ -978,7 +1022,8 @@
             "Limitations: Skin cancer diagnosis and survival choices are confounded by socioeconomics, outdoor exercise, and health care-seeking behaviors; exposure proxies are unreliable; sunburn increases skin cancer risk; there is no optimal duration of dosage derived from these studies.",
             "Evidence: Skin cancer as a marker of sun exposure associates with myocardial infarction, hip fracture and death from any cause. — https://pubmed.ncbi.nlm.nih.gov/24038635/",
             "Evidence: Avoidance of sun exposure as a risk factor for major causes of death: a competing risk analysis of the Melanoma in Southern Sweden cohort. — https://pubmed.ncbi.nlm.nih.gov/26992108/",
-            "Reader's summary: Nordic research has found that sun exposure-related indicators are related to survival, but outdoor activities, medical treatment habits, etc. can also affect the results. Research has not identified a life-extending amount of sun exposure."
+            "Reader's summary: Nordic research has found that sun exposure-related indicators are related to survival, but outdoor activities, medical treatment habits, etc. can also affect the results. Research has not identified a life-extending amount of sun exposure.",
+            "Case: A nationwide study in Denmark used skin cancer diagnosis records as a surrogate for long-term sun exposure and analyzed its association with all-cause mortality. The results showed that patients diagnosed with non-melanoma skin cancer, which often represents chronic sun exposure, had a lower risk of death than the general population. However, the researchers stress that this does not prove that spending more time in the sun directly leads to a longer lifespan, as skin cancer patients may have different life or medical characteristics."
           ],
           "remember": "You can take regular outdoor activities and be exposed to natural light, while avoiding sunburns and sunbeds. People with photosensitivity diseases, related medications, or those with a high risk of skin cancer should follow the sun protection recommendations of their doctors.",
           "tags": [
@@ -1004,7 +1049,8 @@
             "Design: Combined analysis of England/Scottish population-based cohort",
             "Limitations: Self-reported exercise, healthy participants and socioeconomic confounding; cannot unconditionally extrapolate to table tennis or all ages.",
             "Evidence: Associations of specific types of sports and exercise with all-cause and cardiovascular-disease mortality: a cohort study of 80 306 British adults. — https://europepmc.org/article/MED/27895075",
-            "Reader summary: Participation in swing sports is associated with a lower risk of death, following follow-up of British adults. Hobbies, physical fitness, and whether you can persist for a long time are also worth putting into your exercise selection."
+            "Reader summary: Participation in swing sports is associated with a lower risk of death, following follow-up of British adults. Hobbies, physical fitness, and whether you can persist for a long time are also worth putting into your exercise selection.",
+            "Case: A 35-year-old office worker plays badminton once every Wednesday and weekend, for 60 minutes each time. After a year of persistence, he found that his physical fitness had improved significantly and the number of colds had decreased. The physical examination report showed that his blood pressure and blood lipids were within the normal range. He was very satisfied with this exercise."
           ],
           "remember": "Choose racket activities that you like and that your body allows, and increase them gradually; those with joint injuries or cardiovascular symptoms will be evaluated first.",
           "tags": [
@@ -1025,7 +1071,8 @@
             "Design: Wrist accelerometer prospective cohort, dose-response model",
             "Limitations: non-random; selection bias, residual confounding; the lowest point of the curve is not the optimal prescription for everyone.",
             "Evidence: Vigorous physical activity, incident heart disease, and cancer: how little is enough? — https://pmc.ncbi.nlm.nih.gov/articles/PMC9726449/",
-            "Reader summary: UK follow-up finds that shorter periods of high-intensity activity are also associated with a lower risk of death. The participants are mainly middle-aged and elderly people, and the amount of exercise is recorded from activity equipment."
+            "Reader summary: UK follow-up finds that shorter periods of high-intensity activity are also associated with a lower risk of death. The participants are mainly middle-aged and elderly people, and the amount of exercise is recorded from activity equipment.",
+            "Case: A 45-year-old sedentary worker started trying high-intensity interval training three times a week for 15 minutes each time due to limited time. Three months later, he felt that his cardiopulmonary function had improved significantly and he no longer had asthma when climbing stairs. A physical examination showed that his resting heart rate had dropped and his blood pressure was more stable."
           ],
           "remember": "Those who have a foundation for exercise and have no contraindications will gradually join short-term higher-intensity activities; those who are unwell or whose chronic disease has not stabilized will be evaluated first.",
           "tags": [
@@ -1046,7 +1093,8 @@
             "Design: Prospective single cohort with accelerometer measurements",
             "Limitations: Short-term activity measurement; residual confounding and reverse causality; 7,000 steps cannot be considered a universal threshold.",
             "Evidence: Steps per Day and All-Cause Mortality in Middle-aged Adults in the Coronary Artery Risk Development in Young Adults Study. — https://pmc.ncbi.nlm.nih.gov/articles/PMC8417757/",
-            "Reader summary: A follow-up of middle-aged Americans found that those who took more steps per day had a lower risk of death. The result is not that more steps is better."
+            "Reader summary: A follow-up of middle-aged Americans found that those who took more steps per day had a lower risk of death. The result is not that more steps is better.",
+            "Case: A 65-year-old retired man used to take less than 3,000 steps a day. On the doctor's advice, he started walking after meals every day and gradually increased his steps to 8,000 steps. Six months later, a physical examination showed that his blood pressure and blood sugar levels had improved, his sleep quality had improved, and he felt more energetic when walking."
           ],
           "remember": "Gradually increase walking from your own baseline; individualized arrangements for those with mobility impairments, risk of falls, or cardiopulmonary disease.",
           "tags": [
@@ -1067,7 +1115,8 @@
             "Design: Prospective cohort systematic review/meta-analysis",
             "Limitations: I²=83%; self-reported, healthy participant bias and confounding; it cannot be concluded that more training is harmful based on the J curve.",
             "Evidence: Muscle-strengthening activities are associated with lower risk and mortality in major non-communicable diseases: a systematic review and meta-analysis of cohort studies. — https://pmc.ncbi.nlm.nih.gov/articles/PMC9209691/",
-            "Reader summary: Review of cohort studies finds that people who do strength training have a lower risk of death. There is still uncertainty about the specific relationship between training volume and results."
+            "Reader summary: Review of cohort studies finds that people who do strength training have a lower risk of death. There is still uncertainty about the specific relationship between training volume and results.",
+            "Case: Master Zhang, a 45-year-old office worker, does home resistance training three times a week in the evening, including squats and push-ups, for 20 minutes each time, for two years. The physical examination showed that his muscle mass increased and his daily fatigue was significantly reduced."
           ],
           "remember": "Gradually practice major muscle groups and combine aerobics when physical conditions permit; pain, recent surgery, or unstable chronic diseases need to be evaluated and adjusted first.",
           "tags": [
@@ -1088,7 +1137,8 @@
             "Design: Cohort study dose-response meta-analysis",
             "Limitations: High inter-study heterogeneity; previous disease, genetics, and testing regimen affect CRF; search ended on 2019-12-26.",
             "Evidence: Cardiorespiratory fitness and mortality from all causes, cardiovascular disease and cancer: dose-response meta-analysis of cohort studies. — https://doi.org/10.1136/bjsports-2021-104876",
-            "Reader Summary: Multiple cohort studies have found that better cardiorespiratory fitness as measured by exercise testing is associated with a lower risk of death. It reflects physical ability and is also affected by factors such as disease and genetics."
+            "Reader Summary: Multiple cohort studies have found that better cardiorespiratory fitness as measured by exercise testing is associated with a lower risk of death. It reflects physical ability and is also affected by factors such as disease and genetics.",
+            "Case: Uncle Chen, a 62-year-old retired man, has insisted on walking briskly every day for 30 years. In the exercise stress test center, his lung fitness reached 11 METs. He climbed six floors every day without gasping for breath. His resting heart rate has been maintained at about 62 beats/min for a long time."
           ],
           "remember": "Treat fitness as a clue to physical fitness assessment and gradually train based on basic health status; RR cannot be used directly to estimate personal life extension.",
           "tags": [
@@ -1109,7 +1159,8 @@
             "Design: Systematic review and dose-response meta-analysis",
             "Limitations: Residual confounding; no age-stratified conclusions; differences in device, measurement period, and previous diseases. This time, we relied on abstract values ​​and did not review the full text table by table.",
             "Evidence: Daily steps and health outcomes in adults: a systematic review and dose-response meta-analysis. — https://pubmed.ncbi.nlm.nih.gov/40713949/",
-            "Reader summary: Newer research reviews continue to find that taking more daily steps is associated with a lower risk of death. Participant physical condition, equipment, and measurement methods can also affect results."
+            "Reader summary: Newer research reviews continue to find that taking more daily steps is associated with a lower risk of death. Participant physical condition, equipment, and measurement methods can also affect results.",
+            "Case: Xiao Li, a 30-year-old copywriter, previously only averaged 1,800 steps per day. Later, he deliberately increased his walking during commuting and lunch breaks. The average number of steps per day stabilized at 7,000 steps. After half a year, his weight dropped by 3 kilograms and his sleep quality improved."
           ],
           "remember": "Increase the number of steps within your own capabilities; 7,000 steps can be a progressive goal for some people, and cannot be set as a hard threshold that everyone must reach.",
           "tags": [
@@ -1135,7 +1186,8 @@
             "Design: Large prospective cohort",
             "Limitations: Self-reported tooth brushing behavior; associated with smoking, poverty, pre-existing health status, and access to care.",
             "Evidence: Associations of toothbrushing behavior with risks of vascular and nonvascular diseases in Chinese adults. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7616900/",
-            "Reader summary: A large-scale follow-up in China found that people who rarely brushed their teeth had a higher risk of death. Oral care is also associated with smoking, health conditions, and medical care."
+            "Reader summary: A large-scale follow-up in China found that people who rarely brushed their teeth had a higher risk of death. Oral care is also associated with smoking, health conditions, and medical care.",
+            "Case: Xiao Zhou, a 28-year-old office worker, used to be lazy and did not brush his teeth. His gums were frequently red, swollen and bleeding, and dental calculus accumulated significantly. Later, he insisted on brushing his teeth in the morning and evening and gargling after meals, and the number of oral inflammation episodes was significantly reduced."
           ],
           "remember": "Maintain regular brushing with fluoride toothpaste and dental disease diagnosis and treatment; it cannot replace measures such as controlling smoking and blood pressure.",
           "tags": [
@@ -1156,7 +1208,8 @@
             "Design: Japanese prospective cohort; endpoints were cardiovascular and cerebrovascular events",
             "Limitations: No randomization; Japanese bathtub habits cannot be directly generalized to showering; risks such as drowning and heat stress are not excluded by the lack of significant sudden death results.",
             "Evidence: Habitual tub bathing and risks of incident coronary heart disease and stroke. — https://europepmc.org/article/MED/32209614",
-            "Reader summary: Follow-up of middle-aged Japanese people found that frequent bathing is associated with less incidence of cardiovascular disease and stroke."
+            "Reader summary: Follow-up of middle-aged Japanese people found that frequent bathing is associated with less incidence of cardiovascular disease and stroke.",
+            "Case: 70-year-old Uncle Wang has a history of hypertension. His children bought him a non-slip bath stool and controlled the water temperature at 39°C. He takes a bath three times a week for 12 minutes each time. So far, he has not experienced dizziness, falls or other accidents."
           ],
           "remember": "You can bathe in warm water according to comfortable and safe habits; those with a tendency to faint, acute illness, drunkenness or cardiovascular instability should avoid long soaks in hot water and bathing alone.",
           "tags": [
@@ -1177,7 +1230,8 @@
             "Design: Prospective single cohort, about 9 years of follow-up",
             "Limitations: Those who can do housework may be healthier; moving furniture/gas tanks cannot be used as a life extension prescription. The 2013 correction only corrects the proportion of male and female participation in housework in the article.",
             "Evidence: Housework reduces all-cause and cancer mortality in Chinese men. — https://pmc.ncbi.nlm.nih.gov/articles/PMC3647044/",
-            "Reader summary: In a follow-up of Hong Kong elderly people, men who did heavier housework had a lower risk of death, but no clear association was found in women. People with better physical fitness are better able to do housework, which may also affect the results."
+            "Reader summary: In a follow-up of Hong Kong elderly people, men who did heavier housework had a lower risk of death, but no clear association was found in women. People with better physical fitness are better able to do housework, which may also affect the results.",
+            "Case: Uncle Zhao, a 68-year-old man who lives alone, takes the initiative to undertake heavy housework such as mopping the floor and moving heavy objects for about 40 minutes every day for five years. His daily activity ability is good, and all indicators of the annual physical examination are within the normal range."
           ],
           "remember": "Participate in an appropriate amount of housework according to physical strength; those with frailty, osteoporosis, back problems, or risk of falls should avoid lifting heavy objects.",
           "tags": [
@@ -1203,7 +1257,8 @@
             "Design: Individual data combined across multiple cohorts, prospective Follow-up was about 13–14 years",
             "Limitations: The duration was only self-reported once: most cohorts were measured at baseline, and the Shanghai Women's Health Study was measured at the third follow-up; the questionnaires for each cohort were not standardized (night sleep or full-day duration including naps); residual confounding did not capture information such as sleep quality, depression, and socioeconomics; excluding baseline CVD/cancer and death in the first 5 years still cannot completely eliminate reverse causation.",
             "Evidence: Association of Sleep Duration With All- and Major-Cause Mortality Among Adults in Japan, China, Singapore, and Korea. — https://pmc.ncbi.nlm.nih.gov/articles/PMC8417759/",
-            "Reader summary: Follow-up in many Asian countries found that people who sleep for a long time have a higher risk of death; longer sleep may also be a manifestation of underlying diseases or sleep problems."
+            "Reader summary: Follow-up in many Asian countries found that people who sleep for a long time have a higher risk of death; longer sleep may also be a manifestation of underlying diseases or sleep problems.",
+            "Case: 55-year-old female Aunt Liu sleeps 11 hours a day due to hypothyroidism for a long time. She still often feels tired. After seeking medical adjustment and treatment, her sleep time was reduced to 7.5 hours, and her mental state during the day improved significantly."
           ],
           "remember": "Maintain adequate, regular sleep and recover well after waking up; long-term sleep accompanied by fatigue, snoring or drowsiness should investigate the cause.",
           "tags": [
@@ -1224,7 +1279,8 @@
             "Design: multinational prospective cohort; self-reported bedtime",
             "Limitations: social schedule and disease confounding; full adjustment significantly weakens the association; the precise boundaries are slightly different in Methods and Conclusion, and are not necessarily hard thresholds.",
             "Evidence: Association of bedtime with mortality and major cardiovascular events: an analysis of 112,198 individuals from 21 countries in the PURE study. — https://europepmc.org/article/MED/33610073",
-            "Reader summary: Cross-national follow-up found that early or late bedtime was associated with a higher composite risk of death and major cardiovascular events; the association was significantly attenuated after other factors were taken into account."
+            "Reader summary: Cross-national follow-up found that early or late bedtime was associated with a higher composite risk of death and major cardiovascular events; the association was significantly attenuated after other factors were taken into account.",
+            "Case: Xiao Zheng, a 31-year-old programmer, went to bed at 2 a.m. for a long time. He often had heart palpitations and felt weak in the morning. He later moved his bedtime to 23:00 and persisted for three months. The electrocardiogram review results and blood pressure levels remained stable."
           ],
           "remember": "Maintain a regular and adequate amount of sleep according to your personal rhythm; do not deliberately postpone an otherwise appropriate early bedtime because of this relationship.",
           "tags": [
@@ -1250,7 +1306,8 @@
             "Design: Systematic review, dose-response meta-analysis, adjusting physical activity",
             "Limitations: Sitting is mostly self-reported, study heterogeneity and residual confounding; the association of cancer death in this review is not significant and cannot be mixed with cancer incidence. The original Chinese report PDF and the old WHO PDF cannot be accessed.",
             "Evidence: Sedentary behavior and risk of all-cause, cardiovascular and cancer mortality, and incident type 2 diabetes: a systematic review and dose response meta-analysis. — https://pmc.ncbi.nlm.nih.gov/articles/PMC6133005/",
-            "Reader Summary: A review of studies found that longer periods of sitting are associated with a higher risk of death, especially among people who sit more hours each day. The association between watching television and total sitting time also differed."
+            "Reader Summary: A review of studies found that longer periods of sitting are associated with a higher risk of death, especially among people who sit more hours each day. The association between watching television and total sitting time also differed.",
+            "Case: 40-year-old editor Lao Wu works at his desk and watches TV for more than 10 hours every day. Half a year later, he often felt neck and shoulder pain and numbness in his lower limbs. After that, he got up and moved for 5 minutes every hour after sitting, and the discomfort symptoms gradually eased."
           ],
           "remember": "Replace some of the prolonged sitting with walking or activities when the ability allows, and exercise regularly; those who are unable to stand should carry out activities according to rehabilitation recommendations, and no unproven uniform rest frequency is required.",
           "tags": [
@@ -1276,7 +1333,8 @@
             "Design: Prospective single cohort, survival model considering family clustering",
             "Limitations: Psychological traits are not randomly assigned; reverse causality is not ruled out; there is no direct experimental evidence that emotion therapy reduces ACM.",
             "Evidence: Pessimism is associated with greater all-cause and cardiovascular mortality, but optimism is not protective. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7387533/",
-            "Reader's abstract: Higher pessimism scores were associated with a higher risk of death during follow-up of middle-aged and older Australians. Emotions, physical health, and life circumstances all influence each other."
+            "Reader's abstract: Higher pessimism scores were associated with a higher risk of death during follow-up of middle-aged and older Australians. Emotions, physical health, and life circumstances all influence each other.",
+            "Case: 42-year-old project manager Lao Chen is prone to pessimism when things go wrong and often self-denies himself due to work mistakes. After receiving psychological counseling, he learned to interpret setbacks in a positive way. Within half a year, the frequency of anxiety attacks decreased and his mentality became more stable."
           ],
           "remember": "Seek support or professional help when persistent pessimism or low mood affects your life; do not replace treatment with forced optimism.",
           "tags": [
@@ -1297,7 +1355,8 @@
             "Design: Systematic review and meta-analysis of original studies",
             "Limitations: Baseline health status affects the results; heterogeneous exposure definitions; Living alone does not equal loneliness; This article is only an abstract.",
             "Evidence: Loneliness and social isolation as risk factors for mortality: a meta-analytic review. — https://europepmc.org/article/MED/25910392",
-            "Reader summary: Research review finds that social isolation, loneliness, and living alone are all associated with a higher risk of mortality, but they are different life experiences. People who live alone can also have fulfilling and reliable connections."
+            "Reader summary: Research review finds that social isolation, loneliness, and living alone are all associated with a higher risk of mortality, but they are different life experiences. People who live alone can also have fulfilling and reliable connections.",
+            "Case: 65-year-old Grandma Zhang, who lives alone, only talks to her children once a month. She seldom participates in community activities and often feels lonely. After half a year, she participated in the senior choir twice a week, and her emotional state improved significantly than before."
           ],
           "remember": "Maintain reliable contact and help-seeking channels according to personal wishes, and pay attention to hearing, mobility, depression and other disabilities; it is not required that all people living alone live together.",
           "tags": [
@@ -1323,7 +1382,8 @@
             "Design: Single cohort and intra-family comparison",
             "Limitations: Self-reported net worth; limited ethnic representation; individual non-shared mixing, health-related wealth decline; no intervention to improve income tested.",
             "Evidence: Association of Wealth With Longevity in US Adults at Midlife. — https://midus.wisc.edu/findings/pdfs/2366.pdf",
-            "Reader Summary: Follow-up of middle-aged Americans finds that greater net worth is associated with lower risk of death. The relationship between economic resources, health, and life security is often a two-way street."
+            "Reader Summary: Follow-up of middle-aged Americans finds that greater net worth is associated with lower risk of death. The relationship between economic resources, health, and life security is often a two-way street.",
+            "Case: Xiao Zhou, a 38-year-old technical employee, has maintained a stable income for ten years and gradually accumulated assets to US$600,000. His ability to resist risks in family life has improved, and he is less anxious about financial problems in daily life."
           ],
           "remember": "Prioritize stable housing, medical accessibility, and basic financial security; high-risk investments cannot be treated as health interventions.",
           "tags": [
@@ -1349,7 +1409,8 @@
             "Design: Observational study linking retrospective weight history to prospective mortality",
             "Limitations: Obesity → overweight only 214; non-randomized intervention; 54% could not demonstrate causal benefit from active weight loss.",
             "Evidence: Association of Weight Loss Between Early Adulthood and Midlife With All-Cause Mortality Risk in the US. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7428805/",
-            "Reader summary: Follow-up in the United States found that people who fell from obesity to overweight from early adulthood to middle age had a lower risk of death than those who remained obese."
+            "Reader summary: Follow-up in the United States found that people who fell from obesity to overweight from early adulthood to middle age had a lower risk of death than those who remained obese.",
+            "Case: 32-year-old Ms. Chen weighed 86 kilograms after giving birth, and her doctor recommended losing weight. She halved her dinner staples and walked briskly four times a week. In three years, she dropped to 72 kilograms, and her blood pressure and triglycerides dropped."
           ],
           "remember": "Obese people and medical staff should formulate long-term weight and muscle strength management; those who are elderly, pregnant or involuntarily lose weight should not follow the weight loss conclusion.",
           "tags": [
@@ -1370,7 +1431,8 @@
             "Design: Systematic review and dose-response meta-analysis of prospective cohorts",
             "Limitations: The heterogeneity among studies is high; waist circumference measurement methods, underlying diseases and lifestyles are different. Waist circumference is a risk indicator, not a directly measured visceral fat mass; this conclusion does not set a unified weight loss target.",
             "Evidence: Central fatness and risk of all cause mortality: systematic review and dose-response meta-analysis of 72 prospective cohort studies. — https://www.bmj.com/content/370/bmj.m3324",
-            "Reader summary: In addition to weight, waist circumference is also worth paying attention to. Multiple long-term studies have found that the larger the waist circumference, the higher the risk of all-cause mortality; looking only at weight may miss the risk of abdominal fat."
+            "Reader summary: In addition to weight, waist circumference is also worth paying attention to. Multiple long-term studies have found that the larger the waist circumference, the higher the risk of all-cause mortality; looking only at weight may miss the risk of abdominal fat.",
+            "Case: 45-year-old Mr. Wang’s physical examination revealed that his BMI was 24 but his waist circumference was 98 cm. He was reminded of abdominal obesity. He stopped eating late-night snacks and sugary drinks, and did strength training three times a week. His waist circumference was 88 cm in half a year, and his triglycerides dropped."
           ],
           "remember": "In addition to weight, also pay attention to long-term changes in waist circumference; when abdominal fat increases, gradually improve it based on diet, exercise and health assessment.",
           "tags": [
@@ -1396,7 +1458,8 @@
             "Design: Population time series/ecological study of 16 Bayesian model ensembles",
             "Limitations: Counterfactual model and registration delay; 2020 scenario cannot extrapolate current variant strains, immunity and medical conditions; the original link to the CDC is a general death data entry and does not directly support the original number.",
             "Evidence: Magnitude, demographics and dynamics of the effect of the first wave of the COVID-19 pandemic on all-cause mortality in 21 industrialized countries. — https://www.nature.com/articles/s41591-020-1112-0.pdf",
-            "Reader summary: Death registrations in many countries show that there were significant excess deaths during the first wave of the COVID-19 pandemic, including both infections and indirect effects such as medical interruptions. This reflects the epidemic environment at that time."
+            "Reader summary: Death registrations in many countries show that there were significant excess deaths during the first wave of the COVID-19 pandemic, including both infections and indirect effects such as medical interruptions. This reflects the epidemic environment at that time.",
+            "Case: Editor Xiao Zhou wants to use the study of excess deaths in 21 countries to write \"The U.S. mortality rate is 1.5%.\" After checking, he found that the sample did not include the United States. He changed it to \"the first wave of excess deaths in 21 countries including Europe\" and noted the impact of medical interruptions."
           ],
           "remember": "Reduce infection exposure, ensure basic diseases and timely medical management; specific protection and treatment are based on current applicable guidelines, and no fixed percentage of 2020 is used to estimate individual risks.",
           "tags": [
@@ -1424,7 +1487,8 @@
             "Evidence: Is obstructive sleep apnea associated with cardiovascular and all-cause mortality? — https://pubmed.ncbi.nlm.nih.gov/23936014/",
             "Evidence: Positive airway pressure therapy and all-cause and cardiovascular mortality in people with obstructive sleep apnoea: a systematic review and meta-analysis of randomized controlled trials and founder con-adjusted, non-randomised controlled studies. — https://pubmed.ncbi.nlm.nih.gov/40118084/",
             "Evidence: Sleep Apnea — Symptoms (NHLBI, NIH) — https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms",
-            "Reader summary: If you sleep long, you may not sleep well. Severe sleep apnea is associated with a higher risk of death, and chronic snoring, breath holding, and daytime sleepiness deserve to be investigated."
+            "Reader summary: If you sleep long, you may not sleep well. Severe sleep apnea is associated with a higher risk of death, and chronic snoring, breath holding, and daytime sleepiness deserve to be investigated.",
+            "Case: 55-year-old Mr. Zhao woke up at night and was diagnosed with severe sleep apnea. He used CPAP as prescribed and lost weight, and his sleepiness improved; the doctor reminded that randomized trials have not proven that it can clearly reduce all-cause death."
           ],
           "remember": "If you snore loudly for a long time, hold your breath while sleeping, or always feel sleepy during the day, do a sleep assessment; after diagnosis, choose treatment with your doctor.",
           "tags": [

@@ -16,7 +16,8 @@
             "局限：食物问卷、残余混杂；两项暴露时间窗不同",
             "证据：Associations of Processed Meat, Unprocessed Red Meat, Poultry, or Fish Intake With Incident Cardiovascular Disease and All-Cause Mortality. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7042891/",
             "证据：Association of changes in red meat consumption with total and cause specific mortality among US women and men: two prospective cohort studies. — https://pmc.ncbi.nlm.nih.gov/articles/PMC6559336/",
-            "读者摘要：美国多项长期随访发现，红肉和加工肉吃得更多，与较高的死亡风险相关。鱼和禽肉与死亡风险的关联较弱，替换成什么食物、怎样烹调也值得考虑。"
+            "读者摘要：美国多项长期随访发现，红肉和加工肉吃得更多，与较高的死亡风险相关。鱼和禽肉与死亡风险的关联较弱，替换成什么食物、怎样烹调也值得考虑。",
+            "案例：营养门诊里，53岁的陈先生拿着两项肉类研究问医生。他把香肠减到每周一次、红肉控制在每周两次，没把禽肉当免风险随便加，晚餐改为鱼豆蔬搭配。"
           ],
           "remember": "少加工肉，以豆类、坚果、鱼等替代部分红肉；注意烹调和整体饮食。",
           "tags": [
@@ -38,7 +39,8 @@
             "局限：特定糖尿病人群；非随机；引文结局与剂量错配",
             "证据：Fresh fruit consumption in relation to incident diabetes and diabetic vascular complications: A 7-y prospective study of 0.5 million Chinese adults. — https://pmc.ncbi.nlm.nih.gov/articles/PMC5388466/",
             "证据：Estimated Global, Regional, and National Cardiovascular Disease Burdens Related to Fruit and Vegetable Consumption: An Analysis from the Global Dietary Database (FS01-01-19) — https://pmc.ncbi.nlm.nih.gov/articles/PMC6578394/",
-            "读者摘要：在中国糖尿病人群的长期随访中，吃新鲜水果更多的人，死亡和血管并发症风险较低。这项研究看的是完整水果，而不是果汁。"
+            "读者摘要：在中国糖尿病人群的长期随访中，吃新鲜水果更多的人，死亡和血管并发症风险较低。这项研究看的是完整水果，而不是果汁。",
+            "案例：糖尿病随访时，患者看到“每天200克水果降17%”想马上照做。护士说明数据来自糖尿病人群每多100克/天的关联，他改成半个苹果加餐并监测血糖，误解消除。"
           ],
           "remember": "适量完整水果替代甜点，按血糖和个人治疗计划调整；不以果汁代替。",
           "tags": [
@@ -59,7 +61,8 @@
             "设计：前瞻队列",
             "局限：健康饮食及社会经济混杂；单次FFQ；不能推断补充剂作用",
             "证据：Flavonoid intake is associated with lower mortality in the Danish Diet Cancer and Health Cohort. — https://pmc.ncbi.nlm.nih.gov/articles/PMC6692395/",
-            "读者摘要：丹麦长期随访发现，膳食中黄酮摄入较多的人，死亡风险较低。黄酮存在于多种植物性食物中。"
+            "读者摘要：丹麦长期随访发现，膳食中黄酮摄入较多的人，死亡风险较低。黄酮存在于多种植物性食物中。",
+            "案例：健康讲座后，李女士打算每天只吃100克西兰花换“降20%”。营养师展示总黄酮约500毫克/天趋平及调整模型后差异，她改为蔬果茶多样搭配，不再盯单一数字。"
           ],
           "remember": "多样蔬果、豆类等提供植物营养；不依赖黄酮补充剂，不用来抵消吸烟饮酒。",
           "tags": [
@@ -80,7 +83,8 @@
             "设计：前瞻队列",
             "局限：粗死亡比例受年龄等混杂；单次饮食测量",
             "证据：The Association of Hot Red Chili Pepper Consumption and Mortality: A Large Population-Based Cohort Study. — https://pmc.ncbi.nlm.nih.gov/articles/PMC5222470/",
-            "读者摘要：美国成人随访中，吃红辣椒的人死亡风险较低；年龄、饮食和生活习惯也会影响这类关联。"
+            "读者摘要：美国成人随访中，吃红辣椒的人死亡风险较低；年龄、饮食和生活习惯也会影响这类关联。",
+            "案例：聚餐聊天时，小王用“吃辣的人死亡少12个百分点”劝大家多吃辣。朋友指出那是美国研究的粗比例差，调整后约为低13%，小王便只把辣椒当调味。"
           ],
           "remember": "喜欢且耐受时可作为调味；胃肠不适者无需强迫增加。",
           "tags": [
@@ -101,7 +105,8 @@
             "设计：前瞻队列",
             "局限：残余饮食/生活方式混杂；不证明辣椒素干预有效",
             "证据：Chili Pepper Consumption and Mortality in Italian Adults. — https://pubmed.ncbi.nlm.nih.gov/31856971/",
-            "读者摘要：意大利随访发现，经常吃辣椒的人，全因和心血管死亡风险较低。"
+            "读者摘要：意大利随访发现，经常吃辣椒的人，全因和心血管死亡风险较低。",
+            "案例：家族群里有人转“辣椒让总死亡降61%”，阿姨准备天天猛吃。女儿查到意大利研究报告的是脑血管死亡相对降幅，参照很少吃者，阿姨改为每周少量佐餐。"
           ],
           "remember": "可按耐受食用，不能以此替代控压或其他治疗。",
           "tags": [
@@ -122,7 +127,8 @@
             "设计：大型前瞻队列",
             "局限：自报、单次基线饮食、残余混杂，跨地区结果可能不同",
             "证据：Egg and cholesterol consumption and mortality from cardiovascular and different causes in the United States: A population-based cohort study. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7872242/",
-            "读者摘要：美国中老年人随访中，较高的全蛋摄入与较高死亡风险相关；其他地区的研究结果并不完全一致。如何搭配整体饮食，比单独盯住鸡蛋更有参考价值。"
+            "读者摘要：美国中老年人随访中，较高的全蛋摄入与较高死亡风险相关；其他地区的研究结果并不完全一致。如何搭配整体饮食，比单独盯住鸡蛋更有参考价值。",
+            "案例：体检中心里，张先生看到“鸡蛋增加7%死亡风险”后想扔掉鸡蛋。医生解释这是美国中老年观察和假设等量替代，不等于因果，他按医嘱保留适量鸡蛋并搭配蔬菜。"
           ],
           "remember": "结合整体膳食及血脂选择蛋类；可用豆类坚果等替代部分动物蛋白，勿因单研究完全禁蛋。",
           "tags": [
@@ -143,7 +149,8 @@
             "设计：两队列分析",
             "局限：健康使用者偏倚；寿命为模型估计；行业资助需关注",
             "证据：Association of Walnut Consumption with Total and Cause-Specific Mortality and Life Expectancy in U.S. Adults. — https://pmc.ncbi.nlm.nih.gov/articles/PMC8401409/",
-            "读者摘要：美国长期随访发现，经常吃核桃的人死亡风险较低。研究中的寿命差来自统计估算，参与者的其他健康习惯也可能有影响。"
+            "读者摘要：美国长期随访发现，经常吃核桃的人死亡风险较低。研究中的寿命差来自统计估算，参与者的其他健康习惯也可能有影响。",
+            "案例：超市货架前，刘阿姨被核桃“延寿一年多”广告吸引买了三袋。营养师说明低14%是观察关联，1.30/1.26年是60岁模型估计，她改为每周约五份替代饼干。"
           ],
           "remember": "无坚果过敏者用适量无盐坚果替代零食，计入总能量。",
           "tags": [
@@ -165,7 +172,8 @@
             "局限：摄入分组非随机；生/烘烤优劣未直接检验",
             "证据：Association of nut consumption with total and cause-specific mortality. — https://pmc.ncbi.nlm.nih.gov/articles/PMC3931001/",
             "证据：Frequency of nut consumption and mortality risk in the PREDIMED nutrition intervention trial. — https://pmc.ncbi.nlm.nih.gov/articles/PMC3738153/",
-            "读者摘要：多项随访研究发现，经常吃坚果的人死亡风险较低。研究涵盖不同饮食背景，未直接比较生坚果与烘烤坚果的优劣。"
+            "读者摘要：多项随访研究发现，经常吃坚果的人死亡风险较低。研究涵盖不同饮食背景，未直接比较生坚果与烘烤坚果的优劣。",
+            "案例：办公室茶歇时，同事说必须每天50克生坚果。小周指出研究按每周次数分组，39%也来自观察分析。他改为每周多次换着吃坚果，不再迷信生吃或固定克数。"
           ],
           "remember": "过敏者避免；选无盐、少糖坚果，替代其他高能量零食。",
           "tags": [
@@ -186,7 +194,8 @@
             "设计：横断面生态分析",
             "局限：生态谬误、国民收入及医疗混杂、估计摄入误差",
             "证据：Sodium intake, life expectancy, and all-cause mortality. — https://pmc.ncbi.nlm.nih.gov/articles/PMC8169157/",
-            "读者摘要：跨国比较发现，钠摄入较高的国家死亡率较低，但收入、医疗等国家差异也会影响这种关联。个人吃盐的安排，更适合结合血压和身体状况来定。"
+            "读者摘要：跨国比较发现，钠摄入较高的国家死亡率较低，但收入、医疗等国家差异也会影响这种关联。个人吃盐的安排，更适合结合血压和身体状况来定。",
+            "案例：读书会上，有人用跨国钠摄入β值说“个人多吃盐更健康”。带领者提醒这是国家层面生态相关，作者明确反对据此干预，参会者最后按血压和医嘱没有加盐。"
           ],
           "remember": "不要为延寿增加钠；按个人血压、疾病和饮食情况控制盐。",
           "tags": [
@@ -207,7 +216,8 @@
             "设计：开放标签整群随机试验，ACM为次要终点",
             "局限：高风险特定人群；开放标签；肾病或高钾风险者适用性有限",
             "证据：Effect of Salt Substitution on Cardiovascular Events and Death. — https://pubmed.ncbi.nlm.nih.gov/34459569/",
-            "读者摘要：中国农村高风险人群的随机试验发现，用低钠富钾盐替换普通盐，能减少死亡和心血管事件。参与者有卒中史，或是患高血压的老年人。"
+            "读者摘要：中国农村高风险人群的随机试验发现，用低钠富钾盐替换普通盐，能减少死亡和心血管事件。参与者有卒中史，或是患高血压的老年人。",
+            "案例：村卫生室里，65岁高血压村民炒菜常放两勺普通盐。医生按SSaSS让他家改用75%氯化钠、25%氯化钾盐并复查血钾；随访时家人知道不能拆分少钠与补钾贡献。"
           ],
           "remember": "高血压等适合者可在医护确认后用富钾低钠盐替代；肾功能不全、高钾或使用升钾药物者先咨询，不自行换盐。",
           "tags": [
@@ -228,7 +238,8 @@
             "设计：前瞻队列+队列荟萃",
             "局限：观察性、自报；摄入分组和替代食物差异；寿命估算非干预",
             "证据：Dietary carbohydrate intake and mortality: a prospective cohort study and meta-analysis. — https://pmc.ncbi.nlm.nih.gov/articles/PMC6339822/",
-            "读者摘要：长期随访中，碳水摄入占比与死亡风险呈两端较高的关联。用什么食物替换碳水，同样影响结果。"
+            "读者摘要：长期随访中，碳水摄入占比与死亡风险呈两端较高的关联。用什么食物替换碳水，同样影响结果。",
+            "案例：健身群里，小赵看到碳水50%至55%风险最低，就断言极低碳一定短命。营养师说明2018研究是U形观察关联，替代来源也关键，他把精米换成全谷薯类。"
           ],
           "remember": "优先提高碳水质量，增加全谷豆类；糖尿病或治疗性生酮等需个体化。",
           "tags": [
@@ -249,7 +260,8 @@
             "设计：观察研究系统综述/荟萃",
             "局限：I²85%；制品配方、吸烟饮酒残余混杂；非随机",
             "证据：Chewing betel quid and the risk of metabolic disease, cardiovascular disease, and all-cause mortality: a meta-analysis. — https://pmc.ncbi.nlm.nih.gov/articles/PMC3734295/",
-            "读者摘要：亚洲研究的合并分析发现，嚼槟榔与较高死亡风险相关。不同嚼块配方，以及同时吸烟、饮酒，会影响风险大小。"
+            "读者摘要：亚洲研究的合并分析发现，嚼槟榔与较高死亡风险相关。不同嚼块配方，以及同时吸烟、饮酒，会影响风险大小。",
+            "案例：工地休息时，工友说槟榔只伤口腔不影响总死亡。小陈拿出合并研究说观察风险约增21%，且异质性高、配料和烟酒共暴露会干扰，随后他减少嚼块并避开烟酒同用。"
           ],
           "remember": "避免或停止槟榔，不用不含烟草作为安全理由；依赖者寻求戒除帮助。",
           "tags": [
@@ -271,7 +283,8 @@
             "局限：动物不能外推人；两中心饲料、年龄及对照摄食不同",
             "证据：Caloric restriction delays disease onset and mortality in rhesus monkeys. — https://pmc.ncbi.nlm.nih.gov/articles/PMC2812811/",
             "证据：Caloric restriction reduces age-related and all-cause mortality in rhesus monkeys. — https://pmc.ncbi.nlm.nih.gov/articles/PMC3988801/",
-            "读者摘要：恒河猴研究发现，限制热量可能改善生存，但不同研究的结果有所差异。人类通过限制热量延长寿命的效果仍未得到证实。"
+            "读者摘要：恒河猴研究发现，限制热量可能改善生存，但不同研究的结果有所差异。人类通过限制热量延长寿命的效果仍未得到证实。",
+            "案例：一位关注抗衰的读者看到恒河猴热量限制实验的早期报道后，严格控制自己饮食。后来他了解到，早期实验的差异源于对照组早期年龄相关死亡过多，2014年更新分析显示全因死亡风险差异远非3倍，人类延寿效果尚未证实。"
           ],
           "remember": "避免过量进食并保持足够营养；低体重、孕哺、未成年人、虚弱老人及进食障碍者不自行限热量。",
           "tags": [
@@ -292,7 +305,8 @@
             "设计：大型前瞻队列及非线性建模",
             "局限：自报24小时回忆、选择偏倚、残余混杂；不能把各曲线最低点拼成已验证处方",
             "证据：Associations of fat and carbohydrate intake with cardiovascular disease and mortality: prospective cohort study of UK Biobank participants. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7190059/",
-            "读者摘要：英国大型随访发现，脂肪、蛋白质、碳水和纤维与健康的关系并不简单。整体食物搭配，比追求一个精确营养比例更实用。"
+            "读者摘要：英国大型随访发现，脂肪、蛋白质、碳水和纤维与健康的关系并不简单。整体食物搭配，比追求一个精确营养比例更实用。",
+            "案例：李女士为了健康，严格按网络上的“最优营养配比”安排三餐，精确计算蛋白质、脂肪和碳水比例。但她的体检报告并无显著改善，医生指出，观察性数据中的组合关联并非通用最优公式，且总脂肪与全因死亡率无显著关联。"
           ],
           "remember": "依据整体食物质量搭配，避免追逐精确宏量比例；有肾病、糖尿病等按医疗营养方案。",
           "tags": [
@@ -313,7 +327,8 @@
             "设计：前瞻队列",
             "局限：仅335死亡；教育程度高选择样本；膳食混杂；CI较宽",
             "证据：Association between consumption of ultra-processed foods and all cause mortality: SUN prospective cohort study. — https://pmc.ncbi.nlm.nih.gov/articles/PMC6538973/",
-            "读者摘要：西班牙随访中，超加工食品吃得更多的人死亡风险较高。参与者主要是大学毕业生，饮食习惯和人群背景也影响结果。"
+            "读者摘要：西班牙随访中，超加工食品吃得更多的人死亡风险较高。参与者主要是大学毕业生，饮食习惯和人群背景也影响结果。",
+            "案例：58岁的王先生习惯每天吃薯片、速食面等超加工食品。看到“常吃超加工食品者全因死亡率增加62%”的新闻后他有些恐慌。医生解释，这指的是群体关联风险，而58岁是死亡者的平均年龄，不等于他的预期寿命就是58岁。"
           ],
           "remember": "以较少加工的完整食物替代部分UPF，保留必要营养与可负担性。",
           "tags": [
@@ -335,7 +350,8 @@
             "局限：非ACM终点；评论原PDF未访问成功，仅核书目",
             "证据：Ultra-processed food intake and risk of cardiovascular disease: prospective cohort study (NutriNet-Santé). — https://pmc.ncbi.nlm.nih.gov/articles/PMC6538975/",
             "证据：Ultra-processed food and adverse health outcomes. — https://pubmed.ncbi.nlm.nih.gov/31142449/",
-            "读者摘要：法国随访发现，超加工食品占饮食比例越高，心血管病发病风险越高。"
+            "读者摘要：法国随访发现，超加工食品占饮食比例越高，心血管病发病风险越高。",
+            "案例：在一场健康讲座上，主讲人将SUN、NutriNet-Santé等三项研究并列，声称它们都证实了超加工食品会增加死亡风险。一位细心的听众指出，NutriNet-Santé研究终点是心血管疾病发病，而另外两项只是评论，并非独立的死亡研究。"
           ],
           "remember": "可支持减少UPF的整体饮食方向，不能由这篇计算死亡风险。",
           "tags": [
@@ -356,7 +372,8 @@
             "设计：前瞻研究剂量反应荟萃",
             "局限：ACM I²83%，观察性；食品份量定义异质",
             "证据：Whole grain consumption and risk of cardiovascular disease, cancer, and all cause and cause specific mortality: systematic review and dose-response meta-analysis of prospective studies. — https://pmc.ncbi.nlm.nih.gov/articles/PMC4908315/",
-            "读者摘要：多项长期研究的合并分析发现，全谷物吃得更多，与较低死亡风险相关。研究中的份量指全谷物食品的重量。"
+            "读者摘要：多项长期研究的合并分析发现，全谷物吃得更多，与较低死亡风险相关。研究中的份量指全谷物食品的重量。",
+            "案例：张先生看到全谷物食品有益的研究后，每天早餐都吃市面上标称“高纤”的全麦面包，累计达到90克。营养师提醒他，研究中的90克是指全谷物食品总重量，并非90克纯干谷粒或90克膳食纤维，两者概念完全不同。"
           ],
           "remember": "用全谷物逐步替代精制谷物；乳糜泻者选无麸质全谷，按消化耐受调整。",
           "tags": [
@@ -377,7 +394,8 @@
             "设计：系统综述与荟萃（ACM来自队列）",
             "局限：ACM证据非随机；不从总范围反推ACM CI",
             "证据：Carbohydrate quality and human health: a series of systematic reviews and meta-analyses. — https://pubmed.ncbi.nlm.nih.gov/30638909/",
-            "读者摘要：多项随访把较高膳食纤维摄入与较低死亡风险联系起来；临床试验还观察到血压、血脂等指标的改善。"
+            "读者摘要：多项随访把较高膳食纤维摄入与较低死亡风险联系起来；临床试验还观察到血压、血脂等指标的改善。",
+            "案例：赵女士为了降低全因死亡率，每天大量食用高纤维补充剂，认为摄入比例越高越好。但她忽略了，综述中15-30%是涵盖多种健康结局的宽泛范围，并非针对死亡的精确效应，且随机试验证明的只是风险因子改善。"
           ],
           "remember": "通过全谷、豆类、蔬果逐渐增加纤维，关注饮水；肠狭窄、急性胃肠病需遵医嘱。",
           "tags": [
@@ -398,7 +416,8 @@
             "设计：前瞻队列系统综述/剂量反应荟萃",
             "局限：异质性I²57.5%；残余混杂；食品与蛋白组分难分离",
             "证据：Dietary intake of total, animal, and plant proteins and risk of all cause, cardiovascular, and cancer mortality: systematic review and dose-response meta-analysis of prospective cohort studies. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7374797/",
-            "读者摘要：多项队列研究发现，植物蛋白摄入较多的人死亡风险较低。食物来源和替换关系是理解结果的重点。"
+            "读者摘要：多项队列研究发现，植物蛋白摄入较多的人死亡风险较低。食物来源和替换关系是理解结果的重点。",
+            "案例：陈先生体检后发现血脂略高，听说植物蛋白有益健康，便每天额外添加两勺大豆蛋白粉。营养师指出，研究结论强调的是用植物蛋白替代部分红肉，而非在原饮食基础上额外补充，单纯加蛋白粉不等于获得同样的健康关联。"
           ],
           "remember": "用豆类、豆制品和坚果替代部分红肉/加工肉；过敏或肾病按个体需求调整。",
           "tags": [
@@ -425,7 +444,8 @@
             "局限：FFQ误差、收入和饮食结构残余混杂；乳制品种类与替代食物影响结果；>1份牛奶的HR 0.90是死亡/CVD复合终点，不可当牛奶ACM。",
             "证据：Association of dairy intake with cardiovascular disease and mortality in 21 countries from five continents (PURE): a prospective cohort study. — https://pubmed.ncbi.nlm.nih.gov/30217460/",
             "证据：Milk and Dairy Product Consumption and Risk of Mortality: An Overview of Systematic Reviews and Meta-Analyses. — https://pubmed.ncbi.nlm.nih.gov/31089743/",
-            "读者摘要：一项跨国随访发现，乳制品摄入与较低死亡风险相关，但其他综述的结果并不一致。牛奶、酸奶等可以提供营养，选择也取决于个人需要。"
+            "读者摘要：一项跨国随访发现，乳制品摄入与较低死亡风险相关，但其他综述的结果并不一致。牛奶、酸奶等可以提供营养，选择也取决于个人需要。",
+            "案例：刘女士看到PURE研究称多吃乳制品可降低17%死亡风险，便每天喝两杯牛奶，并期待能降低心血管死亡风险。但医生解释，17%是总乳制品>2份与不摄入组的关联，非牛奶单独效果；且心血管死亡HR的置信区间跨1，不能断定下降23%。"
           ],
           "remember": "可按营养需要选择无添加糖奶或酸奶；乳糖不耐受、牛奶过敏者选择合适替代，不为追求延寿强行增加摄入。",
           "tags": [
@@ -446,7 +466,8 @@
             "设计：China-PAR三个前瞻队列合并",
             "局限：自报饮茶；吸烟、饮酒、社会经济和健康行为残余混杂；杯量、浓度和茶种不能等同；寿命差系模型估计。",
             "证据：Tea consumption and the risk of atherosclerotic cardiovascular disease and all-cause mortality: The China-PAR project. — https://pubmed.ncbi.nlm.nih.gov/31914807/",
-            "读者摘要：中国长期随访中，经常饮茶的人死亡风险较低。饮茶者的生活方式和社会经济背景，也可能参与其中。"
+            "读者摘要：中国长期随访中，经常饮茶的人死亡风险较低。饮茶者的生活方式和社会经济背景，也可能参与其中。",
+            "案例：老周是忠实的茶友，看到China-PAR研究称习惯饮茶者50岁时预期寿命长1.26年，他认为自己多喝茶就能多活一岁多。专家解释，这是基于模型的群体估算，反映的是相关性，不能等同于饮茶干预能让每个个体都延长特定寿命。"
           ],
           "remember": "喜欢且耐受者可喝不加糖、非烫口的茶；失眠、心悸或需限制咖啡因者减量，不把茶作为戒烟或治疗替代。",
           "tags": [
@@ -467,7 +488,8 @@
             "设计：前瞻队列",
             "局限：性别交互P<0.05；吸烟与饮酒可能混杂癌症结局；饮茶信息基线自报；不证明个体因果获益。",
             "证据：[Association between tea consumption and all-cause mortality in Chinese adults]. — https://html.rhhz.net/zhlxbx/20220201.htm",
-            "读者摘要：另一项中国大型随访发现，饮茶与较低死亡风险的关联主要见于男性。每天喝茶的结果并未优于非每天喝茶。"
+            "读者摘要：另一项中国大型随访发现，饮茶与较低死亡风险的关联主要见于男性。每天喝茶的结果并未优于非每天喝茶。",
+            "案例：王大爷看过CKB研究报道后，深信喝茶能长寿，于是每天从早到晚茶杯不离手。但他忽略了研究显示保护关联主要见于男性，且“每日饮茶”并未显著优于“非每日饮茶”，更频繁地喝茶并不能直接推导出更长寿的结论。"
           ],
           "remember": "选择无糖且温度合适的茶；不能用饮茶抵消吸烟、过量饮酒风险。",
           "tags": [
@@ -488,7 +510,8 @@
             "设计：多国前瞻队列",
             "局限：有肥胖或代谢风险的人可能改喝代糖；一次基线FFQ；不同甜味剂不能分开归因；不是替代含糖饮料的随机试验。",
             "证据：Association Between Soft Drink Consumption and Mortality in 10 European Countries. — https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2749350",
-            "读者摘要：欧洲大型随访中，人工甜味饮料摄入较多与较高死亡风险相关。身体已有代谢问题的人可能更常改喝代糖饮料，这也让结果更难解释。"
+            "读者摘要：欧洲大型随访中，人工甜味饮料摄入较多与较高死亡风险相关。身体已有代谢问题的人可能更常改喝代糖饮料，这也让结果更难解释。",
+            "案例：体重正常的李小姐为控制体重，每天至少喝一杯无糖可乐，她引用数据称这只会增加11%风险。但仔细看原文，该数据仅限BMI<25且≥1杯/日对<1杯/月的亚组；全队列中≥2杯/日的人工甜味饮料，全因死亡HR为1.26。"
           ],
           "remember": "日常饮水优先白水或不加糖茶咖啡；从含糖饮料过渡到代糖饮料者，不应根据此队列返回喝糖饮料。",
           "tags": [
@@ -510,7 +533,8 @@
             "局限：人群多为卫生专业人员；自报摄入；残余混杂；杯/份定义不能跨研究混用；每杯连续模型与分类模型不同。BMJ癌症论文为每100mL/日发病，非死亡。",
             "证据：Long-Term Consumption of Sugar-Sweetened and Artificially Sweetened Beverages and Risk of Mortality in US Adults. — https://www.medicosadventistas.org/wp-content/uploads/2019/03/CIRCULATIONAHA.118.037401.pdf",
             "证据：Sugary drink consumption and risk of cancer: results from NutriNet-Santé prospective cohort. — https://pubmed.ncbi.nlm.nih.gov/31292122/",
-            "读者摘要：美国长期随访发现，含糖饮料喝得更多，与较高的全因和心血管死亡风险相关。"
+            "读者摘要：美国长期随访发现，含糖饮料喝得更多，与较高的全因和心血管死亡风险相关。",
+            "案例：大学生小陈每天喝两杯以上含糖饮料，看到新闻标题称死亡风险“高达62%”感到焦虑。查阅原论文后发现，≥2份/日全因死亡风险实际高21%，癌症死亡高16%；而BMJ列出的18%和12%是癌症发病数据，与死亡风险完全无关。"
           ],
           "remember": "减少常规含糖软饮、加糖奶茶等，以白水替换；不要把研究剂量阈值当安全界线。",
           "tags": [
@@ -531,7 +555,8 @@
             "设计：既有前瞻队列二次分析",
             "局限：原摘要1.11暴露为合计；不能跨模型作果汁与SSB直接优劣比较；高低摄入组HR1.14(0.97–1.33)不显著；不适用于完整水果。",
             "证据：Association of Sugary Beverage Consumption With Mortality Risk in US Adults: A Secondary Analysis of Data From the REGARDS Study. — https://pubmed.ncbi.nlm.nih.gov/31099861/",
-            "读者摘要：美国中老年人随访发现，纯果汁摄入更多与较高死亡风险相关。"
+            "读者摘要：美国中老年人随访发现，纯果汁摄入更多与较高死亡风险相关。",
+            "案例：李先生每天喝12盎司纯果汁，阅读研究后误以为果汁像添加糖饮料一样有害。医生澄清REGARDS分析中每多12盎司果汁HR1.24，但原库11%是混合饮料效应，不能单独归因果汁。"
           ],
           "remember": "优先完整水果，果汁小量而非主要饮水来源；糖尿病或需限糖者结合医疗饮食计划。",
           "tags": [
@@ -552,7 +577,8 @@
             "设计：观察性队列剂量反应meta分析",
             "局限：戒咖啡可能由疾病导致；烟酒饮食混杂；制作方式、杯量、加糖和咖啡因量不同；没有证据将风险比直接换算寿命。",
             "证据：Coffee consumption and all-cause and cause-specific mortality: a meta-analysis by potential modifiers. — https://pubmed.ncbi.nlm.nih.gov/31055709/",
-            "读者摘要：大型研究综述发现，适量喝咖啡的人死亡风险较低。杯量、冲煮方式、加糖和个人耐受都值得考虑。"
+            "读者摘要：大型研究综述发现，适量喝咖啡的人死亡风险较低。杯量、冲煮方式、加糖和个人耐受都值得考虑。",
+            "案例：王女士每天喝3.5杯咖啡，看到研究称此量关联最低死亡率，以为找到了精准延寿处方。营养师指出这是观察关联拟合曲线点，行动节中减幅并非该meta统一效应，不能机械照搬。"
           ],
           "remember": "已习惯且耐受者可适量饮用、少加糖；失眠、心悸、孕期等需限制咖啡因时个体化，不为延寿勉强开始喝。",
           "tags": [
@@ -573,7 +599,8 @@
             "设计：ACM系统综述与meta回归",
             "局限：饮酒低报、戒酒者疾病、暴饮模式、性别差异、研究层面meta回归限制；女性风险在更低摄入出现；不是戒酒干预试验，不能直接给戒酒获益百分比。",
             "证据：Association Between Daily Alcohol Intake and Risk of All-Cause Mortality: A Systematic Review and Meta-analyses. — https://pubmed.ncbi.nlm.nih.gov/37000449/",
-            "读者摘要：大型研究综述在考虑既往饮酒等偏差后，未发现少量饮酒能降低死亡风险；较高饮酒量与更高风险相关。"
+            "读者摘要：大型研究综述在考虑既往饮酒等偏差后，未发现少量饮酒能降低死亡风险；较高饮酒量与更高风险相关。",
+            "案例：张先生应酬常饮酒，原以为少量饮酒有益健康。新综述校正偏倚后显示低量无显著保护，高量达45克/日以上风险上升。他据此减少饮酒频次，不再迷信“适量延寿”。"
           ],
           "remember": "不饮酒者不要为健康开始；饮酒者减少总量和暴饮。存在酒精依赖或戒断史者应寻求医学支持，避免无支持骤停。",
           "tags": [
@@ -600,7 +627,8 @@
             "局限：粗死亡率分母误写；年龄能解释大部分粗关联；20年校正累计死亡分别0.48/0.41/0.38；登记为trial不改变队列设计；补充剂不能外推。",
             "证据：Higher spermidine intake is linked to lower mortality: a prospective population-based study. — https://www.vascular-proteomics.com/pub/2018/KiechlS_AJCN_108_371.pdf",
             "证据：Effects of Spermidine Supplementation on Cognition and Biomarkers in Older Adults With Subjective Cognitive Decline: A Randomized Clinical Trial. — https://pubmed.ncbi.nlm.nih.gov/35616942/",
-            "读者摘要：随访研究发现，从食物中摄入较多亚精胺的人死亡风险较低。这与服用亚精胺补充剂是不同的问题，补充剂延寿效果尚未证实。"
+            "读者摘要：随访研究发现，从食物中摄入较多亚精胺的人死亡风险较低。这与服用亚精胺补充剂是不同的问题，补充剂延寿效果尚未证实。",
+            "案例：在一项针对中老年人的大型营养调查中，研究人员通过饮食问卷评估了受试者的膳食亚精胺摄入量。经过多年随访，他们发现，在调整了年龄、性别、生活习惯和整体饮食质量等多种因素后，摄入量最高的人群其全因死亡率确实显著低于摄入量最低的人群。这一发现提示了富含亚精胺的天然食物（如小麦胚芽、大豆）可能与较低死亡风险相关。"
           ],
           "remember": "可通过全谷、豆类等普通均衡食物摄入；不按“降低60%死亡率”购买或服用亚精胺，疾病患者补剂先与医生核对。",
           "tags": [
@@ -622,7 +650,8 @@
             "局限：随访极短，缺长期有效性与安全性；原RCT有基线肝脂肪差异争论；不能将NAD或胰岛素信号变化等同延寿。",
             "证据：Nicotinamide mononucleotide increases muscle insulin sensitivity in prediabetic women. — https://pubmed.ncbi.nlm.nih.gov/33888596/",
             "证据：Effects of Nicotinamide Mononucleotide on Glucose and Lipid Metabolism in Adults: A Systematic Review and Meta-analysis of Randomised Controlled Trials. — https://pubmed.ncbi.nlm.nih.gov/39531138/",
-            "读者摘要：现有人体试验主要研究代谢指标，规模小、时间短。NMN延长人类寿命的效果仍未证实，长期安全性也缺少充分资料。"
+            "读者摘要：现有人体试验主要研究代谢指标，规模小、时间短。NMN延长人类寿命的效果仍未证实，长期安全性也缺少充分资料。",
+            "案例：刘先生购买NMN补充剂服用三月，自觉疲劳略减。查阅8项RCT共342人综述发现，14天至12周内主要代谢指标未显著获益，也无证据延寿，他于是停止服用并回归规律作息。"
           ],
           "remember": "不把NMN作为已证延寿药；若参与研究应按正式试验管理，不替代慢病治疗。",
           "tags": [
@@ -644,7 +673,8 @@
             "局限：旧试验的对照与现代标准治疗不同，不外推无糖尿病者；原库不良反应数字的适用口径另见“二甲双胍不良反应”记录。",
             "证据：Effect of intensive blood-glucose control with metformin on complications in overweight patients with type 2 diabetes (UKPDS 34). UK Prospective Diabetes Study (UKPDS) Group. — https://pubmed.ncbi.nlm.nih.gov/9742977/",
             "证据：Reappraisal of metformin efficacy in the treatment of type 2 diabetes: a meta-analysis of randomised controlled trials. — https://pubmed.ncbi.nlm.nih.gov/22509138/",
-            "读者摘要：在超重且新诊断糖尿病的人群中，一项随机试验发现二甲双胍治疗组死亡更少；后续试验汇总的结果较不确定。这些研究讨论的是糖尿病治疗。"
+            "读者摘要：在超重且新诊断糖尿病的人群中，一项随机试验发现二甲双胍治疗组死亡更少；后续试验汇总的结果较不确定。这些研究讨论的是糖尿病治疗。",
+            "案例：赵先生新诊断2型糖尿病且超重，医生建议二甲双胍强化控糖。他看到UKPDS34显示此类患者死亡相对降低36%，但后续13项RCT汇总RR0.99，明白这并非健康人通用延寿药。"
           ],
           "remember": "有糖尿病适应证者由医生选择用药并结合肾功能、耐受性与B12评估；不要自行停用处方，也不为抗衰在健康人自行开始。",
           "tags": [
@@ -667,7 +697,8 @@
             "证据：Can people with type 2 diabetes live longer than those without? A comparison of mortality in people initiated with metformin or sulphonylurea monotherapy and matched, non-diabetic controls. — https://pubmed.ncbi.nlm.nih.gov/25041462/",
             "证据：Effect of Metformin and Lifestyle Interventions on Mortality in the Diabetes Prevention Program and Diabetes Prevention Program Outcomes Study. — https://pubmed.ncbi.nlm.nih.gov/34697033/",
             "证据：Paternal metformin use and risk of congenital malformations in offspring in Norway and Taiwan: population based, cross national cohort study. — https://pubmed.ncbi.nlm.nih.gov/39414354/",
-            "读者摘要：观察研究曾比较服用二甲双胍的糖尿病患者与未患糖尿病的对照者，发现前者生存较好；但长期随机随访未在糖尿病高风险人群中发现死亡风险下降。健康人服药延寿的效果尚未证实。"
+            "读者摘要：观察研究曾比较服用二甲双胍的糖尿病患者与未患糖尿病的对照者，发现前者生存较好；但长期随机随访未在糖尿病高风险人群中发现死亡风险下降。健康人服药延寿的效果尚未证实。",
+            "案例：钱女士健康，听闻二甲双胍可延寿想尝试。医生指出2014回顾队列非随机试验，DPP/DPPOS随访21年HR0.99未见健康人获益；2024研究也未见父亲用药致出生缺陷显著关联。"
           ],
           "remember": "健康人不要为延寿自行服二甲双胍；糖尿病备孕男性不要因二手报道自行停药，与医生讨论个体风险。",
           "tags": [
@@ -690,7 +721,8 @@
             "证据：Multivitamins in the prevention of cancer in men: the Physicians' Health Study II randomized controlled trial. — https://pubmed.ncbi.nlm.nih.gov/23162860/",
             "证据：Multivitamins in the prevention of cancer and cardiovascular disease: the COcoa Supplement and Multivitamin Outcomes Study (COSMOS) randomized clinical trial. — https://pubmed.ncbi.nlm.nih.gov/35294969/",
             "证据：Multivitamin Use and Mortality Risk in 3 Prospective US Cohorts. — https://pubmed.ncbi.nlm.nih.gov/38922615/",
-            "读者摘要：复合维生素的随机试验和大型随访，尚未显示一般健康人服用后死亡风险降低。部分研究发现癌症发病减少，那是另一个研究结局。"
+            "读者摘要：复合维生素的随机试验和大型随访，尚未显示一般健康人服用后死亡风险降低。部分研究发现癌症发病减少，那是另一个研究结局。",
+            "案例：孙先生每天吃复合维生素，体检指标正常，以为因此防癌延寿。阅读PHS II发现癌症发病降8%非死亡，COSMOS及2024队列也未见ACM获益，他认识到没有证据支持健康人延寿。"
           ],
           "remember": "不为延寿常规服复合维生素；有营养缺乏、特定生命阶段或吸收障碍者按评估针对性补充。",
           "tags": [
@@ -711,7 +743,8 @@
             "设计：全国队列死亡随访分析",
             "局限：年龄校正与多变量校正不得混用；联用补剂暴露不能拆成氨糖独有效果；基线自报使用，随访未追踪用量与持续依从性；使用者更常运动、不吸烟、受教育较多，调整不能消除健康使用者及其他补剂混杂。",
             "证据：Glucosamine/Chondroitin and Mortality in a US NHANES Cohort. — https://pubmed.ncbi.nlm.nih.gov/33219063/",
-            "读者摘要：美国随访发现，长期使用氨糖和软骨素的人死亡风险较低；使用者也更常运动、不吸烟。研究尚未证明这些补剂能让健康人延寿。"
+            "读者摘要：美国随访发现，长期使用氨糖和软骨素的人死亡风险较低；使用者也更常运动、不吸烟。研究尚未证明这些补剂能让健康人延寿。",
+            "案例：周阿姨关节不适，长期服葡萄糖胺软骨素，感觉步行轻松。看到研究称39%死亡降低，但医生说明那是仅年龄校正；充分校正后低27%，且不能证明等同运动或推出500毫克剂量。"
           ],
           "remember": "不为延寿开始氨糖/软骨素；有关节症状或抗凝治疗者，先与医生讨论适用性和相互作用，继续规律运动。",
           "tags": [
@@ -732,7 +765,8 @@
             "设计：叙述性药物研发综述",
             "局限：不同分子、剂量、适应证不能合并成“综合抗衰药”；疾病适应证获益不等于健康人延寿；综述2020年，不宣称全面检索截至2026所有新药。",
             "证据：The quest to slow ageing through drug discovery. — https://pubmed.ncbi.nlm.nih.gov/32467649/",
-            "读者摘要：抗衰药物综述讨论了多种候选分子，证据主要来自动物和有限的人体研究。它们延长健康人寿命的效果仍未证实。"
+            "读者摘要：抗衰药物综述讨论了多种候选分子，证据主要来自动物和有限的人体研究。它们延长健康人寿命的效果仍未证实。",
+            "案例：吴先生关注抗衰，看到综述提及雷帕霉素、senolytics等候选药，打算尝试。专家指出该综述分层基于临床前及部分临床结果，并非证实这些药能降低健康人全因死亡的荟萃分析。"
           ],
           "remember": "不自行组合抗衰药；有明确疾病适应证按专科治疗，实验性抗衰干预应在规范研究中进行。",
           "tags": [
@@ -753,7 +787,8 @@
             "设计：随机试验个体数据meta分析",
             "局限：研究包含一级及二级预防，给出的0.91是无病史亚群；高低风险绝对收益不同；未单独核验2026当地用药阈值，不能按此处自行开药。",
             "证据：The effects of lowering LDL cholesterol with statin therapy in people at low risk of vascular disease: meta-analysis of individual data from 27 randomised trials. — https://pubmed.ncbi.nlm.nih.gov/22607822/",
-            "读者摘要：随机试验汇总发现，他汀降脂治疗能减少心血管事件，在没有既往血管病的入组人群中也观察到死亡减少。个人获益取决于原有风险。"
+            "读者摘要：随机试验汇总发现，他汀降脂治疗能减少心血管事件，在没有既往血管病的入组人群中也观察到死亡减少。个人获益取决于原有风险。",
+            "案例：郑先生体检LDL偏高但无血管病，开始服他汀。复查LDL降1mmol/L，看到27项试验meta显示ACM RR0.91。医生提醒这适用于适合降脂者，绝对获益随基线风险变化，非人人需服。"
           ],
           "remember": "已患ASCVD或经医生评估达到降脂指征者讨论他汀；低风险健康人不要仅因“延寿”自行开始；肌肉症状、相互作用及妊娠情境需个体评估。",
           "tags": [
@@ -774,7 +809,8 @@
             "设计：随机双盲安慰剂对照2×2析因试验",
             "局限：未按严重缺乏筛选；大多数非缺乏人群，结果不涵盖所有剂量和适应证；不能把观察性低维D关联转成补充的因果效果。",
             "证据：Vitamin D Supplements and Prevention of Cancer and Cardiovascular Disease. — https://pubmed.ncbi.nlm.nih.gov/30415629/",
-            "读者摘要：大型随机试验未发现常规补充维生素D能降低一般中老年人的死亡风险。营养缺乏和骨病等治疗需求需要另行评估。"
+            "读者摘要：大型随机试验未发现常规补充维生素D能降低一般中老年人的死亡风险。营养缺乏和骨病等治疗需求需要另行评估。",
+            "案例：冯女士每天服2000IU维生素D3，期待延寿。VITAL试验显示ACM HR0.99且置信区间跨1。医生说明这不否定缺乏症治疗适应证，但也不支持健康人靠此剂量延年。"
           ],
           "remember": "不以延寿为目的盲目大剂量补充；疑似缺乏或有明确骨健康等指征者按医生评估补充。",
           "tags": [
@@ -795,7 +831,8 @@
             "设计：SPRINT随机对照试验；中位随访3.26年，提前停止",
             "局限：提前停止可能高估获益；低血压、晕厥、电解质异常、急性肾损伤更常见；不能泛化至糖尿病或低风险正常血压者。",
             "证据：A Randomized Trial of Intensive versus Standard Blood-Pressure Control. — https://europepmc.org/article/MED/26551272",
-            "读者摘要：一项随机试验发现，无糖尿病、心血管风险较高的高血压人群，强化降压后死亡更少；低血压和肾脏等不良事件也更常见。"
+            "读者摘要：一项随机试验发现，无糖尿病、心血管风险较高的高血压人群，强化降压后死亡更少；低血压和肾脏等不良事件也更常见。",
+            "案例：一位58岁的高血压患者，无糖尿病但心血管风险较高，在医生建议下将收缩压目标降至120mmHg以下，通过调整药物和生活方式，半年后血压稳定，心血管健康状况明显改善，他对治疗计划感到安心。"
           ],
           "remember": "确诊高血压且风险较高者与医生讨论目标，监测肾功能、电解质、体位症状；不要自行加药或追求试验目标。",
           "tags": [
@@ -816,7 +853,8 @@
             "设计：双盲随机安慰剂对照；ACM为预设关键次要终点",
             "局限：试验因疗效提前终止；不能外推到无CKD健康人、1型糖尿病或被排除的肾病类型。4.7%/6.8%是试验期间死亡比例，不是终身风险。",
             "证据：Effects of dapagliflozin on mortality in patients with chronic kidney disease: a pre-specified analysis from the DAPA-CKD randomized controlled trial — https://pmc.ncbi.nlm.nih.gov/articles/PMC8244648/",
-            "读者摘要：随机试验发现，在符合入组条件的慢性肾病患者中，达格列净治疗组死亡较少，包含有和没有糖尿病的人。健康人延寿效果尚未证实。"
+            "读者摘要：随机试验发现，在符合入组条件的慢性肾病患者中，达格列净治疗组死亡较少，包含有和没有糖尿病的人。健康人延寿效果尚未证实。",
+            "案例：一位62岁的2型糖尿病患者确诊慢性肾病3期，尿蛋白偏高。肾内科医生评估后开具达格列净。服药一年后复查，尿蛋白下降，肾功能指标稳定，患者继续规律服药并定期随访。"
           ],
           "remember": "由临床医生按CKD与其他指征评估；需考虑体液不足、感染及酮症酸中毒等风险。剂量仅描述试验方案。",
           "tags": [
@@ -838,7 +876,8 @@
             "局限：不能推广到年轻、无心血管疾病、正常BMI人群；厂商资助；主试验因不良事件停药16.6% vs 8.2%。",
             "证据：The Effect of Semaglutide on Mortality and COVID-19-Related Deaths: An Analysis From the SELECT Trial. — https://pubmed.ncbi.nlm.nih.gov/39217559/",
             "证据：Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes — https://www.nejm.org/doi/full/10.1056/NEJMoa2307563",
-            "读者摘要：SELECT试验中，已有心血管病、超重或肥胖且无糖尿病的参与者，司美格鲁肽组死亡较少；这项死亡结果属于探索性发现。"
+            "读者摘要：SELECT试验中，已有心血管病、超重或肥胖且无糖尿病的参与者，司美格鲁肽组死亡较少；这项死亡结果属于探索性发现。",
+            "案例：一位有心血管病史的肥胖患者，BMI为32，开始使用司美格鲁肽治疗。半年后体重下降8%，血脂和血糖指标改善。医生提醒需继续观察心血管结局，患者对当前效果表示满意。"
           ],
           "remember": "只在相应临床指征下评估，不把探索性ACM结果当作健康人的延寿承诺。",
           "tags": [
@@ -860,7 +899,8 @@
             "局限：与其他既往研究不完全一致；不适用于心肌梗死/卒中后二级预防，不代表所有年龄用药均增加ACM。",
             "证据：Effect of Aspirin on All-Cause Mortality in the Healthy Elderly. — https://pubmed.ncbi.nlm.nih.gov/30221595/",
             "证据：Effect of Aspirin on All-Cause Mortality in the Healthy Elderly — Discussion — https://www.nejm.org/doi/full/10.1056/NEJMoa1803955",
-            "读者摘要：在无既往心血管病的老年人随机试验中，每日阿司匹林未带来延寿获益，并出现死亡较多的信号。这个结果与心梗或卒中后的治疗是不同情境。"
+            "读者摘要：在无既往心血管病的老年人随机试验中，每日阿司匹林未带来延寿获益，并出现死亡较多的信号。这个结果与心梗或卒中后的治疗是不同情境。",
+            "案例：一位70岁健康老人，无心血管病史，体检后想通过每日阿司匹林预防心梗。医生评估认为出血风险大于获益，建议不用药。老人听从建议，保持运动习惯，一年后体检指标正常。"
           ],
           "remember": "不要仅为延寿自行启动阿司匹林；已因明确指征服用者与医生评估，不能根据该试验自行停药。",
           "tags": [
@@ -881,7 +921,8 @@
             "设计：官方药品标签的不良反应试验及上市后报告，非ACM干预研究",
             "局限：不同制剂、滴定、剂量、随访和人群的反应率不能直接比较；没有给17.4%提供统一定义；不将不良反应频率当死亡风险。",
             "证据：Metformin hydrochloride tablets — Full prescribing information, sections 5.1–5.2, 6.1–6.2 — https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4f70f907-08d5-4c2e-a4be-32c6124faa7b",
-            "读者摘要：二甲双胍可引起腹泻等胃肠不适，也可能降低维生素B12水平；乳酸酸中毒也是需要重视的风险。反应会随制剂、剂量和身体状况变化。"
+            "读者摘要：二甲双胍可引起腹泻等胃肠不适，也可能降低维生素B12水平；乳酸酸中毒也是需要重视的风险。反应会随制剂、剂量和身体状况变化。",
+            "案例：一位2型糖尿病患者刚开始服用二甲双胍，看到说明书列出的不良反应后十分担忧。医生解释这些数字来自特定试验，并非人人会发生。患者调整心态后继续服药，随访时未出现明显不适。"
           ],
           "remember": "按临床指征用药并监测肾功能和B12；该记录用于纠正频率口径，不用于自行启动或停药。",
           "tags": [
@@ -903,7 +944,8 @@
             "局限：研究排除了既往失代偿肝硬化、肝癌或肝移植等患者；不能外推未感染者，也不是某种方案的随机比较。抗体阳性本身不能确认当前感染。",
             "证据：Clinical outcomes in patients with chronic hepatitis C after direct-acting antiviral treatment: a prospective cohort study. — https://pubmed.ncbi.nlm.nih.gov/30765123/",
             "证据：Testing for Hepatitis C (CDC) — https://www.cdc.gov/hepatitis-c/testing/index.html",
-            "读者摘要：丙肝可以长期没有明显症状。慢性丙肝患者的随访研究发现，接受抗病毒治疗的人死亡风险更低，查清是否感染、及时治疗很重要。"
+            "读者摘要：丙肝可以长期没有明显症状。慢性丙肝患者的随访研究发现，接受抗病毒治疗的人死亡风险更低，查清是否感染、及时治疗很重要。",
+            "案例：一位45岁男性在体检中发现丙肝抗体阳性，进一步检查确诊慢性丙肝。他在感染科接受直接抗病毒治疗12周，复查时病毒载量转阴，半年后肝功能恢复正常，生活质量显著提升。"
           ],
           "remember": "丙肝抗体阳性后，进一步检测病毒是否仍存在；确诊当前感染后，接受肝脏评估并与医生选择抗病毒治疗。",
           "tags": [
@@ -930,7 +972,8 @@
             "局限：烟量随时间变动；该队列非每日吸烟的阴性不能证明安全；美国研究CI为99%，不得标成95%。",
             "证据：Low-intensity daily smoking and cause-specific mortality in Mexico: prospective study of 150 000 adults. — https://pubmed.ncbi.nlm.nih.gov/33659992/",
             "证据：21st-century hazards of smoking and benefits of cessation in the United States. — https://pubmed.ncbi.nlm.nih.gov/23343063/",
-            "读者摘要：长期随访持续发现，吸烟者死亡风险较高，即使每日烟量不大也有风险。戒烟者的风险低于继续吸烟者。"
+            "读者摘要：长期随访持续发现，吸烟者死亡风险较高，即使每日烟量不大也有风险。戒烟者的风险低于继续吸烟者。",
+            "案例：一位35岁上班族每天抽5支烟，看到研究数据后决心戒烟。他通过尼古丁替代疗法和运动转移注意力，三个月后成功戒烟。一年后体检显示肺功能改善，他感觉呼吸更顺畅，精力也更充沛。"
           ],
           "remember": "不开始吸烟，吸烟者尽早戒烟；需要时寻求戒烟门诊与循证药物支持，减少支数不等同消除风险。",
           "tags": [
@@ -951,7 +994,8 @@
             "设计：全国开放队列",
             "局限：美国老年人群；邮编暴露不等于个人吸入；缺个体吸烟等详尽信息；关联不能直接给个人净化干预效应。",
             "证据：Air Pollution and Mortality in the Medicare Population. — https://pubmed.ncbi.nlm.nih.gov/28657878/",
-            "读者摘要：美国老年人大型随访发现，长期暴露于较高细颗粒物和臭氧水平，与较高死亡风险相关。"
+            "读者摘要：美国老年人大型随访发现，长期暴露于较高细颗粒物和臭氧水平，与较高死亡风险相关。",
+            "案例：一位居住在城市中心的居民，关注到PM2.5对健康的长期影响。他在雾霾天减少外出并佩戴N95口罩，室内使用空气净化器。一年后体检显示肺功能稳定，他相信这些措施起到了保护作用。"
           ],
           "remember": "关注本地空气质量，污染高时减少高暴露时段户外剧烈活动，并在可行时改善室内空气；通风兼顾污染与感染情境。",
           "tags": [
@@ -978,7 +1022,8 @@
             "局限：皮肤癌诊断和生存选择、社会经济、户外运动、健康就医行为混杂；暴露代理不可靠；晒伤增加皮肤癌风险；不存在从这些研究得出的最佳时长剂量。",
             "证据：Skin cancer as a marker of sun exposure associates with myocardial infarction, hip fracture and death from any cause. — https://pubmed.ncbi.nlm.nih.gov/24038635/",
             "证据：Avoidance of sun exposure as a risk factor for major causes of death: a competing risk analysis of the Melanoma in Southern Sweden cohort. — https://pubmed.ncbi.nlm.nih.gov/26992108/",
-            "读者摘要：北欧研究发现，日晒相关指标与生存存在关联，但户外活动、就医习惯等也会影响结果。研究没有确定一个延寿日晒时长。"
+            "读者摘要：北欧研究发现，日晒相关指标与生存存在关联，但户外活动、就医习惯等也会影响结果。研究没有确定一个延寿日晒时长。",
+            "案例：丹麦的一项全国性研究利用皮肤癌诊断记录作为长期日晒的替代指标，分析了其与全因死亡率的关系。结果显示，被诊断为非黑色素瘤皮肤癌（通常代表慢性日晒）的患者，其死亡风险低于普通人群。然而，研究人员强调，这并不能证明多晒太阳直接导致寿命延长，因为皮肤癌患者可能本身具有其他不同的生活或医疗特征。"
           ],
           "remember": "可规律户外活动、接触自然光，同时避免晒伤和日光浴床；光敏性疾病、相关用药或皮肤癌高风险者按医生防晒建议。",
           "tags": [
@@ -1004,7 +1049,8 @@
             "设计：英格兰/苏格兰人群队列合并分析",
             "局限：运动自报、健康参与者及社会经济混杂；不能无条件外推乒乓球或所有年龄。",
             "证据：Associations of specific types of sports and exercise with all-cause and cardiovascular-disease mortality: a cohort study of 80 306 British adults. — https://europepmc.org/article/MED/27895075",
-            "读者摘要：英国成年人随访发现，参加挥拍运动与较低死亡风险相关。喜好、体能和能否长期坚持，也值得放进运动选择里。"
+            "读者摘要：英国成年人随访发现，参加挥拍运动与较低死亡风险相关。喜好、体能和能否长期坚持，也值得放进运动选择里。",
+            "案例：一位35岁上班族每周三和周末各打一次羽毛球，每次60分钟。坚持一年后，他发现自己体能明显提升，感冒次数减少，体检报告显示血压和血脂都在正常范围，他对这项运动很满意。"
           ],
           "remember": "选择喜欢且身体允许的挥拍活动，循序增加；有关节损伤、心血管症状者先评估。",
           "tags": [
@@ -1025,7 +1071,8 @@
             "设计：腕部加速度计前瞻性队列、剂量反应模型",
             "局限：非随机；选择偏倚、残余混杂；曲线最低点非人人适用的最优处方。",
             "证据：Vigorous physical activity, incident heart disease, and cancer: how little is enough? — https://pmc.ncbi.nlm.nih.gov/articles/PMC9726449/",
-            "读者摘要：英国随访发现，较短时间的高强度活动也与较低死亡风险相关。参与者主要是中老年人，运动量来自活动设备记录。"
+            "读者摘要：英国随访发现，较短时间的高强度活动也与较低死亡风险相关。参与者主要是中老年人，运动量来自活动设备记录。",
+            "案例：一位45岁久坐工作者，因时间有限开始尝试高强度间歇训练，每周3次，每次15分钟。三个月后，他感觉心肺功能明显改善，爬楼不再气喘，体检显示静息心率下降，血压也更稳定。"
           ],
           "remember": "有运动基础且无禁忌者逐渐加入短时较高强度活动；不适或慢病未稳定者先评估。",
           "tags": [
@@ -1046,7 +1093,8 @@
             "设计：加速度计测量的前瞻性单队列",
             "局限：短期活动测量；残余混杂和反向因果；不能把7,000步当普适阈值。",
             "证据：Steps per Day and All-Cause Mortality in Middle-aged Adults in the Coronary Artery Risk Development in Young Adults Study. — https://pmc.ncbi.nlm.nih.gov/articles/PMC8417757/",
-            "读者摘要：美国中年人随访发现，日常步数较多的人死亡风险较低，结果并非步数越多越好。"
+            "读者摘要：美国中年人随访发现，日常步数较多的人死亡风险较低，结果并非步数越多越好。",
+            "案例：一位65岁退休老人，以前每天步数不足3000步。在医生建议下，他开始每天饭后散步，逐步增加到8000步。半年后体检显示血压、血糖指标改善，睡眠质量提高，他感觉走路更有劲了。"
           ],
           "remember": "从自身基线逐渐增加步行；行动障碍、跌倒风险或心肺疾病者个体化安排。",
           "tags": [
@@ -1067,7 +1115,8 @@
             "设计：前瞻性队列系统综述/荟萃分析",
             "局限：I²=83%；自报、健康参与者偏倚与混杂；不能据J曲线断言较多训练有害。",
             "证据：Muscle-strengthening activities are associated with lower risk and mortality in major non-communicable diseases: a systematic review and meta-analysis of cohort studies. — https://pmc.ncbi.nlm.nih.gov/articles/PMC9209691/",
-            "读者摘要：队列研究综述发现，做肌力训练的人死亡风险较低。具体训练量与结果的关系仍有不确定性。"
+            "读者摘要：队列研究综述发现，做肌力训练的人死亡风险较低。具体训练量与结果的关系仍有不确定性。",
+            "案例：45岁上班族张师傅每周利用晚间做3次居家抗阻训练，含深蹲、俯卧撑，每次20分钟，坚持两年，体检显示肌肉量增加，日常疲惫感明显减轻。"
           ],
           "remember": "身体条件允许时逐步练习主要肌群、结合有氧；疼痛、近期手术或不稳定慢病需先评估和调整。",
           "tags": [
@@ -1088,7 +1137,8 @@
             "设计：队列研究剂量反应荟萃分析",
             "局限：研究间异质性很高；既往疾病、遗传和测试方案影响CRF；检索截止2019-12-26。",
             "证据：Cardiorespiratory fitness and mortality from all causes, cardiovascular disease and cancer: dose-response meta-analysis of cohort studies. — https://doi.org/10.1136/bjsports-2021-104876",
-            "读者摘要：多项队列研究发现，运动测试测得的心肺适能越好，死亡风险越低。它反映身体能力，也受疾病和遗传等因素影响。"
+            "读者摘要：多项队列研究发现，运动测试测得的心肺适能越好，死亡风险越低。它反映身体能力，也受疾病和遗传等因素影响。",
+            "案例：62岁退休老人陈叔坚持每日快走30年，在运动负荷测试中心肺适能达11METs，日常爬六层楼不喘气，静息心率长期维持在62次/分左右。"
           ],
           "remember": "把适能当作体能评估线索，结合基础健康状态逐步训练；不能直接用RR估算个人延寿。",
           "tags": [
@@ -1109,7 +1159,8 @@
             "设计：系统综述与剂量反应荟萃分析",
             "局限：残余混杂；未给年龄分层结论；设备、测量周期与既往疾病有差异。本次依据摘要数值，未逐表核阅全文。",
             "证据：Daily steps and health outcomes in adults: a systematic review and dose-response meta-analysis. — https://pubmed.ncbi.nlm.nih.gov/40713949/",
-            "读者摘要：较新的研究综述继续发现，日常步数较多与较低死亡风险相关。参与者的身体状况、设备和测量方式也会影响结果。"
+            "读者摘要：较新的研究综述继续发现，日常步数较多与较低死亡风险相关。参与者的身体状况、设备和测量方式也会影响结果。",
+            "案例：30岁文案小李此前日均步数仅1800步，之后刻意增加通勤步行与午休散步，日均步数稳定在7000步，半年后体重下降3公斤，睡眠质量变好。"
           ],
           "remember": "在自身能力范围增加步数；7000步可作部分人的渐进目标，不能设为人人必须达到的硬阈值。",
           "tags": [
@@ -1135,7 +1186,8 @@
             "设计：大型前瞻性队列",
             "局限：刷牙行为自报；与吸烟、贫困、既有健康状态和医疗可及性相关。",
             "证据：Associations of toothbrushing behaviour with risks of vascular and nonvascular diseases in Chinese adults. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7616900/",
-            "读者摘要：中国大型随访发现，很少刷牙的人死亡风险较高。口腔护理也与吸烟、健康状况和就医条件相互关联。"
+            "读者摘要：中国大型随访发现，很少刷牙的人死亡风险较高。口腔护理也与吸烟、健康状况和就医条件相互关联。",
+            "案例：28岁上班族小周此前常偷懒不刷牙，牙龈频繁红肿出血，牙结石堆积明显，后来坚持早晚刷牙、饭后漱口，口腔炎症发作次数显著减少。"
           ],
           "remember": "维持规律含氟牙膏刷牙和牙病诊治；不能替代控制吸烟、血压等措施。",
           "tags": [
@@ -1156,7 +1208,8 @@
             "设计：日本前瞻性队列；终点为心脑血管事件",
             "局限：无随机化；日本浴缸习惯不能直接推广为淋浴；溺水、热应激等风险未由无显著猝死结果排除。",
             "证据：Habitual tub bathing and risks of incident coronary heart disease and stroke. — https://europepmc.org/article/MED/32209614",
-            "读者摘要：日本中年人随访发现，经常泡澡与较少心血管病和卒中发病相关。"
+            "读者摘要：日本中年人随访发现，经常泡澡与较少心血管病和卒中发病相关。",
+            "案例：70岁王大爷有高血压病史，子女为其购置防滑浴凳并将水温控制在39℃，他每周泡澡3次、每次12分钟，至今未出现头晕、跌倒等意外情况。"
           ],
           "remember": "可按舒适、安全习惯温水洗浴；晕厥倾向、急性疾病、酒后或心血管不稳定者避免热水长泡和独自泡澡。",
           "tags": [
@@ -1177,7 +1230,8 @@
             "设计：前瞻性单队列，约9年随访",
             "局限：能做家务者可能本就较健康；不能把搬家具/煤气罐作为延寿处方。2013勘误只修正文中男女家务参与比例。",
             "证据：Housework reduces all-cause and cancer mortality in Chinese men. — https://pmc.ncbi.nlm.nih.gov/articles/PMC3647044/",
-            "读者摘要：香港老年人随访中，做较重家务的男性死亡风险较低，女性未见明确关联。体能较好的人更能做家务，也可能影响结果。"
+            "读者摘要：香港老年人随访中，做较重家务的男性死亡风险较低，女性未见明确关联。体能较好的人更能做家务，也可能影响结果。",
+            "案例：68岁独居男性赵大爷每日主动承担拖地、搬重物等重型家务，每次约40分钟，坚持五年，日常活动能力良好，年度体检各项指标均处于正常范围。"
           ],
           "remember": "按体力参与适量家务；衰弱、骨质疏松、腰背病或跌倒风险者避免搬重物。",
           "tags": [
@@ -1203,7 +1257,8 @@
             "设计：个体数据多队列合并，前瞻性随访约13–14年",
             "局限：时长仅自报一次：多数队列在基线、上海女性健康研究在第三次随访测量；各队列问卷未标准化（夜间睡眠或含午睡的全天时长）；残余混杂，未掌握睡眠质量、抑郁及社会经济等信息；排除基线CVD/癌症和前5年死亡仍无法完全消除反向因果。",
             "证据：Association of Sleep Duration With All- and Major-Cause Mortality Among Adults in Japan, China, Singapore, and Korea. — https://pmc.ncbi.nlm.nih.gov/articles/PMC8417759/",
-            "读者摘要：亚洲多国随访发现，睡得很久的人死亡风险较高；较长睡眠也可能是潜在疾病或睡眠问题的表现。"
+            "读者摘要：亚洲多国随访发现，睡得很久的人死亡风险较高；较长睡眠也可能是潜在疾病或睡眠问题的表现。",
+            "案例：55岁女性刘阿姨因甲状腺功能减退长期每日睡11小时，仍常感疲惫，就医调整治疗后睡眠时长缩至7.5小时，白天精神状态明显改善。"
           ],
           "remember": "保持充足、规律且醒后恢复良好的睡眠；长期过长睡眠伴疲劳、打鼾或嗜睡应查原因。",
           "tags": [
@@ -1224,7 +1279,8 @@
             "设计：跨国前瞻性队列；自报就寝时间",
             "局限：社会作息和疾病混杂；充分调整大幅削弱关联；精确边界在Methods和Conclusion略有差别，勿定为硬阈值。",
             "证据：Association of bedtime with mortality and major cardiovascular events: an analysis of 112,198 individuals from 21 countries in the PURE study. — https://europepmc.org/article/MED/33610073",
-            "读者摘要：跨国随访发现，过早或过晚就寝与较高的死亡及心血管事件复合风险相关；考虑其他因素后，关联明显减弱。"
+            "读者摘要：跨国随访发现，过早或过晚就寝与较高的死亡及心血管事件复合风险相关；考虑其他因素后，关联明显减弱。",
+            "案例：31岁程序员小郑长期凌晨2点就寝，时常心悸、晨起乏力，后将就寝时间提前至23点，坚持三个月，心电图复查结果与血压水平均保持稳定。"
           ],
           "remember": "按个人节律保持规律且足量睡眠；不因这项关联刻意推迟本来合适的早睡。",
           "tags": [
@@ -1250,7 +1306,8 @@
             "设计：系统综述、剂量反应荟萃分析，调整身体活动",
             "局限：久坐多为自报、研究异质性和残余混杂；该综述癌症死亡关联不显著，不能混作癌症发病。原中文报告PDF及WHO旧PDF未能访问。",
             "证据：Sedentary behaviour and risk of all-cause, cardiovascular and cancer mortality, and incident type 2 diabetes: a systematic review and dose response meta-analysis. — https://pmc.ncbi.nlm.nih.gov/articles/PMC6133005/",
-            "读者摘要：研究综述发现，久坐时间较长与较高死亡风险相关，尤其在每日久坐较多的人群中。看电视和总久坐的关联也有所不同。"
+            "读者摘要：研究综述发现，久坐时间较长与较高死亡风险相关，尤其在每日久坐较多的人群中。看电视和总久坐的关联也有所不同。",
+            "案例：40岁编辑老吴每日伏案工作+看电视超10小时，半年后常感颈肩酸痛、下肢发麻，此后每坐1小时起身活动5分钟，不适症状逐步缓解。"
           ],
           "remember": "在能力允许时用走动或活动替换部分久坐，并规律运动；无法站立者按康复建议活动，不规定未经证明的统一休息频率。",
           "tags": [
@@ -1276,7 +1333,8 @@
             "设计：前瞻性单队列、生存模型考虑家庭聚类",
             "局限：心理特质非随机分配；反向因果未被排除；没有情绪治疗降低ACM的直接试验证据。",
             "证据：Pessimism is associated with greater all-cause and cardiovascular mortality, but optimism is not protective. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7387533/",
-            "读者摘要：澳大利亚中老年人随访发现，悲观评分较高与较高死亡风险相关。情绪、身体健康和生活处境会相互影响。"
+            "读者摘要：澳大利亚中老年人随访发现，悲观评分较高与较高死亡风险相关。情绪、身体健康和生活处境会相互影响。",
+            "案例：42岁项目经理老陈遇事易悲观，常因工作失误自我否定，经心理疏导后学会正向解读挫折，半年内焦虑情绪发作频次降低，心态更平稳。"
           ],
           "remember": "持续悲观或情绪低落影响生活时寻求支持或专业帮助；不以强迫乐观替代治疗。",
           "tags": [
@@ -1297,7 +1355,8 @@
             "设计：原始研究系统综述及荟萃分析",
             "局限：基线健康状态影响结果；暴露定义异质；独居不等于孤独；本次仅摘要。",
             "证据：Loneliness and social isolation as risk factors for mortality: a meta-analytic review. — https://europepmc.org/article/MED/25910392",
-            "读者摘要：研究综述发现，社会隔离、孤独感和独居都与较高死亡风险相关，但它们是不同的生活体验。独居的人也可以有充实可靠的联系。"
+            "读者摘要：研究综述发现，社会隔离、孤独感和独居都与较高死亡风险相关，但它们是不同的生活体验。独居的人也可以有充实可靠的联系。",
+            "案例：65岁独居张奶奶每月仅与子女通话1次，日常极少参与社区活动，常感孤独，半年后每周参加2次老年合唱团，情绪状态较之前明显好转。"
           ],
           "remember": "依个人意愿维持可靠联系和求助渠道，关注听力、行动和抑郁等障碍；不要求所有独居者同住。",
           "tags": [
@@ -1323,7 +1382,8 @@
             "设计：单队列及家庭内比较",
             "局限：净资产自报；族群代表性有限；个体非共享混杂、健康导致财富下降；未检验改善收入的干预。",
             "证据：Association of Wealth With Longevity in US Adults at Midlife. — https://midus.wisc.edu/findings/pdfs/2366.pdf",
-            "读者摘要：美国中年人随访发现，净资产较多与较低死亡风险相关。经济资源、健康和生活保障之间的关系往往是双向的。"
+            "读者摘要：美国中年人随访发现，净资产较多与较低死亡风险相关。经济资源、健康和生活保障之间的关系往往是双向的。",
+            "案例：38岁技术岗员工小周工作十年保持稳定收入，逐步积累资产至60万美元，家庭生活抗风险能力提升，日常较少因经济问题产生焦虑情绪。"
           ],
           "remember": "优先稳定住房、医疗可及性和基本财务保障；不能把高风险投资当健康干预。",
           "tags": [
@@ -1349,7 +1409,8 @@
             "设计：回顾体重史与前瞻性死亡链接的观察研究",
             "局限：肥胖→超重仅214人；非随机干预；不能证明54%为主动减重的因果收益。",
             "证据：Association of Weight Loss Between Early Adulthood and Midlife With All-Cause Mortality Risk in the US. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7428805/",
-            "读者摘要：美国随访发现，从成年早期到中年由肥胖降至超重的人，比持续肥胖者死亡风险低。"
+            "读者摘要：美国随访发现，从成年早期到中年由肥胖降至超重的人，比持续肥胖者死亡风险低。",
+            "案例：32岁的陈女士产后体重达86公斤，医生建议减重。她把晚餐主食减半、每周快走四次，三年降到72公斤，血压和甘油三酯回落。"
           ],
           "remember": "肥胖者与医护制定长期体重和肌力管理；老年、孕期或非自愿消瘦者不照搬减重结论。",
           "tags": [
@@ -1370,7 +1431,8 @@
             "设计：前瞻性队列的系统综述与剂量反应荟萃分析",
             "局限：研究间异质性较高；腰围测量方法、基础疾病和生活方式不同。腰围是风险指标，不是直接测得的内脏脂肪量；本次结论不设统一减重目标。",
             "证据：Central fatness and risk of all cause mortality: systematic review and dose-response meta-analysis of 72 prospective cohort studies. — https://www.bmj.com/content/370/bmj.m3324",
-            "读者摘要：体重之外，腰围也值得留意。多项长期研究发现，腰围越大，全因死亡风险往往越高；只看体重可能漏掉腹部脂肪带来的风险。"
+            "读者摘要：体重之外，腰围也值得留意。多项长期研究发现，腰围越大，全因死亡风险往往越高；只看体重可能漏掉腹部脂肪带来的风险。",
+            "案例：45岁的王先生体检BMI 24但腰围98厘米，被提醒腹型肥胖。他停夜宵和含糖饮料，每周力量训练三次，半年腰围88厘米，甘油三酯下降。"
           ],
           "remember": "体重之外，也留意腰围的长期变化；腹部脂肪增加时，结合饮食、运动和健康评估逐步改善。",
           "tags": [
@@ -1396,7 +1458,8 @@
             "设计：16个贝叶斯模型集合的人群时间序列/生态研究",
             "局限：反事实模型和登记延迟；2020情境不能外推当前变异株、免疫和医疗条件；CDC原链接为通用死亡资料入口，不直接支持原数字。",
             "证据：Magnitude, demographics and dynamics of the effect of the first wave of the COVID-19 pandemic on all-cause mortality in 21 industrialized countries. — https://www.nature.com/articles/s41591-020-1112-0.pdf",
-            "读者摘要：多国死亡登记显示，新冠疫情第一波期间出现明显超额死亡，既包括感染，也可能包括医疗中断等间接影响。这反映的是当时的疫情环境。"
+            "读者摘要：多国死亡登记显示，新冠疫情第一波期间出现明显超额死亡，既包括感染，也可能包括医疗中断等间接影响。这反映的是当时的疫情环境。",
+            "案例：编辑小周想用21国超额死亡研究写“美国死亡率1.5%”。核对后发现样本不含美国，他改为“欧洲等21国第一波超额死亡”，并注明医疗中断影响。"
           ],
           "remember": "降低感染暴露、保证基础病与及时医疗管理；具体防护和治疗按当前适用指南，不用2020固定百分比估计个人风险。",
           "tags": [
@@ -1424,7 +1487,8 @@
             "证据：Is obstructive sleep apnea associated with cardiovascular and all-cause mortality? — https://pubmed.ncbi.nlm.nih.gov/23936014/",
             "证据：Positive airway pressure therapy and all-cause and cardiovascular mortality in people with obstructive sleep apnoea: a systematic review and meta-analysis of randomised controlled trials and confounder-adjusted, non-randomised controlled studies. — https://pubmed.ncbi.nlm.nih.gov/40118084/",
             "证据：Sleep Apnea — Symptoms (NHLBI, NIH) — https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms",
-            "读者摘要：睡得久，也可能没睡好。严重的睡眠呼吸暂停与更高死亡风险相关，长期打鼾、憋气和白天困倦值得查清原因。"
+            "读者摘要：睡得久，也可能没睡好。严重的睡眠呼吸暂停与更高死亡风险相关，长期打鼾、憋气和白天困倦值得查清原因。",
+            "案例：55岁的赵先生夜间憋醒，监测确诊重度睡眠呼吸暂停。他按医嘱用CPAP并减重，嗜睡好转；医生提醒随机试验尚未证实它能明确降低全因死亡。"
           ],
           "remember": "长期大声打鼾、睡中憋气或白天总犯困时，做睡眠评估；确诊后与医生选择治疗。",
           "tags": [

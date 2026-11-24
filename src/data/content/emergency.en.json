@@ -10,7 +10,11 @@
           "core": "Professional rescue always takes priority.",
           "body": [
             "Describe the location, number of people and injuries.",
-            "Follow the operator’s instructions."
+            "Follow the operator’s instructions.",
+            "Call the local emergency number and put it on speakerphone. Listen to the dispatch instructions while dealing with the situation. Do not drive to the hospital by yourself first.",
+            "Indicate whether there are still dangers at the scene, such as traffic, fire, electricity leakage, chemical leakage, and listen to evacuation advice first.",
+            "Briefly tell the operator the patient’s name, age, symptoms, and treatment, and follow the prompts to add key information.",
+            "Case: A man suddenly fell to the ground in a shopping mall. The witness immediately asked the clerk to call 120 and get an AED. He only shouted and guarded. The ambulance quickly took over the treatment after it arrived."
           ],
           "tags": [
             "First aid",
@@ -23,7 +27,11 @@
           "core": "Compression should be fast and deep, and continue until help arrives.",
           "body": [
             "Confirm site safety and awareness.",
-            "Compress at the standard frequency and cooperate with artificial respiration."
+            "Compress at the standard frequency and cooperate with artificial respiration.",
+            "For adults, the pressing point is on the lower half of the sternum, with hands folded and pressed vertically to a depth of about 5 to 6 centimeters.",
+            "Keep the frequency at 100 to 120 times per minute, allowing the chest to fully rebound each time, and try not to interrupt for more than 10 seconds.",
+            "Switch on the patch immediately after the AED arrives, follow the voice prompts to analyze the heart rhythm, and continue compressions immediately after defibrillation.",
+            "Case: An old man suddenly fell to the ground in the park and became unresponsive. Passersby dialed 120 and performed chest compressions alternately, maintaining fast and deep compressions without interruption until emergency personnel arrived to take over, buying time for rescue."
           ],
           "tags": [
             "First aid",
@@ -36,7 +44,11 @@
           "core": "Most external bleeding can be controlled with direct compression.",
           "body": [
             "Use a clean cloth to press continuously.",
-            "For severe limb bleeding, a tourniquet may be considered and the time recorded."
+            "For severe limb bleeding, a tourniquet may be considered and the time recorded.",
+            "Cover the wound with clean gauze or thick cloth, and continue to press with the heel of your palm for at least 10 minutes. Do not open it repeatedly to check.",
+            "When the blood soaks into the dressing, do not remove the original dressing, just add another layer and continue to apply pressure to avoid damaging the blood clot.",
+            "If the limbs are not fractured and bleeding heavily, the affected limb can be elevated; if the gushing does not stop, prick near the heart and record the time, and send the patient to the doctor as soon as possible.",
+            "Case: Ms. Wang was scratched on her forearm by a knife while cooking, and the blood flow continued. The family members directly pressed the wound with clean gauze and kept it there for more than ten minutes. The bleeding slowed down significantly, and she was sent to the hospital for stitches."
           ],
           "tags": [
             "First aid",
@@ -49,7 +61,11 @@
           "core": "Immediate cooling can reduce the damage.",
           "body": [
             "Rinse with running cold water for sufficient time.",
-            "Do not apply home remedies or prick blisters."
+            "Do not apply home remedies or prick blisters.",
+            "Put the injured area under running cold water for 15 to 20 minutes. The water temperature should be close to tap water. Do not use ice.",
+            "Take off rings, watches, and tight clothing as soon as possible when cooling. If the clothing sticks to the skin, leave it on.",
+            "Do not apply toothpaste, soy sauce or ointment, do not open blisters, cover them loosely with clean gauze and seek medical attention.",
+            "Case: Xiao Chen burned the back of his hand while serving hot soup. He immediately put his hand in running cold water for about fifteen minutes. The pain was relieved and the blisters did not continue to expand. After that, he went to the hospital for treatment."
           ],
           "tags": [
             "First aid",
@@ -62,7 +78,11 @@
           "core": "whether you can cough and speak to decide what to do.",
           "body": [
             "Encourage coughing if you can.",
-            "In case of complete obstruction, seek help immediately and perform rescue operations according to regulations."
+            "In case of complete obstruction, seek help immediately and perform rescue operations according to regulations.",
+            "When he still coughs loudly or talks, ask him to lower his head and cough hard without patting him on the back or blindly putting your hands into his throat.",
+            "If you can't make a sound, have a silent cough, or have a blue face, call for help immediately and prepare for abdominal shocks.",
+            "Pregnant women should do chest thrusts instead, while babies should use prone back patting and supine chest pressing, and the techniques should be adjusted according to age.",
+            "Case: The child suddenly choked and coughed during a dinner party. The parents first asked if he could still speak. When he saw that he could cough, he asked him to lean forward and cough hard. After a few minutes, he coughed out the peanuts and his breathing returned to steady."
           ],
           "tags": [
             "First aid",
@@ -75,7 +95,11 @@
           "core": "施救者安全是前提。",
           "body": [
             "Observe fire, electricity, cars and chemicals.",
-            "When in doubt, call for help first and don’t get too close."
+            "When in doubt, call for help first and don’t get too close.",
+            "First scan the surrounding vehicles, fire sources, wires, glass and falling objects to make sure there is no further damage before approaching.",
+            "Open double flash on the road. The triangle sign is about 50 meters away on ordinary roads and about 150 meters away on highways. People stand outside the guardrail.",
+            "Do not enter a confined space when you smell a pungent odor or see smoke. Move upwind and wait for professionals.",
+            "Case: After a heavy rain, the power lines on the roadside were broken, and a passerby fell not far away. Several people were about to step forward. The shop owner first stopped everyone and backed away and called 120 and the power supply was repaired. Only after confirming that the power was out did the rescuers approach."
           ],
           "tags": [
             "First aid",
@@ -88,7 +112,11 @@
           "core": "信息完整才能快速派出救援。",
           "body": [
             "Describe landmarks and floors.",
-            "Report the number and status of the injured."
+            "Report the number and status of the injured.",
+            "When reporting the address, state the street number, floor and room number in the province, city, and city, and add shopping malls, shops, or intersection landmarks.",
+            "Indicate the number of injured persons, their approximate age and status, such as awake, not breathing, bleeding profusely, trapped or unable to move.",
+            "The operator said that you can hang up again and send someone to the intersection to wave and guide the ambulance.",
+            "Case: Two electric vehicles collided at the entrance of the community garage and three people fell down. The caller told the community name, the location next to Ximen Post and the condition of the three people. The ambulance followed the instructions and went directly to the scene, saving the time of repeatedly asking for directions."
           ],
           "tags": [
             "First aid",
@@ -101,7 +129,11 @@
           "core": "混乱会浪费黄金时间。",
           "body": [
             "Designate one person to make the call.",
-            "指定一人引导救援。"
+            "指定一人引导救援。",
+            "Designate one person to call the emergency number by roll call to avoid everyone thinking that someone else has called.",
+            "Ask another person to get the AED, first aid kit and lighting, and at the same time arrange for someone to clear the aisle and remove onlookers.",
+            "Assign a special person to guard the intersection to guide the vehicle, and another person to record the time and changes in the injured, and report loudly.",
+            "Case: During the hiking activity, a team member collapsed due to heat stroke. The team leader asked one person to call 120, one person to get water and a sunshade cloth, and one person to clear the passage. He kept watch and the scene was in order when the ambulance arrived."
           ],
           "tags": [
             "First aid",
@@ -114,7 +146,11 @@
           "core": "脊柱损伤可能因移动加重。",
           "body": [
             "Unless the environment is dangerous, wait where you are.",
-            "Keep your head and neck stable."
+            "Keep your head and neck stable.",
+            "Leave the injured person in the same position as they were found unless there is a risk of fire, traffic, or collapse.",
+            "When neck and back pain, numbness of hands and feet, weakness or abnormal consciousness occur, treat the spinal injury as if it were injured and immobilize the head and neck.",
+            "When it is necessary to transfer, try to cooperate with as many people as possible, and keep the head, neck, and torso moving in a straight line as a whole.",
+            "Case: A worker suffered severe pain in his back after falling from a two-meter ladder. His colleagues tried to drag him into the house, but the squad leader immediately stopped him and asked him to stay in place. He was only covered with a blanket for observation. After emergency personnel arrived at the scene, he was fixed on a stretcher for transport."
           ],
           "tags": [
             "First aid",
@@ -127,7 +163,11 @@
           "core": "循环不足需要减少消耗。",
           "body": [
             "让伤者平躺并抬高下肢。",
-            "盖好衣物等待救援。"
+            "盖好衣物等待救援。",
+            "Let the injured person lie down. If there is no spinal injury or leg injury, raise the legs about 20 to 30 centimeters and loosen the collar belt.",
+            "Cover your body with a blanket or coat to keep warm, avoid direct heat compresses, and do not give water to an unconscious person.",
+            "For chest pain and difficulty breathing, sit in a semi-sitting position, or lie on your side if you experience repeated vomiting. Record changes in skin and consciousness.",
+            "Case: The old man was pale and sweating after having diarrhea. His family asked him to lie on his back and raise his legs. They covered him with a thin blanket and called 120 at the same time. They continued to observe during the waiting period and were conscious when he was sent to the hospital."
           ],
           "tags": [
             "First aid",
@@ -140,7 +180,11 @@
           "core": "时间线对后续救治有用。",
           "body": [
             "记下发病和呼叫时间。",
-            "Inform medical staff."
+            "Inform medical staff.",
+            "Write down the exact moment of injury or illness, when emergency services were called, and when symptoms began to worsen.",
+            "During cardiopulmonary resuscitation, mark the start of compressions, AED patch, number of defibrillations and the duration of each pause.",
+            "The tourniquet should be marked with the time it was applied and posted in a conspicuous place, and the medical staff should be reminded orally during handover.",
+            "Case: When the father had chest pain, the daughter wrote down the time of onset, time of taking the medicine, and changes in pain. After being sent to the emergency department, she gave the timeline to the doctor to help the doctor quickly determine the treatment plan."
           ],
           "tags": [
             "First aid",
@@ -153,7 +197,11 @@
           "core": "Injury conditions may change suddenly.",
           "body": [
             "持续观察呼吸和意识。",
-            "按调度员指导操作。"
+            "按调度员指导操作。",
+            "Review breathing, consciousness, skin color, and bleeding volume every few minutes, and report any deterioration to the dispatcher immediately.",
+            "Alternate operators every 2 minutes when doing compressions, control rotation interruptions within 10 seconds, and keep the phone hands-free.",
+            "Comfort the injured person not to move or eat. If there is a tendency to vomit, turn the person's head to one side to prevent aspiration.",
+            "Case: After a dinner party, my friend became confused and vomited. His companion did not leave after dialing 120. He asked him to lie on his side and observed his breathing. If he found that his snoring worsened, he immediately reported it to the dispatcher and the ambulance crew responded promptly after arriving at the scene."
           ],
           "tags": [
             "First aid",
@@ -166,7 +214,11 @@
           "core": "专业指挥能减少重复劳动。",
           "body": [
             "听从急救人员安排。",
-            "Make way for rescue."
+            "Make way for rescue.",
+            "After arriving at the scene, first look for the person in uniform or shouting, and confirm what you should do before taking action.",
+            "When someone’s name is pointed out, respond directly with “get it” and stand or hand something as instructed.",
+            "If you find someone tampering with the injured, tell the commander not to pull or drag him yourself.",
+            "Case: There were many people watching at the scene of the car accident. Some people wanted to move the injured at will. After the ambulance arrived, the first responders designated two passers-by to maintain the passage and the rest to step back. After everyone did so, the stretcher passed smoothly and the injured was quickly sent to the hospital."
           ],
           "tags": [
             "First aid",
@@ -179,7 +231,11 @@
           "core": "避免交叉感染。",
           "body": [
             "使用一次性手套或隔离物。",
-            "Wash your hands afterwards."
+            "Wash your hands afterwards.",
+            "Carry a small pack of tissues and disposable gloves with you, and wear gloves before coming into contact with body fluids.",
+            "If you don’t have gloves, use paper towels to separate contaminants, and wash your hands and disinfect immediately afterwards.",
+            "Put the used tissues in separate bags after disposal, and do not throw them in the mouth of ordinary trash cans.",
+            "Case: A passenger in the subway vomited, and three passers-by came forward to deal with it. One person directly put his head on his hands, and the other two wore disposable gloves and masks to clean the ground. Later, the person holding his head developed diarrhea, but the person wearing gloves was fine."
           ],
           "tags": [
             "First aid",
@@ -192,7 +248,11 @@
           "core": "Onlookers will hinder rescue.",
           "body": [
             "Please ask irrelevant personnel to leave.",
-            "保持通道畅通。"
+            "保持通道畅通。",
+            "Ask the onlookers to step back and explain that \"blocking the passage will affect saving people\" will make it easier to cooperate.",
+            "Designate a standing area, such as \"Please stand outside the yellow line\" to prevent the crowd from slowly surrounding you.",
+            "Find a calm person to pull up the human wall together. Don't stand between the injured and the crowd yourself.",
+            "Case: Someone suddenly fell to the ground in the shopping mall. A dozen people gathered in a circle to watch. The air was not circulating and the first aid box was blocked. The security guard asked the onlookers to retreat three meters away. After the passage was vacated, medical staff quickly entered to rescue."
           ],
           "tags": [
             "First aid",
@@ -205,7 +265,11 @@
           "core": "It is not suitable to shoot and disseminate the scene.",
           "body": [
             "不随意拍视频。",
-            "避免议论伤情。"
+            "避免议论伤情。",
+            "When you see someone injured, put your phone away first and don’t shoot at the wound or face.",
+            "If you notice someone else taking pictures, gently remind you, \"Stop taking pictures, wait for emergency help.\" Don't take your phone away without grabbing it.",
+            "We will not forward the live video and the names of the injured until the family members agree.",
+            "Case: An electric vehicle collided at an intersection, and the rider’s calf was deformed. Three people along the way held up their mobile phones to shoot and post short videos. When the families of the injured arrived, they asked to delete the video and called the police. Two of them were criticized for spreading the news about their injuries."
           ],
           "tags": [
             "First aid",
@@ -218,7 +282,11 @@
           "core": "Complete handover of information is more conducive to treatment.",
           "body": [
             "Describe what happened and what was done.",
-            "Hand over the records and time points."
+            "Hand over the records and time points.",
+            "Explain when it happened, how you were injured, and where it hurt the most. Don't just say \"He passed out.\"",
+            "List what has been done, such as stopping bleeding, keeping warm, and not administering drugs, and let the medical staff judge.",
+            "Give the casualty’s identification and allergy information to the first responder in person and repeat them.",
+            "Case: A construction site worker was hit in the back by a steel pipe. A co-worker helped him to a ventilated area. When the first responder arrived, he clearly stated that \"I was hit by two steel pipes at 3pm and it has been hurting ever since\" to avoid repeated moving and inspection."
           ],
           "tags": [
             "First aid",
@@ -231,7 +299,11 @@
           "core": "Witnessing an accident will have an impact.",
           "body": [
             "Talk to someone you trust.",
-            "Seek help if you continue to feel unwell."
+            "Seek help if you continue to feel unwell.",
+            "Admit that you are affected, don’t try to force it out with “I’m fine”, give yourself half a day of quiet time first.",
+            "Find someone you trust to tell you what you saw, and then take a deep breath and relax.",
+            "Temporarily avoid similar scenes for a week. If you continue to have nightmares, seek professional psychological consultation.",
+            "Case: Community nurse Xiao Zhou couldn’t sleep for several days after experiencing an ineffective rescue. She confided in the department’s psychological specialist and stopped participating in the night shift rescue. After two weeks, her sleep recovered and she was able to work normally again."
           ],
           "tags": [
             "First aid",
@@ -249,7 +321,11 @@
           "core": "Don’t blindly go into the water if you don’t know how to swim.",
           "body": [
             "Toss a float or call first.",
-            "Check your breathing and keep warm when you get ashore."
+            "Check your breathing and keep warm when you get ashore.",
+            "First shout \"I don't know how to swim, don't pull me\", and at the same time loudly call the adults around for help.",
+            "Throw bamboo poles, branches, and foam boards to the drowning person and let him catch and drag him back.",
+            "Dial 110 and 120 immediately and tell them the specific location and the number of people who fell into the water.",
+            "Case: A young man slipped into the deep water by the reservoir, and his companion jumped in without knowing how to swim. The two sank together. The old man on the shore handed the two people a bamboo pole to pull them back, thus avoiding a tragedy of double death."
           ],
           "tags": [
             "Drowning",
@@ -262,7 +338,11 @@
           "core": "It is dangerous to approach when it is electrified.",
           "body": [
             "Cut off the power supply or separate it with insulation.",
-            "Check your breathing and seek medical attention as soon as possible."
+            "Check your breathing and seek medical attention as soon as possible.",
+            "Go to the distribution box and pull the main switch as soon as possible. Do not touch the person who gets an electric shock directly with your hands.",
+            "When the power cannot be cut off, use a dry wooden stick to separate the wires and stand on the dry floor to operate.",
+            "Call 120 after the power is cut off to indicate \"power has been cut off\" to facilitate medical preparation.",
+            "Case: The old man was electrocuted when he knocked over the power strip in the kitchen and held the wire tightly with his hand. His son rushed in and pulled the main switch first, then put on dry gloves to remove the wire. The old man recovered after being disconnected from the power supply."
           ],
           "tags": [
             "Electric shock",
@@ -275,7 +355,11 @@
           "core": "Dense smoke is more deadly than fire.",
           "body": [
             "Cover your mouth and nose with a wet cloth and look for an exit along the wall.",
-            "Do not take the elevator or return to pick up items."
+            "Do not take the elevator or return to pick up items.",
+            "Use a wet towel folded in two layers to cover your mouth and nose to reduce inhalation of smoke, dust and toxic gases.",
+            "Bend down and walk along the wall with a low posture, and touch the wall with your hands to find the exit. Do not run upright.",
+            "Instead of taking the elevator, take the evacuation stairs and close the door to gain time.",
+            "Case: A fire broke out on the third floor of an office building. Thick smoke filled the corridor. Two employees bent down, covered their mouths and noses with wet towels, and walked quickly along the wall to the stairwell. Ten minutes later, the smoke became thicker on the entire floor, and they evacuated safely."
           ],
           "tags": [
             "Fire",
@@ -288,7 +372,11 @@
           "core": "Pull out the pin, aim, press, and shoot.",
           "body": [
             "Stand upwind.",
-            "Evacuate immediately as the fire expands."
+            "Evacuate immediately as the fire expands.",
+            "Lift the fire extinguisher to the upwind position, remove the lead seal and safety pin and then press it.",
+            "Aim the nozzle at the root of the flame and spray left and right. Don't just spray at the upper part of the flame.",
+            "If the oil pan catches fire, turn off the fire source first. Covering the pan is faster and safer than using a fire extinguisher.",
+            "Case: A frying pan caught fire in a restaurant. The clerk picked up the fire extinguisher, pulled out the safety pin, and sprayed it at the base of the flame at the bottom of the pan. The fire went out after three seconds. If only the top flame was sprayed, it would rekindle repeatedly."
           ],
           "tags": [
             "Fire",
@@ -301,7 +389,11 @@
           "core": "Don't run in a hurry until the shaking stops.",
           "body": [
             "Hide next to a solid bunker.",
-            "Take the stairs when evacuating."
+            "Take the stairs when evacuating.",
+            "Hold the back of your head with both hands, shrink your neck and close your eyes, lower your body's center of gravity to protect your head and neck.",
+            "Hide next to a sturdy table or a load-bearing wall, away from glass, shelves, and chandeliers.",
+            "Evacuate in an orderly manner after the shaking stops. Do not jump off the building or take the elevator.",
+            "Case: The shelves shook during a magnitude 5 earthquake in the shopping mall. Customers immediately squatted next to the sturdy counter with their heads in their hands. After the shaking stopped, they evacuated from the safe passage. No one was injured by falling products in the panic."
           ],
           "tags": [
             "Earthquakes",
@@ -314,7 +406,11 @@
           "core": "清洁比止血药更重要。",
           "body": [
             "用清水冲洗伤口。",
-            "Cover with sterile dressing."
+            "Cover with sterile dressing.",
+            "Rinse the wound with running water for at least 30 seconds to wash away the sediment and bacteria.",
+            "Disinfect in a circular motion from the center of the wound outwards. Do not wipe back and forth to bring back any dirt.",
+            "Don’t wrap the Band-Aid too tightly. Change it once a day. If there is excessive exudation, seek medical attention.",
+            "Case: Ms. Wang cut her finger while cutting fruit. She first washed away the pomace with running water, then applied iodine from the center of the wound outwards and applied a band-aid. It healed two days later without any redness, swelling or pus."
           ],
           "tags": [
             "Accident",
@@ -327,7 +423,11 @@
           "core": "Hot compress will aggravate swelling in the acute stage.",
           "body": [
             "冰敷并抬高肢体。",
-            "Avoid rubbing immediately."
+            "Avoid rubbing immediately.",
+            "Cold compress for 15-20 minutes each time, repeat at intervals of 1-2 hours, and avoid direct contact of ice cubes with the skin to prevent frostbite.",
+            "Use an elastic bandage to bandage the injured area with moderate pressure to reduce swelling. Be careful not to bandage too tightly to affect blood circulation.",
+            "When resting, raise the injured limb higher than the level of the heart to promote venous return. If you are in severe pain or unable to bear weight, seek medical attention immediately.",
+            "Case: During a basketball game, Xiao Wang stepped on his teammate's foot after landing. His ankle immediately swelled and hurt. He stopped the game, wrapped an ice pack in a towel for fifteen minutes and raised his leg. After the fracture was ruled out at the hospital, the swelling did not worsen."
           ],
           "tags": [
             "Accident",
@@ -340,7 +440,11 @@
           "core": "Rubbing may scratch the cornea.",
           "body": [
             "用清水轻轻冲洗。",
-            "嵌入异物立即就医。"
+            "嵌入异物立即就医。",
+            "Try to rinse your eyes with clean saline solution or artificial tears, and run them along the corners of your eyes to try to flush out the foreign matter.",
+            "Gently open your eyelids to check. If foreign matter is attached to the surface of the eyeball, you can use a moist sterile cotton swab to gently dip it in. Be sure to use gentle movements.",
+            "If a foreign object is embedded in the eyeball, flushing is ineffective, or symptoms such as photophobia, tearing, blurred vision, etc., close your eyes and seek medical attention immediately. Do not handle it yourself.",
+            "Case: After sand got into his eyes, Xiao Li refrained from rubbing. He closed his eyes and rinsed them gently with water. He then went to the community hospital to remove the foreign body. The corneal examination was complete. The foreign body sensation and tearing disappeared the next day."
           ],
           "tags": [
             "Accident",
@@ -353,7 +457,11 @@
           "core": "Dilution and flushing are key.",
           "body": [
             "持续用流动清水冲洗。",
-            "脱去污染衣物并就医。"
+            "脱去污染衣物并就医。",
+            "Immediately take off clothes contaminated by chemical substances. If the chemical is powder, gently shake it off before rinsing to avoid heat generation and aggravation of burns.",
+            "Continue to flush the wound with running water for at least 15 to 20 minutes. If the eye is burned, open the eyelid and rinse the eyeball thoroughly.",
+            "Use warm water instead of ice water when rinsing. After rinsing, gently cover the wound with clean gauze and send it to a doctor for treatment as soon as possible.",
+            "Case: Laboratory detergent splashed on the back of his hand. Xiao Zhang immediately took off the contaminated gloves, rinsed it with running cold water for 20 minutes and sought medical treatment. After the doctor's treatment, his hand only showed slight redness and swelling, and there were no major blisters."
           ],
           "tags": [
             "Accident",
@@ -366,7 +474,11 @@
           "core": "进食时避免说笑打闹。",
           "body": [
             "老人儿童进食要慢。",
-            "学会基本急救方法。"
+            "学会基本急救方法。",
+            "Sit upright when eating, and develop the habit of chewing carefully and slowly. Chew food thoroughly before swallowing, and do not gobble it up.",
+            "When feeding children, do not chase them or force-feed them when they cry. Foods such as nuts and jelly should be cut into small pieces before eating.",
+            "The elderly and those with swallowing dysfunction should choose foods that are soft and easy to digest, and family members should observe them during meals to prevent accidents.",
+            "Case: Someone told a joke at a dinner party to make people laugh. Lao Chen did not laugh and talk at the same time. He swallowed the peanuts in his mouth first and then put down his chopsticks to respond. There was no choking or food stuck in his throat during the whole meal."
           ],
           "tags": [
             "Accident",
@@ -379,7 +491,11 @@
           "core": "高处作业要固定。",
           "body": [
             "使用合格防护设备。",
-            "不在无防护处探身。"
+            "不在无防护处探身。",
+            "Wear the full-body safety belt correctly, and follow the principle of \"hang it high and use it low\", fix the hanging point on a solid structure, and never hang it low and use it high.",
+            "Check carefully whether the scaffolding, ladder or lifting platform is stable before operation and confirm that there is no risk of looseness, damage or slippage.",
+            "In case of severe weather such as strong winds, heavy rain, ice and snow, you should immediately stop working at heights and set up a warning line below the working area to prevent falling objects from injuring people.",
+            "Case: The maintenance worker stood on a three-meter scaffolding to change the lights. He fastened the safety belt and asked his colleagues to fix the ladder frame. The tools were also hung with anti-fall ropes. When he turned around, his foot slipped and was caught by the safety belt, so he did not fall."
           ],
           "tags": [
             "Accident",
@@ -392,7 +508,11 @@
           "core": "Getting up immediately may aggravate the injury.",
           "body": [
             "感受疼痛部位和活动能力。",
-            "怀疑骨折时保持不动。"
+            "怀疑骨折时保持不动。",
+            "Stay in place after a fall, take a deep breath first, assess whether you are conscious, and feel for severe pain or numbness in your body.",
+            "Slowly move your hands, feet and joints, and after confirming that there are no signs of fracture or dislocation, first turn sideways and then use your elbows to support your body and slowly stand up.",
+            "If the head is hit, even if there is no discomfort at the time, close observation should be made for 24 hours. If nausea, vomiting or drowsiness occurs, seek medical attention immediately.",
+            "Case: After the old man slipped in the bathroom, he did not rush to get up. He first kept the original position to observe his consciousness and pain, called his family to bring a chair, and then slowly checked, found that his wrist was broken, and sought medical treatment in time."
           ],
           "tags": [
             "Accident",
@@ -405,7 +525,11 @@
           "core": "to prevent the milk from being inhaled again.",
           "body": [
             "A pat on the back.",
-            "脸色异常立即就医。"
+            "脸色异常立即就医。",
+            "After feeding, the baby should be held upright, with his head resting on the parent's shoulder, and the back should be gently patted to expel the swallowed air to prevent milk overflow.",
+            "Stop breastfeeding immediately if you find that you are choking on milk. Place the baby face down on your lap, keep the head low and hips high, and pat the back gently to drain the milk.",
+            "Carefully observe the baby's face and breathing. If the lips turn blue, difficulty breathing or loss of consciousness occurs, the mouth should be cleaned immediately and sent to the doctor for emergency treatment.",
+            "Case: A ten-day-old baby spits up milk and coughs after being fed. The mother immediately puts the baby on its side with its head slightly lowered, pats the back gently and wipes the milk from the mouth and nose. The baby coughs a few times and then the baby's breathing becomes stable."
           ],
           "tags": [
             "Accident",
@@ -418,7 +542,11 @@
           "core": "There is a time limit for post-exposure treatment of rabies.",
           "body": [
             "用肥皂水和清水冲洗。",
-            "尽快就医评估疫苗。"
+            "尽快就医评估疫苗。",
+            "Immediately after being bitten, wash the wound alternately with running water and 20% soapy water for at least 15 minutes to remove saliva and viruses.",
+            "After rinsing, use dilute iodine or 75% alcohol to disinfect the inside of the wound. Do not wrap it with a band-aid or apply ointment to keep the wound exposed.",
+            "Be sure to go to the dog injury clinic of a regular medical institution within 24 hours after being bitten to receive the rabies vaccine and, if necessary, immune globulin.",
+            "Case: A neighbor’s puppy bit Xiao Zhou’s forearm. He immediately washed it with soapy water and running water for fifteen minutes, then disinfected it with iodophor and went to the dog injury clinic for vaccination. The wound showed no redness, swelling or pus within a week."
           ],
           "tags": [
             "Accident",
@@ -431,7 +559,11 @@
           "core": "Most local reactions can be treated by yourself.",
           "body": [
             "拔出毒刺并冷敷。",
-            "出现全身症状立即就医。"
+            "出现全身症状立即就医。",
+            "Check the wound and if the stinger remains, use the edge of a bank card or the back of a blunt knife against the skin to scrape out the stinger. Do not use tweezers to avoid squeezing the poison sac.",
+            "After pulling out the stinger, wash the wound with soap and water, apply local cold compress to reduce redness, swelling and pain, and avoid scratching to prevent secondary infection.",
+            "Observe closely for half an hour. If severe allergic symptoms such as body rash, throat tightness, difficulty breathing or dizziness occur, you must seek medical attention immediately.",
+            "Case: Xiao He was stung by a bee on the back of his hand during an outing. He scraped out the stinger with a card, washed it and applied cold compresses. He was observed at the clinic for an hour and confirmed that there was no systemic rash or wheezing. The local swelling and pain subsided after two days."
           ],
           "tags": [
             "Accident",
@@ -444,7 +576,11 @@
           "core": "Slow down the spread of toxins.",
           "body": [
             "保持肢体低于心脏。",
-            "记录蛇的特征并就医。"
+            "记录蛇的特征并就医。",
+            "Keep calm and rest in place, keep the bitten limb lower than the heart, avoid running, and slow down the spread of toxins with lymph fluid.",
+            "Quickly remove rings, bracelets, watches and other restraints from the injured area to prevent severe compression and necrosis caused by swelling of the limb.",
+            "Try to remember the shape, color and other characteristics of the snake or take pictures with your mobile phone. Do not cut the wound or suck the venom with your mouth. Get to the doctor as soon as possible and use antivenom.",
+            "Case: Lao Zhao was bitten on the ankle by a snake in the grass while mountaineering. His companion asked him to sit down, take off his ring and fix the injured leg. He called for rescue instead of chasing the snake. Half an hour later, he was sent to the hospital for antivenom."
           ],
           "tags": [
             "Accident",
@@ -457,7 +593,11 @@
           "core": "Rapid heating can cause damage.",
           "body": [
             "Soak in warm water.",
-            "不要摩擦受冻部位。"
+            "不要摩擦受冻部位。",
+            "Move the patient to a warm room quickly and take off wet and cold clothes. If the clothes are stuck to the skin, do not forcefully tear them off.",
+            "Soak the frostbitten area in warm water at 37°C to 40°C and slowly rewarm it for 15 to 30 minutes until the skin color returns to ruddy and the tissue becomes soft.",
+            "It is strictly forbidden to bake directly with fire, rub with snow or soak in cold water. After rewarming, wrap it with sterile gauze and keep the whole body warm. Seek medical attention as soon as possible.",
+            "Case: Xiao Li’s fingers turned white and numb while fishing in winter. After entering the house, he did not put them over a fire or scald them with hot water. Instead, he soaked them in warm water of about 40 degrees Celsius for 20 minutes. His fingers gradually recovered feeling and the doctor found that the frostbite was minor."
           ],
           "tags": [
             "Accident",
@@ -470,7 +610,11 @@
           "core": "Rescue is much more difficult than prevention.",
           "body": [
             "Do not go to unsafe waters.",
-            "Full care for children during swimming."
+            "Full care for children during swimming.",
+            "It is strictly prohibited to swim in unattended wild waters, reservoirs or deep water areas. Choose a regular swimming pool with lifeguards on duty.",
+            "When taking children to play or swim near the water, guardians must keep close reach and supervise them, and never let the children leave their sight.",
+            "Do sufficient warm-up exercises before swimming to prevent cramps. When taking a boat or engaging in open water activities, be sure to wear a qualified life jacket at all times.",
+            "Case: Before playing at the beach, parents put on life jackets for their children and agreed to play only in shallow water and always within reach. When the children are pushed down by waves, they immediately help them up without choking or drifting away."
           ],
           "tags": [
             "Accident",
@@ -488,7 +632,11 @@
           "core": "Cooling is the first priority.",
           "body": [
             "Hydrate and loosen clothes.",
-            "Send medical attention immediately if you have abnormal consciousness."
+            "Send medical attention immediately if you have abnormal consciousness.",
+            "If you find heat stroke, immediately leave the high temperature environment to a cool and ventilated place, and take off your clothes to help dissipate heat.",
+            "Wipe the body with a wet towel or fan to speed up cooling to avoid vasoconstriction caused by direct ice application",
+            "If you become confused or have a high fever that persists, call the emergency hotline immediately and seek medical treatment.",
+            "Case: A construction worker felt dizzy and nauseated after working at high temperatures. The worker quickly moved him to a ventilated and cool place, unbuttoned his clothes, fanned him to cool down and gave him water. The symptoms were relieved after half an hour."
           ],
           "tags": [
             "Heatstroke",
@@ -501,7 +649,11 @@
           "core": "Delay can damage the brain.",
           "body": [
             "Ingest sugar as soon as you can swallow it.",
-            "Do not force feed when unconscious."
+            "Do not force feed when unconscious.",
+            "Eat candy or sugary drinks immediately when symptoms of hypoglycemia such as palpitation, sweating, and dizziness occur.",
+            "Choose fast-absorbing carbohydrates such as juice and honey, and retest your blood sugar after 15 minutes.",
+            "If symptoms are not relieved or consciousness changes, seek medical attention immediately to investigate other causes.",
+            "Case: A diabetic patient suddenly felt flustered, hands trembled, and broke into cold sweats before meals. His family immediately gave him a sugary drink. After ten minutes, the symptoms gradually disappeared and he avoided coma."
           ],
           "tags": [
             "Hypoglycemia",
@@ -514,7 +666,11 @@
           "core": "Laryngeal edema progresses quickly.",
           "body": [
             "Use your medication as directed by your doctor.",
-            "Call the emergency number and explain your allergy history."
+            "Call the emergency number and explain your allergy history.",
+            "If you have severe allergies and have difficulty breathing or laryngeal edema, call the emergency hotline immediately",
+            "If an epinephrine auto-injector is available, use it immediately according to the instructions without delay.",
+            "Stay in a sitting or semi-recumbent position while waiting for rescue to avoid lying flat and aggravating breathing difficulties",
+            "Case: A tourist developed urticaria and difficulty breathing all over his body after eating seafood. His companion immediately called 120 and looked for a nearby 자동체외심장제세동기. He remained seated during the journey to the hospital."
           ],
           "tags": [
             "Allergy",
@@ -527,7 +683,11 @@
           "core": "Moving may cause secondary injuries.",
           "body": [
             "Use splint or alternative to fix.",
-            "Apply ice and seek medical attention as soon as possible."
+            "Apply ice and seek medical attention as soon as possible.",
+            "When a fracture is suspected, do not move the injured person. Use wooden boards or cardboard to fix the upper and lower joints of the injured area.",
+            "When fixing, add a soft cloth to avoid skin compression, and the straps should be moderately tight to maintain blood circulation.",
+            "Do not reduce open fractures. Cover with sterile dressing and send to hospital immediately.",
+            "Case: An old man’s calf deformed and hurt after he slipped on the stairs. The neighbor used a wooden board to fix the injured limb and called 120 to prevent the fracture from being displaced due to movement. The surgery went smoothly after being sent to the hospital."
           ],
           "tags": [
             "Broken bones",
@@ -540,7 +700,11 @@
           "core": "Delayed symptoms can easily be ignored.",
           "body": [
             "Pay attention to changes in consciousness, vomiting, and pupils.",
-            "Seek medical attention immediately if warning signs appear."
+            "Seek medical attention immediately if warning signs appear.",
+            "The state of consciousness and pupil changes need to be closely observed within 24 hours after a head impact",
+            "If symptoms such as persistent headache, vomiting or drowsiness occur, you should seek medical attention immediately for a CT examination.",
+            "Avoid strenuous exercise after injury, and raise your head while sleeping to reduce intracranial pressure.",
+            "Case: A cyclist fell and landed on his head. There was no abnormality at the time, but he developed headache and vomiting at night. His family immediately sent him to the hospital for examination and found intracranial hemorrhage. He recovered after timely treatment."
           ],
           "tags": [
             "Head",
@@ -553,7 +717,11 @@
           "core": "Don’t endure persistent chest pain.",
           "body": [
             "Stop activity and call emergency services.",
-            "Record the onset time and triggers."
+            "Record the onset time and triggers.",
+            "If chest pain lasts for more than 15 minutes and is not relieved by rest, you should be alert to myocardial infarction.",
+            "Stop the activity immediately, stay quiet, loosen your collar and call emergency services",
+            "If you have no history of aspirin allergy, you can chew 300 mg of aspirin and avoid moving around while waiting for rescue.",
+            "Case: A middle-aged man suffered from retrosternal squeezing pain after exercise that lasted for 20 minutes and was not relieved by rest. His family immediately called 120 and chewed aspirin, and sent him to the doctor for diagnosis of myocardial infarction."
           ],
           "tags": [
             "Health",
@@ -566,7 +734,11 @@
           "core": "Facial paralysis, arm weakness, difficulty speaking.",
           "body": [
             "Record the time of symptom onset.",
-            "Call emergency services immediately."
+            "Call emergency services immediately.",
+            "Use the smile test to check whether the face is symmetrical, and raise your arms to test whether there is unilateral weakness.",
+            "Ask the patient to repeat simple sentences. If his speech is unclear, call 120 immediately.",
+            "Record the time of symptom onset and inform the doctor when sending to the hospital so that the time window for thrombolysis can be assessed",
+            "Case: The old man suddenly developed a crooked mouth, weak left arm, and slurred speech. His family recorded the time of onset and sent him to the hospital immediately. He recovered well after thrombolytic treatment."
           ],
           "tags": [
             "Health",
@@ -579,7 +751,11 @@
           "core": "Do not forcefully press the limbs.",
           "body": [
             "Remove dangerous objects around you.",
-            "记录持续时间。"
+            "记录持续时间。",
+            "When convulsing, quickly remove dangerous objects around you and place soft objects under your head for protection.",
+            "Do not forcefully press your limbs or block the entrance of any object to avoid injury.",
+            "Record the duration of the attack. If it exceeds 5 minutes or has continuous attacks, you need to go to the doctor immediately.",
+            "Case: An epileptic patient's limbs twitched when he had an attack. His family members removed surrounding hard objects and placed a soft pillow under his head. They recorded the time of the attack and did not forcefully press it. It relieved itself after 5 minutes."
           ],
           "tags": [
             "Health",
@@ -592,7 +768,11 @@
           "core": "Transient loss of consciousness requires evaluation.",
           "body": [
             "Have the patient lie down and loosen the collar.",
-            "Seek medical attention if it happens repeatedly."
+            "Seek medical attention if it happens repeatedly.",
+            "Check your breathing and pulse immediately after fainting. If you are not breathing, cardiopulmonary resuscitation is required immediately.",
+            "Those who are breathing should be placed in a side-lying position to prevent vomiting from suffocation and loosen tight clothing.",
+            "Record the symptoms and duration before syncope, and seek medical attention as soon as possible to identify the cause.",
+            "Case: A young man suddenly lost consciousness while standing and fell to the ground. Colleagues checked that his breathing was normal, laid him on his side and called him. He woke up after a few minutes and was sent to the doctor for examination to rule out heart problems."
           ],
           "tags": [
             "Health",
@@ -605,7 +785,11 @@
           "core": "A half-sitting position is more conducive to breathing.",
           "body": [
             "Remain calm and call emergency services.",
-            "Use oxygen as directed by your doctor."
+            "Use oxygen as directed by your doctor.",
+            "When having difficulty breathing, sit in a semi-sitting or upright position to reduce blood return to the heart and reduce pulmonary congestion.",
+            "Maintain indoor air circulation and provide low-flow oxygen when possible",
+            "If your lips turn blue or your consciousness changes, call the emergency hotline immediately",
+            "Case: A patient with COPD suddenly suffered from shortness of breath at night. His family members immediately helped him sit up and keep him in a semi-recumbent position. After giving him oxygen, the dyspnea was relieved, and he was sent to the doctor to adjust the treatment plan."
           ],
           "tags": [
             "Health",
@@ -618,7 +802,11 @@
           "core": "Covering up symptoms will delay diagnosis.",
           "body": [
             "Record the location and nature of pain.",
-            "Seek medical attention as soon as possible."
+            "Seek medical attention as soon as possible.",
+            "Do not take painkillers by yourself when experiencing severe abdominal pain, so as not to cover up the condition and delay diagnosis",
+            "Record the location, nature and duration of the pain, and accurately inform the doctor when seeking medical treatment",
+            "If fever, vomiting or abdominal stiffness changes require immediate emergency treatment",
+            "Case: An office worker suddenly had severe pain in the right lower abdomen, which was temporarily relieved after taking painkillers by himself, but the delay in seeking medical treatment resulted in perforation of the appendix, and ultimately emergency surgery"
           ],
           "tags": [
             "Health",
@@ -631,7 +819,11 @@
           "core": "especially if it is accompanied by a change in consciousness.",
           "body": [
             "Record body temperature changes.",
-            "Add moisture."
+            "Add moisture.",
+            "When the body temperature exceeds 39°C and antipyretics are ineffective, it is necessary Seek medical attention promptly to find out the cause",
+            "Observe the state of consciousness, and seek emergency treatment immediately if drowsiness, irritability or convulsions occur",
+            "Add water during fever and avoid excessive wrapping that affects heat dissipation",
+            "Case: A child's high fever of 39.5°C still persists after taking antipyretics, and he develops drowsiness and unresponsiveness. The parents immediately send the doctor to diagnose encephalitis. After timely treatment, the situation is over."
           ],
           "tags": [
             "Health",
@@ -644,7 +836,11 @@
           "core": "Dry mouth, oliguria, dizziness.",
           "body": [
             "Sip liquids in small sips.",
-            "Seek medical attention if severe."
+            "Seek medical attention if severe.",
+            "Drink a small amount of water every 30 minutes during outdoor activities, and replenish water and electrolytes immediately when the urine becomes obviously darker or the mouth is dry.",
+            "The elderly and children have a weak sense of thirst. On hot days, they should be reminded to drink water regularly and observe their urine output and energy levels.",
+            "If you experience persistent dizziness, palpitations, little urine or confusion, stop activities and seek medical attention as soon as possible.",
+            "Case: When moving in the summer, Lao Wang continued to move boxes for two hours and drank only half a bottle of water. Later, his mouth became dry, his urine turned yellow, and he became dizzy when he stood up. His daughter asked him to stop and rest and replenish water. After the symptoms relieved, he went to a cool place."
           ],
           "tags": [
             "Health",
@@ -657,7 +853,11 @@
           "core": "并保留药品信息。",
           "body": [
             "Record the time of taking medication.",
-            "出现皮疹或呼吸困难立即就医。"
+            "出现皮疹或呼吸困难立即就医。",
+            "When rash, itching, or swelling of lips or eyelids occurs, stop the suspected medication first and record the time of taking the medication.",
+            "Keep the pill box, instructions, batch number and remaining tablets, and bring them to the doctor to determine the source of allergy when you see a doctor.",
+            "If you have difficulty breathing, a tight throat, or wheezes all over your body, call 120 immediately and do not drive by yourself.",
+            "Case: Ms. Li took amoxicillin after catching a cold. Half an hour later, her skin became itchy and her lips became swollen. She immediately stopped taking the medicine, took a photo of the medicine box and batch number, and went to the hospital emergency room. The doctor said she should avoid using it again."
           ],
           "tags": [
             "Health",
@@ -670,7 +870,11 @@
           "core": "处理方向不同。",
           "body": [
             "Test if you can.",
-            "意识不清时不要喂糖。"
+            "意识不清时不要喂糖。",
+            "Check your blood sugar first when your hands are shaking, sweating, or flustered; if it is lower than 3.9, you can eat 15 grams of quick-acting sugar according to the instructions.",
+            "Retest the test 15 minutes after eating sugar. If it is still low, take another supplement; eat a meal or snack after relief to prevent recurrence.",
+            "When thirsty, polyuria, fatigue and high blood sugar, retest and record. If abnormalities persist, contact a doctor.",
+            "Case: Mr. Zhang's hands were shaking and sweating before dinner. He self-tested his blood sugar at 3.2 mmol per liter. He immediately drank a sugary drink and rechecked. It relieved after half an hour. He recorded the value and told the doctor to adjust his medication."
           ],
           "tags": [
             "Health",
@@ -683,7 +887,11 @@
           "core": "随身药不要放家里。",
           "body": [
             "Use relief medications.",
-            "Ask for help immediately if it doesn’t work."
+            "Ask for help immediately if it doesn’t work.",
+            "Take medications according to the asthma action plan written by your doctor, which clearly identifies daily medications, reliever medications, and upgraded medical conditions.",
+            "Take your inhaler, spacer and mobile phone with you when you go out. Don’t just leave first aid medicine at home.",
+            "Stop exercising during an attack, sit up straight and breathe slowly; if there is no relief after taking the medicine or if you have difficulty speaking, dial 120 immediately.",
+            "Case: While climbing a mountain at the weekend, Xiao Chen suddenly felt chest tightness and wheezing. He took out the albuterol inhaler from his backpack and inhaled as planned, sat down to rest and told his companions. After ten minutes, his breathing stabilized, and he went down the mountain to seek medical review."
           ],
           "tags": [
             "Health",
@@ -696,7 +904,11 @@
           "core": "出现伤害自己的念头就是信号。",
           "body": [
             "联系可信的人陪伴。",
-            "拨打危机热线或就医。"
+            "拨打危机热线或就医。",
+            "Speaking or writing down thoughts that harm yourself is a signal for help. Tell a trusted person immediately.",
+            "Remove knives, drugs and other dangerous objects first, do not leave him alone, and stay with him until family members or professionals arrive.",
+            "Call the local psychological assistance hotline, 120 or 110, and explain the location, status and whether there are any dangerous objects.",
+            "Case: After working overtime late at night, Xiao Lin wrote in his notes that he did not want to live, and stared at the window repeatedly. After his colleagues found out, they accompanied him away from the window, contacted his family and the hotline, and went to the hospital for evaluation the next day. The crisis gradually eased."
           ],
           "tags": [
             "Health",
@@ -709,7 +921,11 @@
           "core": "Mental health is more important than body temperature.",
           "body": [
             "Watch your drinking and reaction.",
-            "Seek medical attention promptly if abnormality persists."
+            "Seek medical attention promptly if abnormality persists.",
+            "When you have a fever, first check whether you can respond, drink water, play and urinate. If you are in good spirits, you can first observe at home.",
+            "If drowsiness, convulsions, shortness of breath, persistent vomiting or rash occur, take your child to the doctor immediately.",
+            "Use antipyretics according to body weight and interval. No need to wipe the body with alcohol or cover the sweat to forcefully cool down.",
+            "Case: It was 39 degrees at night, but the two-year-old child could drink water, respond, and play with building blocks. The mother did not rush to wake her up and give her antipyretics. She first observed her energy level, replenished water, and body temperature, and then sought medical attention the next day if she felt depressed."
           ],
           "tags": [
             "Health",
@@ -727,7 +943,11 @@
           "core": "Keep frequently used items within easy reach.",
           "body": [
             "Put away flashlights, medicines, copies of IDs and water.",
-            "Check the shelf life regularly."
+            "Check the shelf life regularly.",
+            "Put the emergency kit in a fixed location at the entrance or at the door. Your family will know that it can be easily accessed during an earthquake or fire.",
+            "Check the expiration dates of batteries, power banks, and medicines every two months, and replace expired items on the spot.",
+            "Put a copy of your ID, a small amount of cash, a charging cable and commonly used medicine inside the bag, and the list is posted on the outside of the bag.",
+            "Case: On the night of the power outage in the community, Aunt Wang took out the emergency kit in the dark from the entrance cabinet. Inside, the flashlight, power bank, commonly used medicine and band-aids were all in fixed locations; the family quickly took the medicine and went downstairs safely."
           ],
           "tags": [
             "Preparation",
@@ -740,7 +960,11 @@
           "core": "There are alternatives if one is blocked.",
           "body": [
             "Arrange a meeting point with your family.",
-            "Rehearse regularly."
+            "Rehearse regularly.",
+            "Draw out two escape routes in your home, marking the stairs, alternate exits, and inoperable elevators.",
+            "Actually walk the route every month to verify that door locks, passageways, and night lighting are operational.",
+            "Agree at a meeting point downstairs. Call the police immediately when you get to a safe place. Don’t be greedy for money. Help the elderly and children leave first.",
+            "Case: When a fire broke out in the kitchen, Mr. Liu found that the corridor was blocked by smoke, so he took his family from the side door of the balcony to the neighbor's house according to the pre-rehearsed route to avoid the thick smoke and dial 119 at a safe place."
           ],
           "tags": [
             "Preparation",
@@ -753,7 +977,11 @@
           "core": "The phone can still be used when the battery is out of power.",
           "body": [
             "Take note of family, doctors and properties.",
-            "Place it in a fixed location."
+            "Place it in a fixed location.",
+            "Write it on a small card with a waterproof pen and put it behind your wallet, emergency kit and refrigerator magnet.",
+            "In addition to the mobile phone number, please write down the address, unit, property, 120 and neighbor mutual aid contact person.",
+            "The number is checked every six months, and the child must also memorize the phone number and home address of an adult.",
+            "Case: After the earthquake, her mobile phone ran out of battery. Aunt Zhao took out the contact paper from the compartment of her wallet and found the property management, first aid and daughter numbers. She borrowed a neighbor’s phone number to report that she was safe, and her family arrived at the community half an hour later."
           ],
           "tags": [
             "Preparation",
@@ -766,7 +994,11 @@
           "core": "Opening the refrigerator will speed up the temperature rise.",
           "body": [
             "Try not to open the door after a power outage.",
-            "Prepare lighting and charging equipment in advance."
+            "Prepare lighting and charging equipment in advance.",
+            "Try not to open the refrigerator door after a power outage. Open the door within 30 seconds each time, and close it tightly after taking out the refrigerator.",
+            "If the refrigerator is powered off for more than 4 hours, perishable food must be handled with caution and discarded immediately if there is an odor.",
+            "Freeze a few bottles of water in advance and put them in the refrigerator or freezer during a power outage to help delay the temperature rise.",
+            "Case: After the power outage of the refrigerator, Mr. Chen only opened the door to get a bottle of water, then closed it immediately and covered the freezer with a quilt. Four hours later, when the power was restored, the frozen food was still hard and had not thawed or deteriorated."
           ],
           "tags": [
             "Power outage",
@@ -779,7 +1011,11 @@
           "core": "Review can turn experience into ability.",
           "body": [
             "Record what is slow and what is missing.",
-            "Complete supplies and processes."
+            "Complete supplies and processes.",
+            "Write down a timeline within 24 hours after the event, marking out where there were delays and where judgments were made correctly.",
+            "Divide the discovered problems into four categories: materials, routes, liaison and division of labor, and designate responsible persons one by one.",
+            "Write the modifications into the family emergency list and agree on the next inspection date to avoid verbal review.",
+            "Case: After heavy rain and water accumulation, Ms. Zhou found that the emergency kit battery had expired and the contact sheet could not be found. She listed the problems that day, refilled the battery and fixed it in place. The next time a typhoon came, the whole family could use it smoothly."
           ],
           "tags": [
             "Review",
@@ -792,7 +1028,11 @@
           "core": "You will not panic if you know the process.",
           "body": [
             "Drills every six months.",
-            "Let the children also know the meeting point."
+            "Let the children also know the meeting point.",
+            "Drills are conducted every quarter, including different scenarios such as night, power outage, and when someone is not at home.",
+            "Assign simple tasks to children, such as closing the door, getting shoes, and counting at the meeting point to avoid running around.",
+            "After practicing, record the time and stuck points, adjust the route, item location or division of labor and practice again.",
+            "Case: On Sunday night, the Li family spent ten minutes practicing fire escape: the child took a wet towel and walked down the stairs in a low posture, the father turned off the gas, and the mother went to the assembly point to take roll call; two weeks later, when the circuit breaker actually tripped, everyone did not panic."
           ],
           "tags": [
             "Preparation",
@@ -805,7 +1045,11 @@
           "core": "The mobile phone can be used even if the battery is low.",
           "body": [
             "Indicate family members and doctors.",
-            "Teach your kids how to dial."
+            "Teach your kids how to dial.",
+            "Use a waterproof marker to write the number on the side of the shoe cabinet at the entrance or on the door of the refrigerator to ensure that you can locate it by touch even in the dark when the power is off.",
+            "Contact information must include name, specific relationship and landline backup number, arranged from top to bottom in order of priority.",
+            "It is recommended that the paper be plasticized to prevent moisture and dirt, and family members should be informed of the exact location of the note, and regularly check whether the number has changed.",
+            "Case: The subway was late and there was a heavy rain. Xiao Chen's mobile phone ran out of battery. He ran to a convenience store to borrow a phone from the contact card attached to his wallet. His sister quickly rushed to the subway station to pick him up."
           ],
           "tags": [
             "Preparation",
@@ -818,7 +1062,11 @@
           "core": "Cover for at least three days.",
           "body": [
             "Regularly replace the shelf life.",
-            "Consider special dietary needs."
+            "Consider special dietary needs.",
+            "Reserve the minimum standard of 4 liters per day for adults, and prepare a water pump or water purification tablets that can purify adventure water as a supplementary water source.",
+            "Purchase compressed biscuits, self-heating cans or energy bars, and avoid ready-to-eat foods that require adding water for cooking or are perishable.",
+            "Put supplies into storage boxes with sealing strips, check the shelf life of food every six months, and affix an expiration schedule on the outside of the box.",
+            "Case: Typhoon closed roads and water supply for three days. Uncle Li took out the six bottles of water, biscuits and eight-treasure porridge he had prepared in advance from the storage box on the balcony, and did not go out to queue until the water supply was restored."
           ],
           "tags": [
             "Preparation",
@@ -831,7 +1079,11 @@
           "core": "When there is a power outage, give priority to using a flashlight.",
           "body": [
             "Avoid candles causing fire.",
-            "The charging device is fully charged in advance."
+            "The charging device is fully charged in advance.",
+            "Place a flashlight at the bedside, in the living room and in the escape backpack. Give priority to the battery-free model that can be turned on by shaking or hand-cranking it to generate electricity.",
+            "The headlamp is an excellent auxiliary tool, which can free your hands for escape actions such as opening doors, carrying children, or removing simple obstacles.",
+            "Test the brightness of the lighting equipment and check the battery power on a fixed day every month. If the battery is found to be insufficient, replace it with a new battery immediately.",
+            "Case: The transformer failed at night and the corridor was completely dark. Mr. Zhang did not light a candle, so he took a flashlight from the drawer at the door to go downstairs, avoiding the slippery steps and reaching the parking lot safely."
           ],
           "tags": [
             "Preparation",
@@ -844,7 +1096,11 @@
           "core": "Get information when the network is interrupted.",
           "body": [
             "Have batteries ready.",
-            "Follow the official channel."
+            "Follow the official channel.",
+            "Choose hand-cranked or solar-powered radios with AM/FM bands to avoid Internet radio applications that rely solely on Wi-Fi.",
+            "Check and record the frequency numbers of the local emergency broadcast in advance, and use a marker to write the channel on the radio casing to facilitate blind tuning.",
+            "Put an extra pair of wired headphones in your escape bag so that you can hear the weak broadcast clearly in a crowded evacuation without disturbing others' rest.",
+            "Case: Heavy rain in the mountains caused cell phone signals to be interrupted. Ms. Zhao turned on the hand-cranked radio to listen to the county broadcast. After learning that the road ahead was closed, she changed to the northern route and arrived home safely in the evening."
           ],
           "tags": [
             "Preparation",
@@ -857,7 +1113,11 @@
           "core": "Including dosage and allergy history.",
           "body": [
             "Put it in the medicine box.",
-            "Updated regularly."
+            "Updated regularly.",
+            "List the generic name, single dosage and interval of the medicine in detail to avoid taking the wrong medicine or overdosing in an emergency.",
+            "Typography uses large fonts to individually mark family members’ history of allergies to penicillin and other drugs, and sticks it on the most conspicuous place on the medicine box.",
+            "The list must also include a copy of the chronic disease diagnosis certificate, and the list must be sealed in a plastic bag and bundled with a regular medicine bag to prevent loss.",
+            "Case: An old man suddenly had chest tightness and was sent to the hospital. His family members handed the doctor a list next to the medicine box, which stated the dosage of nitroglycerin and penicillin allergy. The doctor promptly avoided risky medications."
           ],
           "tags": [
             "Preparation",
@@ -870,7 +1130,11 @@
           "core": "Pets need supplies and placement too.",
           "body": [
             "Prepare food and leash.",
-            "Confirm the place where you can stay temporarily."
+            "Confirm the place where you can stay temporarily.",
+            "Prepare at least three days' worth of pet food and water, including a folding bowl, leash and an anti-lost tag with the owner's phone number printed on it.",
+            "Collect and print your pet’s vaccine and health records in advance. Many emergency shelters require these certificates before entry.",
+            "Prepare a portable flight box with ventilation holes, train the pet to get used to entering the box, and contact relatives and friends who are willing to adopt it in advance.",
+            "Case: When a fire broke out in the corridor to evacuate, Ms. Liu picked up a cat bag filled with water, a diaper pad and three days of food in advance, and moved it to the home of relatives and friends who allowed pets. The cat was not frightened and lost."
           ],
           "tags": [
             "Preparation",
@@ -883,7 +1147,11 @@
           "core": "Do not leave them alone during evacuation.",
           "body": [
             "Designate an escort.",
-            "Bring necessary medications."
+            "Bring necessary medications.",
+            "Prepare emergency mobility chairs with wheels for elderly people with limited mobility in advance to avoid carrying too much energy during evacuation.",
+            "Wear anti-lost bracelets for children with their parents’ contact numbers written on them, and agree to wait where they are and not run around if they get separated.",
+            "Place exclusive material packages for the elderly and children at a fixed location closest to the gate, and have a dedicated person responsible for taking them and taking care of them during evacuation.",
+            "Case: There was a flood warning by the river. Volunteer Xiao Zhou first carried his grandmother downstairs, who had mobility issues, and then took the neighbor's children to follow. After everyone arrived at the high ground, they counted and no one was left alone."
           ],
           "tags": [
             "Preparation",
@@ -896,7 +1164,11 @@
           "core": "出门时按清单拿。",
           "body": [
             "Documents, medicines, keys.",
-            "Place it in a fixed location."
+            "Place it in a fixed location.",
+            "The list should be specific to the original documents such as ID card, household register, real estate certificate, etc., as well as passbooks and irreplaceable physical keys.",
+            "Post the list next to the mirror you must pass when going out. You must check off each item one by one during each evacuation drill. Do not take it from memory.",
+            "Conduct a five-minute blind performance every quarter. After evacuation, check whether there are any omissions, and update the order of items on the list accordingly.",
+            "Case: A gas leak informed the evacuation. Mr. Chen took his ID card, keys, medicine and power bank from the list behind the door, locked the door and went downstairs. He arrived at the meeting point ten minutes later and did not turn back."
           ],
           "tags": [
             "Preparation",
@@ -909,7 +1181,11 @@
           "core": "Know nearby shelters and hospitals.",
           "body": [
             "Save addresses and directions.",
-            "Confirm opening hours."
+            "Confirm opening hours.",
+            "Visit the two shelters closest to your home to confirm the location of their barrier-free entrances and special rules for accepting pets.",
+            "Mark the specific coordinates of tertiary hospitals and community clinics on the offline map of your mobile phone, and memorize two or more different evacuation routes.",
+            "Save the office phone numbers of the community committee, property manager and area police in the paper address book to prevent being unable to seek help when the network is down.",
+            "Case: After the community drill, Ms. Wu remembered the locations of schools and community hospitals that were eight minutes’ walk away. On the night of heavy rain and flooding, she took her family directly to the evacuation point without having to find a way in the rain."
           ],
           "tags": [
             "Preparation",
@@ -922,7 +1198,11 @@
           "core": "Proof is required for post-disaster claims.",
           "body": [
             "Save photos in the cloud.",
-            "Keep paper copies."
+            "Keep paper copies.",
+            "Scan all types of original paper documents of insurance policies, bank cards and real estate into high-definition PDFs, encrypt them and upload them to cloud disks and multiple private mailboxes.",
+            "Copy the contract numbers and customer service hotlines of all policies and store them separately in the mezzanine of a waterproof escape bag that you carry with you.",
+            "Print two copies of important documents and share them with reliable relatives and friends in other places to keep them to prevent the local paper originals from being completely destroyed in a disaster.",
+            "Case: After his home was flooded, Mr. Zheng used the insurance policy and house purchase invoice photos on his mobile phone to apply for a claim, and also provided proof of water accumulation in the property. The materials were passed in one go, and the repair money was received within a week."
           ],
           "tags": [
             "Preparation",
@@ -935,7 +1215,11 @@
           "core": "保证通讯设备可用。",
           "body": [
             "Prepare the power bank.",
-            "Check the battery regularly."
+            "Check the battery regularly.",
+            "Prepare a power bank with a rated capacity of 20,000 mAh or more, and always have at least two thick fast-charging data cables with different interfaces.",
+            "Prioritize the purchase of equipment with solar panels or hand-cranked power generation functions to cope with the extreme situation of long-term power outages and inability to find sockets.",
+            "Label all backup power supplies with the charging date and stipulate that they must be fully charged every three months to maintain battery activity even if they are not used.",
+            "Case: After the earthquake, there was a power outage at home for two days. Ms. Sun used a fully charged power bank to recharge her mobile phone. She regularly informed her family members in other places that she was safe, and also received notifications from the community to distribute supplies."
           ],
           "tags": [
             "Preparation",
@@ -948,7 +1232,11 @@
           "core": "Turn experience into improvement.",
           "body": [
             "Record failed links.",
-            "Update supplies and processes."
+            "Update supplies and processes.",
+            "Use pen and paper to write down the decisions made at each key node after the disaster on a timeline, and objectively record the specific obstacles encountered at that time.",
+            "Write clear alternative solutions to gaps exposed in drills or actual combat, such as missing keys or expired supplies.",
+            "Set a family meeting time within 72 hours after the disaster, check the implementation of improvement measures item by item, and completely update the old version of the preparation list.",
+            "Case: An e-commerce team lagged behind in order processing after a major promotion. A review found that customer service and warehousing information were out of sync. They introduced real-time sharing of documents and optimized the communication process. The efficiency of handling the next major promotion was increased by 40% and customer complaints were reduced."
           ],
           "tags": [
             "Preparation",

@@ -10,7 +10,11 @@
           "core": "Lists can free up attention.",
           "body": [
             "Use a collection box to record uniformly.",
-            "Pick out just a few things to do each day."
+            "Pick out just a few things to do each day.",
+            "Whatever comes to mind, immediately write it down in a memo on your phone. Write the verb and object first, such as replying to an email, picking up a courier, or making an appointment with the dentist.",
+            "Gather your to-dos into one inbox, don’t scatter them in WeChat, notes and pieces of paper, and merge them together at night.",
+            "The anxiety of not being able to write is changed to the next step. For example, the plan is changed to opening a document and listing three subtitles.",
+            "Case: A project manager wrote down 9 things on paper on Monday morning, including \"responding to customers, reviewing requirements, and organizing weekly reports\". He stopped thinking about it again and again before the meeting. He completed two plans in a row in the morning and found that the list was more reliable than memory before leaving get off work."
           ],
           "tags": [
             "List",
@@ -23,7 +27,11 @@
           "core": "The accumulation of small tasks is very costly.",
           "body": [
             "The judgment takes no more than two minutes.",
-            "Process it immediately instead of writing it down again."
+            "Process it immediately instead of writing it down again.",
+            "Evaluate the time first: actions within two minutes such as replying a sentence, making payment, and deleting spam emails should be dealt with on the spot.",
+            "If you are in a meeting or on a phone call, first note the to-do list and mark the executable scenario, for example, handle it immediately after arriving at the workstation.",
+            "For small matters that require a reply, immediately send a message or email, and then set a follow-up time.",
+            "Case: An editor saw an email in her mailbox confirming a conference room. It only took thirty seconds to reply, so she immediately processed and filed it. If it was delayed until the afternoon, she would have to search for the time again, and she might miss the reservation in the end."
           ],
           "tags": [
             "Habit",
@@ -36,7 +44,11 @@
           "core": "The cost of switching is often underestimated.",
           "body": [
             "Close irrelevant notifications.",
-            "Set a time block for a single event."
+            "Set a time block for a single event.",
+            "Close the message pop-up window before starting work, put the phone out of sight, and leave only the current file on the desktop.",
+            "Use a piece of paper to write down the current goal, and write down any sudden thoughts next to it. Don’t jump to it now, and deal with it after it’s over.",
+            "When you have the urge to look up information, remember the keywords first, and then search and check them together after the current paragraph is finished.",
+            "Case: When writing the quarterly summary on Thursday afternoon, Xiao Li turned off the chat software, opened only documents and materials, turned his phone back and put it away, and completed the first draft in 40 minutes, which took half an hour less than writing while replying to messages."
           ],
           "tags": [
             "Focus",
@@ -49,7 +61,11 @@
           "core": "Too many priorities means nothing.",
           "body": [
             "Sort by importance.",
-            "Think about the next batch after you finish."
+            "Think about the next batch after you finish.",
+            "Choose three items from your to-do list the night before, sort them by the impact of not doing them, and put the heaviest items in the period when you have the best energy.",
+            "Arrange one of the three things to advance your long-term goals and avoid being pushed around by only temporary news and chores all day long.",
+            "If you insert an urgent item temporarily, first determine whether it must be completed today, and then replace one of the three items.",
+            "Case: Before the Monday morning meeting, the product manager saw ten items to be done, and only circled three items: finalization of the plan, customer phone call, and quotation confirmation. The others were postponed. All three items were completed before leaving get off work, and there was no overtime to put out the fire."
           ],
           "tags": [
             "Priority",
@@ -62,7 +78,11 @@
           "core": "Fragmented time cannot do complex tasks.",
           "body": [
             "Fix a period of time that will not be interrupted.",
-            "Indicate in advance that you will not be online during this period."
+            "Indicate in advance that you will not be online during this period.",
+            "Circle the ninety minutes on your calendar that will not be used by meetings, and put materials, links, and drafts in one place ahead of time.",
+            "Before starting, write down the results to be produced in this paragraph, such as finishing the plan framework or calculating three sets of data.",
+            "Put this time into your personal high-energy period, and mark Do Not Disturb at the door or in the chat status.",
+            "Case: A data analyst closes the chat software from 9 to 11 am every day and only processes the user retention model. Within two weeks, she completed the analysis that had been delayed for a month, attended meetings as usual, and her output did not decrease."
           ],
           "tags": [
             "Focus",
@@ -75,7 +95,11 @@
           "core": "The accumulation of to-dos will turn into noise.",
           "body": [
             "Fixed time to deal with pending matters.",
-            "Every decision is made, deleted or postponed."
+            "Every decision is made, deleted or postponed.",
+            "Open all temporary records on a fixed Friday afternoon, and decide to delete, delegate, schedule or convert them to schedules one by one.",
+            "Complete the next action and deadline for each to-do item. If the action cannot be written, delete it directly or add it to the data.",
+            "After clearing, scan the title again. Matters that have not been touched for more than two weeks and are no longer important will be moved to the archive and will not be reminded again.",
+            "Case: On Friday afternoon, the editor poured the topics from WeChat collections, web page clippings, and notes into the collection box, deleted expired information one by one, added the deadline, and left twelve items for next week's plan."
           ],
           "tags": [
             "Task",
@@ -88,7 +112,11 @@
           "core": "Tasks that are too large can induce procrastination.",
           "body": [
             "Write down the first step.",
-            "The first step should take no more than ten minutes."
+            "The first step should take no more than ten minutes.",
+            "Break big tasks into actionable first steps of five to ten minutes, such as creating folders and listing directories first.",
+            "Begin each step with a verb, clearly state the object of the operation, and avoid vague expressions such as thinking plans.",
+            "When you are not sure what to do, first arrange a fifteen-minute search for information or ask people, and then decide on subsequent splits.",
+            "Case: A student hesitated to \"complete the graduation thesis\", but later changed it to \"download three papers today and list the titles.\" He completed the first step within half an hour, continued writing the outline the next day, and finally progressed on a weekly basis."
           ],
           "tags": [
             "Task",
@@ -101,7 +129,11 @@
           "core": "Tasks that do not complete the standard will be delayed indefinitely.",
           "body": [
             "Write clearly the deliverables.",
-            "Confirm acceptance conditions."
+            "Confirm acceptance conditions.",
+            "Attach acceptance conditions when writing tasks, for example, the report contains three charts and the conclusion should not exceed one page.",
+            "The learning tasks provide testable results, such as being able to repeat three concepts or independently complete two examples.",
+            "Write the final delivery target and deadline clearly, and which step is considered delivery to avoid repeated polishing.",
+            "Case: The team once said to \"optimize the homepage of the official website\", but there has been no acceptance. Later it was defined as \"the first screen loads in less than two seconds, the button copy is finalized, and the mobile screenshot is approved.\" Within two days, all tasks were clearly delivered."
           ],
           "tags": [
             "Task",
@@ -114,7 +146,11 @@
           "core": "Allow a few minutes each day to schedule.",
           "body": [
             "Make plans for a fixed period of time.",
-            "Not executed when planned."
+            "Not executed when planned.",
+            "Tie the schedule to a fixed trigger point, such as after brushing your teeth or before turning off the computer, to form a stable action.",
+            "Use three minutes every day to scan your calendar and to-do list, and only adjust the tasks for that day, and do not take the opportunity to redo long-term planning.",
+            "Allow an additional fifteen minutes on weekends to look at deadlines in the coming week. Move conflicts out of the way in advance and don’t put out temporary fires.",
+            "Case: A sales manager checks the schedule fifteen minutes before leaving get off work every day to confirm the visiting route and customer information for the next day. After a month of perseverance, he rarely looked for documents at short notice. He could set out directly in the morning, and his plans no longer relied on inspiration."
           ],
           "tags": [
             "Plan",
@@ -127,7 +163,11 @@
           "core": "The switching cost is higher than imagined.",
           "body": [
             "一次只开一个任务。",
-            "记录被打断的次数。"
+            "记录被打断的次数。",
+            "Concentrate similar communications, such as replying to messages at 10 a.m. and 4 p.m., and mute the rest of the time.",
+            "Leave a ten-minute buffer between meetings to record conclusions and next steps to avoid rushing into the next one immediately.",
+            "Different projects are divided into different time periods, and the browser builds windows according to the project, reducing the need to go back and forth to find files and ideas.",
+            "Case: A customer service agent had work orders, group chats, and reports open at the same time. After a long time, he was tired but could not finish the work. Later, she only processed work orders every forty minutes, responded to group chats uniformly, and updated reports in the afternoon, which reduced the backlog."
           ],
           "tags": [
             "Focus",
@@ -140,7 +180,11 @@
           "core": "Timing can reduce starting resistance.",
           "body": [
             "Set a short time.",
-            "时间到就停或继续。"
+            "时间到就停或继续。",
+            "I don’t want to set a five-minute countdown at the beginning, only promise to sit until the bell rings, and don’t ask for any good performance in the middle.",
+            "Put the timer at the edge of your sight, don’t check it frequently, and decide whether to extend it after the bell rings.",
+            "Allow three minutes to prepare materials for complex tasks, open the file, write the title, and find the required data.",
+            "Case: At eight o'clock in the evening, Xiao Wang didn't want to review English. He set the timer for ten minutes and only asked himself to memorize ten words. When the bell rang, he was already in the state. In the end, he studied for an extra twenty minutes."
           ],
           "tags": [
             "Execute",
@@ -153,7 +197,11 @@
           "core": "Different reasons have different solutions.",
           "body": [
             "Is it because the task is unclear or because I am afraid of failure?",
-            "针对原因选方法。"
+            "针对原因选方法。",
+            "Ask first where you are stuck: if you don’t understand, fill in the information; if the steps are unclear, write the next step; if you are afraid of failure, make a draft first.",
+            "If the task is neither urgent nor important, delete it or postpone it directly. Don’t use busyness to cover up the difficulty of making a choice.",
+            "Record the current status when dragging for three consecutive days. If it always happens after meals or late at night, adjust the time and environment.",
+            "Case: Xiao Chen delayed changing his resume and first wrote down the obstacles: he didn’t know what to write, and he was afraid of not getting a response after submitting it. She checked the job and asked to rewrite two paragraphs, and invested in a small company first, and the delay was significantly reduced."
           ],
           "tags": [
             "Procrastination",
@@ -166,7 +214,11 @@
           "core": "Do it for five minutes and then look at it.",
           "body": [
             "Allow five minutes to stop.",
-            "It will continue most of the time."
+            "It will continue most of the time.",
+            "Break the task into the first step that can be done within five minutes, such as opening the file, writing the title, and listing three keywords.",
+            "Allow the results to be rough at the beginning, just pursue visible traces first, and then decide whether to continue or adjust after five minutes.",
+            "After five minutes, make a small note immediately: What is the next step? If you still resist, change to smaller movements. Don’t force yourself.",
+            "Case: At nine o'clock in the morning, the designer hesitated in front of the promotional poster. She promised to open the software for five minutes and sort out the title. After the timer ended, she felt comfortable and continued to complete the first version for team review."
           ],
           "tags": [
             "Execute",
@@ -179,7 +231,11 @@
           "core": "Leave high-cognitive tasks for when you are in good shape.",
           "body": [
             "Choose one hard task every day.",
-            "Take care of chores after you’re done."
+            "Take care of chores after you’re done.",
+            "Mark the most mental-consuming item before the start of each day and put it in the time when you have the best energy to avoid being occupied by trivial matters.",
+            "Set clear outputs for problems, such as completing a page frame and running through an interface, rather than writing in general and moving forward.",
+            "When dealing with a problem, close notifications and temporary group chats first, reserve a complete time period, and then reply to the message in a unified manner.",
+            "Case: At ten o'clock in the morning when the energy is the best, programmers fix the most complicated login errors first, postpone unread messages to check together, solve the problem before lunch break, and only simple joint debugging is smooth in the afternoon."
           ],
           "tags": [
             "Priority",
@@ -192,7 +248,11 @@
           "core": "Reduce switching and preparation costs.",
           "body": [
             "Centralize reply to messages.",
-            "Centralize processing of reimbursements."
+            "Centralize processing of reimbursements.",
+            "Make a list of similar chores such as replying to messages, reimbursement, printing, phone calls, etc., and fix them to the same time period to complete them together.",
+            "Prepare templates, forms, and materials before batching to avoid having to find new files and think about formats for everything.",
+            "Only make a simple classification at the end: done, awaiting reply, and needing follow-up to prevent batch processing from becoming a new accumulation.",
+            "Case: The administrative Monday concentrated on processing reimbursements, opened the mailbox, forms and invoice folders in a unified way, and entered nine bills in half an hour, which was seven or eight times less switching back and forth than temporary interruptions every day."
           ],
           "tags": [
             "Process",
@@ -205,7 +265,11 @@
           "core": "Meetings without topics are prone to idling.",
           "body": [
             "Write down what you want to decide.",
-            "Sent to participants in advance."
+            "Sent to participants in advance.",
+            "Write the topic into a question sentence before the meeting, such as what needs to be decided and what needs to be solved, and mark who needs to participate.",
+            "Each topic is attached with necessary data and background links to reduce the time spent on finding information on site and retelling the process.",
+            "Read information that is not for discussion before the meeting, and leave meeting time for decision-making, confirmation of differences, and allocation of responsibilities.",
+            "Case: Before the project meeting on Wednesday, the person in charge issued three topics and goals in the group, asking everyone to bring a piece of data. The meeting was scheduled for 40 minutes, and there was no half-hour digression like last week."
           ],
           "tags": [
             "Meeting",
@@ -218,7 +282,11 @@
           "core": "Memory will be distorted quickly.",
           "body": [
             "Send conclusions and to-dos.",
-            "Indicate the person responsible and the time."
+            "Indicate the person responsible and the time.",
+            "Compile the conclusions within ten minutes after the meeting and send them to participants in four columns: decision, to-do, person in charge, and deadline.",
+            "If there is any ambiguity, write directly. My understanding is to ask the other party to confirm, and don’t wait for the execution to be wrong before correcting it.",
+            "Put attachments, links and sample images after the same confirmation message to facilitate subsequent keyword searches.",
+            "Case: Five minutes after the customer demand meeting ended, the salesperson sent six conclusions to the group: the person in charge, the deliverables and the date were all listed, and the customer added an omission on the same day to avoid wrangling two weeks later."
           ],
           "tags": [
             "Meeting",
@@ -231,7 +299,11 @@
           "core": "The ending determines the starting point for the next day.",
           "body": [
             "Organize your desktop and lists.",
-            "Write it down first thing tomorrow."
+            "Write it down first thing tomorrow.",
+            "Before leaving get off work, restore your desktop and computer windows to a state where you can start directly tomorrow, and keep the necessary materials.",
+            "Write down the first three things to do tomorrow and mark the starting action of the first thing to reduce the consumption of re-judgment in the morning.",
+            "Put unfinished items into a fixed list so that they are not stuffed into your mind, and delete any temporary reminders that have expired for the day.",
+            "Case: At six o'clock in the evening, the teacher spent five minutes before leaving the office to write down the location of tomorrow's first class materials, the long list of people to go home and the classroom key. When he arrived at work the next day, he started teaching directly without any fuss."
           ],
           "tags": [
             "Closing",
@@ -249,7 +321,11 @@
           "core": "If you note them but cannot find them, it means you didn’t note them.",
           "body": [
             "Use a unified title and a small number of tags.",
-            "Organize collection boxes regularly."
+            "Organize collection boxes regularly.",
+            "The title clearly states the project, topic and date, such as a customer interview with price objections, rather than just writing random notes.",
+            "Retain the original keywords and searchable nouns in the main text, and try not to use abbreviations that your future self will not understand.",
+            "Add fixed tags or links to important notes to tasks, and at the end of the month use search terms to test whether they can be found within thirty seconds.",
+            "Case: After the training, Xiao Zhou recorded the photos and inspirations into different software. When he wanted to find it, he only remembered one sentence, but the search failed. Later, he unified the title and added the project name and date, and successfully cited it the next day."
           ],
           "tags": [
             "Notes",
@@ -262,7 +338,11 @@
           "core": "Repetitive things should not be re-designed.",
           "body": [
             "Write the fixed steps into a list.",
-            "Improve the template every time you use it."
+            "Improve the template every time you use it.",
+            "Save repeated forms such as weekly reports and reimbursement forms as standard templates that can be filled in directly.",
+            "Fix the storage path of similar files and name them with a \"template\" suffix to facilitate global calls.",
+            "Check template fields every month to see if they are expired, and update volatile information such as reimbursement standards in a timely manner.",
+            "Case: Xiao Li, a financial officer, rearranges the expense reimbursement form every time he makes it at the end of the month. Later, he uses an Excel template with formulas to fill in the data. The original 2 hours of work is shortened to 20 minutes."
           ],
           "tags": [
             "Template",
@@ -275,7 +355,11 @@
           "core": "A single day’s fluctuations don’t mean much.",
           "body": [
             "Review the completion level at a fixed time.",
-            "Write down one thing to adjust next week."
+            "Write down one thing to adjust next week.",
+            "The review time is fixed every Sunday night, and the average value is calculated by summarizing the data for seven days.",
+            "Use a line chart to present changes in key indicators and intuitively identify rising trends or abnormal points.",
+            "Focus on observing data changes for three consecutive weeks to avoid being misled by special circumstances such as holidays.",
+            "Case: Xiao Wang, a bodybuilder, records his exercise time every day, but one day he becomes frustrated after only exercising for 10 minutes. Later, he found that the average weekly time was actually up to standard, and he no longer worried about single-day fluctuations."
           ],
           "tags": [
             "Review",
@@ -288,7 +372,11 @@
           "core": "Full text records are rarely read.",
           "body": [
             "Write down who did what and when.",
-            "Confirmation will be sent immediately after the meeting."
+            "Confirmation will be sent immediately after the meeting.",
+            "Mark the \"To Do\" and \"Decision\" labels when recording and ignore the details during the discussion.",
+            "Use different colored handwriting to distinguish conclusion content and task items that need to be followed up.",
+            "Quickly check the minutes 5 minutes before the end of the meeting to ensure that all to-do items have responsible persons and deadlines.",
+            "Case: The project meeting recorded the three-hour discussion verbatim. No one read it carefully after the meeting. After the record was changed to only \"Confirm the adoption of Plan A\" and \"Zhang San completed the budget table by Wednesday\", the execution efficiency was significantly improved."
           ],
           "tags": [
             "Meeting",
@@ -301,7 +389,11 @@
           "core": "Good names save a lot of searching.",
           "body": [
             "Contains date and subject.",
-            "Avoid words like \"final version.\""
+            "Avoid words like \"final version.\"",
+            "Use the unified format of \"year-month-date_project name_version\" to name all files.",
+            "Use consecutive numbers (such as 01_, 02_) for series files to avoid disordered arrangement.",
+            "Add status labels such as \"urgent\" and \"signed\" before the file name to quickly filter the files to be processed.",
+            "Case: When the designer was looking for an old draft, he searched chaotically among more than a dozen \"final version\" files. After naming it using \"project name_version number_date\", he located the required PSD source file in 3 seconds."
           ],
           "tags": [
             "File",
@@ -314,7 +406,11 @@
           "core": "Scattered records equal no records.",
           "body": [
             "All temporary ideas go into the same place.",
-            "Regularly diverted to projects."
+            "Regularly diverted to projects.",
+            "Select one note-taking application as the only collection box and turn off record reminders for other applications.",
+            "Only keep the recording App icon on the mobile phone desktop to avoid multiple entrances that distract attention.",
+            "Migrate the scattered notes to the main recording system for processing before going to bed every day.",
+            "Case: A college student uses three apps to record class notes, to-dos, and inspirations respectively. He often misses information. Then he collects all the contents into a labeled notebook, doubling his weekly search efficiency."
           ],
           "tags": [
             "Notes",
@@ -327,7 +423,11 @@
           "core": "Retrieval is more reliable than classification.",
           "body": [
             "Use a unified format.",
-            "Avoid vague titles."
+            "Avoid vague titles.",
+            "The note title starts with an 8-digit date, followed by 2-5 keywords describing the core content.",
+            "Important meeting records are prefixed with \"meeting\", and reading notes are marked with \"book excerpts\" for easy distinction.",
+            "The unified date format is \"year year year month day day\" to ensure accurate alphanumeric mixed search.",
+            "Case: The researcher rummaged through the folder when looking for meeting notes from six months ago. Later, the files were named \"20230905_User Interview Key Points\", and the search tool was used to successfully locate them in 10 seconds."
           ],
           "tags": [
             "Notes",
@@ -340,7 +440,11 @@
           "core": "Useful for checking back.",
           "body": [
             "Write the source.",
-            "Indicate the time of excerpt."
+            "Indicate the time of excerpt.",
+            "Paste the original text hyperlink simultaneously when excerpting, and mark the access date to prevent the link from expiration.",
+            "Take photos and archive paper materials, and indicate the book title, page number and year of publication in your notes.",
+            "Use the \"Source:\" tag to mark the citation information separately and store it separately from the core content.",
+            "Case: After excerpting industry report data, no source link was saved, and the accuracy could not be verified when writing the paper. Later, the original URL was pasted at the end of each excerpt, and the review time was reduced from half a day to 10 minutes."
           ],
           "tags": [
             "Notes",
@@ -353,7 +457,11 @@
           "core": "Retelling can become your own knowledge.",
           "body": [
             "Close the material after reading.",
-            "Write a brief summary."
+            "Write a brief summary.",
+            "After reading the material, close the original text and write a three-sentence summary of the core ideas in your own words.",
+            "Translate theory into concrete “if…then…” action plans (e.g., “If distracted, write on paper”).",
+            "Add the \"Practice\" label to the restated content, choose one to try and apply each week and give feedback on the effect.",
+            "Case: I have collected many time management articles but still don’t know how to apply it. I tried to summarize the key points in my own words using “Pomodoro and 25 minutes of focus”, and then I put it into practice at work the next day and saw results."
           ],
           "tags": [
             "Notes",
@@ -366,7 +474,11 @@
           "core": "笔记的价值在使用时显现。",
           "body": [
             "Choose a few articles to read back every week.",
-            "Update outdated conclusions."
+            "Update outdated conclusions.",
+            "Set the first Saturday of every month as \"note re-reading day\" and intensively read 3-5 old notes each time.",
+            "Establish a \"re-read\" tag system and rotate it by topic to avoid always looking at the same batch of content.",
+            "Add an \"update\" comment when re-reading, marking whether it is still applicable and suggestions for modification.",
+            "Case: The product manager has not read the competitive product analysis notes recorded half a year ago. He re-read them during quarterly planning and discovered the key conclusions. Directly using the framework saved 2 days of research time."
           ],
           "tags": [
             "Notes",
@@ -379,7 +491,11 @@
           "core": "噪音会降低检索质量。",
           "body": [
             "Marks content that is no longer valid.",
-            "Archive instead of pile."
+            "Archive instead of pile.",
+            "Mark information that has not been used for 6 months in red every quarter and delete it in batches after verification.",
+            "Create an \"Archive\" folder to store expired information that needs to be reviewed, separate from the main workspace.",
+            "Set a calendar reminder to clear out expired digital notes and paper materials once a year.",
+            "Case: When tidying up the study room, I found coupons and old address books that had expired three years ago. After cleaning, the file retrieval speed increased and the desktop space became more open."
           ],
           "tags": [
             "Notes",
@@ -392,7 +508,11 @@
           "core": "完成的材料不该占着工作区。",
           "body": [
             "Write a brief review.",
-            "Move to archive directory."
+            "Move to archive directory.",
+            "Create an exclusive folder with the year immediately after the project is accepted, and transfer all materials in a centralized manner.",
+            "Delete duplicate drafts and temporary files when archiving, and only keep the final version and key process drafts.",
+            "Add \"Description.txt\" in the folder to record the project time, members and core results.",
+            "Case: After the marketing department ended the 618 promotion activity, the design drafts and data sheets were packaged and stored in the \"2024_618 Activity Archive\" folder. The desktop returned to cleanliness when the new project was started."
           ],
           "tags": [
             "Project",
@@ -405,7 +525,11 @@
           "core": "只记结论会忘记为什么。",
           "body": [
             "Write down the constraints at that time.",
-            "Record negated options."
+            "Record negated options.",
+            "When making a decision, use a \"because...\" sentence below the conclusion to describe the three core considerations.",
+            "Record the alternatives and reasons for giving up when making decisions to facilitate subsequent review and comparison.",
+            "Mark the decision-maker and date in the meeting minutes to ensure information traceability and accountability.",
+            "Case: The team chose to outsource design instead of recruiting six months ago. When new members questioned the decision, the person in charge showed the reason for the \"50% budget reduction\" recorded at the time and quickly reached a consensus."
           ],
           "tags": [
             "Decision-making",
@@ -418,7 +542,11 @@
           "core": "做完什么、卡在哪、下周改什么。",
           "body": [
             "Do it at a fixed time.",
-            "只改一件事。"
+            "只改一件事。",
+            "Fix a time period every week, list the items completed this week one by one, and mark whether the goals are truly advanced.",
+            "Find the most time-consuming stuck point, write down who is stuck, at which step, and what resources are missing so that it can be dealt with next week.",
+            "Only choose one or two changes next week and write them into your schedule or to-do list to prevent the review from turning into empty thoughts.",
+            "Case: Before getting off work on Friday, Xiaolin wrote down the first draft of the customer plan according to the weekly plan, confirmed the stuck data caliber, and made an appointment for business alignment indicators next week. As a result, the meeting on Monday was passed in one go, with two revisions required."
           ],
           "tags": [
             "Review",
@@ -431,7 +559,11 @@
           "core": "Long-term deviation is more dangerous than single-day inefficiency.",
           "body": [
             "对比月初计划。",
-            "调整下月重点。"
+            "调整下月重点。",
+            "On the last day of each month, record the target completion rate, actual time invested, and results together. Don’t just look at the number of check-ins.",
+            "For goals that have deviated for two consecutive months, determine whether the goal is too high, the priority has changed, or the execution method is inappropriate.",
+            "Retain effective practices, delete long-term drag plans, and limit the key goals for next month to within three.",
+            "Case: At the end of the month, Amin opened the monthly goal list and found that he had only completed two workouts and three reading books, so he changed his workout to three sprints a week, and continued to do eleven sprints next month."
           ],
           "tags": [
             "Review",
@@ -444,7 +576,11 @@
           "core": "Failures are more worth writing about than successes.",
           "body": [
             "Write down the triggering conditions and consequences.",
-            "Refine actions to avoid next time."
+            "Refine actions to avoid next time.",
+            "On the day of failure, first write down the facts, record the time, decision, participants and direct consequences to avoid embellishment afterwards.",
+            "Rewrite the judgment that you thought was correct at the time, and mark the first error node. It is more useful than just writing \"carelessness\".",
+            "Finally, add an action for next time, such as checking the list or asking someone to review it, so that the lesson can be implemented directly.",
+            "Case: After the project was delivered, Xiao Zhou wrote down the reason why the quotation omitted taxes and fees in the review document, and attached the back-and-forth emails and correction forms. Later, similar quotations were calculated accurately at once, avoiding customer complaints."
           ],
           "tags": [
             "Review",
@@ -457,7 +593,11 @@
           "core": "Turn the pitfalls you have stepped into into checkable items.",
           "body": [
             "按主题归类。",
-            "定期补充。"
+            "定期补充。",
+            "Set fixed fields for the experience list: applicable scenarios, operating steps, precautions, and update time for quick and easy access.",
+            "Immediately add an article after every time you step into a trap. Write the problem in one sentence and the correct method in steps.",
+            "Clean up expired entries every month, delete expired information, and pin or label frequently used entries.",
+            "Case: After moving, Xiao Chen recorded the property phone number, broadband transfer process and elevator reservation time into the shared list. His friend followed the instructions and completed the check-in procedures in half an hour without asking anyone again."
           ],
           "tags": [
             "Experience",
@@ -470,7 +610,11 @@
           "core": "The template needs to evolve during use.",
           "body": [
             "Record the awkward areas.",
-            "每次改一点。"
+            "每次改一点。",
+            "When using the template, mark the awkward positions, such as redundant fields, awkward order, or unclear prompts.",
+            "Only change one high-frequency pain point at a time, and use it three times in a row after the change to observe whether the filling time is really reduced.",
+            "Leave the version number and modification date in the template, and save the old version as a backup to avoid being unable to retrieve valid fields after overwriting.",
+            "Case: Xiao He copied the old template every time he wrote a weekly report. Later, he found that the \"Risk\" column was always empty, so he changed it to \"This week's obstacles and support needs\", so that the team can directly discuss solutions in regular meetings."
           ],
           "tags": [
             "Template",
@@ -488,7 +632,11 @@
           "core": "Changing tools frequently will eat up time.",
           "body": [
             "Get familiar with a tool first.",
-            "Only replace when clear pain points arise."
+            "Only replace when clear pain points arise.",
+            "First list the three tasks that the existing tools must complete. As long as they can be completed stably, there is no rush to replace them.",
+            "Before changing tools, set the trial period and exit criteria. For example, if the time savings are not enough within two weeks, then there will be no further trouble.",
+            "Factor in migration costs, including time to learn, import, reclassify, and notify collaborators.",
+            "Case: Xiaoma changed three softwares in one week to take notes, importing and exporting data back and forth. Later, he fixed on the original note-taking application and tags, and instead organized meeting minutes on time every day."
           ],
           "tags": [
             "Tools",
@@ -501,7 +649,11 @@
           "core": "Machines are good at taking the trouble.",
           "body": [
             "List actions that should be repeated more than three times a week.",
-            "Try with a simple script or template first."
+            "Try with a simple script or template first.",
+            "Find out the input actions that are repeated more than ten times a day, record the source field, target location and time consumption, and then decide to automate it.",
+            "Use formulas, template fills or input method phrases to solve problems first. There is no need to write complex scripts or buy software right from the start.",
+            "Set exception reminders, such as empty values, duplicate values, and format errors, to prevent no one from discovering auto-filling.",
+            "Case: Finance Xiao Tang copied the order number to the reimbursement form every day, and later used the form formula to automatically bring out the customer and amount. The original half-hour work was reduced to five minutes, and there was no missing information at the end of the month."
           ],
           "tags": [
             "Automation",
@@ -514,7 +666,11 @@
           "core": "Smooth does not mean correct.",
           "body": [
             "Give clear context and format.",
-            "Check the facts and figures one by one."
+            "Check the facts and figures one by one.",
+            "Check names, dates, amounts, numbers and cited sources item by item. These errors are most likely to cause actual losses.",
+            "Let AI mark out uncertain content, and then manually check the original document. Do not directly copy smooth paragraphs.",
+            "Verify important output in at least one way, such as using tables to compare with the original text and using calculation tools to recalculate the data.",
+            "Case: Xiao Zhao asked AI to sort out the meeting minutes. The text was smooth, but the person in charge was wrongly written. He checked the recording and the list one by one before sending it out to prevent colleagues from carrying out the wrong division of labor."
           ],
           "tags": [
             "AI",
@@ -527,7 +683,11 @@
           "core": "The cost of loss is much higher than the cost of backup.",
           "body": [
             "Follow multiple copies, different locations, and different media.",
-            "Regular drill recovery."
+            "Regular drill recovery.",
+            "Layered backups based on importance, and keep at least two different locations for contracts, certificates, and original works.",
+            "Set a fixed synchronization time, for example, back up new and modified files once every Friday before get off work.",
+            "Spot check and restore every quarter to confirm that the backup file can be opened. Don’t wait until something goes wrong to discover that the backup is invalid.",
+            "Case: Xiao Wu’s computer hard drive was suddenly damaged, and her graduation thesis and internship contract were all in it. Fortunately, she synchronized it to the network disk and mobile hard drive every week, and after reinstalling, she retrieved all the files on the same day."
           ],
           "tags": [
             "Backup",
@@ -540,7 +700,11 @@
           "core": "Repeated actions are worth memorizing.",
           "body": [
             "Learn the shortcut keys for commonly used operations.",
-            "Use search instead of clicking."
+            "Use search instead of clicking.",
+            "Only memorize three high-frequency shortcut keys every week and stick them next to the monitor. First cover actions such as copying, switching windows, and undoing.",
+            "Put frequently used files and information into a uniformly named directory, and use keywords and dates when searching to reduce search levels.",
+            "List the five most click-consuming operations for commonly used software, check the shortcut keys or customize commands and practice them repeatedly until you become comfortable.",
+            "Case: Editor Xiao Zheng used to click on the menus one by one to find formatting functions. Later, he memorized common shortcut keys and used global search to find materials. The time for typesetting a manuscript was reduced from twenty minutes to eight minutes."
           ],
           "tags": [
             "Tools",
@@ -553,7 +717,11 @@
           "core": "Processes that are not running smoothly are not suitable for automation.",
           "body": [
             "Made by hand more than three times.",
-            "Confirm that the step is stable."
+            "Confirm that the step is stable.",
+            "First manually run three to five rounds according to the process, record the input, judgment criteria and output of each step to confirm that the process is stable.",
+            "Write down error-prone exceptions clearly, and wait until the rules cover most scenarios before considering automation tools.",
+            "Retain manual spot checks after the automation is launched. Focus on abnormal samples in the first few days and correct the rules and fields in a timely manner.",
+            "Case: Xiaofang wanted to automatically capture customer inquiries, but he wrote a script before the rules were clearly defined, and misclassified many emails. He first manually classified them for two weeks, and then went online after confirming the rules. The accuracy rate was significantly improved."
           ],
           "tags": [
             "Automation",
@@ -566,7 +734,11 @@
           "core": "The gains come from the number of repetitions.",
           "body": [
             "List weekly repeating items.",
-            "Choose the most time-consuming one."
+            "Choose the most time-consuming one.",
+            "Record the number of repeated actions and the time taken for one consecutive week, and prioritize improving high-frequency links that are encountered every day.",
+            "Conduct low-cost optimization for high-frequency actions first, such as shortcut phrases, fixed templates, auto-filling, and common path collections.",
+            "After each optimization, it saves time and maintenance costs, and only retains practices that truly reduce steps and are easy to adhere to.",
+            "Case: After counting the work orders, the customer service supervisor found that \"copy customer address\" appeared hundreds of times every day. She first made the address shortcut phrase, which saved the team nearly an hour every day and reduced errors."
           ],
           "tags": [
             "Automation",
@@ -579,7 +751,11 @@
           "core": "You will forget it in the future.",
           "body": [
             "Write clearly the purpose and operation method.",
-            "Record dependencies."
+            "Record dependencies.",
+            "Indicate the purpose, running frequency, input files and output results at the beginning of the script, so that the successor can first judge whether it is applicable.",
+            "Annotate the key parameters one by one, especially the date range, path meaning and whether it can be modified, to avoid making changes based on guesswork.",
+            "Record the dependency environment, account permissions and common error handling, and ask colleagues to test run according to the instructions before deployment.",
+            "Case: When a colleague took over the scheduled export script, he only saw a bunch of commands and did not know the meaning of the parameters. He mistakenly changed the date conditions. As a result, three days of data were missing from the monthly report. After adding comments and correcting the conditions, it returned to normal."
           ],
           "tags": [
             "Automation",
@@ -592,7 +768,11 @@
           "core": "Errors can be magnified quickly.",
           "body": [
             "Sampling verification results.",
-            "Set exception reminder."
+            "Set exception reminder.",
+            "After each automatic execution, first look at the sample results, randomly check the first and last records and abnormal values, and confirm that the fields are not misplaced or missing.",
+            "Set basic verification rules such as quantity, amount, date, etc. for output. When the threshold is exceeded, sending is suspended and prompted for manual review.",
+            "Retain the successful output of the previous version for comparison, focus on checking the number of lines, totals and file name changes, and trace the differences if they are found.",
+            "Case: Finance used an automatic script to generate a reimbursement summary. Because a new column was added to the source table, the amount was misaligned. It was sent to the supervisor without spot checks. As a result, three expenses were reimbursed repeatedly. It was later discovered that the column mapping was not updated."
           ],
           "tags": [
             "Automation",
@@ -605,7 +785,11 @@
           "core": "Automation will not back it up for you.",
           "body": [
             "Follow the principle of multiple locations.",
-            "Regular drill recovery."
+            "Regular drill recovery.",
+            "Save important files locally and in the cloud at the same time, and enable version history in the cloud. You can restore to earlier versions after accidental deletion.",
+            "Fix an external hard drive or network disk backup once a week. After the backup is completed, open the directory to confirm that the file has been written.",
+            "Create a list of key data such as contracts, photos, source code, etc., and indicate the storage location and latest backup date.",
+            "Case: A freelancer was organizing client contracts and invoices on his laptop. The hard drive suddenly failed. Since there was no offline backup, three undelivered files were lost. In the end, he had to stay up late to reorganize them."
           ],
           "tags": [
             "Backup",
@@ -618,7 +802,11 @@
           "core": "Tools do not require full permissions.",
           "body": [
             "Grant only necessary scope.",
-            "Regularly revoke redundant authorizations."
+            "Regularly revoke redundant authorizations.",
+            "When adding an account, only give it the permissions required to complete the current work. Open it for read-only or normal editing first, and then temporarily upgrade it when needed.",
+            "Separately manage high-risk permissions such as administrators, finance, and deletion, and set approval and expiry recovery times.",
+            "Check the account permission list every month and remove retired personnel, idle tools, and access authorizations that are no longer needed.",
+            "Case: Operations granted backend administrator rights to a new intern. The other party mistakenly deleted the activity configuration, resulting in a blank page list. Later, it was changed to only open editing rights, and the problem did not reoccur."
           ],
           "tags": [
             "Tools",
@@ -631,7 +819,11 @@
           "core": "Weak passwords and reuse are common entry points.",
           "body": [
             "Generate independent passwords for each site.",
-            "Turn on two-step verification."
+            "Turn on two-step verification.",
+            "Generate a different password for each website, at least a dozen characters long and containing uppercase and lowercase letters, numbers, and symbols.",
+            "Write recovery codes and master passwords on offline paper and store them in a safe location to avoid relying solely on memory.",
+            "Prioritize turning on two-step verification. Use a validator or hardware key for important accounts. Do not rely solely on SMS verification codes.",
+            "Case: A user reused the same password on multiple websites. After one of the forums was leaked, an attempt was made to log in to the email address. Fortunately, two-step verification was turned on so that it was not stolen. Then a password manager was used to generate an independent password."
           ],
           "tags": [
             "Safety",
@@ -644,7 +836,11 @@
           "core": "Not all reminders require immediate response.",
           "body": [
             "Distinguish between urgent and ordinary.",
-            "Concentrated period processing is normal."
+            "Concentrated period processing is normal.",
+            "Divide notifications into three categories: immediate processing, same-day viewing, and weekly viewing, and only allow reminders to pop up for urgent matters.",
+            "Set phone calls, schedules, and person-in-charge messages as high priority, and turn off marketing push notifications or put them into the Do Not Disturb group.",
+            "Fix two or three concentrated viewing times every day, and mark them as read or transfer tasks when processing to avoid repeated switching.",
+            "Case: The project manager set the work group, calendar, and shopping promotions as instant reminders, but was interrupted more than ten times in the afternoon. The report was not completed until the evening, and then the promotions were closed and grouped by priority."
           ],
           "tags": [
             "Notice",
@@ -657,7 +853,11 @@
           "core": "Repeated actions are worth memorizing.",
           "body": [
             "Remember only a few at a time.",
-            "Used to form muscle memory."
+            "Used to form muscle memory.",
+            "First pick the five most repeated actions every day, such as saving, undoing, switching windows and searching, and practice them intensively until you don’t have to think about them.",
+            "Put the shortcut keys next to the monitor or write them on a small card, and use them deliberately once when you encounter a lag to form muscle memory.",
+            "Add one or two shortcut keys every week and practice them with real tasks to confirm that they really save time and include them in the frequently used list.",
+            "Case: Editors have to set titles, paste materials, and search and replace in documents every day. Originally, they all relied on mouse clicks. They could only organize two articles in an hour. After mastering the shortcut keys, the same work was completed in half an hour."
           ],
           "tags": [
             "Tools",
@@ -670,7 +870,11 @@
           "core": "It is more important to find it than to place it well.",
           "body": [
             "Uniform naming rules.",
-            "Take advantage of global search."
+            "Take advantage of global search.",
+            "Add date, project, version and keywords to the file name, so that the search results can determine whether it is the target at a glance.",
+            "Use the system search or global search box first, remember the keywords, and do not click on the menus from the home page.",
+            "Create an index table or collection entry for commonly used materials. If the search cannot be found, you can quickly return to a fixed location to search.",
+            "Case: The customer service staff found an old speech template. In the past, they had to open a dozen folders in the shared disk. Later, they directly entered the customer name and template keywords, located the file and responded to the customer in a few seconds."
           ],
           "tags": [
             "Tools",
@@ -683,7 +887,11 @@
           "core": "Redundant tools themselves are a burden.",
           "body": [
             "List subscriptions and plugins.",
-            "Delete those that have not been used for three months."
+            "Delete those that have not been used for three months.",
+            "List tools that are being paid for and frequently opened every quarter, and delete accounts that have not been used for half a year and have no historical value.",
+            "Similar tools only retain one main product, and then log out after migrating the data to avoid information and reminders being scattered.",
+            "Export data and backup attachments before cleaning, confirm that important records are successfully migrated, and then uninstall or close the service.",
+            "Case: A small team once used three to-do software and two network disks at the same time. Members did not know where to record tasks. Information was scattered and items were missed in one delivery. After cleaning, only one collaboration tool remained."
           ],
           "tags": [
             "Tools",
@@ -696,7 +904,11 @@
           "core": "Automatic renewal is easy to forget.",
           "body": [
             "Record expiration date.",
-            "Cancel those no longer in use."
+            "Cancel those no longer in use.",
+            "Check your bank card or pay bills regularly every month, and check the deductions that look familiar one by one.",
+            "When subscribing, immediately write down the renewal date and cancellation deadline on your calendar, and leave at least three days for processing as a reminder.",
+            "Record the account number, price, renewal period and purpose in a table, and downgrade or cancel in a timely manner when the price increases or is no longer used.",
+            "Case: The user tried the photo editing software at the beginning of the year and forgot to cancel it. Half a year later, he discovered that he had been charged four times in a row. He went through the bill to check the subscriptions one by one, turned off unused services and set up calendar reminders."
           ],
           "tags": [
             "Expenses",
@@ -709,7 +921,11 @@
           "core": "The time saved is greater than the learning time.",
           "body": [
             "Try it first and then decide.",
-            "Don’t switch because of novelty."
+            "Don’t switch because of novelty.",
+            "Write down the specific problems to be solved before trying it out. If the existing process can be completed within ten minutes, don’t change tools yet.",
+            "Set yourself a one-hour trial limit. If you still cannot complete basic tasks after the timeout, suspend or give up the trial.",
+            "Estimate the time saved per week and only formally adopt it when the savings are significantly greater than the cost of learning and migration.",
+            "Case: The operation saw an automated reporting tool with very powerful functions. It took two nights to configure it and still couldn't model it, but the original form could be completed in ten minutes, so the operation gave up the new tool to avoid further investment."
           ],
           "tags": [
             "Tools",
@@ -727,7 +943,11 @@
           "core": "Not all times are suitable for puzzles.",
           "body": [
             "Place high-demand tasks during periods of good health.",
-            "Do tidying-up tasks when your energy level is low."
+            "Do tidying-up tasks when your energy level is low.",
+            "Put tasks that require judgment and creativity into peak periods of energy, and put sorting emails and filing files into trough periods.",
+            "Before starting each day, mark the tasks as high, medium, or low mental effort, and then adjust the order according to the status of the day.",
+            "Reserve a block of time, uninterrupted by meetings and messages, to work on your hardest tasks and set clear completion standards.",
+            "Case: The designer held a meeting in the morning and responded to messages, and then worked on the creative plan in the afternoon. His brain was exhausted and he repeatedly revised the draft. Later, he put the plan design in the two hours after work, and the meeting was concentrated in the afternoon."
           ],
           "tags": [
             "Energy",
@@ -740,7 +960,11 @@
           "core": "It is more expensive to wait until you are exhausted to rest.",
           "body": [
             "Pause briefly after each period of work.",
-            "Step away from the screen when taking breaks."
+            "Step away from the screen when taking breaks.",
+            "After working for 90 minutes in the morning, take the initiative to leave your seat for 5 minutes, drink water and stretch. Don’t wait for your head to feel bloated before stopping.",
+            "Mark half a day of low-task time on the calendar in advance every week so that it is not easy to squeeze out impromptu meetings.",
+            "Set up a fatigue warning list. If you read the same line repeatedly and the reply becomes slow, take a break.",
+            "Case: One week before the project went online, Xiao Li watched zero o'clock every day. On Wednesday, he wrote in his calendar that he would take a walk after dinner and turn off the lights at 10:30. He did not have a headache and asked for leave on the weekend, and he could clearly explain the plan on the day of the review."
           ],
           "tags": [
             "Rest",
@@ -753,7 +977,11 @@
           "core": "It takes time to return to the state after being interrupted.",
           "body": [
             "Close unnecessary push.",
-            "Concentrate time on processing messages."
+            "Concentrate time on processing messages.",
+            "Divide notifications into three categories: immediate, scheduled viewing, and ignorable. Only the first category of strong reminders is retained.",
+            "Before writing a plan, turn on the focus mode and put away the tabs of emails and group chat web pages to reduce visual triggers.",
+            "It is fixed to process messages once every 60 minutes and record the people who need to reply to avoid missing them.",
+            "Case: Xiao Chen, the customer service supervisor, was writing training materials in the morning, and group messages and email icons kept popping up. He put his phone away, turned off the group reminder, and only checked it on the hour. Two hours later, the first draft of the material was completed, and there was less rework than last week."
           ],
           "tags": [
             "Notice",
@@ -766,7 +994,11 @@
           "core": "Reading does not mean learning.",
           "body": [
             "Retell in your own words.",
-            "Make a small result that can be tested."
+            "Make a small result that can be tested.",
+            "After each section, write a three-sentence summary in your own words. Do not copy the original title or sentence.",
+            "Change the knowledge point into an answerable question, dictate the answer the next day without looking at the notes and check for loopholes.",
+            "Find a real task and try it out once, such as making forms, telling colleagues, writing lists, to verify whether it can be migrated.",
+            "Case: Xiao Zhou finished a data analysis course and thought he understood it. The next day, he used the course method to review last month's sales table and wrote three explanations for the anomalies. Only then did he realize that the indicator caliber was not clear. After going back to make up for the lesson, he was able to report independently."
           ],
           "tags": [
             "Learn",
@@ -779,7 +1011,11 @@
           "core": "Redundant tools are a burden in themselves.",
           "body": [
             "Delete subscriptions that are no longer in use.",
-            "Keep frequently used functions at your fingertips."
+            "Keep frequently used functions at your fingertips.",
+            "Make a list of commonly used tools once a month. File any software that is useless twice in a row and observe it for a week before deleting it.",
+            "Only one main tool of the same kind is retained, and the others only retain web page collections or documentation to avoid repeated switching.",
+            "Check templates, plug-ins, subscriptions and account permissions, delete expired items, and reduce update and selection costs.",
+            "Case: Designer Amin has five screenshot annotation tools installed on his computer, but there are only two commonly used functions. After she uninstalled duplicate software, unified shortcut keys and cloud disk directories, her search for materials was reduced from ten minutes to two minutes."
           ],
           "tags": [
             "Organizing",
@@ -792,7 +1028,11 @@
           "core": "Not all times are suitable for puzzles.",
           "body": [
             "Record the status for two weeks.",
-            "Delegate important tasks to the peak period."
+            "Delegate important tasks to the peak period.",
+            "Record task difficulty, completion quality and time points for two consecutive weeks to find out your most stable and efficient period.",
+            "Put the work that requires judgment, creation and communication difficulties into the peak, and put the reimbursement sorting into the trough.",
+            "Allow ten minutes before the peak to prepare materials and water to avoid being occupied by trivial matters as soon as you sit down.",
+            "Case: Programmer Lao He used to have meetings in the morning and write core logic in the afternoon, but he often got stuck in the evening. After two weeks of recording, he found that he was most awake between 9 and 11 a.m., so he moved the most difficult interface design to review and testing in the afternoon."
           ],
           "tags": [
             "Energy",
@@ -805,7 +1045,11 @@
           "core": "It is expensive to wait until collapse and then rest.",
           "body": [
             "Insert short breaks between work sessions.",
-            "Leave the screen while taking a break."
+            "Leave the screen while taking a break.",
+            "In the morning, list two to three energy low points of the day, and take a ten to twenty minute break before a meeting or at a task switching point.",
+            "Use the calendar to name and lock the break. If it is occupied, a period of the same length will be added that day and will not be moved to bedtime.",
+            "Signs to determine when it’s time to take a break: Stop immediately if similar errors increase, reading the same line repeatedly, or if there is no improvement after drinking water and walking around.",
+            "Case: Sales manager Lao Wang visited customers for three days in a row, changed the quotation at night, and forgot to mention key terms on the phone on the fourth day. Later, he set the finishing break at 17 o'clock every day in advance, and there were obviously fewer mistakes in signing contracts."
           ],
           "tags": [
             "Energy",
@@ -818,7 +1062,11 @@
           "core": "A short break to regain your afternoon energy.",
           "body": [
             "Control within twenty minutes.",
-            "Avoid affecting your sleep at night."
+            "Avoid affecting your sleep at night.",
+            "Don’t lie down immediately after lunch. Stand or walk slowly for ten minutes, then close your eyes in a quiet place.",
+            "Set an alarm clock for twenty minutes before taking a nap to avoid falling into deep sleep; wash your face with water or walk for two minutes after waking up.",
+            "If caffeine makes you prone to insomnia in the afternoon, drink water after lunch. If necessary, drink tea or coffee before taking a nap but limit it to half a cup.",
+            "Case: Executive Xiao Lin often checks his mobile phone after lunch before going to work, and his eyelids feel heavy in the afternoon. She changed to taking a ten-minute walk after meals and sitting in a chair with her eyes closed for fifteen minutes. There was no complicated process and she made fewer mistakes when sorting out contracts in the afternoon than before."
           ],
           "tags": [
             "Energy",
@@ -831,7 +1079,11 @@
           "core": "走动能改变状态。",
           "body": [
             "It will be effective in ten minutes.",
-            "There is no need to pursue strength."
+            "There is no need to pursue strength.",
+            "Leave your work station and walk for ten to fifteen minutes without wearing headphones. Let your eyes look far away and relax your shoulders and neck.",
+            "Don’t process news when walking, just use the rhythm of three steps, one inhale, three steps and one exhale, and return your attention to your body.",
+            "Choose a fixed route, such as two laps downstairs or one flight of stairs, to reduce the decision-making cost each time you start taking action.",
+            "Case: Teacher Xiao Zhang took four consecutive classes, and his throat and brain were tight. She walks around the playground for eight minutes between classes, does not answer questions or responds to messages, and can patiently handle parent consultations when she returns to the office."
           ],
           "tags": [
             "Energy",
@@ -844,7 +1096,11 @@
           "core": "切换后会需要时间重新进入。",
           "body": [
             "Merge similar communications.",
-            "Set the do not disturb period."
+            "Set the do not disturb period.",
+            "Consolidate tasks of the same type into one batch in the morning, such as unified reply to messages, unified approval, and unified organization of information.",
+            "Every time you complete a task, write down a sentence to continue. Next time you come back, read this sentence first to avoid having to recall it.",
+            "Temporary insertion requests first ask for the deadline and impact, and if they are not urgent, they will be placed in the next fixed processing window.",
+            "Case: Programmer Xiao Li originally put down the code to answer questions every time he received a message, but it took an average of twenty minutes to return to the original idea. He concentrated the problems to be dealt with in the afternoon, and the number of interruptions in submitting code dropped significantly."
           ],
           "tags": [
             "Focus",
@@ -857,7 +1113,11 @@
           "core": "提醒会切走注意力。",
           "body": [
             "Keep only the truly urgent ones.",
-            "Concentrate the rest."
+            "Concentrate the rest.",
+            "Before entering the workbench, turn off all notifications for shopping, short videos, and information applications, leaving only your phone and calendar.",
+            "Set the group chat to Do Not Disturb but keep favorite keywords, and specify two time periods in the afternoon and evening to focus on checking unread messages.",
+            "Clear the notification bar once a day, convert content that requires action into to-dos, and delete or archive the rest directly.",
+            "Case: When Finance Xiao Zhao was doing his monthly balance, reminders for takeout, shopping and short videos kept ringing. She turned off these push notifications, leaving only the bank account arrival and supervisor's phone number; the report was completed an hour in advance, and the number verification was more stable."
           ],
           "tags": [
             "Focus",
@@ -870,7 +1130,11 @@
           "core": "复杂任务需要连续时间。",
           "body": [
             "提前告知他人。",
-            "Does only one thing within a block."
+            "Does only one thing within a block.",
+            "Circle the ninety-minute no-meeting period on your calendar, prepare materials and close the chat window ten minutes before the start.",
+            "Only one main task is placed in the depth block, and side branches such as query, printing, and communication are concentrated for post-block processing.",
+            "Use a piece of paper to record the ideas that come up in the middle. Do not trace them within the block. After the end, make a unified judgment whether it is worth doing.",
+            "Case: When product Xiao He was writing a requirements document, he was pulled to answer questions every ten minutes. He locked out two 90-minute blocks every morning, put a Do Not Disturb sign at the door, completed the document in two days, and did not fix any loopholes in the review."
           ],
           "tags": [
             "Focus",
@@ -883,7 +1147,11 @@
           "core": "Find out the areas that consume the most energy.",
           "body": [
             "Record energy changes throughout the day.",
-            "Reduce unnecessary consumption."
+            "Reduce unnecessary consumption.",
+            "Record energy points every two hours for three consecutive days, label them from one to five, and write down what you just did.",
+            "Circle the time period below 2 points in the record, and check the sleep, meals and meeting density of the previous night.",
+            "Find out recurring labor-consuming items, such as answering questions at short notice or reworking overtime, and change the process first before forcing yourself to carry it out.",
+            "Case: Operation Aqing recorded the work status of the week and found that the most labor-intensive tasks were temporary poster changes and repeated reminders. She concentrated the revisions into fixed time periods and unified the demand template, and the overtime during weekly reporting was reduced from three nights to one night."
           ],
           "tags": [
             "Energy",
@@ -896,7 +1164,11 @@
           "core": "Chronic sleep deprivation can drag down output.",
           "body": [
             "Keep the basic sleep duration.",
-            "There is no long-term overdraft during peak periods."
+            "There is no long-term overdraft during peak periods.",
+            "Set a hard deadline for bedtime, put your phone outside the bed after that time, and get up early the next morning to catch up on key content.",
+            "If the delivery deadline requires staying up late, estimate in advance how long you will sleep less, go to bed an hour earlier the next day, and do not schedule any heavy work.",
+            "Remove coffee, alcohol and high-intensity exercise two hours before going to bed, and only do sleep-related things in the bedroom.",
+            "Case: Test engineer Xiao Lu went to bed at 2 a.m. for two consecutive days to catch up on the version, and three problems were falsely reported during the day. On the third day, he went to bed before 11 o'clock and retested an hour earlier in the morning. The defect was located faster."
           ],
           "tags": [
             "Sleep",
@@ -909,7 +1181,11 @@
           "core": "Regulation is more important than intensity.",
           "body": [
             "每周固定几次。",
-            "选择能持续的。"
+            "选择能持续的。",
+            "Fix a minimum amount every day, such as ten squats or ten minutes of stretching. On busy days, it can only be reduced but not canceled.",
+            "Tie exercise after existing actions, such as stretching after brushing your teeth, going downstairs for a walk after lunch and then returning to your work station.",
+            "Use the weekly record to see the number of consecutive days, not the intensity of a single session; just resume the minimum amount on the same day after the interruption.",
+            "Case: An office worker in recovery did not go to the gym, but walked briskly for twenty minutes after meals every day and did stretching on weekends. After three months, the physical examination indicators improved, and the back pain after sitting for a long time was also significantly reduced."
           ],
           "tags": [
             "Body",
@@ -922,7 +1198,11 @@
           "core": "It is normal to need to recover after socializing.",
           "body": [
             "安排独处时间。",
-            "不必解释过多。"
+            "不必解释过多。",
+            "Before making an invitation, check the remaining energy of the day. If it is less than three points, change it to a short gathering, online greeting or another appointment.",
+            "When participating in a multi-person event, set a time for yourself to leave, explain in advance that you have something to do, and say goodbye briefly when you arrive.",
+            "After socializing, arrange for twenty minutes to recover quietly, do not deal with work immediately, and record which types of people make you more tired.",
+            "Case: I attended a colleague’s wedding banquet after get off work on Friday. I toasted frequently during the dinner and felt dizzy on the way home. I canceled my fitness appointment that night and took a bath alone to listen to soft music. I only regained the strength to speak the next day."
           ],
           "tags": [
             "Social",
@@ -935,7 +1215,11 @@
           "core": "to help the brain switch states.",
           "body": [
             "Declutter your desktop and write down the finishing touches.",
-            "关闭工作通知。"
+            "关闭工作通知。",
+            "Clear your inbox to zero ten minutes before get off work, and write down the unfinished items as the first step tomorrow, so don’t keep them in your mind.",
+            "Save files before shutting down the computer, list three important things for tomorrow, and leave only necessary information on the desktop.",
+            "Replace working objects as switches, such as closing your laptop, taking off your badge, and changing your shoes before going home.",
+            "Case: A remote worker used to still think about the meeting after closing the computer, and often returned messages late into the night. Later, before leaving get off work, he wrote three lines of to-dos for tomorrow, closed notifications, and poured out the remaining tea in the cup, making the status switching smoother."
           ],
           "tags": [
             "Closing",
@@ -948,7 +1232,11 @@
           "core": "With full capacity there is no margin for unexpected events.",
           "body": [
             "Don’t fill up your schedule.",
-            "Allow for recovery time."
+            "Allow for recovery time.",
+            "A two-hour blank block is locked every week, and meetings and temporary invitations are not accepted to buffer the backlog.",
+            "Blank space does not mean swiping the phone. List three possible uses in advance: catching up on sleep, organizing, and dealing with emergencies.",
+            "When the weekly schedule is full, delete a low-value commitment instead of filling this empty time.",
+            "Case: I took my children to tutoring classes on Saturday morning, went shopping in the supermarket in the afternoon, and had a dinner party with friends in the evening. As a result, the child had a fever in the evening, and the whole family went to the hospital in a panic. All the original plans were ruined, and the adults were too tired to stand upright."
           ],
           "tags": [
             "Rhythm",

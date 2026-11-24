@@ -10,7 +10,11 @@
           "core": "The liquidity before and after the market is different, and prices are more likely to jump.",
           "body": [
             "It may be more difficult to complete transactions outside regular hours.",
-            "Write the conversion of trading time zone clearly."
+            "Write the conversion of trading time zone clearly.",
+            "Newbies should try to avoid pre-market and post-market trading, and place orders during periods of sufficient liquidity between 9:30-11:30 and 13:00-15:00.",
+            "Check the trading volume before and after the market. If the volume of transactions in a single day is less than 1 million shares, suspend trading to avoid the risk of price manipulation.",
+            "Replace market orders with limit orders and set a reasonable price range to prevent insufficient liquidity from causing the transaction price to deviate from expectations.",
+            "Case: Novice Xiao Li saw a sharp rise in U.S. technology stocks before the market opened in the morning, and rushed to buy them with a market order. The price fell quickly after the market opened. Due to poor liquidity before the market, his transaction price was higher than expected, and he lost 5% on the same day."
           ],
           "tags": [
             "Basics",
@@ -24,7 +28,11 @@
           "core": "Market orders and limit orders solve different problems.",
           "body": [
             "The market price pursues the transaction, and the limit price pursues the price.",
-            "Use limit orders to control slippage when unsure."
+            "Use limit orders to control slippage when unsure.",
+            "When using market orders for urgent transactions, you need to confirm the order depth in advance to avoid large orders driving reverse price changes.",
+            "Use limit orders for non-urgent orders, and set prices with reference to recent support levels to avoid chasing higher prices or falling short of reasonable prices.",
+            "Compare the two order costs before placing an order. For large position transactions, use limit orders first to control slippage losses.",
+            "Case: Investor Sister Zhang wanted to buy a certain liquor stock. After placing the order with a market price, the transaction was completed at 185.2 yuan, which was 0.5 yuan higher than the selling price displayed at the time. However, a colleague put a limit order at 183 yuan, and three days later, he saved nearly a thousand yuan by buying the stock at a low price."
           ],
           "tags": [
             "Orders",
@@ -38,7 +46,11 @@
           "core": "Revenue, profit, and cash flow tell different stories.",
           "body": [
             "Profits can vary through accounting treatments.",
-            "Cash flow is harder to polish."
+            "Cash flow is harder to polish.",
+            "Look at revenue and focus on comparing the year-on-year growth rate with the industry average to determine whether the company's market share is truly expanding.",
+            "Profit analysis needs to be deducted and viewed later, excluding the interference of one-time gains such as government subsidies and asset disposals.",
+            "Net operating cash flow must be positive for three consecutive years and match the profit growth rate to be truly profitable.",
+            "Case: A retail company’s annual report shows that revenue increased by 20% and profits by 15%, but operating cash flow dropped by 10%. Manager Wang conducted in-depth research and found that its accounts receivable had doubled, and finally gave up buying. Three months later, the company's stock price fell by 25%."
           ],
           "tags": [
             "Financial Reports",
@@ -52,7 +64,11 @@
           "core": "The multiple depends on growth and risk.",
           "body": [
             "Comparisons within the same industry are more meaningful than comparisons across industries.",
-            "Write down the assumptions and then do the math."
+            "Write down the assumptions and then do the math.",
+            "Use the PEG indicator to replace a single price-earnings ratio and combine it with the growth rate to judge the rationality of the valuation. PEG<1 is more cost-effective.",
+            "Highly valued companies need to confirm the sustainability of their growth, such as the number of invention patents and the growth rate of new customer signings.",
+            "Companies with low valuations need to check for risks, such as whether the debt ratio exceeds 70% and whether there are large pending lawsuits.",
+            "Case: Investor Lao Chen saw that Company A’s price-to-earnings ratio was 20 times and Company B’s was only 10 times, so he decisively bought B. However, Company B's revenue fell by 10% for two consecutive years, while Company A's revenue increased by 30%. Half a year later, A's stock price rose by 40%, while B's stock price fell by 15%."
           ],
           "tags": [
             "Valuation",
@@ -66,7 +82,11 @@
           "core": "assets with high correlation together, and the risk is not spread.",
           "body": [
             "Look at the differences in industries and driving factors.",
-            "Set the position limit in advance."
+            "Set the position limit in advance.",
+            "Diversified investment allocation across industries, such as choosing 1-2 leaders in each of consumption, technology, and medical care, to reduce industry-related risks.",
+            "With different asset types, stocks, bonds, and gold are allocated in a ratio of 6:3:1 to balance the risk of fluctuations.",
+            "Calculate the position correlation coefficient regularly. If the correlation between two stocks exceeds 0.8, you need to reduce your holdings in one of them.",
+            "Case: Xiao Liu bought 10 different liquor stocks and felt that the risks were diversified. A certain time when industry policies were negative, all 10 stocks fell below their limits, and his account lost 22%. Only then did he discover that the correlation between these stocks was as high as 0.9 or above."
           ],
           "tags": [
             "Risk",
@@ -80,7 +100,11 @@
           "core": "The cost of frequent transactions is often underestimated.",
           "body": [
             "Calculate the total cost of each entry and exit.",
-            "Set a minimum return threshold for the strategy."
+            "Set a minimum return threshold for the strategy.",
+            "To calculate the break-even point, the cost of a single transaction must be less than 10% of the expected return, otherwise it is not worth operating frequently.",
+            "For small funds, choose a low-commission brokerage, and give priority to choosing a rate below 1.5 yuan to avoid the minimum commission limit of 5 yuan.",
+            "Monthly review of transaction records, if the handling fee exceeds 20% of the profit for the month, the transaction frequency will be forcibly reduced.",
+            "Case: Xiao Zhou, a college student, took 5,000 yuan to trade stocks and made short-term transactions three times a day, with a commission of 5 yuan each time. One month later, the transaction fee cost 300 yuan, while the stock price only rose 2% during the same period, which is equivalent to the handling fee eating up 60% of the income."
           ],
           "tags": [
             "Cost",
@@ -94,7 +118,11 @@
           "core": "Temporary intraday decisions are often affected by emotions.",
           "body": [
             "Write down the acceptable loss ratio.",
-            "Execute as planned after triggering."
+            "Execute as planned after triggering.",
+            "Set a conditional order in the trading software before buying to automatically trigger the stop loss to avoid intraday emotions interfering with decision-making.",
+            "Stop loss is set 3%-5% below key support levels, such as recent lows or important moving averages.",
+            "The loss is forced to stop when the loss reaches 2% of the total capital, and the maximum loss of a single stock does not exceed 5% of the total position.",
+            "Case: Brother Zhao, a veteran investor, set a stop loss below the 60-day moving average before buying a certain pharmaceutical stock. One day, the stock fell 7% to below the moving average due to rumors. He calmly sold it, avoiding a 20% plunge in the following three days and saving his principal of 80,000 yuan."
           ],
           "tags": [
             "Risk",
@@ -108,7 +136,11 @@
           "core": "A good story does not equal a good price.",
           "body": [
             "Distinguish between \"may happen\" and \"has happened\".",
-            "Add counterexamples to each narrative."
+            "Add counterexamples to each narrative.",
+            "Distinguish between narrative and data. The story needs to be supported by hard indicators such as capacity utilization and order volume, otherwise you will not follow the trend.",
+            "Track management commitments. If they are not fulfilled for two consecutive quarters, it is regarded as a signal of narrative bubble.",
+            "Compare the market-to-sales ratio of companies in the same industry. If it is much higher than the average and there are no technical barriers, resolutely avoid overvalued targets.",
+            "Case: A new energy company told the story of \"replacing electricity is like refueling\", and its stock price tripled. However, Ms. Chen found that the construction progress of her battery swap station was only 15% of the plan, and each station served less than 10 vehicles per day. She sold it decisively and avoided the subsequent 60% decline."
           ],
           "tags": [
             "Judgment",
@@ -122,7 +154,11 @@
           "core": "When transactions are sparse, the book price is not equal to the transaction price.",
           "body": [
             "Look at trading volume and bid-ask spread.",
-            "Large orders are split and executed."
+            "Large orders are split and executed.",
+            "Check the order volume before buying and selling. When the sell order is less than 1/3 of the position, place the orders in batches to avoid hitting the market.",
+            "For stocks with an average daily trading volume of less than 50 million, the single transaction amount shall not exceed 5% of the total account funds.",
+            "Use limit orders to set prices in three levels, such as 1%, 2%, or 3% lower than the current price, and gradually reduce slippage by completing transactions.",
+            "Case: Investor Xiao Lin holds a certain ST stock and placed an order to sell 5,000 shares for 10 yuan. Only 200 shares were traded that day, and the price fell to 9.5 yuan. He wanted to clear his position at once, but found that the selling orders exceeded 100,000 shares, and he could only lower the price to 9 yuan before all transactions were completed."
           ],
           "tags": [
             "Liquidity",
@@ -136,7 +172,11 @@
           "core": "Price changes do not necessarily represent increases or decreases.",
           "body": [
             "Dividends and stock splits can change quotes.",
-            "Look at total return rather than price alone."
+            "Look at total return rather than price alone.",
+            "Check the dividend plan in advance. You can get dividends if you hold the stock on the equity registration date. You are not eligible if you buy it on the ex-rights and ex-dividend date.",
+            "Understand the ex-rights price calculation method. For example, after 10 get 10 for free, the stock price changes from 20 yuan to 10 yuan, and the total market value remains unchanged.",
+            "Pay attention to the ex-rights market. If the company's performance grows after the ex-rights, the stock price may gradually return to the price before the ex-rights.",
+            "Case: The bank stock held by investor Lao Zhou paid a dividend of 0.5 yuan per share. The stock price on the equity registration date was 10 yuan, and the opening price on the ex-dividend date showed 9.5 yuan. He mistakenly thought that the stock price had plummeted and sold, but he received a dividend of 2,500 yuan that day. In fact, the total amount remained unchanged."
           ],
           "tags": [
             "Basics",
@@ -150,7 +190,11 @@
           "core": "Changes in management’s rhetoric often precede changes in the numbers.",
           "body": [
             "Pay attention to repeated emphasis and deliberate avoidance.",
-            "Compare the statement in the previous issue."
+            "Compare the statement in the previous issue.",
+            "Compare the wording of previous conference calls and focus on changes in keywords such as \"growth\", \"risk\" and \"guidance\".",
+            "Record the questions that management avoids. If you fail to answer core business questions twice in a row, you need to be wary of changes in performance.",
+            "Pay attention to the direction of analysts’ questions. If many people ask about cash flow, it means that the market is worried about this indicator.",
+            "Case: During a financial report conference call of a technology company, the management changed the word \"rapid growth\" to \"steady development\" and at the same time reduced the investment in R&D. Careful investor Lao Zhang noticed the signal and reduced half of his position. Three months later, the company's revenue growth rate dropped from 30% to 8%."
           ],
           "tags": [
             "Financial Reports",
@@ -164,7 +208,11 @@
           "core": "Buy the entire market, betting on long-term growth.",
           "body": [
             "Lower cost than active management.",
-            "Need to withstand the overall market fluctuations."
+            "Need to withstand the overall market fluctuations.",
+            "Choose broad-based index funds, such as CSI 300 and CSI 500, to cover the entire industry and avoid the risks of a single industry.",
+            "Set automatic fixed investment, deduct money on a fixed date every month, and use the smile curve to accumulate more shares at low levels.",
+            "Ignore short-term fluctuations, maintain a holding period of at least 3-5 years, and avoid high handling fees caused by frequent subscriptions and redemptions.",
+            "Case: Salaryman Xiao Chen has been investing in the CSI 300 ETF every month for 5 years. During this period, he even experienced a 20% loss in the 2018 bear market and did not stop investing. By 2023, the cumulative return will reach 45%, far exceeding the 3% annualized return of bank financial management in the same period."
           ],
           "tags": [
             "Funds",
@@ -178,7 +226,11 @@
           "core": "Let the position return to the plan, rather than chasing the rise.",
           "body": [
             "Adjust according to a fixed period or threshold.",
-            "Sell what goes up and cover what goes down."
+            "Sell what goes up and cover what goes down.",
+            "Set a position deviation threshold such as 5%, which will trigger a rebalancing operation.",
+            "Prioritize the adjustment of overvalued assets instead of blindly adding strong performing products.",
+            "Review the portfolio ratio every quarter to avoid frequent trading due to short-term fluctuations.",
+            "Case: Xiao Ming set the stock-bond ratio at 6:4 at the beginning of the year, and 70% of the stock rose in the middle of the year. He did not continue to pursue purchases, but sold part of the stock to cover the debt. The position returned to 6:4, and his mentality became more stable during the subsequent correction."
           ],
           "tags": [
             "Position",
@@ -192,7 +244,11 @@
           "core": "Volatility is the cost of participating in the market.",
           "body": [
             "Accept the possible retracement in advance.",
-            "React with positions rather than emotions."
+            "React with positions rather than emotions.",
+            "The maximum retracement tolerance line is preset, and the risk control mechanism will be activated if it exceeds it.",
+            "Distinguish temporary fluctuations from fundamental deterioration, and avoid emotional cutting.",
+            "Historical data shows that the broad-based index often recovers after a short-term retracement of 20%.",
+            "Case: Ms. Wang encountered a two-week decline after buying an index fund, and her account lost about 8%. She did not clear her position, but invested as originally planned and kept the cash. The market recovered after three months, which she understood to be the normal cost of participating in the market."
           ],
           "tags": [
             "Risk",
@@ -206,7 +262,11 @@
           "core": "After a big loss, a larger increase is needed to recover the capital.",
           "body": [
             "A 50% loss requires a 100% gain.",
-            "Controlling drawdowns takes precedence over pursuing high returns."
+            "Controlling drawdowns takes precedence over pursuing high returns.",
+            "A loss of 50% requires a subsequent increase of 100% to recover the loss. Strictly control the single stop loss line.",
+            "To avoid magnifying losses through leveraged trading, set up a separate risk reserve account.",
+            "Use the Kelly formula to calculate the maximum tolerable loss ratio in a single time.",
+            "Case: Xiao Li chased a stock higher, but it fell by 50% after buying it. He thought that he would be able to recover his capital as long as it rose by another 50%. Later, he found out that it needed to rise by double the price. After finally selling, he realized that controlling large losses was more important than pursuing high returns."
           ],
           "tags": [
             "Risk",
@@ -220,7 +280,11 @@
           "core": "Money that is needed in the short term is not suitable to withstand fluctuations.",
           "body": [
             "Save enough emergency reserves first.",
-            "Separate investment funds from daily accounts."
+            "Separate investment funds from daily accounts.",
+            "Set aside 6 months of living expenses as an emergency fund before considering investing.",
+            "Expenditure items determined within three years, such as the down payment for a house, must be allocated with low risk.",
+            "Use separate accounts to distinguish investment funds and daily transfer payment accounts.",
+            "Case: Xiao Zhang invested the 20,000 yuan he was going to pay for rent in stocks. When the stock price fell sharply, he had to pay a deposit, so he could only sell it at a low price, resulting in a loss of nearly 3,000 yuan. Later, he kept his living expenses in currency funds and only invested idle funds in the long term."
           ],
           "tags": [
             "Funds",
@@ -234,7 +298,11 @@
           "core": "The circle of competence is the most important risk control.",
           "body": [
             "Be able to explain the business model in one sentence.",
-            "Leave it alone if you can’t explain clearly."
+            "Leave it alone if you can’t explain clearly.",
+            "Use three sentences to explain the profit logic to others. If the explanation is unclear, give up.",
+            "Biomedicine and other professional knowledge fields only allocate index funds and do not individual stock selection.",
+            "Establish a list of competence circles and mark the traffic lights of familiar industries and unfamiliar areas.",
+            "Case: A colleague recommended a biopharmaceutical stock and said that the pipeline value is very high. Mr. Chen did not understand the clinical trial stage and approval risks, so he did not buy it even though he was very interested. Half a year later, the company's test failed and the stock price plummeted, and he avoided a loss of principal."
           ],
           "tags": [
             "Judgment",
@@ -248,7 +316,11 @@
           "core": "Review requires original evidence.",
           "body": [
             "Write down the basis and expectations for buying.",
-            "Contact the results and logic afterwards."
+            "Contact the results and logic afterwards.",
+            "Record screenshots of specific data such as price-to-earnings ratio and capital flow when placing an order.",
+            "State the buy trigger conditions and subsequent verification indicator update time nodes.",
+            "Distinguish actual results and decision-making logic, and avoid judging right and wrong based on profits and losses.",
+            "Case: Ms. Liu writes down the reasons for buying, target price and stop loss line in the form before placing an order. During a loss review, she found that she had impulsively increased her position because of the news. After that, she changed her habit of following the news and placing orders, and became more disciplined in her trading."
           ],
           "tags": [
             "Review",
@@ -262,7 +334,11 @@
           "core": "Disclosure information is delayed and may be misleading.",
           "body": [
             "Look at the direction and scale, don’t follow the trend.",
-            "Based on fundamental judgment."
+            "Based on fundamental judgment.",
+            "The increase or decrease in holdings of directors, supervisors, and senior executives must be comprehensively judged based on their tenure assessment cycle.",
+            "Pay attention to abnormal correlations between transaction disclosure and financial reporting windows.",
+            "Check changes in the equity pledge rate when announcements of pledged shareholding reductions are made.",
+            "Case: Xiao Zhou bought a large position after seeing the announcement of a company's executive increasing his holdings, thinking this was a good thing. The announcement disclosed transactions a few months ago. It was only after the stock price fell that he saw the information about executives reducing their holdings, and realized that he had misread the lagging signal."
           ],
           "tags": [
             "Information",
@@ -276,7 +352,11 @@
           "core": "Pre-tax earnings are not final earnings.",
           "body": [
             "Understand the tax rate corresponding to the holding period.",
-            "Include taxes into transaction costs."
+            "Include taxes into transaction costs.",
+            "When calculating the after-tax rate of return, it is necessary to distinguish between dividend and capital gains tax rates.",
+            "The stamp duty generated by high-frequency trading may eat up most of the short-term profits.",
+            "Use tax-deferred accounts for long-term holding to reduce current tax burden.",
+            "Case: Lao Zhao sold stocks that he had held for eight months in his Hong Kong and US stock account, making a book profit of 10,000 yuan. After deducting the stamp duty, commission and exchange fee after settlement, he actually got less money. From now on, he only looked at the after-tax income."
           ],
           "tags": [
             "Taxation",
@@ -290,7 +370,11 @@
           "core": "Differences in expectations are more likely to cause volatility than performance itself.",
           "body": [
             "Reduce position exposure before and after earnings reports.",
-            "Do not treat financial reports as deterministic events."
+            "Do not treat financial reports as deterministic events.",
+            "If the difference between the performance forecast and the actual value exceeds 10%, you need to be wary of fluctuations.",
+            "Reduce leverage positions two weeks before the financial report is released to deal with potential gap risks.",
+            "Pay attention to changes in the frequency of institutional surveys to predict the direction of market expected adjustments.",
+            "Case: Before the financial report was released, a certain consumer stock was expected to grow by 30%. Xiao Chen saw that the official growth was only 18% but still a high growth, but the stock price fell by 9% that day. He realized that forecast differences drove more volatility than profit numbers."
           ],
           "tags": [
             "Financial Reports",
@@ -304,7 +388,11 @@
           "core": "There is no theoretical upper limit to losses.",
           "body": [
             "Short selling requires tighter stops.",
-            "The cost of borrowing bonds must also be included."
+            "The cost of borrowing bonds must also be included.",
+            "Set a hard stop loss line and the position will be forced to close if 20% of the principal is lost.",
+            "Avoid covering positions and diluting costs when going against the trend.",
+            "Use options to construct a protective call strategy to limit potential losses.",
+            "Case: Lao Sun borrowed bonds to short a small-cap stock, preparing to close the position if it fell by 2%. Unexpectedly, the company made a positive announcement and the stock price rose by 60% in two days. He was forced to make a deposit and left the market with a loss, only to realize that there was no upper limit to the loss from short selling."
           ],
           "tags": [
             "Short selling",
@@ -318,7 +406,11 @@
           "core": "Historical performance cannot replace judgment.",
           "body": [
             "See if the strategy is sustainable.",
-            "Be wary of promotions that only show the best results."
+            "Be wary of promotions that only show the best results.",
+            "Check whether historical returns include delisted survivor bias data.",
+            "Superimpose the length of service of the fund manager with the complete economic cycle.",
+            "Use maximum drawdown rate instead of annualized return as the primary evaluation indicator.",
+            "Case: Xiao Lin saw that a certain fund had increased by more than 20% every year for the past three years, so he bought it with all his savings. The next year, the market style switched and the fund fell by 15%. Only then did he realize that historical returns were only records, not guarantees of the future."
           ],
           "tags": [
             "Judgment",
@@ -332,7 +424,11 @@
           "core": "Check the fixed items before placing an order.",
           "body": [
             "Reasons, risks, positions, exit conditions.",
-            "If you cannot write any item, pause."
+            "If you cannot write any item, pause.",
+            "Set up a five-question checklist that must be completed before buying, such as valuation/catalysts, etc.",
+            "The list must include the mandatory fields of stop loss price and holding period.",
+            "Add new rules after each impulsive transaction to avoid repeating similar mistakes.",
+            "Case: Xiao He saw chip stocks recommended in the group, and when he was about to pursue an order, he opened his self-made six-item list. After checking the valuation, position and stop loss, he found that the reason was insufficient and gave up placing the order. The stock opened higher and moved lower the next day, and he avoided impulsively chasing higher prices."
           ],
           "tags": [
             "Discipline",
@@ -346,7 +442,11 @@
           "core": "News, opinion and data are not the same thing.",
           "body": [
             "See original disclosure first.",
-            "Second-hand interpretation is for reference only."
+            "Second-hand interpretation is for reference only.",
+            "Check the original reports or official announcements of the event first to verify the authenticity of the information, and then refer to other people’s interpretations to avoid being misled by one-sided views.",
+            "Use tables to classify and record information: factual content is marked in blue, subjective opinions are marked in yellow, and high-credibility facts are given priority when making decisions.",
+            "Review information sources weekly, eliminate long-term inaccurate channels, and gradually build a hierarchical and credible information list.",
+            "Case: Xiao Li read the financial news and said that a certain stock was recommended. He checked the official financial report and saw a decline in profits. He also read the analysts' opinions and waited and watched. He did not follow the trend and buy to avoid losses from the subsequent decline in stock prices."
           ],
           "tags": [
             "Information",
@@ -360,7 +460,11 @@
           "core": "You should re-evaluate when the buying logic changes.",
           "body": [
             "Review the original rationale regularly.",
-            "Exit when the logic disappears."
+            "Exit when the logic disappears.",
+            "Check the buying logic of positions every quarter and check whether there are fundamental changes in core indicators (such as profits, industry policies).",
+            "Set a re-evaluation trigger point. If the financial report for two consecutive quarters is lower than expected, immediately start analysis and decide whether to adjust the position.",
+            "Write the logic of your position in your notes, and compare the current situation regularly. If more than three logics are broken, reduce or clear the position decisively.",
+            "Case: Ms. Wang has held a certain consumer stock for three years. Recent financial reports show that revenue has continued to decline, and the original growth logic is no longer there. She re-evaluated and reduced her holdings to avoid greater losses."
           ],
           "tags": [
             "Long-term",
@@ -374,7 +478,11 @@
           "core": "New knowledge is first verified with a small cost.",
           "body": [
             "Treat the cost of study as tuition.",
-            "Enlarge after verification is valid."
+            "Enlarge after verification is valid.",
+            "Use 5% of your spare money as trial and error funds. Even if you lose all money, your life will not be affected and your psychological pressure will be reduced.",
+            "Record expected results and actual differences, such as profitability and time-consuming, before trial and error, and use data to decide whether to expand investment.",
+            "The trial-and-error period should not exceed one month. If expectations are not met, stop losses in time and review the reasons to avoid falling into sunk costs.",
+            "Case: Lao Zhang heard that new bonds have high returns, so he first tried to subscribe with 2,000 yuan. After winning the lottery, he earned 300 yuan. After verifying that the method was feasible, he gradually increased the funds, and there was no one-time heavy position."
           ],
           "tags": [
             "Position",
@@ -388,7 +496,11 @@
           "core": "Public strategies will be ineffective once they are crowded.",
           "body": [
             "Ask who is taking on the counterparty.",
-            "Understand the strategy’s revenue sources."
+            "Understand the strategy’s revenue sources.",
+            "When you see a popular strategy, first check the number of participants. If the volume of discussions on social platforms increases sharply, be wary of the risk of crowding and avoid blindly following the trend.",
+            "Use historical data to backtest the performance of the strategy in the past three years and observe whether it fails or returns plummet when there are many people.",
+            "Add personal filtering conditions to the strategy, such as combining trading volume or fundamentals, to reduce losses caused by homogeneous competition.",
+            "Case: Xiao Wang followed the Internet celebrity's \"Moving Average Golden Cross\" strategy to buy, and found that many people were using it. When the signal appeared, the stock price was already high, and the subsequent correction caused him to lose 10%."
           ],
           "tags": [
             "Strategy",
@@ -402,7 +514,11 @@
           "core": "Think of the worst-case scenario first, then talk about opportunities.",
           "body": [
             "List assumptions that could be wrong.",
-            "Prepare corresponding response actions."
+            "Prepare corresponding response actions.",
+            "Write down the maximum amount and proportion of possible losses in this investment in the memorandum, and confirm that you can accept it before taking action.",
+            "Distinguish between \"risks that must be borne\" and \"risks that can be avoided\", such as using diversified positions to reduce the risk of a single target.",
+            "Ask yourself before every decision: If you lose all this money, will your life be affected? If the answer is yes, reduce the position immediately.",
+            "Case: Before Xiao Chen bought a fund, he listed the worst-case scenario: losing 30% and being unable to redeem it when he needed money urgently. Therefore, he kept enough emergency funds and only invested idle funds, keeping his mentality stable."
           ],
           "tags": [
             "Risk",
@@ -416,7 +532,11 @@
           "core": "Stability is better than the occasional good deal.",
           "body": [
             "Record decisions rather than results.",
-            "Focus on repeatable processes."
+            "Focus on repeatable processes.",
+            "Establish a transaction log to record the reasons and results of each operation, calculate the winning rate every month, and optimize inefficient links.",
+            "Set yourself an annualized income target (such as 10%), and do not be greedy to add positions after reaching it, and avoid emotional operations.",
+            "Learn basic knowledge for 30 minutes every day, accumulate knowledge in the long term, and reduce the frequency of trading based on luck.",
+            "Case: Ahai insists on reviewing transactions every week and only does familiar patterns. He has not caught the daily limit in three years but the annualized rate is stable at 15%, while most of his friends who follow hot spots lose money."
           ],
           "tags": [
             "Long-term",
@@ -435,7 +555,11 @@
           "core": "The buyer pays a premium in exchange for the option, and the seller bears corresponding responsibilities.",
           "body": [
             "The buyer’s losses are limited, but the seller’s liability is greater.",
-            "First distinguish whether you are a buyer or a seller."
+            "First distinguish whether you are a buyer or a seller.",
+            "The buyer must make it clear that the maximum loss is the premium, and do not treat options as stocks to cover positions. When losses occur, close positions promptly or give up exercise.",
+            "The seller needs to reserve a margin and estimate extreme price fluctuations of the underlying asset in advance to avoid being forced to sell by a margin call.",
+            "Practice with option simulations to distinguish between \"I have the right\" and \"I have to do it\", and then use small funds to practice after you are familiar with it.",
+            "Case: Investor Xiao Zhou holds an ETF. He buys a call option and pays the premium. When the underlying price expires, the price is lower than the exercise price. He gives up the exercise and only loses the premium."
           ],
           "tags": [
             "Options",
@@ -449,7 +573,11 @@
           "core": "Real value, at-value, and virtual value describe the current state.",
           "body": [
             "The status will change with the underlying price.",
-            "Don’t just look at option prices as cheap."
+            "Don’t just look at option prices as cheap.",
+            "Remember call options: if the exercise price is lower than the current price, it is in-the-money, and if it is higher than the current price, it is out-of-the-money; the opposite is true for put options.",
+            "Mark the option status in the market-reading software, and judge the transaction value based on the number of remaining days. Out-of-the-money options should be held for a long time.",
+            "Calculate intrinsic value: Use the difference between the current price and the exercise price to quickly estimate whether the option is reasonably priced.",
+            "Case: The current stock price is 50 yuan, the call option with an exercise price of 45 yuan is real-valued, the exercise price of 55 yuan is out-of-the-money, and 50 yuan is at-the-money. The status of the three changes as the stock price changes."
           ],
           "tags": [
             "Options",
@@ -463,7 +591,11 @@
           "core": "The closer to expiration, the faster the time loss.",
           "body": [
             "The buyer is in a race against time.",
-            "The seller bears the corresponding risks."
+            "The seller bears the corresponding risks.",
+            "Avoid buying out-of-the-money options with less than 15 days remaining, unless there are clear short-term market expectations to reduce time loss.",
+            "When selling options, give priority to contracts that expire in 30-60 days. At this time, the theta decay rate is relatively gentle.",
+            "Incorporate the remaining days into your trading plan. For example, if you hold for more than half of the days and still fail to make a profit, consider closing the position in advance.",
+            "Case: Lao Chen bought an out-of-the-money call option with 30 days remaining. Two weeks later, the stock price did not rise. He found that the premium was reduced by half, and eventually returned to zero when it expired. Only then did he understand the loss of time."
           ],
           "tags": [
             "Options",
@@ -477,7 +609,11 @@
           "core": "It approximately reflects the impact of changes in the underlying price on options.",
           "body": [
             "The value changes with the underlying price.",
-            "Don’t take it as a guarantee of income."
+            "Don’t take it as a guarantee of income.",
+            "Use delta to estimate short-term price fluctuations: for example, delta 0.3, the price rises by 10 yuan, and the option rises by about 3 yuan, ignoring other factors.",
+            "The delta of a real-valued option is close to 1, and the virtual value is close to 0. You can judge how closely the option follows the underlying based on the delta value.",
+            "Combined with the position delta management risk, if the total delta is too high, the portfolio losses will be magnified when the underlying falls back, so hedge in time.",
+            "Case: Xiao Wu holds a call option with a delta of 0.5. If the underlying stock rises by 1 yuan, the option will rise by approximately 0.5 yuan, which helps him quickly estimate the impact of price fluctuations."
           ],
           "tags": [
             "Greek letters",
@@ -491,7 +627,11 @@
           "core": "It describes the change in value brought about by the passage of time.",
           "body": [
             "Buyers usually have negative theta.",
-            "The impact is magnified when expiration is approaching."
+            "The impact is magnified when expiration is approaching.",
+            "Check the option theta value to understand the daily time loss. Buyers should try not to hold options with high theta for too long.",
+            "The seller can focus on theta returns, but needs to balance the gamma risk to avoid losses caused by sudden changes in the underlying price.",
+            "Comparing theta with different expiration dates, if the recent loss is too fast, the seller will give priority to the mid-term contract, and the buyer will choose the forward contract.",
+            "Case: Xiaolin holds an at-the-money call option that expires in 10 days. The theta is -0.05. He loses 0.05 yuan every day while lying down. After 10 days, the time value will almost return to zero."
           ],
           "tags": [
             "Greek letters",
@@ -505,7 +645,11 @@
           "core": "It is the rate of change of delta.",
           "body": [
             "Gamma will increase as expiration approaches.",
-            "The difficulty of hedging increases accordingly."
+            "The difficulty of hedging increases accordingly.",
+            "Understand that gamma is the rate of change of delta. When the underlying price is close to the exercise price, gamma is the largest and the risk of volatility is also the highest.",
+            "As expiration approaches, at-the-money option gamma soars. Sellers need to be vigilant and can close their positions in advance to avoid drastic changes in delta.",
+            "Use gamma to assist in determining buying and selling points: The buyer chooses a contract with moderate gamma to avoid extreme fluctuations near expiration.",
+            "Case: When the stock price rose rapidly, Xiao Zhang's call option delta rose from 0.4 to 0.7, indicating that gamma made the delta faster, and he took profits in time to lock in profits."
           ],
           "tags": [
             "Greek letters",
@@ -519,7 +663,11 @@
           "core": "It measures the impact of changes in implied volatility.",
           "body": [
             "Rising volatility is good for buyers.",
-            "Volatility may plummet before and after the event."
+            "Volatility may plummet before and after the event.",
+            "Check the Vega value on the quotation page, which often estimates the change in option price based on a 1 percentage point increase in volatility.",
+            "On the same expiration date, Vega is usually the largest near the flat value, and the depth real value and virtual value are smaller, which is suitable for comparison and selection of legs.",
+            "Before going long straddle or wide straddle, first calculate the theoretical profit and loss when the implied volatility changes from 1 to 5 points, and then look at Vega.",
+            "Case: Xiao Li holds a 50ETF call option. The underlying price only rose by 0.3% at midday, but the implied volatility rose from 18% to 26%. He sold to close the position, and the premium rose by 12%. The profit mainly came from the increase in vega."
           ],
           "tags": [
             "Greek letters",
@@ -533,7 +681,11 @@
           "core": "It is the price the market is willing to pay.",
           "body": [
             "High hidden wave means expensive power.",
-            "You can lose money if you look in the right direction."
+            "You can lose money if you look in the right direction.",
+            "Look at the implied volatility and historical volatility side by side. When the difference widens, first ask whether the increase is driven by events or sentiment.",
+            "Implied volatility often rises before financial reports, expiration, and holidays. When comparing contracts of the same term, don’t judge event premiums as direction.",
+            "Use the implied volatility to calculate the break-even increase before buying options. If you need an increase or decrease that exceeds the historical fluctuation range, be cautious.",
+            "Case: Before the financial report, Ms. Wang saw that the implied volatility of a certain stock option was as high as 45%, and she thought that the stock price would rise sharply; after she bought the straddle, the financial report was mediocre, the IV fell back, the stock price rose slightly, but the premium shrank."
           ],
           "tags": [
             "Volatility",
@@ -547,7 +699,11 @@
           "core": "The direction, amplitude and time must be correct.",
           "body": [
             "You may lose money if the increase is not enough or the time is too long.",
-            "Calculate the break-even point first."
+            "Calculate the break-even point first.",
+            "First write down the target price and expected arrival date, and then use the option calculator to work out how much it needs to rise to exceed breakeven.",
+            "If there is only a small increase, the single-leg premium may suffer losses due to the loss of time value, and the cost can be reduced by comparing the spread combination.",
+            "When approaching financial reports or strong resistance levels, check whether the implied volatility is already high to avoid going in the right direction but with too expensive premiums.",
+            "Case: Mr. Zhang bought a Tencent call option that expired in one month, judging that he was looking in the right direction. However, the underlying stock only rose by 1% and was approaching expiration. The time value declined rapidly, and the option still suffered a loss when selling."
           ],
           "tags": [
             "Strategy",
@@ -561,7 +717,11 @@
           "core": "It is both a directional tool and a protective tool.",
           "body": [
             "is used for downward bets that require high timing.",
-            "Accept the cost when acting as insurance."
+            "Accept the cost when acting as insurance.",
+            "When making a direction, first look at the confirmation level of the breakout and set a premium stop loss. Do not regard a small retracement as a trend reversal.",
+            "When doing position insurance, the strike price is close to the bearable loss level, and the premium you are willing to pay is calculated based on the maximum retracement.",
+            "The event window must be covered during the protection period. If you only buy the expiry next week but worry about the risk at the end of the month, the protection will be interrupted.",
+            "Case: Aunt Chen held 10,000 shares of 50ETF and bought put option protection close to the current price; two weeks later, the ETF fell 8%, the position lost 2,400 yuan, the put net profit was about 1,600 yuan, and the retracement was significantly reduced."
           ],
           "tags": [
             "Strategy",
@@ -575,7 +735,11 @@
           "core": "Received the premium and gave up the upside.",
           "body": [
             "Suitable for moderately bullish judgment.",
-            "The opportunity cost is obvious when there is a big rise."
+            "The opportunity cost is obvious when there is a big rise.",
+            "Before opening a position, set the price you are willing to sell at. Once the target exceeds the exercise price, you will stop enjoying subsequent rising profits.",
+            "Compare the royalties with expected dividends and target growth. If the royalties are not enough to compensate for giving up space, it is better not to add coverage.",
+            "After the option is exercised, the delivery funds or number of stocks must be reserved, and taxes and fees must be checked to avoid passive transfers and fund gaps.",
+            "Case: Lao Zhou held 10,000 shares of 50ETF, sold the subscription cover slightly higher than the current price next month, and received the premium; the ETF later rose by 15% and was exercised, and the income stopped at the exercise price, missing the subsequent increase."
           ],
           "tags": [
             "Strategy",
@@ -589,7 +753,11 @@
           "core": "Insurance is not free.",
           "body": [
             "Think of royalties as expenses.",
-            "Choose protection coverage at an affordable cost."
+            "Choose protection coverage at an affordable cost.",
+            "Determine the protection ratio based on the market value of the position. Use 20% of the position for trial purchase first to avoid paying too high a premium at one time.",
+            "Convert the premium into an adult cost, and then compare it with the tolerable drawdown. If the cost is higher than the expected return, the protection period will be shortened.",
+            "When it is close to expiration and the underlying is far above the exercise price, it can be rolled to the next month to avoid repeated payments of approaching losses.",
+            "Case: Mr. Liu was worried about a callback in his position, so he bought put options every month as insurance. The market was sideways for three consecutive months, and the insurance was of no use. The cumulative premium expenditure was 3,000 yuan, which ate up part of the dividends."
           ],
           "tags": [
             "Strategy",
@@ -603,7 +771,11 @@
           "core": "Simultaneous buying and selling can drive down net costs.",
           "body": [
             "Returns and risks are framed.",
-            "The complexity increases and you need to understand the relationship between the legs."
+            "The complexity increases and you need to understand the relationship between the legs.",
+            "When making a bull market spread, buy at a lower strike price and sell at a higher strike price. First confirm that the maximum loss is equal to the net premium.",
+            "When making a bear market spread, sell at a high strike price and buy at a low strike price, and check whether the margin occupation and maximum profit match.",
+            "Try to choose the same expiration date for both legs of the price difference. When liquidity is insufficient, place a limit order first, and do not use the market price to chase the transaction.",
+            "Case: Xiao Zhao is bullish on a certain ETF but is afraid of chasing higher prices. He buys to subscribe at a low exercise price and sells to subscribe at a high exercise price. The net premium is reduced by 30%; the underlying stock makes a profit after a moderate rise, and the maximum loss is locked in the net expenditure."
           ],
           "tags": [
             "Strategy",
@@ -617,7 +789,11 @@
           "core": "Profits are limited and losses may be large.",
           "body": [
             "Not recommended for use when there is no risk control capability.",
-            "Margin calls may occur."
+            "Margin calls may occur.",
+            "Before selling, write down the worst-case scenario profit and loss, and calculate whether the underlying price jumps by 20% to see if it exceeds the account's tolerance.",
+            "Do not use the spot price limit or price limit as a safety line. Extreme market conditions will result in continuous gaps, and stop-loss orders may not be filled as expected.",
+            "Prioritize using call options to form spreads or covers, changing unlimited or high risks into calculable maximum losses.",
+            "Case: Master Sun sold call options on a certain stock without position protection, just to earn 3,000 yuan in royalties; the company suddenly announced good news, and the stock price doubled in a week. He was forced to close the position at a high price, with a loss of more than 60,000 yuan."
           ],
           "tags": [
             "Risk",
@@ -631,7 +807,11 @@
           "core": "It will be added with fluctuations.",
           "body": [
             "Set aside an extra cash buffer.",
-            "Estimated occupancy based on worst case scenario."
+            "Estimated occupancy based on worst case scenario.",
+            "Estimate the initial margin according to the exchange formula, and reserve at least double the cash to prevent passive repayment during fluctuations.",
+            "Check the maintenance margin ratio every day, reduce your position first when it is close to the broker's warning line, and do not wait for the forced liquidation notice.",
+            "Multiple short contracts on the same subject will occupy each other's margins. Do not regard available funds as the amount that can be lost.",
+            "Case: Ms. Lin sold a straddle combination, and her account showed that the margin account was 20,000 yuan; after the underlying fluctuations amplified, the margin requirement rose to 50,000 yuan. She failed to make up the money in time, and the securities firm forced liquidation, and the loss expanded."
           ],
           "tags": [
             "Margin",
@@ -645,7 +825,11 @@
           "core": "The transaction cost is very high when the price difference is large.",
           "body": [
             "Priority is given to contracts with active transactions.",
-            "Avoid trading unpopular contracts near expiration."
+            "Avoid trading unpopular contracts near expiration.",
+            "Before placing an order, check the bid-ask spread, trading volume and open interest. If the spread exceeds the premium, give up first.",
+            "Priority is given to the main month and the exercise price close to the current price. Unpopular deep contracts may have quotations but are difficult to trade.",
+            "When closing a position, use limit orders to gradually compromise from the first purchase price to prevent market orders from eating up most of the profit due to slippage.",
+            "Case: Mr. He bought an unpopular month option and wanted to sell it when it was profitable. He found that the difference between the buying price and the selling price was 0.08 yuan; he could only close the transaction at the buying price, and half of his original book profit was eaten up by the price difference."
           ],
           "tags": [
             "Liquidity",
@@ -659,7 +843,11 @@
           "core": "The exercise and settlement methods may be different.",
           "body": [
             "There is a big difference between cash settlement and physical delivery.",
-            "Close positions in advance when uncertain."
+            "Close positions in advance when uncertain.",
+            "Check the last trading day, exercise date and delivery date of the contract. They are often different. Funds must be reserved for equity delivery.",
+            "Confirm whether the option is American or European. American options can be exercised in advance, while European options can usually only be processed upon expiration.",
+            "If you do not plan to exercise the real-valued contract, you must close the position before the last trading day to avoid automatic exercise of the stock position at expiration.",
+            "Case: Ms. Li held cash-settled index options and thought she would receive the corresponding stocks after expiration. As a result, her account was only credited with the difference between the settlement prices; she did not check the rules in advance, and her funding arrangements were disrupted."
           ],
           "tags": [
             "Expiration",
@@ -673,7 +861,11 @@
           "core": "The value of the remaining time will be wasted.",
           "body": [
             "In most cases it is better to close the position.",
-            "Dividends and other special circumstances will be judged separately."
+            "Dividends and other special circumstances will be judged separately.",
+            "Before you want to exercise the option in advance, first compare the income from the exercise with the income from directly selling the contract. The latter often contains the remaining time value.",
+            "Only when ex-dividend is approaching and the dividend is greater than the remaining time value, early exercise of the call option is considered.",
+            "If the option can still be sold, priority will be given to closing the position at a price limit; if there is insufficient cash or delivery is not possible, the option will be re-evaluated.",
+            "Case: Ms. Zhou held an American call option and exercised the option early to buy the stock even though it was slightly in value. Two weeks later, the stock price continued to rise, and she realized that exercising the option in advance wasted the value of the remaining time and made less money."
           ],
           "tags": [
             "Exercise",
@@ -687,7 +879,11 @@
           "core": "Any strategy must first write down the worst result.",
           "body": [
             "Use Greek letters to make a rough estimate.",
-            "Include the handling fee."
+            "Include the handling fee.",
+            "Before placing an order, the stop loss is triggered simultaneously for all positions to estimate the expenditure, including slippage, handling fees and borrowing costs.",
+            "Set a single-day retracement limit for the account, close the trading software when it is reached, and review the trading the next day to see if it continues.",
+            "Convert the expected loss into a proportion of monthly income or rent, and reduce your living expenses by half if it exceeds one month.",
+            "Case: Before Ms. Wang bought 100,000 yuan worth of stocks, she first wrote down a plan to “leave the market with a maximum loss of 20,000 yuan”. Then the market fell, and she strictly implemented stop loss and sold after a loss of 20,000 yuan, thus avoiding a deeper trap."
           ],
           "tags": [
             "Risk",
@@ -701,7 +897,11 @@
           "core": "The hidden wave often falls quickly after the financial report.",
           "body": [
             "If you are in the right direction, you may lose money due to the decline of hidden waves.",
-            "Consider exposure to volatility itself."
+            "Consider exposure to volatility itself.",
+            "Before the financial report, if you buy a straddle, first look at the implied volatility at the 10th percentile of the past year. Be careful to pursue the buyer when it is above 80%.",
+            "Comparing the historical amplitudes before and after the event, if the hidden wave pricing has exceeded the average volatility of the past four times, do not sell the straddle naked.",
+            "Set a time limit on profit on the day the financial report is announced. If the floating profit reaches the standard within one hour after the opening, the position will be reduced, and no bets will be made on the aftermath.",
+            "Case: Mr. Li bought call options on a certain technology stock before the financial report was released. Although the stock price rose after the financial report was released, the implied volatility fell rapidly, and the option price did not rise but fell. He sold it in time to avoid greater losses."
           ],
           "tags": [
             "Volatility",
@@ -715,7 +915,11 @@
           "core": "High leverage comes with high losses.",
           "body": [
             "Use small positions to verify your judgment.",
-            "Stop adding when losing money continuously."
+            "Stop adding when losing money continuously.",
+            "Only buy contracts that are at least thirty days from expiration to avoid quickly depleting time value in the last week.",
+            "Single premium is controlled within 2% of the net value of the account, and buying is suspended for three consecutive losses.",
+            "Treat out-of-value contracts as fees rather than deposits. Before entering the market, write down the reasons why you can still afford to return to zero when it expires.",
+            "Case: Mr. Zhang spent 5,000 yuan to buy 50 doomsday options, hoping for a sharp rise. However, the price of the underlying asset went sideways, the time value was rapidly depleted, and the option returned to zero when it expired, and he lost all his principal."
           ],
           "tags": [
             "MENTALITY",
@@ -729,7 +933,11 @@
           "core": "Leave the market when the reason for entering the market disappears.",
           "body": [
             "Write the time stop loss and price stop loss.",
-            "Proceed as planned after reaching the goal."
+            "Proceed as planned after reaching the goal.",
+            "When opening a position, write down three exit triggers at the same time: price, time, and fundamental changes. If one is missing, no order will be placed.",
+            "If the original judgment relies on a certain piece of news, the news will be evaluated on the same day after it is confirmed or falsified, without relying on emotions for delay.",
+            "When the loss reaches the preset line, it will be executed immediately. After the profit is made, press the moving stop profit to exit to avoid turning profit into loss.",
+            "Case: Ms. Chen bought call options on a certain stock in anticipation of merger and acquisition news. After the merger was rejected, she immediately sold options and left the market. Although she suffered a small loss, she avoided greater losses caused by the subsequent price drop."
           ],
           "tags": [
             "Discipline",
@@ -743,7 +951,11 @@
           "core": "The hidden waves of different exercise prices are not the same.",
           "body": [
             "Reflects the market’s pricing of tail risk.",
-            "Simple models will be distorted."
+            "Simple models will be distorted.",
+            "Draw the hidden wave on the same expiration date into a curve based on the exercise price, and first check whether the lowest point deviates from the current price.",
+            "When the virtual bearish hidden wave is significantly higher than the normal value, first check whether there is hedging demand or panic events.",
+            "Comparing the same exercise price with different expiration months, if the hidden wave in recent months is abnormally high, pay attention to the short-term event premium.",
+            "Case: Mr. Liu found that the implied volatility of out-of-the-money call options for the same underlying was significantly higher than that of at-the-money options. He sold high hidden wave out-of-the-money options and bought at-the-money options, constructed a volatility arbitrage strategy, and ultimately made a profit."
           ],
           "tags": [
             "Volatility",
@@ -757,7 +969,11 @@
           "core": "The results are different for different holding periods and exercise methods.",
           "body": [
             "Record details of each transaction.",
-            "Seek professional advice."
+            "Seek professional advice.",
+            "Record the date of each purchase, sale, and exercise, and first distinguish between short-term and long-term holdings before estimating the tax burden.",
+            "Cash exercise and physical delivery are calculated separately to confirm whether the wash sale rules or double taxation are triggered.",
+            "Reserve a tax account before New Year's Eve transactions, and check whether the realized profits and losses are suitable for carryover at the end of December.",
+            "Case: Mr. Zhao consulted a tax advisor before selling stock options and learned that he can enjoy preferential tax rates if the holding period exceeds one year. He adjusted his trading strategy, delayed exercise, and ultimately legally saved thousands of dollars in taxes."
           ],
           "tags": [
             "Taxation",
@@ -771,7 +987,11 @@
           "core": "Understanding the mechanism does not equal execution ability.",
           "body": [
             "First use a small amount or demo account to familiarize yourself with the process.",
-            "Save the mistakes for the low-cost stage."
+            "Save the mistakes for the low-cost stage.",
+            "Use simulated trading to execute twenty transactions in a row, and record whether to enter the market at the preset price and stop loss.",
+            "The real market speed and handling fees are used simultaneously during simulation. You cannot drag the time arbitrarily in the review software.",
+            "Only when the simulated winning rate, profit-loss ratio and maximum retracement are stable for one consecutive month, then reduce the position to one-tenth of the actual offer.",
+            "Case: Ms. Sun repeatedly practiced option trading in a simulated account and became familiar with the effects of volatility and time value. After the trade turned real, she calmly executed the strategy and avoided losses caused by emotional operations."
           ],
           "tags": [
             "Learn",
@@ -790,7 +1010,11 @@
           "core": "Losing the private key means losing the asset.",
           "body": [
             "Mnemonic phrases are saved offline and backed up in multiple remote locations.",
-            "Never take screenshots and never send them to others."
+            "Never take screenshots and never send them to others.",
+            "For the new wallet, first back up the mnemonic phrase to offline paper and write it down in two different safe places. Do not take photos and upload them.",
+            "Use a small amount to transfer in and out to verify that the backup can be restored. Make sure the address and network are selected correctly before increasing the amount.",
+            "Prioritize hardware wallets for long-term holding of large amounts, and open small hot wallets for daily interactions to isolate risks.",
+            "Case: Mr. Wu wrote the Bitcoin private key on paper and kept it properly. Later, when his computer was infected and he reinstalled the system, his wallet files were lost, but he successfully recovered his assets and avoided losses by relying on the private key on paper."
           ],
           "tags": [
             "Wallet",
@@ -804,7 +1028,11 @@
           "core": "Putting it on the platform means trusting the platform.",
           "body": [
             "Consider self-custody for long-term holdings.",
-            "Platform assets must have evidence that they can be withdrawn."
+            "Platform assets must have evidence that they can be withdrawn.",
+            "Check whether the platform discloses reserve certificates and liability standards, and only trust addresses and signatures that can be verified on the chain.",
+            "Use the exchange as a trading tool. After completing the transaction, withdraw the coins to your self-managed wallet and keep the long-term balance as low as possible.",
+            "Distribute to two to three compliance platforms, and enable currency withdrawal whitelists and time locks to reduce single-point risks.",
+            "Case: Ms. Zheng stored a large amount of Ethereum on an exchange. The exchange was hacked due to a security breach and its assets were frozen. She regrets not withdrawing her assets to her hardware wallet."
           ],
           "tags": [
             "Exchange",
@@ -818,7 +1046,11 @@
           "core": "Unlimited authorization is a common risk point.",
           "body": [
             "Only authorize the required quantity.",
-            "Periodically revoke authorizations that are no longer in use."
+            "Periodically revoke authorizations that are no longer in use.",
+            "Check the contract address, source code verification and creation time in the block browser before authorization. Don’t just look at the project name.",
+            "Change the authorization limit to the amount required for this time. If there is an unlimited limit, reject it first or cancel it later.",
+            "Use the authorization query tool to clean up idle licenses every month, and give priority to canceling contracts that have not been used for more than six months.",
+            "Case: When Mr. He used a DeFi application, he authorized an unlimited amount of USDC to the contract. Later the contract was attacked and his USDC was stolen. He realizes that only the required amount should be authorized and that authorization should be revoked promptly."
           ],
           "tags": [
             "Authorization",
@@ -832,7 +1064,11 @@
           "core": "Signature requests may silently transfer assets.",
           "body": [
             "Read what you are signing.",
-            "Remain suspicious of unfamiliar pages by default."
+            "Remain suspicious of unfamiliar pages by default.",
+            "When you see the signature page read permission type first, setApprovalForAll and transferFrom will be suspended.",
+            "Check the pop-up domain name, contract address and wallet network, enter the official website from favorites, and do not click on the private message link.",
+            "Open the decentralized application in read-only mode to check the message content. If you cannot understand the clear text, cancel the connection.",
+            "Case: Ms. Guo received a fake airdrop email linking to a fake wallet website. She carefully checked the domain name and signature content, and refused to sign after discovering anomalies, thus protecting the security of her assets."
           ],
           "tags": [
             "Fishing",
@@ -846,7 +1082,11 @@
           "core": "Small reverse fluctuations under high leverage may cause liquidation.",
           "body": [
             "Understand the liquidation price and margin mechanism.",
-            "Think of leverage as a risk rather than a return tool."
+            "Think of leverage as a risk rather than a return tool.",
+            "Before opening a position, use the maintenance margin rate to reverse the liquidation price and ensure that there is at least a 5% gap between the exit price and the liquidation price.",
+            "Think of leverage as the reciprocal of the stop loss distance. The closer the stop loss is, the higher the leverage. Don't choose the multiple first and then find reasons.",
+            "Set price warnings instead of just focusing on profit and loss. When the margin rate is less than twice, reduce your position first and then judge the direction.",
+            "Case: Mr. Ma used 20 times leverage to be long on Ethereum. The price only fell 5% before a forced liquidation was triggered, resulting in a loss of all margins. He deeply understands that even small fluctuations under high leverage may lead to liquidation."
           ],
           "tags": [
             "Leverage",
@@ -860,7 +1100,11 @@
           "core": "It is a regular payment between long and short.",
           "body": [
             "The direction of the fee rate will change with market sentiment.",
-            "For long-term positions, the fee rate must be included in the cost."
+            "For long-term positions, the fee rate must be included in the cost.",
+            "Check the \"funding rate\" and countdown on the exchange contract page to confirm the settlement cycle (usually every 8 hours).",
+            "The rate is determined by the difference between the mark price and the spot price and the interest rate. When the rate is positive, longs pay shorts, and vice versa.",
+            "Compare the historical fee levels before taking a position. If it remains high for a long time, multi-day fees need to be included in the calculation of potential transaction costs.",
+            "Case: Xiao Li opened a long order of BTC perpetual contract on the exchange. After holding the position overnight, he found that a small amount of funding rate was deducted from the bill. He checked the rules and found that when the funding rate became positive, longs had to pay fees to shorts. This made him understand that the cost of holding a position is not only the handling fee."
           ],
           "tags": [
             "Contracts",
@@ -874,7 +1118,11 @@
           "core": "Dramatic price changes are not anomalies.",
           "body": [
             "The position must be able to withstand common fluctuations.",
-            "No short-term funds are required to participate."
+            "No short-term funds are required to participate.",
+            "When setting stop loss and profit, you should refer to the average daily fluctuation range (ATR indicator) instead of a fixed percentage to avoid being swept away by normal fluctuations.",
+            "When observing the K-line, pay attention to the fact that a single-day increase or decrease of more than 10% is common in the crypto market, and you need to plan in advance the maximum retracement ratio you can tolerate.",
+            "Use fixed investment or batch building strategies to smooth the entry cost through time dispersion and avoid the pressure of single-point timing.",
+            "Case: Sister Wang bought a certain mainstream currency, and one day she suddenly saw the price plummet by 15% in half an hour. She was so panicked that she almost cut her flesh. Later, she checked the historical trends and found that fluctuations of this magnitude were common in the market. She finally decided to stay calm and continue to hold, avoiding losses."
           ],
           "tags": [
             "Volatility",
@@ -888,7 +1136,11 @@
           "core": "The settlement rules are different in different environments.",
           "body": [
             "Confirm which layer the asset is on.",
-            "Check the address format before cross-chain operations."
+            "Check the address format before cross-chain operations.",
+            "Confirm the network type before transferring, such as ERC-20, TRC-20. Choosing the wrong network will cause assets to be lost and usually cannot be retrieved.",
+            "Transactions on the chain need to wait for block confirmation. The transaction will not be credited until the number of confirmations required by the exchange (such as 12) is reached. Time needs to be reserved.",
+            "Transfers within the exchange (off-chain) usually arrive instantly and with zero fees, while withdrawals to wallets (on-chain) require miner fees.",
+            "Case: Mr. Zhang transferred money to a friend within the exchange, and it arrived in seconds with no handling fee; but when his friend withdrew the coins to his personal wallet, he not only paid the mining fee but also waited ten minutes for confirmation. Only then did he realize that the exchange had off-chain accounting, and that the wallet was the real on-chain settlement."
           ],
           "tags": [
             "On-chain",
@@ -902,7 +1154,11 @@
           "core": "The cost will rise when the network is congested.",
           "body": [
             "Choose an opportunity to execute non-urgent transactions.",
-            "Include expenses into revenue calculations."
+            "Include expenses into revenue calculations.",
+            "Before initiating a transfer, the wallet or exchange will estimate the gas fee, and you can choose the economic or priority level according to the urgency of the transaction.",
+            "Check the average gas price of the network through the blockchain browser to avoid non-urgent transactions during congested periods (such as evenings).",
+            "For Layer 2 networks such as Polygon and Arbitrum, confirm that they use native tokens to pay Gas instead of mainnet ETH.",
+            "Case: Xiao Chen was in a hurry to transfer money on Ethereum. The network was very congested at the time. He set a higher gas price limit in order to quickly receive the money. As a result, the handling fee was as high as 50 US dollars, far exceeding the transfer amount. Afterwards, he learned to avoid peak periods and set gas fees appropriately to save costs."
           ],
           "tags": [
             "Expenses",
@@ -916,7 +1172,11 @@
           "core": "Code loopholes will cause irreversible losses.",
           "body": [
             "Prefer audited protocols.",
-            "Do not put all assets into a single agreement."
+            "Do not put all assets into a single agreement.",
+            "Before interacting, check whether the contract has been audited by a well-known auditing agency (such as CertiK, SlowMist), and read the conclusions of the audit report.",
+            "Be wary of unlimited authorization (Approve unlimited quota), and regularly use tools such as Revoke.cash to revoke unused contract authorizations.",
+            "Prioritize protocols that have a long online time, stable lock-in volume (TVL) and high community activity to reduce the risk of running away.",
+            "Case: A certain DeFi project was exploited by hackers to transfer assets worth tens of millions of dollars due to a reentrancy vulnerability in the smart contract. The funds deposited by many users were instantly reduced to zero. Due to the immutability of the blockchain, these losses cannot be recovered, and the lesson is extremely painful."
           ],
           "tags": [
             "DeFi",
@@ -930,7 +1190,11 @@
           "core": "The anchoring mechanism is not absolutely reliable.",
           "body": [
             "Understand the reserve and redemption mechanisms.",
-            "Assess in time when anchor breaks."
+            "Assess in time when anchor breaks.",
+            "Distinguish the types of stablecoins: legal currency mortgage (USDC), crypto-collateral (DAI) or algorithmic type (UST that has been exposed), with different risk levels.",
+            "Check the reserve audit report to confirm whether the issuer has sufficient and transparent legal currency or short-term treasury bonds as backing assets.",
+            "Pay attention to historical events of de-anchoring. For example, USDT has briefly fallen below US$0.99 many times. Under extreme market conditions, you need to guard against liquidity depletion.",
+            "Case: Xiao Liu exchanged all his savings into an algorithmic stable currency, thinking that it is as safe as the US dollar. Later, the stablecoin was seriously unanchored due to a mechanism collapse, and the price once fell to $0.1, causing his assets to shrink significantly. Only then did he realize that stablecoins are not absolutely risk-free."
           ],
           "tags": [
             "Stablecoins",
@@ -944,7 +1208,11 @@
           "core": "High returns must correspond to high risks.",
           "body": [
             "Ask about the source of income.",
-            "Reject the \"guaranteed profit\" talk by default."
+            "Reject the \"guaranteed profit\" talk by default.",
+            "Be wary of projects that promise \"daily return exceeds 1%\", which is equivalent to an annual return of 365%, which is unsustainable in reality.",
+            "Check the source of income. If you cannot tell where the funds come from (such as transaction fees, loan interest), it is mostly a Ponzi structure.",
+            "Check whether the project parties and recommenders have compliant financial licenses. Public fundraising without a license is illegal in mainland China.",
+            "Case: Lao Zhou was attracted by a platform that claimed \"annual income of 30% and guaranteed capital\" and invested 50,000 yuan. At first, I could withdraw money normally, but a few months later the platform suddenly ran away and I lost all my money. Only then did he realize that there is no pie in the sky, and the guarantee of capital and high interest rates are all a scam."
           ],
           "tags": [
             "Scam",
@@ -958,7 +1226,11 @@
           "core": "Grand narrative cannot replace actual needs.",
           "body": [
             "Check if there is a real user.",
-            "See if the token economy is reasonable."
+            "See if the token economy is reasonable.",
+            "Check the code submission frequency and number of developers on GitHub. Projects that have not been updated for a long time or are maintained by a single person lack technical support.",
+            "Look for the “Problem Solving” section in the white paper to confirm whether its solution is less expensive or more efficient than existing solutions.",
+            "Check the token economic model. If the team’s reservation ratio exceeds 30% and there is no lock-up period, you need to be wary of the risk of early selling pressure.",
+            "Case: Xiao Lin was attracted by the white paper of a blockchain project, which described a grand blueprint for changing the world. But he neglected to examine the team's background and actual application scenarios. After investing, he found that the project had no practical application at all, and the token price plummeted."
           ],
           "tags": [
             "Project",
@@ -972,7 +1244,11 @@
           "core": "The claiming action may require authorization.",
           "body": [
             "Check whether the source is official first.",
-            "Do not connect unknown wallets."
+            "Do not connect unknown wallets.",
+            "Manually enter the official website domain name and do not click on short links in Twitter or Discord private messages to prevent phishing from fake websites.",
+            "After connecting to the wallet, carefully read the authorization request that pops up. If it requires \"unlimited\" authorization or ownership transfer, reject it immediately.",
+            "Use a hardware wallet or a dedicated \"reading wallet\" (read-only mode) to view the airdrop, and do not sign directly in the main wallet.",
+            "Case: Xiao Zhao saw the airdrop link on the social platform, excitedly clicked and signed the wallet authorization. A few minutes later, his wallet was emptied of NFTs and tokens. It turned out to be a phishing website, and he paid a heavy price for his greed for free tokens."
           ],
           "tags": [
             "Fishing",
@@ -986,7 +1262,11 @@
           "core": "A backup that has not been verified means no backup.",
           "body": [
             "Rehearse recovery procedures regularly.",
-            "Give recovery information to someone you trust."
+            "Give recovery information to someone you trust.",
+            "Write the mnemonic words on fire-proof and waterproof paper strips and store them separately (for example, 3 copies are stored in different physical locations) to avoid single-point disasters.",
+            "In an offline device or new wallet, use the backup mnemonic phrase to conduct a recovery test to confirm that the assets and address can be retrieved.",
+            "When using an encrypted USB drive (such as Keystone) to store digital backups, make sure the password is strong enough and does not duplicate commonly used passwords.",
+            "Case: Ajie copied the wallet mnemonic on paper and locked it in the safe, thinking he would have nothing to worry about. Later, when his phone was damaged and he bought a new device to restore his wallet, he discovered that the order of the original copying was wrong and the assets could not be recovered. He regretted not verifying the backup in advance."
           ],
           "tags": [
             "Wallet",
@@ -1000,7 +1280,11 @@
           "core": "Original records are required for reconciliation and taxation.",
           "body": [
             "Export platform history.",
-            "Record the on-chain transaction hash."
+            "Record the on-chain transaction hash.",
+            "Export CSV transaction records of the exchange, including time, trading pairs, quantity, price and handling fees, and keep them for at least 5 years.",
+            "Use a browser such as Etherscan to generate a PDF certificate for on-chain transactions, and note the transaction hash (TxHash) and usage description.",
+            "Use accounting tools (such as Koinly) to automatically synchronize APIs and check asset changes on a monthly basis to facilitate annual tax declarations.",
+            "Case: Ms. Liu often conducts cryptocurrency transactions, but she never saves transaction screenshots. When filing taxes at the end of the year, she was unable to accurately calculate the benefits and costs and could only estimate from memory, which not only consumed a lot of time but also faced tax compliance risks."
           ],
           "tags": [
             "Record",
@@ -1014,7 +1298,11 @@
           "core": "Address reuse will expose fund connections.",
           "body": [
             "Use a new address to receive funds from different sources.",
-            "Be aware of the risk of privacy leakage."
+            "Be aware of the risk of privacy leakage.",
+            "A new address is generated each time funds are received. The exchange usually automatically assigns a new address for withdrawals, but you need to change it when filling it in manually.",
+            "Use the hierarchical deterministic wallet (HD Wallet) that supports the BIP-32 standard to automatically generate a change address for each transaction.",
+            "Avoid posting payment addresses publicly, and if they must be made public (such as for donations), use a newly generated address that is intended for a single use only.",
+            "Case: Mr. Zhang wants to save trouble and uses the same wallet address every time he receives money. Later, when he checked on the chain browser, he found that all his transaction records and fund flows were clearly visible, and he was even targeted by criminals, and his privacy was completely exposed."
           ],
           "tags": [
             "Privacy",
@@ -1028,7 +1316,11 @@
           "core": "Unconfirmed transactions may be reorganized.",
           "body": [
             "Large transactions are waiting for more confirmations.",
-            "Don’t treat unconfirmed as final."
+            "Don’t treat unconfirmed as final.",
+            "Before making a large-amount transfer, be sure to check the current number of confirmations prompted by your wallet or exchange. For small amounts, it is usually 1-3. For large amounts, it is recommended to wait for more than 6 before it is considered final.",
+            "Use the block explorer to query your transaction hash, check the number of blocks that have been packaged in real time and whether they are marked as 'unconfirmed' or 'replaced' to avoid blind waiting.",
+            "If the transaction is not confirmed for a long time, you can try to use the 'acceleration' function of the wallet or increase the gas fee appropriately and rebroadcast, but you need to be wary of the risk of repeated payments.",
+            "Case: Xiao Wang saw the \"1 confirmation\" prompt when withdrawing ETH from the exchange and immediately sold it. As a result, he encountered a blockchain reorganization and the original transaction was cancelled. As a result, he neither received ETH nor lost the transaction proceeds, which were worth about 3,000 yuan."
           ],
           "tags": [
             "On-chain",
@@ -1042,7 +1334,11 @@
           "core": "The listing price is not equal to the transaction price.",
           "body": [
             "Check the real transaction records.",
-            "Incorporate liquidity risk into valuation."
+            "Incorporate liquidity risk into valuation.",
+            "When viewing NFTs on platforms such as OpenSea, focus on the 'recent transaction price' and 'historical transaction record', rather than just looking at the seller's listing price, which is often inflated.",
+            "Check the 'floor price' trend and 24-hour trading volume of this NFT series. If the trading volume continues to be sluggish and the number of pending orders is much greater than the number of transactions, it means that it is extremely difficult to realize.",
+            "Before purchasing, you should analyze the distribution of holders. If the proportion of positions held by a single address is too high or the proportion of locked positions by the project party is large, you need to be wary of the risk of liquidity depletion due to market control.",
+            "Case: Artist Xiao Li listed his work on OpenSea at 5ETH, but no one took notice of it for three months. The price was finally reduced to 1.2 ETH before the transaction was completed. During this period, a gas fee of 0.05 ETH was paid. The actual price received was less than a quarter of the listed price."
           ],
           "tags": [
             "NFT",
@@ -1056,7 +1352,11 @@
           "core": "Rule changes will affect availability.",
           "body": [
             "Pay attention to the compliance requirements in your region.",
-            "Do not regard policy games as investment logic."
+            "Do not regard policy games as investment logic.",
+            "Regularly check announcements on the official website of the project and documents issued by regulatory agencies in the jurisdiction (such as SEC, central bank), and do not rely solely on gossip on social media to make decisions.",
+            "If your region suddenly tightens regulations on cryptocurrency trading, you should immediately check whether the commonly used exchanges have issued announcements of 'no fiat currency deposits' or 'restrictions on withdrawals'.",
+            "For projects that rely on specific policy dividends (such as certain staking returns), it is necessary to preset an exit mechanism after the policy is withdrawn, such as transferring assets to a compliant decentralized protocol.",
+            "Case: After the implementation of the \"double reduction\" policy in 2021, online education platforms such as New Oriental were forced to stop subject training services in the compulsory education stage. Their core courses were instantly inaccessible to users, and their businesses were forced to undergo a comprehensive transformation."
           ],
           "tags": [
             "Compliance",
