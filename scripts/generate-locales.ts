@@ -1,7 +1,7 @@
 /**
- * 一次性脚本：用免费翻译接口把简体中文内容翻译成英文和繁体中文。
+ * 一次性脚本：用免费翻译接口把界面文案从简体中文翻译成英文。
  * 运行：bun scripts/generate-locales.ts
- * 产物写入 src/data/locales/en.json 与 zh-TW.json（提交进仓库，运行时不依赖网络）。
+ * 产物写入 src/data/locales/en.json（提交进仓库，运行时不依赖网络）。
  *
  * 接口对单条请求限流较严，因此把多条文本用 ||| 拼接后批量翻译，再按分隔符拆回。
  */
@@ -10,7 +10,7 @@ import { guides } from '../src/data/guides'
 import { references, site } from '../src/data/references'
 import { ui } from '../src/data/ui'
 
-type Locale = 'en' | 'zh-TW'
+type Locale = 'en'
 const SEP = '|||'
 const BATCH_SIZE = 20
 const CACHE_FILE = new URL('./.translation-cache.json', import.meta.url)

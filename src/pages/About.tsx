@@ -1,3 +1,4 @@
+import { sourceLicenses } from '../data/licenses'
 import { useLocale } from '../context/LocaleContext'
 
 const platforms = [
@@ -7,7 +8,7 @@ const platforms = [
 ]
 
 export function About() {
-  const { t, content } = useLocale()
+  const { t, content, locale } = useLocale()
   const reasons = [
     { no: t('about.why1.no'), title: t('about.why1.title'), text: t('about.why1.text') },
     { no: t('about.why2.no'), title: t('about.why2.title'), text: t('about.why2.text') },
@@ -96,6 +97,34 @@ export function About() {
         </div>
       </section>
 
+      <section className="section section--rule">
+        <div className="wrap">
+          <div className="section-head">
+            <div className="section-head__title">
+              <h2>{t('about.license.title')}</h2>
+            </div>
+            <span className="section-head__en">{t('about.license.en')}</span>
+          </div>
+          <p className="section-lead">{t('about.license.lead')}</p>
+          <div className="ref-list">
+            {sourceLicenses.map((source) => (
+              <div className="ref-item" key={source.name}>
+                <span className="ref-item__no">
+                  {source.mode === 'full' ? '✓' : '·'}
+                </span>
+                <h3>{source.name}</h3>
+                <p>
+                  <strong>{source.license}</strong> ·{' '}
+                  {locale === 'en' ? source.noteEn : source.note}
+                </p>
+                <span className="ref-item__tag">
+                  {source.mode === 'full' ? t('about.license.full') : t('about.license.index')}
+                </span>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
       <section className="closing">
         <div className="wrap">
           <p className="closing__eyebrow">{t('closing2.eyebrow')}</p>

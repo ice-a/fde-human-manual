@@ -1,4 +1,4 @@
-/** 所有界面文案的简体中文原文。翻译脚本以此为输入生成 en / zh-TW 语言包。 */
+/** 所有界面文案的简体中文原文。翻译脚本以此为输入生成 en 语言包。 */
 export const ui: Record<string, string> = {
   'nav.guide': '指南',
   'nav.about': '关于',
@@ -105,4 +105,19 @@ export const ui: Record<string, string> = {
   'footer.tagline': 'MADE FOR A CLEARER LIFE',
 
   'lang.label': '语言',
+  'content.search': '搜索本册条目',
+  'content.noResults': '没有匹配的条目',
+  'content.expandAll': '展开全部',
+  'content.collapseAll': '收起全部',
+  'content.source': '原文',
+  'content.featured': '导读精选',
+  'content.items': '条',
+  'content.loading': '正在载入内容…',
+  'content.loadError': '内容载入失败，请刷新重试。',
+  'about.license.title': '内容来源与许可',
+  'about.license.en': 'SOURCES & LICENSES',
+  'about.license.lead': '各项目的许可不同。允许转载的已全文收录；许可有限制的只保留入口链接。',
+  'about.license.full': '全文收录',
+  'about.license.index': '仅链接',
+  'content.indexOnly': '该项目许可不允许公开收录全文，此处仅提供导读与原文入口。',
 }

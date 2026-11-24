@@ -1,9 +1,75 @@
+import { useEffect, useMemo, useState } from 'react'
 import { PrincipleCard } from '../components/PrincipleCard'
 import { useLocale } from '../context/LocaleContext'
+import {
+  loadGuideContent,
+  contentStats,
+  type ContentItem,
+  type ContentSection,
+} from '../data/content'
+
+function matches(item: ContentItem, query: string): boolean {
+  if (!query) return true
+  const haystack = [
+    item.title,
+    item.core ?? '',
+    ...(item.body ?? []),
+    item.remember ?? '',
+    ...(item.tags ?? []),
+  ]
+    .join(' ')
+    .toLowerCase()
+  return haystack.includes(query)
+}
 
 export function Guide({ slug }: { slug?: string }) {
-  const { t, content } = useLocale()
+  const { t, content, locale } = useLocale()
   const guide = content.guides.find((item) => item.slug === slug)
+  const [full, setFull] = useState<ContentSection[] | null>(null)
+  const [loading, setLoading] = useState(true)
+  const [query, setQuery] = useState('')
+  const [openVersion, setOpenVersion] = useState(0)
+  const [allOpen, setAllOpen] = useState(false)
+
+  useEffect(() => {
+    let active = true
+    setLoading(true)
+    setQuery('')
+    setFull(null)
+
+    if (!slug) {
+      setLoading(false)
+      return () => {
+        active = false
+      }
+    }
+
+    if (!contentStats[slug]) {
+      setLoading(false)
+      return () => {
+        active = false
+      }
+    }
+    void loadGuideContent(slug, locale).then((data) => {
+      if (!active) return
+      setFull(data?.sections ?? [])
+      setLoading(false)
+    })
+
+    return () => {
+      active = false
+    }
+  }, [slug, locale])
+
+  const filtered = useMemo(() => {
+    const needle = query.trim().toLowerCase()
+    return (full ?? [])
+      .map((section) => ({
+        ...section,
+        items: section.items.filter((item) => matches(item, needle)),
+      }))
+      .filter((section) => section.items.length > 0)
+  }, [full, query])
 
   if (!guide) {
     return (
@@ -22,27 +88,31 @@ export function Guide({ slug }: { slug?: string }) {
     )
   }
 
+  const stats = contentStats[guide.slug]
+  const total = stats?.count ?? guide.principles.length
+
   const scrollTo = (index: number) => {
     document.getElementById(`${guide.slug}-${index}`)?.scrollIntoView({ behavior: 'smooth' })
+  }
+
+  const toggleAll = () => {
+    setAllOpen(!allOpen)
+    setOpenVersion((value) => value + 1)
   }
 
   return (
     <>
       <section className="detail-head">
         <div className="wrap">
-          <a className="back-link" href="#/">
-            {t('guide.back')}
-          </a>
+          <a className="back-link" href="#/">{t('guide.back')}</a>
           <div className="detail-head__row">
             <div>
               <h1>{guide.name}</h1>
-              <div className="detail-head__en">
-                VOL. {guide.no} · {guide.en.toUpperCase()}
-              </div>
+              <div className="detail-head__en">VOL. {guide.no} · {guide.en.toUpperCase()}</div>
             </div>
             <div className="detail-head__stamp">
-              <strong>{String(guide.principles.length).padStart(2, '0')}</strong>
-              {t('guide.stamp')}
+              <strong>{String(total).padStart(3, '0')}</strong>
+              {t('content.items')}
             </div>
           </div>
           <p className="detail-desc">{guide.longDesc}</p>
@@ -66,10 +136,26 @@ export function Guide({ slug }: { slug?: string }) {
                 {principle.title}
               </a>
             ))}
+            {filtered.map((section, index) => (
+              <a
+                key={`section-${index}`}
+                href={`#/guide/${guide.slug}`}
+                onClick={(event) => {
+                  event.preventDefault()
+                  document.getElementById(`full-${index}`)?.scrollIntoView({ behavior: 'smooth' })
+                }}
+              >
+                <span className="detail-index__no">·</span>
+                {section.title}
+              </a>
+            ))}
           </nav>
         </aside>
 
         <div>
+          <h2 className="content-section__head" style={{ borderBottom: 'none', marginBottom: 0 }}>
+            <span>{t('content.featured')}</span>
+          </h2>
           {guide.principles.map((principle, index) => (
             <PrincipleCard
               key={principle.title}
@@ -80,6 +166,88 @@ export function Guide({ slug }: { slug?: string }) {
             />
           ))}
 
+          {stats && (
+          <div style={{ marginTop: 56 }}>
+            <h2 className="content-section__head">
+              <span>{guide.name} · {t('nav.guide')}</span>
+              <span className="content-section__count">{total} {t('content.items')}</span>
+            </h2>
+
+            <div className="content-toolbar">
+              <input
+                className="content-search"
+                type="search"
+                value={query}
+                onChange={(event) => setQuery(event.target.value)}
+                placeholder={t('content.search')}
+                aria-label={t('content.search')}
+              />
+              <button type="button" className="btn btn--ghost" onClick={toggleAll}>
+                {allOpen ? t('content.collapseAll') : t('content.expandAll')}
+              </button>
+            </div>
+
+            {loading && <p className="content-loading">{t('content.loading')}</p>}
+            {!loading && !full && <p className="content-loading">{t('content.loadError')}</p>}
+            {!loading && full && filtered.length === 0 && (
+              <p className="content-empty">{t('content.noResults')}</p>
+            )}
+
+            {!loading &&
+              filtered.map((section, sectionIndex) => (
+                <section
+                  className="content-section"
+                  id={`full-${sectionIndex}`}
+                  key={`${section.title}-${sectionIndex}`}
+                >
+                  <div className="content-section__head">
+                    <h2>{section.title}</h2>
+                    <span className="content-section__count">
+                      {section.items.length} {t('content.items')}
+                    </span>
+                  </div>
+                  {section.items.map((item, itemIndex) => (
+                    <details
+                      className="content-item"
+                      key={`${openVersion}-${sectionIndex}-${item.id}-${itemIndex}`}
+                      open={allOpen}
+                    >
+                      <summary className="content-item__head">
+                        <span className="content-item__no">
+                          {String(itemIndex + 1).padStart(2, '0')}
+                        </span>
+                        <span className="content-item__title">{item.title}</span>
+                        <span className="content-item__toggle" aria-hidden="true">
+                          {allOpen ? '−' : '+'}
+                        </span>
+                      </summary>
+                      <div className="content-item__body">
+                        {item.core && <p className="content-item__core">{item.core}</p>}
+                        {(item.body ?? []).map((paragraph, index) => (
+                          <p key={index}>{paragraph}</p>
+                        ))}
+                        {item.remember && (
+                          <div className="content-item__remember">{item.remember}</div>
+                        )}
+                        <div className="content-item__meta">
+                          {(item.tags ?? []).map((tag) => (
+                            <span className="tag" key={tag}>#{tag}</span>
+                          ))}
+                          {item.sourceUrl && (
+                            <a href={item.sourceUrl} target="_blank" rel="noreferrer">
+                              {t('content.source')} ↗
+                            </a>
+                          )}
+                        </div>
+                      </div>
+                    </details>
+                  ))}
+                </section>
+              ))}
+          </div>
+          )}
+
+          {!stats && <div className="notice" style={{ marginTop: 40 }}>{t('content.indexOnly')}</div>}
           <div className="source-note">
             {t('guide.source.prefix')} <strong>{guide.sourceName}</strong>
             {t('guide.source.suffix')}{' '}

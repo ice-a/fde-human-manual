@@ -1,15 +1,14 @@
 import enJson from './locales/en.json'
-import zhTwJson from './locales/zh-TW.json'
+
 import { guides } from './guides'
 import { references, site } from './references'
 import { ui } from './ui'
 
-export type Locale = 'zh-CN' | 'en' | 'zh-TW'
+export type Locale = 'zh-CN' | 'en'
 
 export const locales: { code: Locale; label: string; short: string }[] = [
   { code: 'zh-CN', label: '简体中文', short: '简' },
   { code: 'en', label: 'English', short: 'EN' },
-  { code: 'zh-TW', label: '繁體中文', short: '繁' },
 ]
 
 export interface PrincipleText {
@@ -69,9 +68,8 @@ const zhCN: LocalePayload = {
 export const localeData: Record<Locale, LocalePayload> = {
   'zh-CN': zhCN,
   en: enJson as LocalePayload,
-  'zh-TW': zhTwJson as LocalePayload,
 }
 
 export function isLocale(value: string | null): value is Locale {
-  return value === 'zh-CN' || value === 'en' || value === 'zh-TW'
+  return value === 'zh-CN' || value === 'en'
 }

@@ -4,5 +4,6 @@ dist/
 .wrangler/
 *.local
 scripts/.translation-cache.json
+scripts/.content-cache.json
 *.tsbuildinfo
 .DS_Store

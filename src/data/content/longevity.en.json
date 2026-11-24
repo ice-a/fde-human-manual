@@ -1,0 +1,1440 @@
+{
+  "slug": "longevity",
+  "sections": [
+    {
+      "title": "Input · Solids",
+      "items": [
+        {
+          "id": "poultry-fish",
+          "title": "White meat, red meat, and processed meat",
+          "core": "Original paragraph mixed with two papers: JAMA 2 servings of meat per week and BMJ Eight-year changes in red meat intake. The absence of a significant association with white meat ACM does not equate to evidence of no risk; poultry was associated with increased CVD in JAMA.",
+          "body": [
+            "Judgment: Partial support",
+            "Effect size: Processed meat HR 1.03; red meat HR 1.03; poultry HR 0.99; fish HR 0.99; red meat increase ≥ half serving/day HR 1.10 respectively 95%CI 1.02–1.05; 1.01–1.05; 0.97–1.02; 0.97–1.01; 1.04–1.17 JAMA for every 2 servings per week increase; BMJ for eight years of increasing ≥ half a serving/day versus stable intake",
+            "Population: JAMA US Cohort 6, 29,682 people, 8875 deaths; BMJ 81,469 people, 14,019 deaths",
+            "Design: Multi-cohort prospective analysis",
+            "Limitations: Food questionnaire, residual confounding; two different exposure time windows",
+            "Evidence: Associations of Processed Meat, Unprocessed Red Meat, Poultry, or Fish Intake With Incident Cardiovascular Disease and All-Cause Mortality. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7042891/",
+            "Evidence: Association of changes in red meat consumption with total and cause specific mortality among US women and men: two prospective cohort studies. — https://pmc.ncbi.nlm.nih.gov/articles/PMC6559336/",
+            "Reader summary: Multiple long-term follow-up studies in the United States have found that eating more red meat and processed meat is associated with a higher risk of death. Fish and poultry are less associated with mortality risk, so it’s also worth considering what to replace them with and how to cook them."
+          ],
+          "remember": "Reduce processed meat, replace some red meat with beans, nuts, fish, etc.; pay attention to cooking and overall diet.",
+          "tags": [
+            "B",
+            "Input",
+            "Solid"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7042891/"
+        },
+        {
+          "id": "fresh-fruit-diabetes",
+          "title": "Fresh fruit (people with diabetes)",
+          "core": "The original quote from the Global Conference on Attributable Burden of CVD is not the source of this ACM figure. Actually from the CKB diabetic population: for every increase of 100 g/day instead of 200 g, ACM HR is 0.83; macrovascular 0.87, microvascular 0.72, also for every 100 g/day. It cannot be generalized to a 17% reduction of 200 grams per day for everyone.",
+          "body": [
+            "Judgment: Correction required",
+            "Effect size: HR 0.83 95%CI 0.74–0.93 For every 100 g/day increase in fresh fruit in diabetic patients",
+            "Population: 30,300 people with baseline diabetes in China with CKB, 3,389 deaths, about 7 years",
+            "Design: Single large prospective cohort",
+            "Limitations: Specific diabetes population; nonrandom; citation outcome and dose mismatch",
+            "Evidence: Fresh fruit consumption in relation to incident diabetes and diabetic vascular complications: A 7-y prospective study of 0.5 million Chinese adults. — https://pmc.ncbi.nlm.nih.gov/articles/PMC5388466/",
+            "Evidence: Estimated Global, Regional, and National Cardiovascular Disease Burdens Related to Fruit and Vegetable Consumption: An Analysis from the Global Dietary Database (FS01-01-19) — https://pmc.ncbi.nlm.nih.gov/articles/PMC6578394/",
+            "Reader Summary: In a long-term follow-up of people with diabetes in China, people who ate more fresh fruit had a lower risk of death and vascular complications. This study looked at whole fruit, not juice."
+          ],
+          "remember": "Replace dessert with appropriate amounts of whole fruit, adjusted according to blood sugar and personal treatment plan; do not substitute with fruit juice.",
+          "tags": [
+            "C",
+            "Input",
+            "Solid"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5388466/"
+        },
+        {
+          "id": "flavonoid-foods",
+          "title": "Foods containing flavonoids",
+          "core": "The correlation direction is supported, but it is not a trial of 100 grams of broccoli per day. The correlation leveled off around 500 mg/d of total flavonoids; after further dietary adjustment, Q3 HR was 0.88 and Q5 HR was 0.92, which was generally reduced by 20% and ignored model differences.",
+          "body": [
+            "Judgment: Correction required",
+            "Effect size: Q3 HR 0.88; Q5 HR 0.92 95%CI 0.84–0.91; 0.88–0.97 Total flavonoids 3/5 quintile vs. 1 quintile, Table 2 Model 3",
+            "Population: Denmark 56,048, 14,083 deaths, 23 years",
+            "Design: Prospective cohort",
+            "Limitations: Healthy diet and socioeconomic confounding; single FFQ; supplement effect cannot be inferred",
+            "Evidence: Flavonoid intake is associated with lower mortality in the Danish Diet Cancer and Health Cohort. — https://pmc.ncbi.nlm.nih.gov/articles/PMC6692395/",
+            "Reader summary: Long-term follow-up in Denmark found that people with higher dietary flavonoid intake had a lower risk of death. Flavonoids are found in a variety of plant foods."
+          ],
+          "remember": "A variety of fruits, vegetables, beans, etc. provide plant nutrients; do not rely on flavonoid supplements, and do not use them to offset smoking and drinking.",
+          "tags": [
+            "C",
+            "Input",
+            "Solid"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6692395/"
+        },
+        {
+          "id": "chili-us",
+          "title": "Red Hot Chili Peppers (US)",
+          "core": "16,179 people, 4,946 deaths and 21.6% vs. 33.6% belong to the US study; adjusted ACM lower by 13%, not crude risk difference or Italian 23%.",
+          "body": [
+            "Judgment: Partial support",
+            "Effect size: HR 0.87 95%CI 0.77–0.97 Red pepper consumption vs. non-consumption",
+            "Population: US NHANES III 16179 adults, median 18.9 years",
+            "Design: Prospective cohort",
+            "Limitations: Crude death proportion is confounded by age; single dietary measurement",
+            "Evidence: The Association of Hot Red Chili Pepper Consumption and Mortality: A Large Population-Based Cohort Study. — https://pmc.ncbi.nlm.nih.gov/articles/PMC5222470/",
+            "Reader Summary: In a follow-up of U.S. adults, red pepper eaters had a lower risk of death; age, diet, and lifestyle habits also influence this association."
+          ],
+          "remember": "You can use it as a seasoning if you like it and tolerate it; there is no need to force it to increase if you have gastrointestinal discomfort.",
+          "tags": [
+            "C",
+            "Input",
+            "Solid"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5222470/"
+        },
+        {
+          "id": "chili-italy",
+          "title": "Pepper (Italy)",
+          "core": ">4 times per week is associated with a 23% reduction in ACM and a 34% reduction in CVD death from the Italian cohort; 61% is a relative reduction in cerebrovascular death, and cannot be said to be a 61% reduction in total disease death. The reference is never/rarely, not everyone less than 2 times a week.",
+          "body": [
+            "Judgment: Correction required",
+            "Effect size: ACM HR 0.77 95%CI 0.66–0.90 >4 times per week vs. never/rarely",
+            "Population: Moli-sani, Italy 22,811 people, 1,236 deaths, median 8.2 years",
+            "Design: Prospective cohort",
+            "Limitations: Residual diet/lifestyle confounding; capsaicin intervention not proven effective",
+            "Evidence: Chili Pepper Consumption and Mortality in Italian Adults. — https://pubmed.ncbi.nlm.nih.gov/31856971/",
+            "Reader summary: Follow-up in Italy found that people who regularly eat chili peppers have a lower risk of all-cause and cardiovascular death."
+          ],
+          "remember": "It can be taken as tolerated and cannot be used as a substitute for pressure control or other treatments.",
+          "tags": [
+            "C",
+            "Input",
+            "Solid"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/31856971/"
+        },
+        {
+          "id": "eggs",
+          "title": "Eggs",
+          "core": "The original 7% is verified with the replacement model numbers; it is the observation results of middle-aged and elderly Americans and hypothetical equivalent replacement. It is not a reduction in deaths caused by random food changes, nor is it a fixed increase of 7% for everyone.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: HR 1.07 95% CI 1.06–1.08 for every 25 g/day increase in whole egg intake;",
+            "Population: NIH-AARP 521,120 people, 129,328 deaths, median 16 years",
+            "Design: Large prospective cohort",
+            "Limitations: Self-report, single baseline diet, residual confounding, results may differ across regions",
+            "Evidence: Egg and cholesterol consumption and mortality from cardiovascular and different causes in the United States: A population-based cohort study. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7872242/",
+            "Reader summary: Higher whole egg intake is associated with a higher risk of death in follow-up of middle-aged and older adults in the United States; findings from other regions are not entirely consistent. How to match the overall diet is more valuable than focusing on eggs alone."
+          ],
+          "remember": "Choose eggs based on your overall diet and blood lipids; you can replace part of the animal protein with beans, nuts, etc. Don’t ban eggs completely just because of research alone.",
+          "tags": [
+            "B",
+            "Input",
+            "Solid"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7872242/"
+        },
+        {
+          "id": "walnuts",
+          "title": "Walnuts",
+          "core": "≥5 servings/week ACM low 14% is supported; 1.30/1.26 years is the total life expectancy model estimate of 60 years old, which cannot be called healthy life expectancy, nor is it a guarantee of life extension.",
+          "body": [
+            "Judgment: Partial support",
+            "Effect size: HR 0.86 95%CI 0.79–0.93 ≥5 servings/week vs. no; 28g per serving",
+            "Population: NHS/HPFS 93,340 people, 30,263 deaths, up to 20 years",
+            "Design: Two-cohort analysis",
+            "Limitations: Healthy user bias; lifespan estimated from model; industry funding of concern",
+            "Evidence: Association of Walnut Consumption with Total and Cause-Specific Mortality and Life Expectancy in U.S. Adults. — https://pmc.ncbi.nlm.nih.gov/articles/PMC8401409/",
+            "Reader summary: Long-term follow-up in the United States found that people who regularly eat walnuts have a lower risk of death. The lifespan differences in the study were statistical estimates, and other health habits of the participants may also have contributed."
+          ],
+          "remember": "For those who are not allergic to nuts, use an appropriate amount of unsalted nuts instead of snacks, which will be included in the total energy.",
+          "tags": [
+            "B",
+            "Input",
+            "Solid"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8401409/"
+        },
+        {
+          "id": "nuts-general",
+          "title": "Nut frequency",
+          "core": "NEJM frequency is <1, 1, 2–4, 5–6, ≥7 times/week, corresponding to 7/11/13/15/20% lower, not grouped by total weekly weight; it cannot be claimed that raw food must be eaten based on this. PREDIMED 39% comes from an observational analysis of nut intake, not cross-sectional, nor a separate random assignment of nuts to the ACM effect.",
+          "body": [
+            "Judgment: Correction required",
+            "Effect size: NEJM ≥7 servings/week HR 0.80; PREDIMED >3 servings/week HR 0.61 95%CI 0.73–0.86; 0.45–0.83 All against nut eating",
+            "Population: NEJM118962, 27429 deaths; PREDIMED7216, 323 deaths in adults at high CVD risk",
+            "Design: Prospective cohort and within-RCT observational analysis",
+            "Limitations: Intake grouping is not randomized; raw/baked advantages and disadvantages not directly tested",
+            "Evidence: Association of nut consumption with total and cause-specific mortality. — https://pmc.ncbi.nlm.nih.gov/articles/PMC3931001/",
+            "Evidence: Frequency of nut consumption and mortality risk in the PREDIMED nutrition intervention trial. — https://pmc.ncbi.nlm.nih.gov/articles/PMC3738153/",
+            "Reader summary: Multiple follow-up studies have found that people who regularly eat nuts have a lower risk of death. The study covered different dietary contexts and did not directly compare the advantages and disadvantages of raw nuts versus roasted nuts."
+          ],
+          "remember": "Avoid for those with allergies; choose salt-free and low-sugar nuts instead of other high-energy snacks.",
+          "tags": [
+            "B",
+            "Input",
+            "Solid"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3931001/"
+        },
+        {
+          "id": "sodium-ecological",
+          "title": "Cross-national ecological correlations of sodium intake",
+          "core": "Original beta values ​​are consistent with the abstract, but national-level ecological correlations cannot be used for individuals to eat more salt; the authors clearly state that nutritional intervention cannot be implemented based on this.",
+          "body": [
+            "Judgment: Correction required",
+            "Effect size: β −131 deaths/1 g daily increase in sodium (country-level regression) Not reported Mean sodium intake in 181 countries on age-standardized mortality measures; not individual HR",
+            "Population: 181 countries 2010 pooled data; high income sensitivity 46 countries",
+            "Design: Cross-sectional ecological analysis",
+            "Limitations: ecological fallacy, national income and medical confounding, estimated intake error",
+            "Evidence: Sodium intake, life expectancy, and all-cause mortality. — https://pmc.ncbi.nlm.nih.gov/articles/PMC8169157/",
+            "Reader summary: Cross-national comparisons have found that countries with higher sodium intake have lower mortality rates, but national differences in income, medical care, etc. may also affect this association. The arrangement of personal salt consumption is more suitable to be determined based on blood pressure and physical condition."
+          ],
+          "remember": "Don’t add sodium to extend your life; control salt based on individual blood pressure, disease, and diet.",
+          "tags": [
+            "D",
+            "Input",
+            "Solid"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8169157/"
+        },
+        {
+          "id": "potassium-salt",
+          "title": "Low-sodium and potassium-rich salt substitution",
+          "core": "SSaSS directly supports specific high-risk rural adults to replace ordinary salt with 75% NaCl/25% KCl salt to reduce ACM; it is impossible to separate the respective contributions of sodium reduction and potassium supplementation.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: Mortality ratio 0.88 95%CI 0.82–0.95 75%NaCl+25%KCl vs. 100%NaCl; 39.28 vs. 44.61/1000 person-years",
+            "Population: 20,995 people in 600 villages in China; history of stroke or ≥60 years old and hypertension; both Follow-up 4.74 years",
+            "Design: Open-label cluster randomized trial, ACM as secondary endpoint",
+            "Limitations: High-risk specific populations; Open label; Limited applicability to those at risk for renal disease or high potassium",
+            "Evidence: Effect of Salt Substitution on Cardiovascular Events and Death. — https://pubmed.ncbi.nlm.nih.gov/34459569/",
+            "Reader summary: A randomized trial in high-risk rural Chinese populations found that replacing regular salt with low-sodium and potassium-rich salt reduced deaths and cardiovascular events. Participants had a history of stroke or were older adults with high blood pressure."
+          ],
+          "remember": "Those with high blood pressure and other suitable conditions can use potassium-rich and low-sodium salt after confirmation by medical staff; those with renal insufficiency, high potassium, or those using potassium-raising drugs should consult first and do not change salts by themselves.",
+          "tags": [
+            "A",
+            "Input",
+            "Solid"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34459569/"
+        },
+        {
+          "id": "carbohydrate-share",
+          "title": "Carbohydrate energy ratio",
+          "core": "The 2018 study supports a U-shaped observed correlation, with a minimum of about 50–55% energy; it cannot be explained that individual low-carb is necessarily short-lived, and the source of fat/protein that replaces carbohydrates is very important.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: low-carbohydrate HR 1.20; high-carb HR 1.23 95%CI 1.09–1.32; 1.11–1.36 <40% and >70% carbohydrate energy respectively for moderate intake (meta-category); ARIC lowest 50–55%",
+            "Crowd: ARIC 15,428 people and a total of 432,179 people in the pool",
+            "Design: Forward Queue + Queue Meta",
+            "Limitations: Observational, self-reported; differences in intake groups and alternative foods; lifespan estimation, non-interventional",
+            "Evidence: Dietary carbohydrate intake and mortality: a prospective cohort study and meta-analysis. — https://pmc.ncbi.nlm.nih.gov/articles/PMC6339822/",
+            "Reader's summary: In long-term follow-up, the proportion of carbohydrate intake is associated with higher risk of death at both ends. What food you use to replace carbohydrates also affects the results."
+          ],
+          "remember": "Prioritize improving the quality of carbohydrates and adding whole grains and legumes; diabetes or therapeutic ketosis needs to be individualized.",
+          "tags": [
+            "B",
+            "Input",
+            "Solid"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6339822/"
+        },
+        {
+          "id": "betel-quid",
+          "title": "Betel nut/Betel nut chews",
+          "core": "The 21% increase in ACM is the combined relative risk of observational studies; the heterogeneity is very high, and the chewing block ingredients and co-exposure to tobacco and alcohol affect interpretation.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: RR 1.21 95%CI 1.04–1.42 betel nut chewers vs. non-chewers",
+            "Population: ACM analyzed 179,582 people, 5 comparison categories of Asian studies",
+            "Design: Systematic review/meta-review of observational studies",
+            "Limitations: I²85%; product formula, residual contamination from smoking and drinking; non-random",
+            "Evidence: Chewing betel quid and the risk of metabolic disease, cardiovascular disease, and all-cause mortality: a meta-analysis. — https://pmc.ncbi.nlm.nih.gov/articles/PMC3734295/",
+            "Reader's abstract: A pooled analysis of Asian studies finds that chewing betel nut is associated with a higher risk of death. Different chew formulas, as well as smoking and drinking at the same time, will affect the risk."
+          ],
+          "remember": "Avoid or stop betel quid, do not use non-tobacco as a safety reason; seek help for those who are dependent on it.",
+          "tags": [
+            "C",
+            "Input",
+            "Solid"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3734295/"
+        },
+        {
+          "id": "calorie-restriction",
+          "title": "Caloric restriction (nonhuman primates)",
+          "core": "The original 3 times death rate was from early age-related death in rhesus monkeys and cannot be equivalent to human ACM; in 2014, the same project updated all-cause control/CR HR1.78 and age-related death HR2.89. The extent of human life extension has not been confirmed.",
+          "body": [
+            "Judgment: No direct ACM evidence",
+            "Effect size: Monkey all-cause HR 1.78 (control/CR) 95%CI 1.04–3.04 Normal feeding to approximately 30% caloric restriction",
+            "Population: UW 76 rhesus monkeys; the early survival difference in the other NIA monkey study was not significant",
+            "Design: Long-term animal intervention",
+            "Limitations: Animals cannot be extrapolated to humans; the two centers have different feed, age, and control food intake",
+            "Evidence: Caloric restriction delays disease onset and mortality in rhesus monkeys. — https://pmc.ncbi.nlm.nih.gov/articles/PMC2812811/",
+            "Evidence: Caloric restriction reduces age-related and all-cause mortality in rhesus monkeys. — https://pmc.ncbi.nlm.nih.gov/articles/PMC3988801/",
+            "Reader summary: Studies in rhesus monkeys have found that caloric restriction may improve survival, but results vary between studies. The effectiveness of caloric restriction in humans to extend lifespan remains unproven."
+          ],
+          "remember": "Avoid overeating and maintain adequate nutrition; those with low body weight, pregnant women, minors, frail elderly and eating disorders do not limit calories on their own.",
+          "tags": [
+            "D",
+            "Input",
+            "Solid"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2812811/"
+        },
+        {
+          "id": "macronutrient-pattern",
+          "title": "Comprehensive nutrition and macronutrient ratio",
+          "core": "The paper has no significant correlation between total fat and ACM, and not all fats are linearly harmful. The risk matrix is ​​a combination of observed data and cannot be determined as a universal optimal; the lowest range of the single nutrient curve includes fiber 15-30g/d, protein 14-18%, and starch 20-30%, which is inconsistent with several ranges and the precise \"optimal ratio\" of the original text.",
+          "body": [
+            "Judgment: Correction required",
+            "Effect size: Example: fiber 15–30g/d HR 0.68; protein 14–18% HR 0.73 95%CI 0.65–0.72; 0.70–0.75 fiber vs. 5g/d; protein vs. 10% energy; different nutritional comparisons have their own reference",
+            "Population: UK Biobank195658 people, 4780 died, average 10.6 years",
+            "Design: Large prospective cohort and nonlinear modeling",
+            "Limitations: Self-reported 24-hour recall, selection bias, residual confounding; cannot combine the lowest point of each curve into a validated prescription",
+            "Evidence: Associations of fat and carbohydrate intake with cardiovascular disease and mortality: prospective cohort study of UK Biobank participants. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7190059/",
+            "Reader summary: A large-scale follow-up study in the UK found that the relationship between fat, protein, carbohydrate and fiber and health is not simple. Whole food matching is more practical than pursuing a precise nutritional ratio."
+          ],
+          "remember": "Based on the overall food quality, avoid chasing precise macro proportions; if you have kidney disease, diabetes, etc., follow the medical nutrition plan.",
+          "tags": [
+            "B",
+            "Input",
+            "Solid"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7190059/"
+        },
+        {
+          "id": "ultraprocessed-acm",
+          "title": "Ultra-processed foods and ACM",
+          "core": "SUN supports a 62% increase in ACM correlation among the highest consumption groups. 58 years old is a sample description of the average age of death for those who died. It cannot be said that regular eaters have a life expectancy of 58 years or that they died from UPF.",
+          "body": [
+            "Judgment: Correction required",
+            "Effect size: HR 1.62; HR 1.18 per additional serving/day 95%CI 1.13–2.33; 1.05–1.33 highest vs. lowest quartile; high group >4 servings/day",
+            "Population: 19,899 SUN University graduates in Spain, 335 deaths, 200,432 person-years",
+            "Design: Prospective cohort",
+            "Limitations: Only 335 deaths; sample selected with high educational level; dietary confounding; wide CI",
+            "Evidence: Association between consumption of ultra-processed foods and all cause mortality: SUN prospective cohort study. — https://pmc.ncbi.nlm.nih.gov/articles/PMC6538973/",
+            "Reader's abstract: People who ate more ultra-processed foods had a higher risk of death during follow-up in Spain. The participants were mainly college graduates, and dietary habits and population background also affected the results."
+          ],
+          "remember": "Replace some UPF with less processed whole foods, retaining essential nutrients and affordability.",
+          "tags": [
+            "C",
+            "Input",
+            "Solid"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6538973/"
+        },
+        {
+          "id": "ultraprocessed-cvd",
+          "title": "Ultra-Processed Foods (End Boundary for CVD Sources)",
+          "core": "The endpoint of this NutriNet-Santé study is CVD incidence rather than ACM; Lawrence/Baker is a reviewer and does not provide independent quantitative evidence of ACM. The two should not be regarded as three death studies with SUN.",
+          "body": [
+            "Judgment: No direct ACM evidence",
+            "Effect size: CVD HR 1.12; not assessed by ACM CVD 95% CI 1.05–1.20; not reported by ACM 10-percentage-point increase in proportion of UPF in diet",
+            "Population: France 105,159 adults, 1,409 CVD events, median 5.2 years",
+            "Design: Prospective cohort (CVD); review",
+            "Limitations: Non-ACM endpoint; the original PDF of the comment was not successfully accessed, only the bibliography was reviewed",
+            "Evidence: Ultra-processed food intake and risk of cardiovascular disease: prospective cohort study (NutriNet-Santé). — https://pmc.ncbi.nlm.nih.gov/articles/PMC6538975/",
+            "Evidence: Ultra-processed food and adverse health outcomes. — https://pubmed.ncbi.nlm.nih.gov/31142449/",
+            "Reader's summary: A follow-up study in France found that the higher the proportion of ultra-processed foods in the diet, the higher the risk of cardiovascular disease."
+          ],
+          "remember": "The overall dietary direction to reduce UPF can be supported, but mortality risk cannot be calculated from this article.",
+          "tags": [
+            "D",
+            "Input",
+            "Solid"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6538975/"
+        },
+        {
+          "id": "whole-grains",
+          "title": "whole grains",
+          "core": "Increased whole grain intake was associated with lower ACM; studies measured whole grain foods by weight, 90 grams rather than 90 grams of dry grains or fiber.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: RR 0.83 95% CI 0.77–0.90 for each 90 g/day increase in whole grain intake (approximately 3 servings)",
+            "Population: ACM combined 11 prospective studies; 45 overall reviews",
+            "Design: Dose-response meta-analysis of prospective studies",
+            "Limitations: ACM I² 83%, observational; portion size definitions heterogeneous",
+            "Evidence: Whole grain consumption and risk of cardiovascular disease, cancer, and all cause and cause specific mortality: systematic review and dose-response meta-analysis of prospective studies. — https://pmc.ncbi.nlm.nih.gov/articles/PMC4908315/",
+            "Reader summary: A pooled analysis of multiple long-term studies finds that eating more whole grains is associated with a lower risk of death. Serving sizes in the study refer to the weight of whole grain foods."
+          ],
+          "remember": "Gradually replace refined grains with whole grains; for those with celiac disease, choose gluten-free whole grains and adjust according to digestive tolerance.",
+          "tags": [
+            "B",
+            "Input",
+            "Solid"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4908315/"
+        },
+        {
+          "id": "dietary-fiber",
+          "title": "Dietary fiber",
+          "core": "Reviews support that higher fiber is associated with lower ACM; Abstract 15–30% is the range for multiple outcomes and cannot solely refer to the precise effect of ACM. RCTs demonstrate improvement in risk factors rather than reduction in death.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: ACM direction is reduction; abstract does not list ACM exact pooled value Not reported Highest vs. lowest fiber consumption; 15–30% risk reduction for multiple outcomes",
+            "Population: 185 prospective studies and 58 trials; 4635 people in trials",
+            "Design: Systematic review and meta-analysis (ACM from cohort)",
+            "Limitations: ACM evidence is not randomized; does not extrapolate from total range to ACM CI",
+            "Evidence: Carbohydrate quality and human health: a series of Systematic reviews and meta-analyses. — https://pubmed.ncbi.nlm.nih.gov/30638909/",
+            "Reader abstract: Multiple follow-ups have linked higher dietary fiber intake to lower risk of death; clinical trials also observed improvements in blood pressure, blood lipids and other indicators."
+          ],
+          "remember": "Gradually increase fiber through whole grains, beans, fruits and vegetables, and pay attention to drinking water; follow medical advice for intestinal stenosis and acute gastrointestinal disease.",
+          "tags": [
+            "B",
+            "Input",
+            "Solid"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/30638909/"
+        },
+        {
+          "id": "plant-protein",
+          "title": "Plant protein sources",
+          "core": "High plant protein intake is associated with lower ACM; the emphasis on alternative food sources cannot be interpreted as the intervention effect of additional protein powder.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: Pooled effect size 0.92 95%CI 0.87–0.97 highest versus lowest vegetable protein intake group",
+            "Population: 32 cohort reviews, 31 combined, 715,128 people, 113,039 deaths",
+            "Design: Prospective cohort systematic review/dose-response meta-analysis",
+            "Limitations: Heterogeneity I² 57.5%; residual confounding; difficult to separate food and protein components",
+            "Evidence: Dietary intake of total, animal, and plant proteins and risk of all cause, cardiovascular, and cancer mortality: systematic review and dose-response meta-analysis of prospective cohort studies. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7374797/",
+            "Reader summary: Multiple cohort studies have found that people who consume higher plant protein intakes have a lower risk of death. Food sources and substitution relationships are key to understanding the results."
+          ],
+          "remember": "Replace some red/processed meat with beans, soy products, and nuts; adjust for individual needs if you have allergies or kidney disease.",
+          "tags": [
+            "B",
+            "Input",
+            "Solid"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7374797/"
+        }
+      ]
+    },
+    {
+      "title": "Input · Liquids",
+      "items": [
+        {
+          "id": "dairy",
+          "title": "Dairy/Milk",
+          "core": "17% of PURE is the association of total dairy products >2 servings per day with no ACM intake, not the effect of milk alone, nor exactly 2 servings. The 95% CI for the HR for cardiovascular death of 0.77 spans 1, and a 23% reduction cannot be written as a definite benefit. Other reviews have not found a stable relationship between total dairy products or milk and ACM; it is not appropriate to promise that drinking milk will extend your life. The original PDF is inaccessible, the file name does not match the annotated title, and it is suspected to be a wrong link.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: HR 0.83 95%CI 0.72–0.96 Total dairy >2 servings/day vs 0; non-milk single item",
+            "Population: 136,384 people in 21 countries, 35–70 years old; median follow-up 9.1 years; 6,796 deaths",
+            "Design: PURE prospective cohort; review of 8 additional meta-analyses",
+            "Limitations: FFQ error, residual confounding by income and dietary structure; dairy type and alternative foods affect results; HR 0.90 for >1 serving of milk is a death/CVD composite endpoint and cannot be used as a milk ACM.",
+            "Evidence: Association of dairy intake with cardiovascular disease and mortality in 21 countries from five continents (PURE): a prospective cohort study. — https://pubmed.ncbi.nlm.nih.gov/30217460/",
+            "Evidence: Milk and Dairy Product Consumption and Risk of Mortality: An Overview of Systematic Reviews and Meta-Analyses. — https://pubmed.ncbi.nlm.nih.gov/31089743/",
+            "Reader abstract: One cross-national follow-up found that dairy intake was associated with a lower risk of death, but other reviews have found inconsistent results. Milk, yogurt, etc. can provide nutrition, and the choice depends on personal needs."
+          ],
+          "remember": "You can choose milk or yogurt without added sugar according to your nutritional needs; those with lactose intolerance and milk allergy can choose appropriate alternatives and do not forcefully increase their intake in the pursuit of life extension.",
+          "tags": [
+            "B",
+            "Input",
+            "Liquids"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/30217460/"
+        },
+        {
+          "id": "tea-china-par",
+          "title": "Tea drinking (China-PAR)",
+          "core": "Habitual tea drinking is associated with lower ACM; the definition of ≥3 times per week is from the text. The extra 1.26 years of life expectancy at age 50 is a model estimate. It is not the tea drinking intervention that makes everyone live 1.26 extra years.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: HR 0.85 95%CI 0.79–0.90 ≥3 times per week vs Never or <3 times",
+            "Population: 100,902 adults in China; median 7.3 years; 5,479 deaths",
+            "Design: China-PAR three prospective cohorts merged",
+            "Limitations: self-reported tea drinking; residual confounding by smoking, drinking, socioeconomic and health behaviors; cup size, concentration and tea type cannot be equated; life span difference model estimation.",
+            "Evidence: Tea consumption and the risk of atherosclerotic cardiovascular disease and all-cause mortality: The China-PAR project. — https://pubmed.ncbi.nlm.nih.gov/31914807/",
+            "Reader's abstract: Regular tea drinkers had a lower risk of death during long-term follow-up in China. The tea drinker's lifestyle and socioeconomic background may also be involved."
+          ],
+          "remember": "Those who like and tolerate it can drink unsweetened, non-scalding tea; those with insomnia, palpitations, or those who need to limit caffeine should reduce the amount and do not use tea as a substitute for smoking cessation or treatment.",
+          "tags": [
+            "B",
+            "Input",
+            "Liquids"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/31914807/"
+        },
+        {
+          "id": "tea-ckb",
+          "title": "Drinking tea (CKB)",
+          "core": "The original library sample, number of deaths and two HRs are accurate; the protective association is mainly seen in men. Daily tea drinking has not been shown to be superior to non-daily tea drinking; more frequent tea drinking cannot be directly attributed to longer life.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: HR 0.89 (non-daily); 0.92 (daily) 95% CI 0.86–0.91; 0.88–0.95 Current non-daily/daily tea drinking vs never tea drinking",
+            "Population: Chinese CKB 438,443 people; median 11.1 years; 34,661 deaths",
+            "Design: Prospective cohort",
+            "Limitations: Gender interaction P<0.05; Smoking and drinking may confound cancer outcomes; Baseline tea drinking information is self-reported; Individual causal benefit is not proven.",
+            "Evidence: [Association between tea consumption and all-cause mortality in Chinese adults]. — https://html.rhhz.net/zhlxbx/20220201.htm",
+            "Reader summary: Another large follow-up in China found that the association between tea consumption and lower mortality risk was mainly seen in men. Daily tea drinking did not lead to better outcomes than non-daily tea drinking."
+          ],
+          "remember": "Choose tea that is sugar-free and at the right temperature; drinking tea cannot offset the risks of smoking and excessive drinking.",
+          "tags": [
+            "B",
+            "Input",
+            "Liquids"
+          ],
+          "sourceUrl": "https://html.rhhz.net/zhlxbx/20220201.htm"
+        },
+        {
+          "id": "artificially-sweetened-drinks",
+          "title": "Artificially Sweetened Soft Drinks",
+          "core": "The original figures of 18%, 11%, and 27% are indeed in the text, but they belong to the BMI<25 subgroup, ≥1 cup/day vs. <1 cup/month, and the original database missed the population limit. The ACM HRs for total soft drinks, sugary, and artificially sweetened drinks for the entire cohort ≥2 cups/day were 1.17, 1.08, and 1.26, respectively. We cannot conclude that sweeteners cause death based on observational studies, nor can we apply them to plain water or sugar-free tea and coffee.",
+          "body": [
+            "Judgment: Partial support",
+            "Effect size: HR 1.26 (artificially sweetened for the whole cohort); 1.27 (BMI<25 subgroup) 95% CI 1.16–1.35; 1.12–1.43 Whole cohort ≥2 cups/day vs <1 cup/month; BMI<25 subgroup ≥1 cup/day vs <1 cup/month; cup≈250mL",
+            "Population: 451,743 people in 10 EPIC European countries; average 16.4 years; 41,693 deaths",
+            "Design: Multi-country prospective cohort",
+            "Limitations: People with obesity or metabolic risk may switch to sugar substitutes; One baseline FFQ; Different sweeteners cannot be separately attributed; Not a randomized trial of sugary drink substitution.",
+            "Evidence: Association Between Soft Drink Consumption and Mortality in 10 European Countries. — https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2749350",
+            "Reader Summary: Higher intake of artificially sweetened beverages is associated with a higher risk of death in a large European follow-up. People with existing metabolic problems may switch to sugar-substitute drinks more often, making the results harder to interpret."
+          ],
+          "remember": "Priority is given to plain water or unsweetened tea and coffee for daily drinking; those who transition from sugary drinks to sugar substitute drinks should not return to drinking sugary drinks according to this queue.",
+          "tags": [
+            "B",
+            "Input",
+            "Liquids"
+          ],
+          "sourceUrl": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2749350"
+        },
+        {
+          "id": "sugar-sweetened-drinks",
+          "title": "Sugary drinks",
+          "core": "Two US cohorts supported an association of ≥2 servings/day versus <1 serving/month with a 21% higher risk of ACM, a 31% higher risk of CVD death, and a 16% higher risk of cancer death. I have read the original paper PDF. The ACM HR is 1.07 for each additional copy/day of the continuous model; the HR of the classification from 1 to <2 copies/day is 1.14. The two cannot be mixed. Cancer deaths are 5% higher for every additional serving/day, and the original database incorrectly stated 16%; 16% belongs to the highest intake category control. The 18% and 12% listed by BMJ are cancer incidences, not ACM. The title \"up to 62%\" does not correspond to the fully adjusted model.",
+          "body": [
+            "Judgment: Partial support",
+            "Effect size: HR 1.21 (≥2 servings/day); 1.14 (1 to <2 servings/day); 1.07 (each additional serving/day) 95%CI 1.13–1.28; 1.09–1.19; 1.05–1.09 sugary drinks ≥2 servings/day vs <1 serving/month; additional continuous model for each additional serving/day",
+            "Population: US NHS 80,647 women, HPFS 37,716 men; up to 34 years; 36,436 deaths",
+            "Design: Two prospective cohorts",
+            "Limitations: Mostly health professionals; Self-reported intake; Residual confounding; Cup/serving definitions cannot be mixed across studies; Continuous models per cup differ from categorical models. BMJ cancer papers are incidences per 100mL/day, not deaths.",
+            "Evidence: Long-Term Consumption of Sugar-Sweetened and Artificially Sweetened Beverages and Risk of Mortality in US Adults. — https://www.medicosadventistas.org/wp-content/uploads/2019/03/CIRCULATIONAHA.118.037401.pdf",
+            "Evidence: Sugar drink consumption and risk of cancer: results from NutriNet-Santé prospective cohort. — https://pubmed.ncbi.nlm.nih.gov/31292122/",
+            "Reader Summary: Long-term follow-up in the United States found that drinking more sugar-sweetened beverages was associated with a higher risk of all-cause and cardiovascular death."
+          ],
+          "remember": "Reduce regular sugary soft drinks, sweetened milk tea, etc., and replace them with plain water; do not regard the research dose threshold as a safety limit.",
+          "tags": [
+            "B",
+            "Input",
+            "Liquids"
+          ],
+          "sourceUrl": "https://www.medicosadventistas.org/wp-content/uploads/2019/03/CIRCULATIONAHA.118.037401.pdf"
+        },
+        {
+          "id": "fruit-juice",
+          "title": "100% fruit juice",
+          "core": "REGARDS supports ACM HR1.24 for each additional 12 ounces/day of pure fruit juice; the original \"11% sugary beverages\" are actually sugary beverages (the total of added sugar beverages + 100% fruit juice) and cannot be used as a separate SSB effect. Nor can we conclude that juice is more dangerous than sugary soft drinks based on different model point estimates.",
+          "body": [
+            "Judgment: Partial support",
+            "Effect size: HR 1.24 (pure juice); 1.11 (total sugar drinks) 95% CI 1.09–1.42; 1.03–1.19 per additional 12 US fluid ounces/day ≈ 355mL; continuous model",
+            "Population: US REGARDS 13,440 people, ≥45 years old, mean age 63.6; mean 6 years; 1,000 deaths",
+            "Design: Secondary analysis of an existing prospective cohort",
+            "Limitations: Original abstract 1.11 Exposure is total; direct comparison of juice and SSB cannot be made across models; HR1.14 (0.97–1.33) in high and low intake groups is not significant; not applicable to whole fruits.",
+            "Evidence: Association of Sugary Beverage Consumption With Mortality Risk in US Adults: A Secondary Analysis of Data From the REGARDS Study. — https://pubmed.ncbi.nlm.nih.gov/31099861/",
+            "Reader Summary: Follow-up of middle-aged and older adults in the United States found that greater pure fruit juice intake was associated with a higher risk of death."
+          ],
+          "remember": "Prioritize whole fruits and small amounts of juice rather than the main source of drinking water; those with diabetes or those who need to limit sugar should combine it with a medical diet plan.",
+          "tags": [
+            "C",
+            "Input",
+            "Liquids"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/31099861/"
+        },
+        {
+          "id": "coffee",
+          "title": "Coffee",
+          "core": "Original database 40 items, 3,852,651 people and 3.5 cups/day ACM RR0.85, 2.5 cups/day CVD RR0.83, 2 cups cancer death RR0.96 are consistent with the meta-analysis; all are observational associations, 3.5 cups is the lowest point of the fitting curve, and cannot be used as a personal precise life extension prescription. Action Festival -22% to -12% is not a single unified effect of this meta.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: RR 0.85 95% CI 0.82–0.89 Fit 3.5 cups/day vs Don’t drink; different cup sizes in each cohort",
+            "Population: 40 studies, 3,852,651 people, 450,256 all-cause and cause-specific deaths",
+            "Design: Observational cohort dose-response meta-analysis",
+            "Limitations: Coffee withdrawal may be caused by disease; tobacco, alcohol and diet are mixed; preparation methods, cup sizes, added sugar and caffeine amounts are different; there is no evidence to directly convert the risk ratio into lifespan.",
+            "Evidence: Coffee consumption and all-cause and cause-specific mortality: a meta-analysis by potential modifiers. — https://pubmed.ncbi.nlm.nih.gov/31055709/",
+            "Reader summary: A review of large studies finds that people who drink moderate amounts of coffee have a lower risk of death. Cup size, brewing method, added sugar, and personal tolerance are all worth considering."
+          ],
+          "remember": "Those who are used to it and tolerate it can drink it in moderation and add less sugar; when it is necessary to limit caffeine for insomnia, heart palpitations, pregnancy, etc., it will be individualized and do not forcefully start drinking it to extend life.",
+          "tags": [
+            "B",
+            "Input",
+            "Liquids"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/31055709/"
+        },
+        {
+          "id": "alcohol",
+          "title": "Alcohol/Drinking",
+          "core": "The original systematic review has been filled in for missing citations in the Action section. After adjusting for past drinker bias, there was no significant ACM protection for low-dose drinking; RR1.19 for 45 to <65g ethanol/day, and 1.35 for ≥65g/day. Any drinking cannot be uniformly written as \"+about 50% and no upper limit\"; nor can it be concluded that a certain dose is absolutely safe from the lack of significant benefit from low-dose ACM.",
+          "body": [
+            "Judgment: Correction required",
+            "Effect size: RR0.93 (1.3 to <25g/day); 1.19 (45 to <65g/day); 1.35 (≥65g/day) 95%CI 0.85–1.01; 1.07–1.32; 1.23–1.47 respectively Grouped by daily average grams of ethanol vs Lifetime non-drinking",
+            "Population: 107 cohort, 4,838,825 people, 425,564 deaths",
+            "Design: ACM systematic review and meta-regression",
+            "Limitations: underreporting of alcohol use, alcohol abstinence disease, binge drinking patterns, gender differences, meta-regression restrictions at the research level; female risk appears at lower intakes; it is not an alcohol abstinence intervention trial, and the percentage of benefit from abstinence cannot be directly given.",
+            "Evidence: Association Between Daily Alcohol Intake and Risk of All-Cause Mortality: A Systematic Review and Meta-analyses. — https://pubmed.ncbi.nlm.nih.gov/37000449/",
+            "Reader Summary: A large review of studies found no lower risk of death after accounting for biases such as past drinking; higher amounts of alcohol consumed were associated with higher risks."
+          ],
+          "remember": "Non-drinkers should not start for health; drinkers should reduce their total amount and binge drink. People with a history of alcohol dependence or withdrawal should seek medical support to avoid unsupported arrest.",
+          "tags": [
+            "B",
+            "Input",
+            "Liquids"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/37000449/"
+        }
+      ]
+    },
+    {
+      "title": "Input · Drugs",
+      "items": [
+        {
+          "id": "spermidine-diet",
+          "title": "Dietary spermidine (liquid and drug entries merged)",
+          "core": "Repeat two merges in the original library. Study exposures were dietary intake rather than medication or fluid intake; 40.5, 23.7, and 15.1 are deaths per 1,000 person-years, not percentages. Fully corrected for an increase in ACM HR of 0.76 per 1 SD of intake, it cannot be written that supplementation reduces it by 30%–60%. Another independent SAPHIR cohort direction verification still cannot distinguish the overall quality of food from the effect of spermidine itself.",
+          "body": [
+            "Judgment: Correction required",
+            "Effect size: HR 0.76 per 1SD higher dietary intake 95% CI 0.67–0.86 per 1SD increase in continuous dietary intake; non-supplement RCT",
+            "Population: Bruneck 829 people, 45–84 years old; 341 deaths 1995–2015; SAPHIR independent validation",
+            "Design: Prospective nutrition cohort, external validation; supplement awareness RCT non-ACM",
+            "Limitations: Crude mortality denominator was miswritten; age can explain most of the crude association; 20-year adjusted cumulative deaths 0.48/0.41/0.38, respectively; registration as a trial does not change the cohort design; supplementation cannot be extrapolated.",
+            "Evidence: Higher spermidine intake is linked to lower mortality: a prospective population-based study. — https://www.vascular-proteomics.com/pub/2018/KiechlS_AJCN_108_371.pdf",
+            "Evidence: Effects of Spermidine Supplementation on Cognition and Biomarkers in Older Adults With Subjective Cognitive Decline: A Randomized Clinical Trial. — https://pubmed.ncbi.nlm.nih.gov/35616942/",
+            "Reader summary: A follow-up study found that people who consumed more spermidine from food had a lower risk of death. This is a different issue than taking spermidine supplements, whose life-extending effects have not been proven."
+          ],
+          "remember": "It can be consumed through ordinary balanced foods such as whole grains and beans; if you do not buy or take spermidine according to \"reduce 60% mortality\", patients with diseases should check with their doctor before taking supplements.",
+          "tags": [
+            "C",
+            "Input",
+            "Drug"
+          ],
+          "sourceUrl": "https://www.vascular-proteomics.com/pub/2018/KiechlS_AJCN_108_371.pdf"
+        },
+        {
+          "id": "nmn",
+          "title": "NMN",
+          "core": "The original database only lists NMN without literature or numerical values. The human RCT studies that have been read are on muscle insulin sensitivity; 8 RCT reviews totaled 342 people, ranging from 14 days to 12 weeks, and the main metabolic indicators did not show significant benefits. None can be proven to reduce ACM or extend human lifespan.",
+          "body": [
+            "Judgment: No direct ACM evidence",
+            "Effect size: ACM effect not reported Not reported NMN vs placebo; outcome is metabolic surrogate index",
+            "Population: The original RCT was overweight/obese postmenopausal women with prediabetes, 10 weeks; 342 people in review 8 trials",
+            "Design: Short-term small sample human RCT and review of metabolic indicators",
+            "Limitations: Very short follow-up, lack of long-term efficacy and safety; The original RCT had controversy over baseline liver fat differences; changes in NAD or insulin signals cannot be equated with life extension.",
+            "Evidence: Nicotinamide mononucleotide increases muscle insulin sensitivity in prediabetic women. — https://pubmed.ncbi.nlm.nih.gov/33888596/",
+            "Evidence: Effects of Nicotinamide Mononucleotide on Glucose and Lipid Metabolism in Adults: A Systematic Review and Meta-analysis of Randomized Controlled Trials. — https://pubmed.ncbi.nlm.nih.gov/39531138/",
+            "Reader summary: Existing human trials mainly study metabolic indicators, are small in scale and short in time. The effect of NMN on extending human lifespan has not yet been confirmed, and there is a lack of sufficient data on its long-term safety."
+          ],
+          "remember": "Do not use NMN as a proven life-extending drug; if you participate in research, it should be managed as a formal trial and it does not replace the treatment of chronic diseases.",
+          "tags": [
+            "D",
+            "Input",
+            "Drug"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/33888596/"
+        },
+        {
+          "id": "metformin-diabetes",
+          "title": "Metformin (super-rediagnosed type 2 diabetes)",
+          "core": "UKPDS34 shows that metformin-enhanced sugar control in patients with super-rediagnosed diabetes has a relative reduction in ACM of 36% compared with conventional dietary strategies; the target is not a healthy person. The subsequent 13 RCT summary ACM RR0.99 and wide CI do not support writing a single trial as a universal life-extending drug for everyone.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: ACM relative risk reduction 36% (original report); 13RCT summary RR0.99 Original trial reduction 95%CI 9%–55%; summary RR 95%CI 0.75–1.31 Metformin enhanced sugar control vs. main dietary conventional strategies; comparison between unhealthy people and diabetic people",
+            "Population: UKPDS main randomized comparison of 753 super-rediagnosed type 2 diabetes patients, mean age 53; median 10.7 years",
+            "Design: Randomized open-label treatment strategy trial; another 13 RCT summary",
+            "Limitations: The control of the old trial is different from the modern standard treatment, and does not extrapolate to people without diabetes; For the applicable caliber of adverse reaction numbers in the original database, please see the \"Metformin Adverse Reactions\" record.",
+            "Evidence: Effect of intensive blood-glucose control with metformin on complications in overweight patients with type 2 diabetes (UKPDS 34). UK Prospective Diabetes Study (UKPDS) Group. — https://pubmed.ncbi.nlm.nih.gov/9742977/",
+            "Evidence: Reappraisal of metformin efficacy in the treatment of type 2 diabetes: a meta-analysis of randomized controlled trials. — https://pubmed.ncbi.nlm.nih.gov/22509138/",
+            "Reader's summary: Among overweight people with newly diagnosed diabetes, a randomized trial found fewer deaths in the metformin group; subsequent trials pooled results that are less certain. These studies discuss diabetes treatment."
+          ],
+          "remember": "For those with indications for diabetes, doctors should choose medications based on renal function, tolerance and B12 assessment; do not stop taking the prescription on your own, nor start anti-aging in healthy people on your own.",
+          "tags": [
+            "B",
+            "Input",
+            "Drug"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/9742977/"
+        },
+        {
+          "id": "metformin-longevity",
+          "title": "Metformin (healthy people’s life extension and original database safety assertion)",
+          "core": "The 2014 British review cohort reported that the adjusted median survival time ratio of non-diabetic controls to metformin diabetic patients was 0.85. It was not a randomized trial of healthy people taking the drug, nor did it confirm a fixed life extension of 3 years. After a median follow-up of 21 years in the DPP/DPPOS high-diabetes risk group after randomization, metformin ACM HR was 0.99, and no benefit was found. The 2024 Norway/Taiwan study fully controlled for father's diabetes and other confounding factors and found no significant association between father's medication and birth defects. Second-hand titles from the original database cannot be used to determine the teratogenic conclusion.",
+          "body": [
+            "Judgment: Correction required",
+            "Effect size: non-diabetic controls/metformin patients STR0.85; DPP/DPPOS metformin ACM HR0.99 STR 95%CI 0.81–0.90 (non-HR); DPP/DPPOS HR 95%CI 0.79–1.25 Observation cohort: non-diabetic controls vs diabetic metformin patients; DPP: metformin vs Placebo original randomization",
+            "Population: UK CPRD 78,241 metformin patients, 12,222 sulfonylurea patients, 90,463 matched non-diabetics; DPP/DPPOS 3,234 people at high risk of diabetes, median 21 years, 453 deaths",
+            "Design: Retrospective matched cohort; randomized trial open to long-term follow-up; additional safety bi-national cohort",
+            "Limitations: survival time ratio cannot be converted to fixed years of life gained; various anti-aging claims have not been confirmed by ACM randomized trials in healthy people; safety frequency, see \"Metformin Adverse Reactions\"; congenital malformations are not ACM.",
+            "Evidence: Can people with type 2 diabetes live longer than those without? A comparison of mortality in people initiated with metformin or sulphonylurea monotherapy and matched, non-diabetic controls. — https://pubmed.ncbi.nlm.nih.gov/25041462/",
+            "Evidence: Effect of Metformin and Lifestyle Interventions on Mortality in the Diabetes Prevention Program and Diabetes Prevention Program Outcomes Study. — https://pubmed.ncbi.nlm.nih.gov/34697033/",
+            "Evidence: Paternal metformin use and risk of congenital malformations in offspring in Norway and Taiwan: population based, cross national cohort study. — https://pubmed.ncbi.nlm.nih.gov/39414354/",
+            "Reader summary: Observational studies have compared diabetic patients taking metformin with controls without diabetes and found that the former had better survival; however, long-term randomized follow-up did not find a reduction in the risk of death among people at high risk for diabetes. The life-extending effect of taking medication in healthy people has not yet been proven."
+          ],
+          "remember": "Healthy people should not take metformin on their own to extend their lifespan; diabetic men preparing for pregnancy should not stop taking metformin on their own due to second-hand reports and discuss individual risks with their doctor.",
+          "tags": [
+            "C",
+            "Input",
+            "Drug"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/25041462/"
+        },
+        {
+          "id": "multivitamins",
+          "title": "Multivitamins",
+          "core": "PHS II male doctors tested the HR of cancer incidence to 0.92, which dropped by about 8%. This is because the incidence is not ACM; cancer deaths also did not drop significantly. The ACM HR of the COSMOS randomized trial was 0.93 and the CI spanned 1; the three US cohorts in 2024 also showed no benefit from ACM. It should be made clear that there is no proof that taking multivitamins will extend life for healthy people in general.",
+          "body": [
+            "Judgment: Partial support",
+            "Effect size: ACM HR 0.93 (COSMOS); cancer incidence HR 0.92 (PHS II, non-ACM) ACM 95% CI 0.81–1.08; cancer incidence 0.86–0.998 Daily multivitamin vs placebo; additional daily use vs no use cohort",
+            "Population: PHS II 14,641 male physicians, 11.2 years; COSMOS 21,442 older adults, 3.6 years; 390,124 people in the 2024 cohort",
+            "Design: double-blind placebo randomized trial; large multi-cohort",
+            "Limitations: COSMOS follow-up is short and ACM is a secondary endpoint; PHS II is not applicable to all genders and ages; formulas are different; slight increase in HR in the cohort does not prove that the drug is harmful; treatment for those who are deficient will be discussed separately.",
+            "Evidence: Multivitamins in the prevention of cancer in men: the Physicians' Health Study II randomized controlled trial. — https://pubmed.ncbi.nlm.nih.gov/23162860/",
+            "Evidence: Multivitamins in the prevention of cancer and cardiovascular disease: the COcoa Supplement and Multivitamin Outcomes Study (COSMOS) randomized clinical trial. — https://pubmed.ncbi.nlm.nih.gov/35294969/",
+            "Evidence: Multivitamin Use and Mortality Risk in 3 Prospective US Cohorts. — https://pubmed.ncbi.nlm.nih.gov/38922615/",
+            "Reader Summary: Randomized trials and large follow-ups of multivitamins have not shown a reduced risk of death in generally healthy people. Some studies have found a reduction in cancer incidence, which is another study outcome."
+          ],
+          "remember": "Do not take multivitamins regularly for longevity; those with nutritional deficiencies, specific life stages, or absorption disorders will be supplemented according to assessment.",
+          "tags": [
+            "A",
+            "Input",
+            "Drug"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/23162860/"
+        },
+        {
+          "id": "glucosamine-chondroitin",
+          "title": "Glucosamine/Chondroitin",
+          "core": "The 39% ACM and 65% reduction in CVD in the original library correspond to only age correction; after full correction, ACM HR0.73 (27% lower) and CVD HR0.42 (58% lower). There are 658 ongoing users, not 648. It is an observational correlation, and there is no direct proof that the efficacy is \"equivalent to exercise\", nor can an effective dose of 500-1000 mg be derived for life extension.",
+          "body": [
+            "Judgment: Correction required",
+            "Effect size: HR 0.73 (multivariable adjusted ACM) 95% CI 0.57–0.93 Baseline reported use of glucosamine/chondroitin ≥365 days vs no use or less than 365 days",
+            "Population: NHANES 1999–2010, 16,686 adults ≥40 years, excluding those with baseline CVD and missing vital status; 658 used ≥1 year; median 107 months; 3,366 deaths",
+            "Design: Nationwide cohort mortality follow-up analysis",
+            "Limitations: Age Adjustment and multivariable adjustment should not be mixed; exposure to combined supplements cannot be separated into the unique effect of aminoglycosides; baseline self-reported use, and follow-up did not track dosage and continued compliance; users exercise more often, do not smoke, and are more educated, and adjustment cannot eliminate the confounding of healthy users and other supplements.",
+            "Evidence: Glucosamine/Chondroitin and Mortality in a US NHANES Cohort. — https://pubmed.ncbi.nlm.nih.gov/33219063/",
+            "Reader summary: US follow-up found that long-term users of glucose and chondroitin had a lower risk of death; users also exercised more often and did not smoke. Research has not proven that these supplements extend life in healthy people."
+          ],
+          "remember": "Do not start glucosamine/chondroitin to extend your life; if you have joint symptoms or anticoagulant therapy, discuss the applicability and interactions with your doctor first, and continue regular exercise.",
+          "tags": [
+            "C",
+            "Input",
+            "Drug"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/33219063/"
+        },
+        {
+          "id": "anti-aging-drugs-review",
+          "title": "Comprehensive Anti-Aging Drug Candidates (Review)",
+          "core": "Corresponds to the 2020 Nature Reviews Drug Discovery review and discusses rapamycin, senolytics, metformin, acarbose, spermidine, NAD enhancers, lithium, etc.; its stratification is mainly based on preclinical and partial clinical results, not a meta-analysis confirming that these drugs can reduce ACM in healthy people.",
+          "body": [
+            "Judgment: No direct ACM evidence",
+            "Effect Size: Not reported ACM pooled effect available in healthy humans Not reported Mechanism, animal and early clinical studies of each drug candidate; no unified randomized ACM control",
+            "Population: mainly animal models and limited human studies; no healthy human death intervention population",
+            "Design: narrative drug development review",
+            "Limitations: different molecules, dosages, and indications cannot be combined into \"comprehensive anti-aging drugs\"; benefits for disease indications are not equal to life extension for healthy people; review in 2020, does not claim to comprehensively search all new drugs as of 2026.",
+            "Evidence: The quest to slow aging through drug discovery. — https://pubmed.ncbi.nlm.nih.gov/32467649/",
+            "Reader summary: A review of anti-aging drugs discusses a variety of candidate molecules, with evidence derived primarily from animal and limited human studies. Their effectiveness in extending lifespan in healthy people remains unproven."
+          ],
+          "remember": "Do not combine anti-aging drugs by yourself; if there are clear disease indications, treatment should be carried out by specialists, and experimental anti-aging intervention should be carried out in standardized research.",
+          "tags": [
+            "D",
+            "Input",
+            "Drug"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/32467649/"
+        },
+        {
+          "id": "statins-indicated-patients",
+          "title": "Statin lipid-lowering (according to cardiovascular risk and indication)",
+          "core": "A meta-analysis of individual data from 27 randomized trials showed that for every 1 mmol/L LDL-C reduction in patients without previous vascular disease, the ACM RR was 0.91. The results apply to those included in the trial and eligible for lipid-lowering therapy; not all healthy people should take the drug; the absolute benefit varies with baseline risk.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: RR0.91 per 1mmol/L decrease in LDL-C (without previous vascular disease) 95%CI 0.85–0.97 Statin vs control or intensive vs less intensive; normalized by LDL-C difference",
+            "Population: 27RCT total 174,149 people; ACM numbers for subpopulation without preexisting vascular disease; median 4.8–5.1 years",
+            "Design: Randomized Meta-analysis of trial individual data",
+            "Limitations: The study includes primary and secondary prevention, and the 0.91 given is for the subgroup without medical history; the absolute benefits of high and low risks are different; the 2026 local medication threshold has not been independently verified, and the medication cannot be prescribed here.",
+            "Evidence: The effects of lowering LDL cholesterol with statin therapy in people at low risk of vascular disease: meta-analysis of individual data from 27 randomized trials. — https://pubmed.ncbi.nlm.nih.gov/22607822/",
+            "Reader summary: A summary of randomized trials finds that statin therapy reduces cardiovascular events, and reduced deaths were also observed in people without preexisting vascular disease. Personal gain depends on the original risk."
+          ],
+          "remember": "Discuss statins for those who already suffer from ASCVD or meet the indications for lipid-lowering as assessed by a doctor; low-risk healthy people should not start on their own just because of \"life extension\"; muscle symptoms, interactions, and pregnancy situations require individual evaluation.",
+          "tags": [
+            "A",
+            "Input",
+            "Drug"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/22607822/"
+        },
+        {
+          "id": "vitamin-d-general-population",
+          "title": "Vitamin D supplementation (generally no choice for older adults)",
+          "core": "VITAL trial of 2000IU vitamin D3 per day did not show a reduction in ACM: HR0.99, CI across 1. The results do not negate the treatment of clear indications such as deficiencies and bone diseases, nor do they prove that any dose is completely risk-free in the long term.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: HR0.99 95%CI 0.87–1.12 Vitamin D3 2000IU/day vs placebo",
+            "Population: 25,871 people in the United States, men ≥50, women ≥55; median 5.3 years; 978 deaths",
+            "Design: Randomized double-blind placebo-controlled 2×2 factorial trial",
+            "Limitations: Not screened for severe deficiencies; most non-deficient populations, results do not cover all doses and indications; cannot translate observational low-dimensional D associations into causal effects of supplementation.",
+            "Evidence: Vitamin D Supplements and Prevention of Cancer and Cardiovascular Disease. — https://pubmed.ncbi.nlm.nih.gov/30415629/",
+            "Reader summary: Large randomized trials have not found that routine vitamin D supplementation reduces the risk of death in the general population of middle-aged and older adults. Treatment needs such as nutritional deficiencies and bone disease require separate evaluation."
+          ],
+          "remember": "Do not blindly supplement in large doses for the purpose of extending life; those who are suspected of being deficient or have clear indications such as bone health should supplement according to the doctor's assessment.",
+          "tags": [
+            "A",
+            "Input",
+            "Drug"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/30415629/"
+        },
+        {
+          "id": "intensive-bp-control",
+          "title": "Intensive blood pressure reduction for those who meet the requirements",
+          "core": "For those without diabetes and with higher cardiovascular risk in SPRINT, the systolic blood pressure target is <120 compared to <140 mmHg, which reduces ACM by approximately 27%. This is a treatment strategy trial. Not all healthy people take antihypertensive drugs to extend their lives; the CVD composite endpoint HR0.75 and ACM HR0.73 are reported separately.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: ACM HR 0.73 95%CI 0.60–0.90 Intensive systolic blood pressure target <120 vs standard target <140 mmHg",
+            "Population: 9,361 adults with SBP ≥130 mmHg, increased cardiovascular risk, and no diabetes",
+            "Design: SPRINT randomized controlled trial; median follow-up 3.26 years, early stopping",
+            "Limitations: Early stopping may overestimate benefit; hypotension, syncope, electrolyte abnormalities, and acute kidney injury were more common; cannot be generalized to diabetics or low-risk normotensive individuals.",
+            "Evidence: A Randomized Trial of Intensive versus Standard Blood-Pressure Control. — https://europepmc.org/article/MED/26551272",
+            "Reader summary: A randomized trial found that hypertensive people without diabetes and with higher cardiovascular risk died less after intensive blood pressure reduction; adverse events such as hypotension and kidney disease were also more common."
+          ],
+          "remember": "Those diagnosed with high blood pressure and at higher risk should discuss their goals with their doctor and monitor kidney function, electrolytes, and postural symptoms; do not add medications or pursue trial goals on your own.",
+          "tags": [
+            "A",
+            "Input",
+            "Drug"
+          ],
+          "sourceUrl": "https://europepmc.org/article/MED/26551272"
+        },
+        {
+          "id": "dapagliflozin-ckd",
+          "title": "Dapagliflozin (specific chronic kidney disease)",
+          "core": "Among the chronic kidney disease people who meet the DAPA-CKD enrollment conditions, the ACM in the randomized treatment group is lower; it does not constitute evidence of anti-aging medication in healthy people.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: HR 0.69; death 4.7% vs 6.8% 0.53–0.88 Dapagliflozin 10 mg/day vs placebo, both on standard care",
+            "Population: 4304 adults with CKD; eGFR 25–75, UACR 200–5000 mg/g; median follow-up of 2.4 years, with/without type 2 diabetes",
+            "Design: Double-blind randomized placebo control; ACM is the preset key secondary endpoint",
+            "Limitations: The trial was terminated early due to efficacy; cannot be extrapolated to healthy people without CKD, type 1 diabetes, or excluded kidney disease types. 4.7%/6.8% is the proportion of deaths during the trial, not the lifetime risk.",
+            "Evidence: Effects of dapagliflozin on mortality in patients with chronic kidney disease: a pre-specified analysis from the DAPA-CKD randomized controlled trial — https://pmc.ncbi.nlm.nih.gov/articles/PMC8244648/",
+            "Reader summary: The randomized trial found fewer deaths in the dapagliflozin group among eligible patients with chronic kidney disease, including those with and without diabetes. The life-extending effect on healthy people has not yet been proven."
+          ],
+          "remember": "Evaluated by clinicians based on CKD and other indications; risks such as fluid deficiency, infection, and ketoacidosis need to be considered. Dosage describes the trial protocol only.",
+          "tags": [
+            "A",
+            "Input",
+            "Drug"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8244648/"
+        },
+        {
+          "id": "semaglutide-select",
+          "title": "Semaglutide (SELECT adapted population)",
+          "core": "The ACM estimate in SELECT tends to be lower, but the stratification test of the main trial failed in cardiovascular death, so ACM cannot be used as a confirmatory superiority conclusion through multiplicity control.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: HR 0.81 (exploratory interpretation) 0.71–0.93 weekly subcutaneous semaglutide 2.4 mg vs. Placebo, based on standard treatment",
+            "Population: 17,604 people; ≥45 years old, BMI ≥27, existing cardiovascular disease, no diabetes; average follow-up 39.8 months",
+            "Design: Randomized double-blind trial and analysis of death outcomes",
+            "Limitations: cannot be generalized to young people, without cardiovascular disease, normal BMI; funded by the manufacturer; 16.6% vs 8.2% of the main trial discontinued due to adverse events.",
+            "Evidence: The Effect of Semaglutide on Mortality and COVID-19-Related Deaths: An Analysis From the SELECT Trial. — https://pubmed.ncbi.nlm.nih.gov/39217559/",
+            "Evidence: Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes — https://www.nejm.org/doi/full/10.1056/NEJMoa2307563",
+            "Reader's abstract: In the SELECT trial, fewer deaths occurred in the semaglutide group among participants who had cardiovascular disease, were overweight or obese, and did not have diabetes; this death result was an exploratory finding."
+          ],
+          "remember": "Only evaluate under corresponding clinical indications, and do not regard exploratory ACM results as a promise to extend life for healthy people.",
+          "tags": [
+            "B",
+            "Input",
+            "Drug"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/39217559/"
+        },
+        {
+          "id": "aspirin-primary-prevention",
+          "title": "Aspirin (primary prevention in the elderly)",
+          "core": "ASPREE does not support the initiation of daily aspirin in order to extend life in the elderly without previous cardiovascular disease; the ACM secondary endpoint showed a higher signal of death, but without adjustment for multiple comparisons, it should be interpreted with caution.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: HR 1.14; 12.7 vs 11.1/1000 person-years 1.01–1.29 (uncorrected for multiple comparisons) Aspirin 100 mg/day vs Placebo",
+            "Population: 19,114 community-dwelling elderly people (African Americans/Hispanics ≥65 years old) who are usually ≥70 years old, without cardiovascular disease, dementia or disability; median 4.7 years",
+            "Design: Randomized double-blind trial; ACM is a secondary endpoint",
+            "Limitations: Not completely consistent with other previous studies; not suitable for secondary prevention after myocardial infarction/stroke, does not mean that medication increases ACM for all ages.",
+            "Evidence: Effect of Aspirin on All-Cause Mortality in the Healthy Elderly. — https://pubmed.ncbi.nlm.nih.gov/30221595/",
+            "Evidence: Effect of Aspirin on All-Cause Mortality in the Healthy Elderly — Discussion — https://www.nejm.org/doi/full/10.1056/NEJMoa1803955",
+            "Reader Abstract: Daily aspirin conferred no life-extending benefit and signaled more deaths in a randomized trial of older adults without prior cardiovascular disease. This result is in a different context than treatment after myocardial infarction or stroke."
+          ],
+          "remember": "Do not initiate aspirin on your own just to extend your life; you should not discontinue aspirin on your own based on this trial, as the user and physician have been specifically advised to evaluate it.",
+          "tags": [
+            "B",
+            "Input",
+            "Drug"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/30221595/"
+        },
+        {
+          "id": "metformin-adverse-events",
+          "title": "Metformin Adverse Reactions (Calibration Check)",
+          "core": "53% of the diarrhea listed on the US drug label correspond to the specific test, 9% of asthenia and 6% of headache are also the test values, and do not represent the general incidence rate for all people taking the drug. About 7% of the 29-week trial showed serum B12 lower than normal, which does not mean that all patients have symptomatic deficiency; the upper limit of 17.4% was not verified by this label. Lactic acidosis has a black box warning, liver injury is a post-marketing report, and the frequency cannot be estimated from spontaneous reports.",
+          "body": [
+            "Judgment: Partial support",
+            "Effect size: ACM effect not evaluated; diarrhea 53% vs 12% ACM not reported; adverse reaction interval not listed Metformin immediate release tablets vs placebo; upper limit of dosage 2550 mg/day",
+            "Population: The label includes US type 2 diabetes trials: 141 people in the drug group and 145 people in the placebo; B12 data comes from the 29-week trial",
+            "Design: Adverse reaction trials and post-marketing reports from official drug labels, non-ACM intervention studies",
+            "Limitations: Response rates of different preparations, titrations, doses, follow-up and populations cannot be directly compared; no unified definition is provided for 17.4%; the frequency of adverse reactions is not regarded as the risk of death.",
+            "Evidence: Metformin hydrochloride tablets — Full prescribing information, sections 5.1–5.2, 6.1–6.2 — https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4f70f907-08d5-4c2e-a4be-32c6124faa7b",
+            "Reader summary: Metformin can cause gastrointestinal discomfort such as diarrhea, and may also reduce vitamin B12 levels; lactic acidosis is also a risk that needs attention. Reactions may vary with preparation, dose, and physical condition."
+          ],
+          "remember": "Use medication as clinically indicated and monitor renal function and B12; this record is used to correct the frequency and is not used to start or stop medication on your own.",
+          "tags": [
+            "D",
+            "Input",
+            "Drug"
+          ],
+          "sourceUrl": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4f70f907-08d5-4c2e-a4be-32c6124faa7b"
+        },
+        {
+          "id": "hepatitis-c-treatment",
+          "title": "Detection and Treatment of Chronic Hepatitis C",
+          "core": "In a prospective cohort of French patients with chronic hepatitis C, receipt of direct-acting antiviral therapy was associated with an approximately 52% lower adjusted risk of all-cause death. The comparison was among infected patients, and treatment assignment was not random.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: Adjusted HR 0.48 95%CI 0.33–0.70 Chronic hepatitis C patients receiving direct-acting antiviral therapy vs. No treatment; time-varying treatment exposure analysis",
+            "Population: 9,895 adults with chronic hepatitis C in 32 liver disease centers in France; median follow-up 33.4 months",
+            "Design: Prospective multicenter observational cohort, using time-dependent models and adjusting for confounders",
+            "Limitations: The study excluded patients with previous decompensated cirrhosis, liver cancer, or liver transplantation; cannot be extrapolated to the uninfected, nor is it a randomized comparison of a certain regimen. Antibody positivity by itself does not confirm current infection.",
+            "Evidence: Clinical outcomes in patients with chronic hepatitis C after direct-acting antiviral treatment: a prospective cohort study. — https://pubmed.ncbi.nlm.nih.gov/30765123/",
+            "Evidence: Testing for Hepatitis C (CDC) — https://www.cdc.gov/hepatitis-c/testing/index.html",
+            "Reader's Summary: Hepatitis C can be asymptomatic for long periods of time. Follow-up studies of patients with chronic hepatitis C have found that people who receive antiviral treatment have a lower risk of death. It is important to find out whether they are infected and treat them in time."
+          ],
+          "remember": "After being positive for hepatitis C antibodies, further test to see if the virus is still present; after confirming a current infection, receive a liver evaluation and choose antiviral treatment with your doctor.",
+          "tags": [
+            "C",
+            "Input",
+            "Drug"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/30765123/"
+        }
+      ]
+    },
+    {
+      "title": "Input · Gas",
+      "items": [
+        {
+          "id": "smoking",
+          "title": "Smoking and Quitting",
+          "core": "The sample of low-intensity smoking in Mexico is consistent with the 1.17/1.54 risk figure; the original text is called RR, not all smokers are uniformly +50%. The ACM of current smokers in a large cohort in the United States is about 3 times, and the life expectancy is >10 years shorter; the original database of 11–12 years has not been verified from the Mexican paper, and people with different intensities cannot be combined into a unified number.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: RR 1.17 (<10 cigarettes/day); 1.54 (≥10 cigarettes/day) 95%CI 1.10–1.25; 1.42–1.67 respectively Baseline daily smoking <10/≥10 cigarettes vs Never smoked",
+            "Population: 129,151 Mexican adults without previous chronic diseases, 35-89 years old; recruited from 1998-2004, followed up to 2018",
+            "Design: Prospective cohort, and another US national cohort validation",
+            "Limitations: Smoking volume changes over time; negative results for non-daily smoking in this cohort cannot prove safety; the CI of the US study is 99% and should not be marked as 95%.",
+            "Evidence: Low-intensity daily smoking and cause-specific mortality in Mexico: prospective study of 150 000 adults. — https://pubmed.ncbi.nlm.nih.gov/33659992/",
+            "Evidence: 21st-century hazards of smoking and benefits of cessation in the United States. — https://pubmed.ncbi.nlm.nih.gov/23343063/",
+            "Reader summary: Long-term follow-up continues to show that smokers are at higher risk of death, even if they smoke a small amount per day. People who quit smoking have lower risks than those who continue to smoke."
+          ],
+          "remember": "Don’t start smoking, and smokers should quit smoking as soon as possible; seek smoking cessation clinics and evidence-based drug support when necessary. Reducing the number of cigarettes does not mean eliminating risks.",
+          "tags": [
+            "B",
+            "Input",
+            "Gas"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/33659992/"
+        },
+        {
+          "id": "ambient-air-pollution",
+          "title": "Long-term environmental PM2.5 pollution",
+          "core": "In a large Medicare cohort, each 10 μg/m³ increase in long-term PM2.5 was associated with a 7.3% increase in ACM; each 10 ppb increase in ozone was associated with a 1.1% increase. This is an environmental exposure correlation and does not mean that using a certain purifier will reduce deaths by the same percentage.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: 7.3% increased risk of ACM / 7.1%–7.5% increased risk per 10 μg/m³ PM2.5 95% CI For every 10 μg/m³ increase in estimated annual mean PM2.5 by place of residence, the two-pollutant model",
+            "Population: 60,925,443 Medicare beneficiaries in the United States; 2000–2012; 460,310,521 person-years",
+            "Design: National open cohort",
+            "Limitations: Older adults in the United States; zip code exposure does not equal personal inhalation; lack of detailed information such as individual smoking; association cannot directly give personal purification intervention effects.",
+            "Evidence: Air Pollution and Mortality in the Medicare Population. — https://pubmed.ncbi.nlm.nih.gov/28657878/",
+            "Reader's summary: A large follow-up of older adults in the United States found that long-term exposure to higher levels of fine particulate matter and ozone was associated with a higher risk of death."
+          ],
+          "remember": "Pay attention to local air quality, reduce strenuous outdoor activities during high-exposure periods when pollution is high, and improve indoor air when feasible; ventilation should take into account pollution and infection situations.",
+          "tags": [
+            "B",
+            "Input",
+            "Gas"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/28657878/"
+        }
+      ]
+    },
+    {
+      "title": "Input · Lighting",
+      "items": [
+        {
+          "id": "sun-exposure",
+          "title": "Sunbathing/UV",
+          "core": "The Danish study used skin cancer diagnosis as a proxy for sun exposure and did not randomly increase sun exposure. Non-melanoma skin cancer was associated with ACM HR 0.52 and melanoma HR 0.89; the authors clearly cannot draw causal conclusions. \"More sun exposure extends life by 6 years\" and \"reduces ACM by about 40%\" cannot be deduced from this; the Swedish sun exposure cohort estimated a life span difference of 0.6–2.1 years, not 6 years.",
+          "body": [
+            "Judgment: Correction required",
+            "Effect size: HR 0.52 (non-melanoma skin cancer); 0.89 (melanoma) 95% CI 0.52–0.53; 0.87–0.91 skin cancer diagnosis vs. no diagnosis; not sun dose intervention",
+            "Population: 4.4 million people aged >40 years in Denmark, 1980–2006; 29,518 women in Sweden followed for 20 years",
+            "Design: National registry observational study; prospective sun exposure cohort",
+            "Limitations: Skin cancer diagnosis and survival choices are confounded by socioeconomics, outdoor exercise, and health care-seeking behaviors; exposure proxies are unreliable; sunburn increases skin cancer risk; there is no optimal duration of dosage derived from these studies.",
+            "Evidence: Skin cancer as a marker of sun exposure associates with myocardial infarction, hip fracture and death from any cause. — https://pubmed.ncbi.nlm.nih.gov/24038635/",
+            "Evidence: Avoidance of sun exposure as a risk factor for major causes of death: a competing risk analysis of the Melanoma in Southern Sweden cohort. — https://pubmed.ncbi.nlm.nih.gov/26992108/",
+            "Reader's summary: Nordic research has found that sun exposure-related indicators are related to survival, but outdoor activities, medical treatment habits, etc. can also affect the results. Research has not identified a life-extending amount of sun exposure."
+          ],
+          "remember": "You can take regular outdoor activities and be exposed to natural light, while avoiding sunburns and sunbeds. People with photosensitivity diseases, related medications, or those with a high risk of skin cancer should follow the sun protection recommendations of their doctors.",
+          "tags": [
+            "D",
+            "Input",
+            "illumination"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/24038635/"
+        }
+      ]
+    },
+    {
+      "title": "Output · Movement",
+      "items": [
+        {
+          "id": "racquet-sports",
+          "title": "swing motion",
+          "core": "47% corresponds to the adjusted ACM hazard ratio for swing participants, non-randomized intervention effect. The abstract does not support the precise prescription of 45–60 minutes three times per week, nor does it allow for the most cost-effective exercise of all. The paper was published in the British Journal of Sports Medicine, not The Lancet.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: HR 0.53 95%CI 0.40–0.69 Participating in racket sports vs. Not participating in such sports",
+            "Population: 80,306 UK adults; mean 52±14 years",
+            "Design: Combined analysis of England/Scottish population-based cohort",
+            "Limitations: Self-reported exercise, healthy participants and socioeconomic confounding; cannot unconditionally extrapolate to table tennis or all ages.",
+            "Evidence: Associations of specific types of sports and exercise with all-cause and cardiovascular-disease mortality: a cohort study of 80 306 British adults. — https://europepmc.org/article/MED/27895075",
+            "Reader summary: Participation in swing sports is associated with a lower risk of death, following follow-up of British adults. Hobbies, physical fitness, and whether you can persist for a long time are also worth putting into your exercise selection."
+          ],
+          "remember": "Choose racket activities that you like and that your body allows, and increase them gradually; those with joint injuries or cardiovascular symptoms will be evaluated first.",
+          "tags": [
+            "B",
+            "Output",
+            "Exercise"
+          ],
+          "sourceUrl": "https://europepmc.org/article/MED/27895075"
+        },
+        {
+          "id": "vigorous-activity",
+          "title": "Strenuous Exercise",
+          "core": "The original database summarizes 16–40% of the papers across death endpoints as ACM. About 15 minutes/week corresponds to an 18% lower ACM, about 19.2 minutes corresponds to a 40% lower cardiovascular death, and about 53.6 minutes/week corresponds to a 36% lower ACM. These are non-daily 8-minute guaranteed returns relative to the model correlation of 2.2 minutes/week.",
+          "body": [
+            "Judgment: Correction required",
+            "Effect size: ACM HR 0.82 (approximately 15 minutes/week); 0.64 (53.6 minutes/week) 95% CI 0.75–0.89; 0.54–0.77 VPA approximately 15 or 53.6 minutes/week vs 2.2 minutes/week",
+            "Population: 71,893 UK Biobank adults, median 62.5 years, mean follow-up 5.9 years",
+            "Design: Wrist accelerometer prospective cohort, dose-response model",
+            "Limitations: non-random; selection bias, residual confounding; the lowest point of the curve is not the optimal prescription for everyone.",
+            "Evidence: Vigorous physical activity, incident heart disease, and cancer: how little is enough? — https://pmc.ncbi.nlm.nih.gov/articles/PMC9726449/",
+            "Reader summary: UK follow-up finds that shorter periods of high-intensity activity are also associated with a lower risk of death. The participants are mainly middle-aged and elderly people, and the amount of exercise is recorded from activity equipment."
+          ],
+          "remember": "Those who have a foundation for exercise and have no contraindications will gradually join short-term higher-intensity activities; those who are unwell or whose chronic disease has not stabilized will be evaluated first.",
+          "tags": [
+            "B",
+            "Output",
+            "Exercise"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9726449/"
+        },
+        {
+          "id": "walking-steps",
+          "title": "Walking/daily steps",
+          "core": "In the original study, 7,000–9,999 steps and ≥10,000 steps per day were related to lower ACM, which was about 72% and 55% lower; it does not mean that walking intervention will necessarily reduce it by more than 50%, nor does it prove that more steps are better or that cadence is independently beneficial.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: HR 0.28; 0.45 95%CI 0.15–0.54; 0.25–0.81 7,000–9,999 and ≥10,000 steps/day vs <7,000 steps/day",
+            "Population: CARDIA 2,110 African American/White adults, mean 45.2 years; 10.8 years of follow-up, 72 deaths",
+            "Design: Prospective single cohort with accelerometer measurements",
+            "Limitations: Short-term activity measurement; residual confounding and reverse causality; 7,000 steps cannot be considered a universal threshold.",
+            "Evidence: Steps per Day and All-Cause Mortality in Middle-aged Adults in the Coronary Artery Risk Development in Young Adults Study. — https://pmc.ncbi.nlm.nih.gov/articles/PMC8417757/",
+            "Reader summary: A follow-up of middle-aged Americans found that those who took more steps per day had a lower risk of death. The result is not that more steps is better."
+          ],
+          "remember": "Gradually increase walking from your own baseline; individualized arrangements for those with mobility impairments, risk of falls, or cardiopulmonary disease.",
+          "tags": [
+            "C",
+            "Output",
+            "Exercise"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8417757/"
+        },
+        {
+          "id": "resistance-training",
+          "title": "Resistance/Muscle Strength Training",
+          "core": "In a prospective cohort meta-analysis, any strength training was associated with about 15% lower ACM than no training; the benefit was greater near the 30–60 minutes/week curve, but the effect of high doses is uncertain and is not the optimal dose confirmed by randomized trials.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: RR 0.85 95%CI 0.79–0.93 Any muscle-strengthening activity vs. If there is no such activity, adjust aerobic activity as much as possible",
+            "Population: ACM two-category synthesis 7 studies, 263,058 people, 42,133 deaths; total review 16 studies",
+            "Design: Prospective cohort systematic review/meta-analysis",
+            "Limitations: I²=83%; self-reported, healthy participant bias and confounding; it cannot be concluded that more training is harmful based on the J curve.",
+            "Evidence: Muscle-strengthening activities are associated with lower risk and mortality in major non-communicable diseases: a systematic review and meta-analysis of cohort studies. — https://pmc.ncbi.nlm.nih.gov/articles/PMC9209691/",
+            "Reader summary: Review of cohort studies finds that people who do strength training have a lower risk of death. There is still uncertainty about the specific relationship between training volume and results."
+          ],
+          "remember": "Gradually practice major muscle groups and combine aerobics when physical conditions permit; pain, recent surgery, or unstable chronic diseases need to be evaluated and adjusted first.",
+          "tags": [
+            "B",
+            "Output",
+            "Exercise"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9209691/"
+        },
+        {
+          "id": "cardiorespiratory-fitness",
+          "title": "Cardiorespiratory fitness (CRF)",
+          "core": "Each 1 MET higher in cardiorespiratory fitness as measured by exercise stress testing is associated with lower ACM; this is an observational correlation with a measure of physical ability, not an inevitable benefit from \"exercise 1 MET more.\"",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: RR 0.88 / MET per high 1 CRF 0.83–0.93 MET per high; non-exercise minutes comparison",
+            "Population: 34 adult cohorts were included in the review; ACM continuous dose analysis was from a subset of them",
+            "Design: Cohort study dose-response meta-analysis",
+            "Limitations: High inter-study heterogeneity; previous disease, genetics, and testing regimen affect CRF; search ended on 2019-12-26.",
+            "Evidence: Cardiorespiratory fitness and mortality from all causes, cardiovascular disease and cancer: dose-response meta-analysis of cohort studies. — https://doi.org/10.1136/bjsports-2021-104876",
+            "Reader Summary: Multiple cohort studies have found that better cardiorespiratory fitness as measured by exercise testing is associated with a lower risk of death. It reflects physical ability and is also affected by factors such as disease and genetics."
+          ],
+          "remember": "Treat fitness as a clue to physical fitness assessment and gradually train based on basic health status; RR cannot be used directly to estimate personal life extension.",
+          "tags": [
+            "B",
+            "Output",
+            "Exercise"
+          ],
+          "sourceUrl": "https://doi.org/10.1136/bjsports-2021-104876"
+        },
+        {
+          "id": "walking-steps-2025",
+          "title": "Daily steps (2025 review update)",
+          "core": "In the 2025 review summary, 7,000 steps per day was associated with lower ACM compared to 2,000 steps per day. The correlation between the two groups cannot be directly regarded as the personal intervention benefit from adding 2000 to 7000 steps.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: HR 0.53 (abstract report) 0.46–0.60 Device measured 7000 steps vs 2000 steps per day, dose-response model",
+            "Population: Adult prospective cohort; ACM included 14 studies in this comparison; review retrieved to 2025-02-14",
+            "Design: Systematic review and dose-response meta-analysis",
+            "Limitations: Residual confounding; no age-stratified conclusions; differences in device, measurement period, and previous diseases. This time, we relied on abstract values ​​and did not review the full text table by table.",
+            "Evidence: Daily steps and health outcomes in adults: a systematic review and dose-response meta-analysis. — https://pubmed.ncbi.nlm.nih.gov/40713949/",
+            "Reader summary: Newer research reviews continue to find that taking more daily steps is associated with a lower risk of death. Participant physical condition, equipment, and measurement methods can also affect results."
+          ],
+          "remember": "Increase the number of steps within your own capabilities; 7,000 steps can be a progressive goal for some people, and cannot be set as a hard threshold that everyone must reach.",
+          "tags": [
+            "B",
+            "Output",
+            "Exercise"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40713949/"
+        }
+      ]
+    },
+    {
+      "title": "Output · Daily",
+      "items": [
+        {
+          "id": "toothbrushing",
+          "title": "Brushing",
+          "core": "The ACM HR for rarely/never brushing versus regular brushing is 1.25; cancer, COPD, and cirrhosis figures are primarily risk. The observation does not mean that starting to brush your teeth can reduce ACM by 25%, nor is it a causal effect of the toothbrush itself.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: HR 1.25 95%CI 1.21–1.28 Rarely/never brushing vs regular brushing",
+            "Population: Chinese Prospective Study of Chronic Diseases 512,715 people, 30–79 years old",
+            "Design: Large prospective cohort",
+            "Limitations: Self-reported tooth brushing behavior; associated with smoking, poverty, pre-existing health status, and access to care.",
+            "Evidence: Associations of toothbrushing behavior with risks of vascular and nonvascular diseases in Chinese adults. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7616900/",
+            "Reader summary: A large-scale follow-up in China found that people who rarely brushed their teeth had a higher risk of death. Oral care is also associated with smoking, health conditions, and medical care."
+          ],
+          "remember": "Maintain regular brushing with fluoride toothpaste and dental disease diagnosis and treatment; it cannot replace measures such as controlling smoking and blood pressure.",
+          "tags": [
+            "B",
+            "Output",
+            "Daily"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7616900/"
+        },
+        {
+          "id": "tub-bathing",
+          "title": "Bathing",
+          "core": "28%, 26%, and 46% of the original database correspond to the incidence of CVD, stroke, and cerebral hemorrhage respectively. The numbers can be verified, but they are not ACM. Finding no significant association with sudden death does not mean bathing is completely safe.",
+          "body": [
+            "Judgment: No direct ACM evidence",
+            "Effect size: ACM not reported; CVD incidence HR 0.72 ACM not reported; CVD incidence 95% CI 0.62–0.84 Almost daily/daily bathing vs. 0–2 times per week",
+            "Population: 30,076 Japanese aged 40–59 years, no CVD or cancer at baseline; follow-up 1990–2009",
+            "Design: Japanese prospective cohort; endpoints were cardiovascular and cerebrovascular events",
+            "Limitations: No randomization; Japanese bathtub habits cannot be directly generalized to showering; risks such as drowning and heat stress are not excluded by the lack of significant sudden death results.",
+            "Evidence: Habitual tub bathing and risks of incident coronary heart disease and stroke. — https://europepmc.org/article/MED/32209614",
+            "Reader summary: Follow-up of middle-aged Japanese people found that frequent bathing is associated with less incidence of cardiovascular disease and stroke."
+          ],
+          "remember": "You can bathe in warm water according to comfortable and safe habits; those with a tendency to faint, acute illness, drunkenness or cardiovascular instability should avoid long soaks in hot water and bathing alone.",
+          "tags": [
+            "D",
+            "Output",
+            "Daily"
+          ],
+          "sourceUrl": "https://europepmc.org/article/MED/32209614"
+        },
+        {
+          "id": "heavy-housework",
+          "title": "Heavy housework (elderly men)",
+          "core": "Men’s participation in heavy housework is associated with a 29% lower ACM, but 72 years old is the average age of the included sample, and the enrollment requirement is ≥65 years old; it does not have an effect after the age of 72, nor is it a trial conclusion to reduce the “average mortality rate”. Results for women were not significant.",
+          "body": [
+            "Judgment: Correction required",
+            "Effect size: HR 0.71 95%CI 0.56–0.91 Participation in heavy housework vs. non-participation",
+            "Population: Elderly people aged ≥65 years old in Hong Kong community; 2867 people, average 72 years old after excluding specific chronic diseases; 452 deaths",
+            "Design: Prospective single cohort, about 9 years of follow-up",
+            "Limitations: Those who can do housework may be healthier; moving furniture/gas tanks cannot be used as a life extension prescription. The 2013 correction only corrects the proportion of male and female participation in housework in the article.",
+            "Evidence: Housework reduces all-cause and cancer mortality in Chinese men. — https://pmc.ncbi.nlm.nih.gov/articles/PMC3647044/",
+            "Reader summary: In a follow-up of Hong Kong elderly people, men who did heavier housework had a lower risk of death, but no clear association was found in women. People with better physical fitness are better able to do housework, which may also affect the results."
+          ],
+          "remember": "Participate in an appropriate amount of housework according to physical strength; those with frailty, osteoporosis, back problems, or risk of falls should avoid lifting heavy objects.",
+          "tags": [
+            "C",
+            "Output",
+            "Daily"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3647044/"
+        }
+      ]
+    },
+    {
+      "title": "Output · Sleep",
+      "items": [
+        {
+          "id": "sleep-duration",
+          "title": "Sleep duration",
+          "core": "Compared with self-reported 7 hours, the ACM of men with ≥10 hours is 34% higher and that of women is 48% higher. The numbers are consistent. Long sleeps may also reflect underlying diseases; this does not mean that long sleepers must be forced to reduce their sleep time to 7 hours, or that changing the duration will necessarily change mortality.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: HR 1.34 for men; HR 1.48 for women, 95% CI 1.26–1.44; 1.36–1.61 respectively Self-reported ≥10 hours vs 7 hours; each cohort has two calibers: night sleep or full-day sleep including nap",
+            "Population: 9 cohorts of 322,721 people from Japan, China, Singapore, and South Korea, with an average age of 54.5; excluding baseline self-reported CVD/cancer and those who died in the 5 years before follow-up; 19,419 males and 13,768 females died",
+            "Design: Individual data combined across multiple cohorts, prospective Follow-up was about 13–14 years",
+            "Limitations: The duration was only self-reported once: most cohorts were measured at baseline, and the Shanghai Women's Health Study was measured at the third follow-up; the questionnaires for each cohort were not standardized (night sleep or full-day duration including naps); residual confounding did not capture information such as sleep quality, depression, and socioeconomics; excluding baseline CVD/cancer and death in the first 5 years still cannot completely eliminate reverse causation.",
+            "Evidence: Association of Sleep Duration With All- and Major-Cause Mortality Among Adults in Japan, China, Singapore, and Korea. — https://pmc.ncbi.nlm.nih.gov/articles/PMC8417759/",
+            "Reader summary: Follow-up in many Asian countries found that people who sleep for a long time have a higher risk of death; longer sleep may also be a manifestation of underlying diseases or sleep problems."
+          ],
+          "remember": "Maintain adequate, regular sleep and recover well after waking up; long-term sleep accompanied by fatigue, snoring or drowsiness should investigate the cause.",
+          "tags": [
+            "B",
+            "Output",
+            "Sleep"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8417759/"
+        },
+        {
+          "id": "bedtime",
+          "title": "Bedtime",
+          "core": "The original study can verify that going to bed early and late is related to adverse outcomes, but the abstract of the original paper that has been read does not provide the independent effect and CI of \"ACM is 43% higher, 15% higher\", and the second-hand figures cannot be copied into fully adjusted ACM. Abstract The fully adjusted results are HR1.09 and 1.10 for the composite endpoint of death + non-fatal cardiovascular events, which cannot replace pure ACM.",
+          "body": [
+            "Judgment: Partial support",
+            "Effect size: ACM independent value could not be verified; composite endpoint HR 1.09/1.10 ACM not verified; composite endpoint 95%CI 1.03–1.16/1.02–1.20 About before 22 o’clock or after midnight vs going to bed from 22 o’clock to midnight",
+            "Population: 21 countries PURE 112,198 people; 9.2 years of follow-up; 5633 deaths, 5346 major cardiovascular events",
+            "Design: multinational prospective cohort; self-reported bedtime",
+            "Limitations: social schedule and disease confounding; full adjustment significantly weakens the association; the precise boundaries are slightly different in Methods and Conclusion, and are not necessarily hard thresholds.",
+            "Evidence: Association of bedtime with mortality and major cardiovascular events: an analysis of 112,198 individuals from 21 countries in the PURE study. — https://europepmc.org/article/MED/33610073",
+            "Reader summary: Cross-national follow-up found that early or late bedtime was associated with a higher composite risk of death and major cardiovascular events; the association was significantly attenuated after other factors were taken into account."
+          ],
+          "remember": "Maintain a regular and adequate amount of sleep according to your personal rhythm; do not deliberately postpone an otherwise appropriate early bedtime because of this relationship.",
+          "tags": [
+            "C",
+            "Output",
+            "Sleep"
+          ],
+          "sourceUrl": "https://europepmc.org/article/MED/33610073"
+        }
+      ]
+    },
+    {
+      "title": "Output · Sedentary",
+      "items": [
+        {
+          "id": "sedentary-time",
+          "title": "Sedentary and watching TV",
+          "core": "Higher amounts of sedentary time are associated with higher ACM, but the fixed increase of 3% per additional hour does not apply to all sedentary levels. The corresponding systematic review found a non-linear relationship: about 1% per hour in the total sedentary period ≤8 hours, and about 4% in the >8 hour interval; watching TV also has different slopes. 6-8 hours and 3-4 hours are observation model turning points, not safety lines.",
+          "body": [
+            "Judgment: Partial support",
+            "Effect size: RR for each additional hour of total sedentary time 1.01 (≤8h/d); 1.04 (>8h/d) 95%CI 1.00–1.01; 1.03–1.05 respectively Increase total sitting time by 1 hour/day within the corresponding exposure interval",
+            "Population: 34 prospective studies, a total of 1,331,468 independent participants with different outcomes",
+            "Design: Systematic review, dose-response meta-analysis, adjusting physical activity",
+            "Limitations: Sitting is mostly self-reported, study heterogeneity and residual confounding; the association of cancer death in this review is not significant and cannot be mixed with cancer incidence. The original Chinese report PDF and the old WHO PDF cannot be accessed.",
+            "Evidence: Sedentary behavior and risk of all-cause, cardiovascular and cancer mortality, and incident type 2 diabetes: a systematic review and dose response meta-analysis. — https://pmc.ncbi.nlm.nih.gov/articles/PMC6133005/",
+            "Reader Summary: A review of studies found that longer periods of sitting are associated with a higher risk of death, especially among people who sit more hours each day. The association between watching television and total sitting time also differed."
+          ],
+          "remember": "Replace some of the prolonged sitting with walking or activities when the ability allows, and exercise regularly; those who are unable to stand should carry out activities according to rehabilitation recommendations, and no unproven uniform rest frequency is required.",
+          "tags": [
+            "B",
+            "Output",
+            "Sedentary"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6133005/"
+        }
+      ]
+    },
+    {
+      "title": "Context · Mood",
+      "items": [
+        {
+          "id": "pessimism",
+          "title": "Pessimism/Optimism",
+          "core": "Original database HR1.134, etc. are consistent with the paper, which is the correlation for every 1 standard deviation increase in the pessimistic score. The lack of a significant correlation between optimism scores in this study does not mean that optimism is unhelpful; the paper's statement that reverse causation is \"unlikely\" does not rule it out.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: ACM HR per 1SD pessimism score 1.134; further adjusted HR 1.160 95%CI 1.065–1.207; 1.083–1.242 respectively Every 1 standard deviation increase in pessimism score",
+            "Population: 2978 related samples of Australian twins aged ≥50 years, with an average of 1068 deaths after 20 years; specific models are reduced due to missing numbers",
+            "Design: Prospective single cohort, survival model considering family clustering",
+            "Limitations: Psychological traits are not randomly assigned; reverse causality is not ruled out; there is no direct experimental evidence that emotion therapy reduces ACM.",
+            "Evidence: Pessimism is associated with greater all-cause and cardiovascular mortality, but optimism is not protective. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7387533/",
+            "Reader's abstract: Higher pessimism scores were associated with a higher risk of death during follow-up of middle-aged and older Australians. Emotions, physical health, and life circumstances all influence each other."
+          ],
+          "remember": "Seek support or professional help when persistent pessimism or low mood affects your life; do not replace treatment with forced optimism.",
+          "tags": [
+            "C",
+            "Context",
+            "Emotion"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7387533/"
+        },
+        {
+          "id": "social-isolation",
+          "title": "Social isolation, loneliness and living alone",
+          "core": "In the adjusted meta-results, social isolation, loneliness and living alone were associated with death odds ratios of 1.29, 1.26 and 1.32 respectively. The three are different exposures, and the OR cannot be rewritten as HR or an increase in individual absolute mortality; it has not been proven that increasing social contact will inevitably reverse the same risk.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: social isolation OR 1.29; loneliness OR 1.26; living alone OR 1.32 Not reported (the original abstract read did not give a 95% CI, so it was not filled in second-hand) Social isolation/loneliness/living alone vs Each study corresponds to the low exposure group",
+            "Population: death follow-up studies up to February 2014 are included; each study population and adjustment factors are different",
+            "Design: Systematic review and meta-analysis of original studies",
+            "Limitations: Baseline health status affects the results; heterogeneous exposure definitions; Living alone does not equal loneliness; This article is only an abstract.",
+            "Evidence: Loneliness and social isolation as risk factors for mortality: a meta-analytic review. — https://europepmc.org/article/MED/25910392",
+            "Reader summary: Research review finds that social isolation, loneliness, and living alone are all associated with a higher risk of mortality, but they are different life experiences. People who live alone can also have fulfilling and reliable connections."
+          ],
+          "remember": "Maintain reliable contact and help-seeking channels according to personal wishes, and pay attention to hearing, mobility, depression and other disabilities; it is not required that all people living alone live together.",
+          "tags": [
+            "B",
+            "Context",
+            "Emotion"
+          ],
+          "sourceUrl": "https://europepmc.org/article/MED/25910392"
+        }
+      ]
+    },
+    {
+      "title": "Context · Rich and poor",
+      "items": [
+        {
+          "id": "wealth",
+          "title": "Net worth/economic resources",
+          "core": "The original database sample is consistent with the direction; ACM HR0.95 for every 50,000 US dollars more in net worth, and the within-family model is 0.94, but the twin subgroup CI spans 1. It cannot be inferred that increasing wealth through specific investments prolongs life proportionally, nor is it an ecological effect of the gap between rich and poor.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: HR 0.95 for every $50,000 increase in net worth; within-family HR 0.94 95%CI 0.94–0.97; 0.91–0.97, respectively, for every $50,000 increase in self-reported net worth from 1994 to 1996 (study unit)",
+            "Population: United States MIDUS 5414 people, average age 46.7, nearly 24 years of follow-up; 1010 deaths; 2490 siblings/twins",
+            "Design: Single cohort and intra-family comparison",
+            "Limitations: Self-reported net worth; limited ethnic representation; individual non-shared mixing, health-related wealth decline; no intervention to improve income tested.",
+            "Evidence: Association of Wealth With Longevity in US Adults at Midlife. — https://midus.wisc.edu/findings/pdfs/2366.pdf",
+            "Reader Summary: Follow-up of middle-aged Americans finds that greater net worth is associated with lower risk of death. The relationship between economic resources, health, and life security is often a two-way street."
+          ],
+          "remember": "Prioritize stable housing, medical accessibility, and basic financial security; high-risk investments cannot be treated as health interventions.",
+          "tags": [
+            "C",
+            "Context",
+            "Rich and Poverty"
+          ],
+          "sourceUrl": "https://midus.wisc.edu/findings/pdfs/2366.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Context · Weight",
+      "items": [
+        {
+          "id": "weight-change",
+          "title": "Weight changes from early adulthood to middle age",
+          "core": "The HR for reducing obesity to overweight is 0.46 compared to continuing to be obese, and the numbers are consistent; the HR for reducing overweight to normal is 1.12 compared to continuing to be overweight, and the CI spans 1, which means that there is no significant difference. It cannot be said that reducing to normal weight is unhelpful or harmful. Weight loss occurs between the ages of 25 and middle-aged, and is not applicable to involuntary wasting in the elderly.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: Obesity→overweight HR 0.46; overweight→normal HR 1.12 95%CI 0.27–0.77; 0.86–1.45 respectively vs persistent obesity and persistent overweight respectively",
+            "Population: NHANES 24,205 U.S. adults aged 40–74 years; recall of weight at age 25 and 10 years before baseline; 10.7 years of follow-up, 5846 deaths",
+            "Design: Observational study linking retrospective weight history to prospective mortality",
+            "Limitations: Obesity → overweight only 214; non-randomized intervention; 54% could not demonstrate causal benefit from active weight loss.",
+            "Evidence: Association of Weight Loss Between Early Adulthood and Midlife With All-Cause Mortality Risk in the US. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7428805/",
+            "Reader summary: Follow-up in the United States found that people who fell from obesity to overweight from early adulthood to middle age had a lower risk of death than those who remained obese."
+          ],
+          "remember": "Obese people and medical staff should formulate long-term weight and muscle strength management; those who are elderly, pregnant or involuntarily lose weight should not follow the weight loss conclusion.",
+          "tags": [
+            "C",
+            "Context",
+            "Weight"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7428805/"
+        },
+        {
+          "id": "waist-circumference",
+          "title": "Waist circumference and abdominal obesity",
+          "core": "A prospective cohort summary of adults found that every 10 cm increase in waist circumference was associated with an approximately 11% higher risk of all-cause mortality. After taking BMI into account, abdominal fat measures still provide additional risk information.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: HR 1.11 per 10 cm increase in waist circumference 95%CI 1.08–1.13 per 10 cm increase in waist circumference; comparing adults with different waist circumferences",
+            "Population: 72 prospective cohorts, 2,528,297 people reviewed; waist circumference analysis included 50 studies",
+            "Design: Systematic review and dose-response meta-analysis of prospective cohorts",
+            "Limitations: The heterogeneity among studies is high; waist circumference measurement methods, underlying diseases and lifestyles are different. Waist circumference is a risk indicator, not a directly measured visceral fat mass; this conclusion does not set a unified weight loss target.",
+            "Evidence: Central fatness and risk of all cause mortality: systematic review and dose-response meta-analysis of 72 prospective cohort studies. — https://www.bmj.com/content/370/bmj.m3324",
+            "Reader summary: In addition to weight, waist circumference is also worth paying attention to. Multiple long-term studies have found that the larger the waist circumference, the higher the risk of all-cause mortality; looking only at weight may miss the risk of abdominal fat."
+          ],
+          "remember": "In addition to weight, also pay attention to long-term changes in waist circumference; when abdominal fat increases, gradually improve it based on diet, exercise and health assessment.",
+          "tags": [
+            "B",
+            "Context",
+            "Weight"
+          ],
+          "sourceUrl": "https://www.bmj.com/content/370/bmj.m3324"
+        }
+      ]
+    },
+    {
+      "title": "Context · New Crown",
+      "items": [
+        {
+          "id": "covid-pandemic",
+          "title": "New Crown Epidemic and All-Cause Excess Deaths",
+          "core": "The original paper supports all-cause excess deaths in the first wave of the epidemic, but the 21 countries are 19 European countries plus Australia and New Zealand, excluding the United States. It cannot support the original database's \"US COVID-19 mortality rate 1.5%\" or \"average life expectancy reduced by 2 years\"; the former still lacks time, denominator and case/infection mortality definitions. Excess deaths from the epidemic also include indirect effects such as medical interruptions.",
+          "body": [
+            "Judgment: Correction required",
+            "Effect size: 206,000 excess deaths in 21 countries from mid-February to the end of May 2020; non-individual HR 95% Bayesian confidence interval 178,100–231,000; non-95%CI actual all-cause death vs Epidemic-free counterfactual model prediction",
+            "Population: National death registration in 21 industrialized countries, first wave in 2020; excluding the United States",
+            "Design: Population time series/ecological study of 16 Bayesian model ensembles",
+            "Limitations: Counterfactual model and registration delay; 2020 scenario cannot extrapolate current variant strains, immunity and medical conditions; the original link to the CDC is a general death data entry and does not directly support the original number.",
+            "Evidence: Magnitude, demographics and dynamics of the effect of the first wave of the COVID-19 pandemic on all-cause mortality in 21 industrialized countries. — https://www.nature.com/articles/s41591-020-1112-0.pdf",
+            "Reader summary: Death registrations in many countries show that there were significant excess deaths during the first wave of the COVID-19 pandemic, including both infections and indirect effects such as medical interruptions. This reflects the epidemic environment at that time."
+          ],
+          "remember": "Reduce infection exposure, ensure basic diseases and timely medical management; specific protection and treatment are based on current applicable guidelines, and no fixed percentage of 2020 is used to estimate individual risks.",
+          "tags": [
+            "D",
+            "Context",
+            "COVID-19"
+          ],
+          "sourceUrl": "https://www.nature.com/articles/s41591-020-1112-0.pdf"
+        }
+      ]
+    },
+    {
+      "title": "Context · Sleep",
+      "items": [
+        {
+          "id": "obstructive-sleep-apnoea",
+          "title": "Obstructive sleep apnea",
+          "core": "In a summary of prospective observational studies, severe obstructive sleep apnea is associated with a higher risk of all-cause mortality. In the 2025 Treatment Review, a summary of randomized trials of positive airway pressure therapy did not show a clear reduction in ACM, and a lower risk was observed in nonrandomized studies.",
+          "body": [
+            "Judgment: Supported but with qualifications",
+            "Effect size: Severe vs. no sleep apnea: HR 1.90 95% CI 1.29–2.81 Severe obstructive sleep apnea vs. no disease; not treated vs. no treatment",
+            "Population: Risk review 6 prospective observational studies, 11,932 people; grouped by apnea severity",
+            "Design: Meta-analysis of prospective observational studies; also refer to the comprehensive study of positive airway pressure therapy",
+            "Limitations: Underlying disease and treatment selection may affect the results; the treatment review mixed randomized and non-randomized studies, and the comprehensive results cannot be considered as randomized trial evidence. Snoring itself does not equal a diagnosis.",
+            "Evidence: Is obstructive sleep apnea associated with cardiovascular and all-cause mortality? — https://pubmed.ncbi.nlm.nih.gov/23936014/",
+            "Evidence: Positive airway pressure therapy and all-cause and cardiovascular mortality in people with obstructive sleep apnoea: a systematic review and meta-analysis of randomized controlled trials and founder con-adjusted, non-randomised controlled studies. — https://pubmed.ncbi.nlm.nih.gov/40118084/",
+            "Evidence: Sleep Apnea — Symptoms (NHLBI, NIH) — https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms",
+            "Reader summary: If you sleep long, you may not sleep well. Severe sleep apnea is associated with a higher risk of death, and chronic snoring, breath holding, and daytime sleepiness deserve to be investigated."
+          ],
+          "remember": "If you snore loudly for a long time, hold your breath while sleeping, or always feel sleepy during the day, do a sleep assessment; after diagnosis, choose treatment with your doctor.",
+          "tags": [
+            "B",
+            "Context",
+            "Sleep"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/23936014/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1440 @@
+{
+  "slug": "longevity",
+  "sections": [
+    {
+      "title": "输入 · 固体",
+      "items": [
+        {
+          "id": "poultry-fish",
+          "title": "白肉、红肉与加工肉",
+          "core": "原段混合两篇论文：JAMA每周增加2份肉类与BMJ八年红肉摄入变化。白肉ACM无显著关联不等于证明无风险；家禽在JAMA中与CVD增加有关。",
+          "body": [
+            "判定：部分支持",
+            "效应量：加工肉HR 1.03；红肉HR 1.03；家禽HR 0.99；鱼HR 0.99；红肉增加≥半份/天HR 1.10 分别95%CI 1.02–1.05；1.01–1.05；0.97–1.02；0.97–1.01；1.04–1.17 JAMA每周每增加2份；BMJ八年增加≥半份/天对稳定摄入",
+            "人群：JAMA美国6队列29682人，8875死亡；BMJ81469人，14019死亡",
+            "设计：多队列前瞻分析",
+            "局限：食物问卷、残余混杂；两项暴露时间窗不同",
+            "证据：Associations of Processed Meat, Unprocessed Red Meat, Poultry, or Fish Intake With Incident Cardiovascular Disease and All-Cause Mortality. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7042891/",
+            "证据：Association of changes in red meat consumption with total and cause specific mortality among US women and men: two prospective cohort studies. — https://pmc.ncbi.nlm.nih.gov/articles/PMC6559336/",
+            "读者摘要：美国多项长期随访发现，红肉和加工肉吃得更多，与较高的死亡风险相关。鱼和禽肉与死亡风险的关联较弱，替换成什么食物、怎样烹调也值得考虑。"
+          ],
+          "remember": "少加工肉，以豆类、坚果、鱼等替代部分红肉；注意烹调和整体饮食。",
+          "tags": [
+            "B",
+            "输入",
+            "固体"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7042891/"
+        },
+        {
+          "id": "fresh-fruit-diabetes",
+          "title": "新鲜水果（糖尿病人群）",
+          "core": "原引全球CVD归因负担会议摘要并非该ACM数字出处。实际来自CKB糖尿病人群：每增加100克/天而非200克，ACM HR 0.83；宏血管0.87、微血管0.72同样每100克/天。不能推广为所有人每天200克降低17%。",
+          "body": [
+            "判定：需纠正",
+            "效应量：HR 0.83 95%CI 0.74–0.93 糖尿病患者鲜果每增加100克/天",
+            "人群：中国CKB基线糖尿病30300人，3389死亡，约7年",
+            "设计：单一大型前瞻队列",
+            "局限：特定糖尿病人群；非随机；引文结局与剂量错配",
+            "证据：Fresh fruit consumption in relation to incident diabetes and diabetic vascular complications: A 7-y prospective study of 0.5 million Chinese adults. — https://pmc.ncbi.nlm.nih.gov/articles/PMC5388466/",
+            "证据：Estimated Global, Regional, and National Cardiovascular Disease Burdens Related to Fruit and Vegetable Consumption: An Analysis from the Global Dietary Database (FS01-01-19) — https://pmc.ncbi.nlm.nih.gov/articles/PMC6578394/",
+            "读者摘要：在中国糖尿病人群的长期随访中，吃新鲜水果更多的人，死亡和血管并发症风险较低。这项研究看的是完整水果，而不是果汁。"
+          ],
+          "remember": "适量完整水果替代甜点，按血糖和个人治疗计划调整；不以果汁代替。",
+          "tags": [
+            "C",
+            "输入",
+            "固体"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5388466/"
+        },
+        {
+          "id": "flavonoid-foods",
+          "title": "含黄酮食物",
+          "core": "关联方向支持，但不是每天100克西兰花的试验。总黄酮约500 mg/d附近关联趋平；进一步饮食调整后Q3 HR 0.88、Q5 HR 0.92，笼统降低20%忽略模型差异。",
+          "body": [
+            "判定：需纠正",
+            "效应量：Q3 HR 0.88；Q5 HR 0.92 95%CI 0.84–0.91；0.88–0.97 总黄酮第3/5五分位对第1五分位，Table 2 Model 3",
+            "人群：丹麦56048人，14083死亡，23年",
+            "设计：前瞻队列",
+            "局限：健康饮食及社会经济混杂；单次FFQ；不能推断补充剂作用",
+            "证据：Flavonoid intake is associated with lower mortality in the Danish Diet Cancer and Health Cohort. — https://pmc.ncbi.nlm.nih.gov/articles/PMC6692395/",
+            "读者摘要：丹麦长期随访发现，膳食中黄酮摄入较多的人，死亡风险较低。黄酮存在于多种植物性食物中。"
+          ],
+          "remember": "多样蔬果、豆类等提供植物营养；不依赖黄酮补充剂，不用来抵消吸烟饮酒。",
+          "tags": [
+            "C",
+            "输入",
+            "固体"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6692395/"
+        },
+        {
+          "id": "chili-us",
+          "title": "红辣椒（美国）",
+          "core": "16179人、4946死亡和21.6%对33.6%属于美国研究；调整后ACM降低13%，不是粗风险差或意大利23%。",
+          "body": [
+            "判定：部分支持",
+            "效应量：HR 0.87 95%CI 0.77–0.97 食用红辣椒对不食用",
+            "人群：美国NHANES III 16179成人，中位18.9年",
+            "设计：前瞻队列",
+            "局限：粗死亡比例受年龄等混杂；单次饮食测量",
+            "证据：The Association of Hot Red Chili Pepper Consumption and Mortality: A Large Population-Based Cohort Study. — https://pmc.ncbi.nlm.nih.gov/articles/PMC5222470/",
+            "读者摘要：美国成人随访中，吃红辣椒的人死亡风险较低；年龄、饮食和生活习惯也会影响这类关联。"
+          ],
+          "remember": "喜欢且耐受时可作为调味；胃肠不适者无需强迫增加。",
+          "tags": [
+            "C",
+            "输入",
+            "固体"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5222470/"
+        },
+        {
+          "id": "chili-italy",
+          "title": "辣椒（意大利）",
+          "core": "每周>4次与ACM降低23%、CVD死亡降低34%来自意大利队列；61%是脑血管死亡相对降低，不能称总患病死亡降低61%。参照为从不/很少，不是所有每周少于2次者。",
+          "body": [
+            "判定：需纠正",
+            "效应量：ACM HR 0.77 95%CI 0.66–0.90 每周>4次对从不/很少",
+            "人群：意大利Moli-sani 22811人，1236死亡，中位8.2年",
+            "设计：前瞻队列",
+            "局限：残余饮食/生活方式混杂；不证明辣椒素干预有效",
+            "证据：Chili Pepper Consumption and Mortality in Italian Adults. — https://pubmed.ncbi.nlm.nih.gov/31856971/",
+            "读者摘要：意大利随访发现，经常吃辣椒的人，全因和心血管死亡风险较低。"
+          ],
+          "remember": "可按耐受食用，不能以此替代控压或其他治疗。",
+          "tags": [
+            "C",
+            "输入",
+            "固体"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/31856971/"
+        },
+        {
+          "id": "eggs",
+          "title": "鸡蛋",
+          "core": "原7%与替代模型数字核实；为美国中老年观察结果及假设性等量替代，不是随机换食造成的死亡减少，也不是鸡蛋对所有人固定增加7%。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：每增加半个全蛋/天HR 1.07 95%CI 1.06–1.08 全蛋摄入每增加25克/天；替代模型非实际干预",
+            "人群：NIH-AARP 521120人，129328死亡，中位16年",
+            "设计：大型前瞻队列",
+            "局限：自报、单次基线饮食、残余混杂，跨地区结果可能不同",
+            "证据：Egg and cholesterol consumption and mortality from cardiovascular and different causes in the United States: A population-based cohort study. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7872242/",
+            "读者摘要：美国中老年人随访中，较高的全蛋摄入与较高死亡风险相关；其他地区的研究结果并不完全一致。如何搭配整体饮食，比单独盯住鸡蛋更有参考价值。"
+          ],
+          "remember": "结合整体膳食及血脂选择蛋类；可用豆类坚果等替代部分动物蛋白，勿因单研究完全禁蛋。",
+          "tags": [
+            "B",
+            "输入",
+            "固体"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7872242/"
+        },
+        {
+          "id": "walnuts",
+          "title": "核桃",
+          "core": "≥5份/周ACM低14%得到支持；1.30/1.26年是60岁总预期寿命模型估计，不能称健康预期寿命，也非保证延寿。",
+          "body": [
+            "判定：部分支持",
+            "效应量：HR 0.86 95%CI 0.79–0.93 ≥5份/周对不吃；每份28克",
+            "人群：NHS/HPFS 93340人，30263死亡，最长20年",
+            "设计：两队列分析",
+            "局限：健康使用者偏倚；寿命为模型估计；行业资助需关注",
+            "证据：Association of Walnut Consumption with Total and Cause-Specific Mortality and Life Expectancy in U.S. Adults. — https://pmc.ncbi.nlm.nih.gov/articles/PMC8401409/",
+            "读者摘要：美国长期随访发现，经常吃核桃的人死亡风险较低。研究中的寿命差来自统计估算，参与者的其他健康习惯也可能有影响。"
+          ],
+          "remember": "无坚果过敏者用适量无盐坚果替代零食，计入总能量。",
+          "tags": [
+            "B",
+            "输入",
+            "固体"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8401409/"
+        },
+        {
+          "id": "nuts-general",
+          "title": "坚果频率",
+          "core": "NEJM频率为<1、1、2–4、5–6、≥7次/周，对应低7/11/13/15/20%，不是按每周总重量分组；不能据此宣称必须生吃。PREDIMED 39%来自坚果摄入观察分析，非横断面，也非单独随机分配坚果的ACM效果。",
+          "body": [
+            "判定：需纠正",
+            "效应量：NEJM ≥7次/周HR 0.80；PREDIMED >3份/周HR 0.61 95%CI 0.73–0.86；0.45–0.83 均对不吃坚果",
+            "人群：NEJM118962人27429死亡；PREDIMED7216高CVD风险成人323死亡",
+            "设计：前瞻队列及RCT内观察分析",
+            "局限：摄入分组非随机；生/烘烤优劣未直接检验",
+            "证据：Association of nut consumption with total and cause-specific mortality. — https://pmc.ncbi.nlm.nih.gov/articles/PMC3931001/",
+            "证据：Frequency of nut consumption and mortality risk in the PREDIMED nutrition intervention trial. — https://pmc.ncbi.nlm.nih.gov/articles/PMC3738153/",
+            "读者摘要：多项随访研究发现，经常吃坚果的人死亡风险较低。研究涵盖不同饮食背景，未直接比较生坚果与烘烤坚果的优劣。"
+          ],
+          "remember": "过敏者避免；选无盐、少糖坚果，替代其他高能量零食。",
+          "tags": [
+            "B",
+            "输入",
+            "固体"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3931001/"
+        },
+        {
+          "id": "sodium-ecological",
+          "title": "钠摄入跨国生态关联",
+          "core": "原β数值与摘要一致，但国家层面生态相关不能用于个人多吃盐；作者明确称不可据此实施营养干预。",
+          "body": [
+            "判定：需纠正",
+            "效应量：β −131死亡事件/每日钠增加1克（国家层面回归） 未报告 181国钠摄入均值对年龄标准化死亡指标；不是个体HR",
+            "人群：181国家2010年汇总数据；高收入敏感性46国",
+            "设计：横断面生态分析",
+            "局限：生态谬误、国民收入及医疗混杂、估计摄入误差",
+            "证据：Sodium intake, life expectancy, and all-cause mortality. — https://pmc.ncbi.nlm.nih.gov/articles/PMC8169157/",
+            "读者摘要：跨国比较发现，钠摄入较高的国家死亡率较低，但收入、医疗等国家差异也会影响这种关联。个人吃盐的安排，更适合结合血压和身体状况来定。"
+          ],
+          "remember": "不要为延寿增加钠；按个人血压、疾病和饮食情况控制盐。",
+          "tags": [
+            "D",
+            "输入",
+            "固体"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8169157/"
+        },
+        {
+          "id": "potassium-salt",
+          "title": "低钠富钾盐替代",
+          "core": "SSaSS直接支持特定高风险农村成人用75%NaCl/25%KCl盐替代普通盐降低ACM；无法分离降钠和补钾各自贡献。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：死亡率比0.88 95%CI 0.82–0.95 75%NaCl+25%KCl对100%NaCl；39.28对44.61/1000人年",
+            "人群：中国600村20995人；卒中史或≥60岁且高血压；均随访4.74年",
+            "设计：开放标签整群随机试验，ACM为次要终点",
+            "局限：高风险特定人群；开放标签；肾病或高钾风险者适用性有限",
+            "证据：Effect of Salt Substitution on Cardiovascular Events and Death. — https://pubmed.ncbi.nlm.nih.gov/34459569/",
+            "读者摘要：中国农村高风险人群的随机试验发现，用低钠富钾盐替换普通盐，能减少死亡和心血管事件。参与者有卒中史，或是患高血压的老年人。"
+          ],
+          "remember": "高血压等适合者可在医护确认后用富钾低钠盐替代；肾功能不全、高钾或使用升钾药物者先咨询，不自行换盐。",
+          "tags": [
+            "A",
+            "输入",
+            "固体"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/34459569/"
+        },
+        {
+          "id": "carbohydrate-share",
+          "title": "碳水能量占比",
+          "core": "2018研究支持U形观察关联，最低约50–55%能量；不能解释为个体低碳必然短命，替代碳水的脂肪/蛋白来源很重要。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：低碳HR 1.20；高碳HR 1.23 95%CI 1.09–1.32；1.11–1.36 <40%与>70%碳水能量分别对中等摄入（荟萃分类）；ARIC最低50–55%",
+            "人群：ARIC15428人及荟萃合计432179人",
+            "设计：前瞻队列+队列荟萃",
+            "局限：观察性、自报；摄入分组和替代食物差异；寿命估算非干预",
+            "证据：Dietary carbohydrate intake and mortality: a prospective cohort study and meta-analysis. — https://pmc.ncbi.nlm.nih.gov/articles/PMC6339822/",
+            "读者摘要：长期随访中，碳水摄入占比与死亡风险呈两端较高的关联。用什么食物替换碳水，同样影响结果。"
+          ],
+          "remember": "优先提高碳水质量，增加全谷豆类；糖尿病或治疗性生酮等需个体化。",
+          "tags": [
+            "B",
+            "输入",
+            "固体"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6339822/"
+        },
+        {
+          "id": "betel-quid",
+          "title": "槟榔/槟榔嚼块",
+          "core": "ACM增加21%为观察研究合并相对风险；异质性很高，嚼块成分与烟酒共暴露影响解释。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：RR 1.21 95%CI 1.04–1.42 嚼槟榔者对非嚼食者",
+            "人群：ACM分析179582人，亚洲研究5个比较类别",
+            "设计：观察研究系统综述/荟萃",
+            "局限：I²85%；制品配方、吸烟饮酒残余混杂；非随机",
+            "证据：Chewing betel quid and the risk of metabolic disease, cardiovascular disease, and all-cause mortality: a meta-analysis. — https://pmc.ncbi.nlm.nih.gov/articles/PMC3734295/",
+            "读者摘要：亚洲研究的合并分析发现，嚼槟榔与较高死亡风险相关。不同嚼块配方，以及同时吸烟、饮酒，会影响风险大小。"
+          ],
+          "remember": "避免或停止槟榔，不用不含烟草作为安全理由；依赖者寻求戒除帮助。",
+          "tags": [
+            "C",
+            "输入",
+            "固体"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3734295/"
+        },
+        {
+          "id": "calorie-restriction",
+          "title": "热量限制（非人灵长类）",
+          "core": "原3倍死亡源于早期恒河猴年龄相关死亡，不能等同人类ACM；2014同项目更新全因对照/CR HR1.78，年龄相关死亡HR2.89。人类延寿幅度未证实。",
+          "body": [
+            "判定：无直接ACM证据",
+            "效应量：猴全因HR 1.78（对照/CR） 95%CI 1.04–3.04 正常喂养对约30%热量限制",
+            "人群：UW76只恒河猴；另NIA猴研究早期生存差异不显著",
+            "设计：长期动物干预",
+            "局限：动物不能外推人；两中心饲料、年龄及对照摄食不同",
+            "证据：Caloric restriction delays disease onset and mortality in rhesus monkeys. — https://pmc.ncbi.nlm.nih.gov/articles/PMC2812811/",
+            "证据：Caloric restriction reduces age-related and all-cause mortality in rhesus monkeys. — https://pmc.ncbi.nlm.nih.gov/articles/PMC3988801/",
+            "读者摘要：恒河猴研究发现，限制热量可能改善生存，但不同研究的结果有所差异。人类通过限制热量延长寿命的效果仍未得到证实。"
+          ],
+          "remember": "避免过量进食并保持足够营养；低体重、孕哺、未成年人、虚弱老人及进食障碍者不自行限热量。",
+          "tags": [
+            "D",
+            "输入",
+            "固体"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2812811/"
+        },
+        {
+          "id": "macronutrient-pattern",
+          "title": "综合营养与宏量营养配比",
+          "core": "论文总脂肪与ACM无显著关联，非所有脂肪线性有害。风险矩阵为观察数据中组合，不能认定通用最优；单营养曲线最低区间包括纤维15–30g/d、蛋白14–18%、淀粉20–30%，与原文若干范围及精确“最优配比”不一致。",
+          "body": [
+            "判定：需纠正",
+            "效应量：示例：纤维15–30g/d HR 0.68；蛋白14–18% HR 0.73 95%CI 0.65–0.72；0.70–0.75 纤维对5g/d；蛋白对10%能量；不同营养比较各有参照",
+            "人群：UK Biobank195658人4780死亡，平均10.6年",
+            "设计：大型前瞻队列及非线性建模",
+            "局限：自报24小时回忆、选择偏倚、残余混杂；不能把各曲线最低点拼成已验证处方",
+            "证据：Associations of fat and carbohydrate intake with cardiovascular disease and mortality: prospective cohort study of UK Biobank participants. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7190059/",
+            "读者摘要：英国大型随访发现，脂肪、蛋白质、碳水和纤维与健康的关系并不简单。整体食物搭配，比追求一个精确营养比例更实用。"
+          ],
+          "remember": "依据整体食物质量搭配，避免追逐精确宏量比例；有肾病、糖尿病等按医疗营养方案。",
+          "tags": [
+            "B",
+            "输入",
+            "固体"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7190059/"
+        },
+        {
+          "id": "ultraprocessed-acm",
+          "title": "超加工食品与ACM",
+          "core": "SUN支持最高消费组ACM关联增加62%。58岁是死亡者平均死亡年龄的样本描述，不能说常吃者预期寿命58岁或由UPF致死。",
+          "body": [
+            "判定：需纠正",
+            "效应量：HR 1.62；每增加一份/天HR 1.18 95%CI 1.13–2.33；1.05–1.33 最高对最低四分位；高组>4份/天",
+            "人群：西班牙SUN大学毕业生19899人，335死亡，200432人年",
+            "设计：前瞻队列",
+            "局限：仅335死亡；教育程度高选择样本；膳食混杂；CI较宽",
+            "证据：Association between consumption of ultra-processed foods and all cause mortality: SUN prospective cohort study. — https://pmc.ncbi.nlm.nih.gov/articles/PMC6538973/",
+            "读者摘要：西班牙随访中，超加工食品吃得更多的人死亡风险较高。参与者主要是大学毕业生，饮食习惯和人群背景也影响结果。"
+          ],
+          "remember": "以较少加工的完整食物替代部分UPF，保留必要营养与可负担性。",
+          "tags": [
+            "C",
+            "输入",
+            "固体"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6538973/"
+        },
+        {
+          "id": "ultraprocessed-cvd",
+          "title": "超加工食品（CVD来源的结局边界）",
+          "core": "NutriNet-Santé这篇研究终点为CVD发病而非ACM；Lawrence/Baker为评论，不提供独立ACM定量证据。两者不应和SUN当成三项死亡研究。",
+          "body": [
+            "判定：无直接ACM证据",
+            "效应量：CVD HR 1.12；ACM未评估 CVD 95%CI 1.05–1.20；ACM未报告 饮食中UPF占比每增加10个百分点",
+            "人群：法国105159成人，1409 CVD事件，中位5.2年",
+            "设计：前瞻队列（CVD）；评论",
+            "局限：非ACM终点；评论原PDF未访问成功，仅核书目",
+            "证据：Ultra-processed food intake and risk of cardiovascular disease: prospective cohort study (NutriNet-Santé). — https://pmc.ncbi.nlm.nih.gov/articles/PMC6538975/",
+            "证据：Ultra-processed food and adverse health outcomes. — https://pubmed.ncbi.nlm.nih.gov/31142449/",
+            "读者摘要：法国随访发现，超加工食品占饮食比例越高，心血管病发病风险越高。"
+          ],
+          "remember": "可支持减少UPF的整体饮食方向，不能由这篇计算死亡风险。",
+          "tags": [
+            "D",
+            "输入",
+            "固体"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6538975/"
+        },
+        {
+          "id": "whole-grains",
+          "title": "全谷物",
+          "core": "全谷物摄入增加与较低ACM相关；研究以全谷物食品重量计量，90克并非90克干谷粒或纤维。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：RR 0.83 95%CI 0.77–0.90 全谷物摄入每增加90克/天（约3份）",
+            "人群：ACM合并11项前瞻研究；整体综述45项",
+            "设计：前瞻研究剂量反应荟萃",
+            "局限：ACM I²83%，观察性；食品份量定义异质",
+            "证据：Whole grain consumption and risk of cardiovascular disease, cancer, and all cause and cause specific mortality: systematic review and dose-response meta-analysis of prospective studies. — https://pmc.ncbi.nlm.nih.gov/articles/PMC4908315/",
+            "读者摘要：多项长期研究的合并分析发现，全谷物吃得更多，与较低死亡风险相关。研究中的份量指全谷物食品的重量。"
+          ],
+          "remember": "用全谷物逐步替代精制谷物；乳糜泻者选无麸质全谷，按消化耐受调整。",
+          "tags": [
+            "B",
+            "输入",
+            "固体"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4908315/"
+        },
+        {
+          "id": "dietary-fiber",
+          "title": "膳食纤维",
+          "core": "综述支持较高纤维与ACM较低相关；摘要15–30%是多个结局的范围，不能独指ACM的精确效应，RCT证明的是风险因子改善而非死亡减少。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：ACM方向为降低；摘要未单列ACM精确合并值 未报告 最高对最低纤维消费；多种结局风险降低15–30%",
+            "人群：185项前瞻研究及58项试验；试验4635人",
+            "设计：系统综述与荟萃（ACM来自队列）",
+            "局限：ACM证据非随机；不从总范围反推ACM CI",
+            "证据：Carbohydrate quality and human health: a series of systematic reviews and meta-analyses. — https://pubmed.ncbi.nlm.nih.gov/30638909/",
+            "读者摘要：多项随访把较高膳食纤维摄入与较低死亡风险联系起来；临床试验还观察到血压、血脂等指标的改善。"
+          ],
+          "remember": "通过全谷、豆类、蔬果逐渐增加纤维，关注饮水；肠狭窄、急性胃肠病需遵医嘱。",
+          "tags": [
+            "B",
+            "输入",
+            "固体"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/30638909/"
+        },
+        {
+          "id": "plant-protein",
+          "title": "植物蛋白来源",
+          "core": "高植物蛋白摄入与较低ACM相关；强调替代食物来源，不能解释为额外添加蛋白粉的干预效果。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：合并效应量0.92 95%CI 0.87–0.97 植物蛋白最高对最低摄入组",
+            "人群：32队列综述、31项合并，715128人113039死亡",
+            "设计：前瞻队列系统综述/剂量反应荟萃",
+            "局限：异质性I²57.5%；残余混杂；食品与蛋白组分难分离",
+            "证据：Dietary intake of total, animal, and plant proteins and risk of all cause, cardiovascular, and cancer mortality: systematic review and dose-response meta-analysis of prospective cohort studies. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7374797/",
+            "读者摘要：多项队列研究发现，植物蛋白摄入较多的人死亡风险较低。食物来源和替换关系是理解结果的重点。"
+          ],
+          "remember": "用豆类、豆制品和坚果替代部分红肉/加工肉；过敏或肾病按个体需求调整。",
+          "tags": [
+            "B",
+            "输入",
+            "固体"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7374797/"
+        }
+      ]
+    },
+    {
+      "title": "输入 · 液体",
+      "items": [
+        {
+          "id": "dairy",
+          "title": "乳制品／牛奶",
+          "core": "PURE 的17%是总乳制品每日>2份对不摄入的ACM关联，并非牛奶单独的疗效，也不是恰好2份。心血管死亡HR 0.77的95%CI跨1，不能将下降23%写成确定获益。其他综述未见总乳制品或牛奶与ACM有稳定关联；不宜承诺喝奶延寿。原PDF不可访问，文件名与标注题名不符，疑似错链。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：HR 0.83 95%CI 0.72–0.96 总乳制品>2份/日 vs 0；非牛奶单项",
+            "人群：21国136,384人，35–70岁；中位随访9.1年；6,796死亡",
+            "设计：PURE前瞻队列；另核验8项荟萃分析的综述",
+            "局限：FFQ误差、收入和饮食结构残余混杂；乳制品种类与替代食物影响结果；>1份牛奶的HR 0.90是死亡/CVD复合终点，不可当牛奶ACM。",
+            "证据：Association of dairy intake with cardiovascular disease and mortality in 21 countries from five continents (PURE): a prospective cohort study. — https://pubmed.ncbi.nlm.nih.gov/30217460/",
+            "证据：Milk and Dairy Product Consumption and Risk of Mortality: An Overview of Systematic Reviews and Meta-Analyses. — https://pubmed.ncbi.nlm.nih.gov/31089743/",
+            "读者摘要：一项跨国随访发现，乳制品摄入与较低死亡风险相关，但其他综述的结果并不一致。牛奶、酸奶等可以提供营养，选择也取决于个人需要。"
+          ],
+          "remember": "可按营养需要选择无添加糖奶或酸奶；乳糖不耐受、牛奶过敏者选择合适替代，不为追求延寿强行增加摄入。",
+          "tags": [
+            "B",
+            "输入",
+            "液体"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/30217460/"
+        },
+        {
+          "id": "tea-china-par",
+          "title": "饮茶（China-PAR）",
+          "core": "习惯饮茶与ACM较低相关；每周≥3次的定义来自正文。50岁时预期寿命多1.26年是模型估计，不是饮茶干预使每个人多活1.26年。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：HR 0.85 95%CI 0.79–0.90 每周≥3次 vs 从不或<3次",
+            "人群：中国100,902成人；中位7.3年；5,479死亡",
+            "设计：China-PAR三个前瞻队列合并",
+            "局限：自报饮茶；吸烟、饮酒、社会经济和健康行为残余混杂；杯量、浓度和茶种不能等同；寿命差系模型估计。",
+            "证据：Tea consumption and the risk of atherosclerotic cardiovascular disease and all-cause mortality: The China-PAR project. — https://pubmed.ncbi.nlm.nih.gov/31914807/",
+            "读者摘要：中国长期随访中，经常饮茶的人死亡风险较低。饮茶者的生活方式和社会经济背景，也可能参与其中。"
+          ],
+          "remember": "喜欢且耐受者可喝不加糖、非烫口的茶；失眠、心悸或需限制咖啡因者减量，不把茶作为戒烟或治疗替代。",
+          "tags": [
+            "B",
+            "输入",
+            "液体"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/31914807/"
+        },
+        {
+          "id": "tea-ckb",
+          "title": "饮茶（CKB）",
+          "core": "原库样本、死亡数和两项HR准确；保护关联主要见男性。每日饮茶并未显示优于非每日饮茶；不能把更频繁喝茶直接推为更长寿。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：HR 0.89（非每日）；0.92（每日） 95%CI分别0.86–0.91；0.88–0.95 当前非每日／每日饮茶 vs 从不饮茶",
+            "人群：中国CKB 438,443人；中位11.1年；34,661死亡",
+            "设计：前瞻队列",
+            "局限：性别交互P<0.05；吸烟与饮酒可能混杂癌症结局；饮茶信息基线自报；不证明个体因果获益。",
+            "证据：[Association between tea consumption and all-cause mortality in Chinese adults]. — https://html.rhhz.net/zhlxbx/20220201.htm",
+            "读者摘要：另一项中国大型随访发现，饮茶与较低死亡风险的关联主要见于男性。每天喝茶的结果并未优于非每天喝茶。"
+          ],
+          "remember": "选择无糖且温度合适的茶；不能用饮茶抵消吸烟、过量饮酒风险。",
+          "tags": [
+            "B",
+            "输入",
+            "液体"
+          ],
+          "sourceUrl": "https://html.rhhz.net/zhlxbx/20220201.htm"
+        },
+        {
+          "id": "artificially-sweetened-drinks",
+          "title": "人工甜味软饮料",
+          "core": "原数字18%、11%、27%确在正文，但属于BMI<25亚组、≥1杯/日对<1杯/月，原库漏写人群限制。全队列≥2杯/日的总软饮、含糖、人工甜味饮料ACM HR依次1.17、1.08、1.26。不能据观察研究认定甜味剂致死，也不能套用到白水或无糖茶咖啡。",
+          "body": [
+            "判定：部分支持",
+            "效应量：HR 1.26（全队列人工甜味）；1.27（BMI<25亚组） 95%CI 1.16–1.35；1.12–1.43 全队列≥2杯/日 vs <1杯/月；BMI<25亚组≥1杯/日 vs <1杯/月；杯≈250mL",
+            "人群：EPIC欧洲10国451,743人；平均16.4年；41,693死亡",
+            "设计：多国前瞻队列",
+            "局限：有肥胖或代谢风险的人可能改喝代糖；一次基线FFQ；不同甜味剂不能分开归因；不是替代含糖饮料的随机试验。",
+            "证据：Association Between Soft Drink Consumption and Mortality in 10 European Countries. — https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2749350",
+            "读者摘要：欧洲大型随访中，人工甜味饮料摄入较多与较高死亡风险相关。身体已有代谢问题的人可能更常改喝代糖饮料，这也让结果更难解释。"
+          ],
+          "remember": "日常饮水优先白水或不加糖茶咖啡；从含糖饮料过渡到代糖饮料者，不应根据此队列返回喝糖饮料。",
+          "tags": [
+            "B",
+            "输入",
+            "液体"
+          ],
+          "sourceUrl": "https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2749350"
+        },
+        {
+          "id": "sugar-sweetened-drinks",
+          "title": "含糖饮料",
+          "core": "两美国队列支持≥2份/日较<1份/月ACM高21%、CVD死亡高31%、癌症死亡高16%的关联。已读原论文PDF，连续模型每多1份/日ACM HR1.07；1至<2份/日的分类HR是1.14，两者不能混用。每额外1份/日癌症死亡是高5%，原库误写16%；16%属于最高摄入分类对照。BMJ所列18%和12%为癌症发病，不是ACM。标题“高达62%”未见充分调整模型对应。",
+          "body": [
+            "判定：部分支持",
+            "效应量：HR 1.21（≥2份/日）；1.14（1至<2份/日）；1.07（每额外1份/日） 95%CI分别1.13–1.28；1.09–1.19；1.05–1.09 含糖饮料≥2份/日 vs <1份/月；另列连续模型每增加1份/日",
+            "人群：美国NHS 80,647女性、HPFS 37,716男性；最长34年；36,436死亡",
+            "设计：两个前瞻队列",
+            "局限：人群多为卫生专业人员；自报摄入；残余混杂；杯/份定义不能跨研究混用；每杯连续模型与分类模型不同。BMJ癌症论文为每100mL/日发病，非死亡。",
+            "证据：Long-Term Consumption of Sugar-Sweetened and Artificially Sweetened Beverages and Risk of Mortality in US Adults. — https://www.medicosadventistas.org/wp-content/uploads/2019/03/CIRCULATIONAHA.118.037401.pdf",
+            "证据：Sugary drink consumption and risk of cancer: results from NutriNet-Santé prospective cohort. — https://pubmed.ncbi.nlm.nih.gov/31292122/",
+            "读者摘要：美国长期随访发现，含糖饮料喝得更多，与较高的全因和心血管死亡风险相关。"
+          ],
+          "remember": "减少常规含糖软饮、加糖奶茶等，以白水替换；不要把研究剂量阈值当安全界线。",
+          "tags": [
+            "B",
+            "输入",
+            "液体"
+          ],
+          "sourceUrl": "https://www.medicosadventistas.org/wp-content/uploads/2019/03/CIRCULATIONAHA.118.037401.pdf"
+        },
+        {
+          "id": "fruit-juice",
+          "title": "100%果汁",
+          "core": "REGARDS支持每多12盎司/日纯果汁ACM HR1.24；原库“含糖饮料11%”实际是sugary beverages（添加糖饮料+100%果汁合计），不能当单独SSB效应。也不能凭不同模型点估计断言果汁比含糖软饮更危险。",
+          "body": [
+            "判定：部分支持",
+            "效应量：HR 1.24（纯果汁）；1.11（糖饮料合计） 95%CI分别1.09–1.42；1.03–1.19 每额外12美制液盎司/日≈355mL；连续模型",
+            "人群：美国REGARDS 13,440人，≥45岁，均龄63.6；平均6年；1,000死亡",
+            "设计：既有前瞻队列二次分析",
+            "局限：原摘要1.11暴露为合计；不能跨模型作果汁与SSB直接优劣比较；高低摄入组HR1.14(0.97–1.33)不显著；不适用于完整水果。",
+            "证据：Association of Sugary Beverage Consumption With Mortality Risk in US Adults: A Secondary Analysis of Data From the REGARDS Study. — https://pubmed.ncbi.nlm.nih.gov/31099861/",
+            "读者摘要：美国中老年人随访发现，纯果汁摄入更多与较高死亡风险相关。"
+          ],
+          "remember": "优先完整水果，果汁小量而非主要饮水来源；糖尿病或需限糖者结合医疗饮食计划。",
+          "tags": [
+            "C",
+            "输入",
+            "液体"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/31099861/"
+        },
+        {
+          "id": "coffee",
+          "title": "咖啡",
+          "core": "原库40项、3,852,651人及3.5杯/日ACM RR0.85、2.5杯CVD RR0.83、2杯癌症死亡RR0.96与meta分析吻合；均为观察关联，3.5杯是拟合曲线最低点，不能作为个人精准延寿处方。行动节-22%至-12%不是该meta的单一统一效应。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：RR 0.85 95%CI 0.82–0.89 拟合3.5杯/日 vs 不喝；各队列杯量不同",
+            "人群：40研究，3,852,651人，450,256例全因及死因别死亡",
+            "设计：观察性队列剂量反应meta分析",
+            "局限：戒咖啡可能由疾病导致；烟酒饮食混杂；制作方式、杯量、加糖和咖啡因量不同；没有证据将风险比直接换算寿命。",
+            "证据：Coffee consumption and all-cause and cause-specific mortality: a meta-analysis by potential modifiers. — https://pubmed.ncbi.nlm.nih.gov/31055709/",
+            "读者摘要：大型研究综述发现，适量喝咖啡的人死亡风险较低。杯量、冲煮方式、加糖和个人耐受都值得考虑。"
+          ],
+          "remember": "已习惯且耐受者可适量饮用、少加糖；失眠、心悸、孕期等需限制咖啡因时个体化，不为延寿勉强开始喝。",
+          "tags": [
+            "B",
+            "输入",
+            "液体"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/31055709/"
+        },
+        {
+          "id": "alcohol",
+          "title": "酒精／饮酒",
+          "core": "已为行动节缺引文补原始系统综述。校正既往饮酒者偏倚等后，低量饮酒没有显著ACM保护；45至<65g乙醇/日RR1.19，≥65g/日1.35。不能把任何饮酒统一写“+约50%且无上限”；也不能从无显著低量ACM获益推成某剂量绝对安全。",
+          "body": [
+            "判定：需纠正",
+            "效应量：RR0.93（1.3至<25g/日）；1.19（45至<65g/日）；1.35（≥65g/日） 95%CI分别0.85–1.01；1.07–1.32；1.23–1.47 按日均乙醇克数分组 vs 终生不饮酒",
+            "人群：107队列，4,838,825人，425,564死亡",
+            "设计：ACM系统综述与meta回归",
+            "局限：饮酒低报、戒酒者疾病、暴饮模式、性别差异、研究层面meta回归限制；女性风险在更低摄入出现；不是戒酒干预试验，不能直接给戒酒获益百分比。",
+            "证据：Association Between Daily Alcohol Intake and Risk of All-Cause Mortality: A Systematic Review and Meta-analyses. — https://pubmed.ncbi.nlm.nih.gov/37000449/",
+            "读者摘要：大型研究综述在考虑既往饮酒等偏差后，未发现少量饮酒能降低死亡风险；较高饮酒量与更高风险相关。"
+          ],
+          "remember": "不饮酒者不要为健康开始；饮酒者减少总量和暴饮。存在酒精依赖或戒断史者应寻求医学支持，避免无支持骤停。",
+          "tags": [
+            "B",
+            "输入",
+            "液体"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/37000449/"
+        }
+      ]
+    },
+    {
+      "title": "输入 · 药物",
+      "items": [
+        {
+          "id": "spermidine-diet",
+          "title": "膳食亚精胺（液体与药物条目合并）",
+          "core": "原库重复两处归并。研究暴露是膳食摄入而非服药或液体；40.5、23.7、15.1是每千人年死亡数，不是百分比。充分校正后每1SD摄入增加ACM HR0.76，不能写补充剂降低30%–60%。另有独立SAPHIR队列方向验证，仍不能区分食物整体质量与亚精胺本身效应。",
+          "body": [
+            "判定：需纠正",
+            "效应量：HR 0.76 / 每1SD较高膳食摄入 95%CI 0.67–0.86 连续膳食摄入每增加1SD；非补充剂RCT",
+            "人群：Bruneck 829人，45–84岁；1995–2015年341死亡；SAPHIR独立验证",
+            "设计：前瞻营养队列、外部验证；补充剂认知RCT非ACM",
+            "局限：粗死亡率分母误写；年龄能解释大部分粗关联；20年校正累计死亡分别0.48/0.41/0.38；登记为trial不改变队列设计；补充剂不能外推。",
+            "证据：Higher spermidine intake is linked to lower mortality: a prospective population-based study. — https://www.vascular-proteomics.com/pub/2018/KiechlS_AJCN_108_371.pdf",
+            "证据：Effects of Spermidine Supplementation on Cognition and Biomarkers in Older Adults With Subjective Cognitive Decline: A Randomized Clinical Trial. — https://pubmed.ncbi.nlm.nih.gov/35616942/",
+            "读者摘要：随访研究发现，从食物中摄入较多亚精胺的人死亡风险较低。这与服用亚精胺补充剂是不同的问题，补充剂延寿效果尚未证实。"
+          ],
+          "remember": "可通过全谷、豆类等普通均衡食物摄入；不按“降低60%死亡率”购买或服用亚精胺，疾病患者补剂先与医生核对。",
+          "tags": [
+            "C",
+            "输入",
+            "药物"
+          ],
+          "sourceUrl": "https://www.vascular-proteomics.com/pub/2018/KiechlS_AJCN_108_371.pdf"
+        },
+        {
+          "id": "nmn",
+          "title": "NMN",
+          "core": "原库仅列NMN无文献或数值。已读人类RCT研究的是肌肉胰岛素敏感性；8项RCT综述总342人、14天至12周，主要代谢指标未显示显著获益。均不能证实降低ACM或延长人类寿命。",
+          "body": [
+            "判定：无直接ACM证据",
+            "效应量：ACM效应未报告 未报告 NMN vs 安慰剂；结局为代谢替代指标",
+            "人群：原RCT为超重/肥胖绝经后糖尿病前期女性、10周；综述8试验342人",
+            "设计：短期小样本人类RCT及其代谢指标综述",
+            "局限：随访极短，缺长期有效性与安全性；原RCT有基线肝脂肪差异争论；不能将NAD或胰岛素信号变化等同延寿。",
+            "证据：Nicotinamide mononucleotide increases muscle insulin sensitivity in prediabetic women. — https://pubmed.ncbi.nlm.nih.gov/33888596/",
+            "证据：Effects of Nicotinamide Mononucleotide on Glucose and Lipid Metabolism in Adults: A Systematic Review and Meta-analysis of Randomised Controlled Trials. — https://pubmed.ncbi.nlm.nih.gov/39531138/",
+            "读者摘要：现有人体试验主要研究代谢指标，规模小、时间短。NMN延长人类寿命的效果仍未证实，长期安全性也缺少充分资料。"
+          ],
+          "remember": "不把NMN作为已证延寿药；若参与研究应按正式试验管理，不替代慢病治疗。",
+          "tags": [
+            "D",
+            "输入",
+            "药物"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/33888596/"
+        },
+        {
+          "id": "metformin-diabetes",
+          "title": "二甲双胍（超重新诊断2型糖尿病）",
+          "core": "UKPDS34显示超重新诊断糖尿病患者二甲双胍强化控糖较常规饮食策略ACM相对降低36%；对象不是健康人。后续13RCT汇总ACM RR0.99且CI较宽，不支持将单项试验写成所有人的通用延寿药。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：ACM相对风险降低36%（原报告）；13RCT汇总RR0.99 原试验降低幅度95%CI 9%–55%；汇总RR 95%CI 0.75–1.31 二甲双胍强化控糖 vs 主要饮食常规策略；非健康人与糖尿病人比较",
+            "人群：UKPDS主随机比较753名超重新诊断2型糖尿病者，均龄53；中位10.7年",
+            "设计：随机开放标签治疗策略试验；另13RCT汇总",
+            "局限：旧试验的对照与现代标准治疗不同，不外推无糖尿病者；原库不良反应数字的适用口径另见“二甲双胍不良反应”记录。",
+            "证据：Effect of intensive blood-glucose control with metformin on complications in overweight patients with type 2 diabetes (UKPDS 34). UK Prospective Diabetes Study (UKPDS) Group. — https://pubmed.ncbi.nlm.nih.gov/9742977/",
+            "证据：Reappraisal of metformin efficacy in the treatment of type 2 diabetes: a meta-analysis of randomised controlled trials. — https://pubmed.ncbi.nlm.nih.gov/22509138/",
+            "读者摘要：在超重且新诊断糖尿病的人群中，一项随机试验发现二甲双胍治疗组死亡更少；后续试验汇总的结果较不确定。这些研究讨论的是糖尿病治疗。"
+          ],
+          "remember": "有糖尿病适应证者由医生选择用药并结合肾功能、耐受性与B12评估；不要自行停用处方，也不为抗衰在健康人自行开始。",
+          "tags": [
+            "B",
+            "输入",
+            "药物"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/9742977/"
+        },
+        {
+          "id": "metformin-longevity",
+          "title": "二甲双胍（健康人延寿及原库安全性断言）",
+          "core": "2014英国回顾队列报告非糖尿病对照相对二甲双胍糖尿病患者的调整中位生存时间比0.85，不是健康人服药随机试验，也未证实固定延寿3年。DPP/DPPOS高糖尿病风险人群随机分组后中位21年随访，二甲双胍ACM HR0.99，未见获益。2024挪威/台湾研究充分控制父亲糖尿病等混杂后未见父亲用药与出生缺陷显著关联，原库二手标题不能当确定致畸结论。",
+          "body": [
+            "判定：需纠正",
+            "效应量：非糖尿病对照/二甲双胍患者STR0.85；DPP/DPPOS二甲双胍ACM HR0.99 STR 95%CI 0.81–0.90（非HR）；DPP/DPPOS HR 95%CI 0.79–1.25 观察队列：非糖尿病对照 vs 糖尿病二甲双胍者；DPP：二甲双胍 vs 安慰剂原随机分组",
+            "人群：英国CPRD 78,241二甲双胍患者、12,222磺脲患者、90,463匹配非糖尿病人；DPP/DPPOS 3,234高糖尿病风险者、中位21年、453死亡",
+            "设计：回顾性匹配队列；随机试验开放长期随访；另安全性双国队列",
+            "局限：生存时间比不能转为固定增寿年数；多种抗衰主张未经健康人ACM随机试验证实；安全性频率另见“二甲双胍不良反应”；先天畸形不是ACM。",
+            "证据：Can people with type 2 diabetes live longer than those without? A comparison of mortality in people initiated with metformin or sulphonylurea monotherapy and matched, non-diabetic controls. — https://pubmed.ncbi.nlm.nih.gov/25041462/",
+            "证据：Effect of Metformin and Lifestyle Interventions on Mortality in the Diabetes Prevention Program and Diabetes Prevention Program Outcomes Study. — https://pubmed.ncbi.nlm.nih.gov/34697033/",
+            "证据：Paternal metformin use and risk of congenital malformations in offspring in Norway and Taiwan: population based, cross national cohort study. — https://pubmed.ncbi.nlm.nih.gov/39414354/",
+            "读者摘要：观察研究曾比较服用二甲双胍的糖尿病患者与未患糖尿病的对照者，发现前者生存较好；但长期随机随访未在糖尿病高风险人群中发现死亡风险下降。健康人服药延寿的效果尚未证实。"
+          ],
+          "remember": "健康人不要为延寿自行服二甲双胍；糖尿病备孕男性不要因二手报道自行停药，与医生讨论个体风险。",
+          "tags": [
+            "C",
+            "输入",
+            "药物"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/25041462/"
+        },
+        {
+          "id": "multivitamins",
+          "title": "复合维生素",
+          "core": "PHS II男性医生试验癌症发病HR0.92约降8%，这是发病不是ACM；癌症死亡也未显著下降。COSMOS随机试验ACM HR0.93且CI跨1；2024三美国队列也未见ACM获益。应明确没有证实一般健康人吃复合维生素延寿。",
+          "body": [
+            "判定：部分支持",
+            "效应量：ACM HR0.93（COSMOS）；癌症发病HR0.92（PHS II，非ACM） ACM 95%CI 0.81–1.08；癌症发病0.86–0.998 每日复合维生素 vs 安慰剂；另每日使用vs不使用队列",
+            "人群：PHS II 14,641男性医生、11.2年；COSMOS 21,442老年成人、3.6年；2024队列390,124人",
+            "设计：双盲安慰剂随机试验；大型多队列",
+            "局限：COSMOS随访较短且ACM为次要终点；PHS II非所有性别年龄适用；配方不同；队列轻微HR升高不能证明药物有害；缺乏者治疗另论。",
+            "证据：Multivitamins in the prevention of cancer in men: the Physicians' Health Study II randomized controlled trial. — https://pubmed.ncbi.nlm.nih.gov/23162860/",
+            "证据：Multivitamins in the prevention of cancer and cardiovascular disease: the COcoa Supplement and Multivitamin Outcomes Study (COSMOS) randomized clinical trial. — https://pubmed.ncbi.nlm.nih.gov/35294969/",
+            "证据：Multivitamin Use and Mortality Risk in 3 Prospective US Cohorts. — https://pubmed.ncbi.nlm.nih.gov/38922615/",
+            "读者摘要：复合维生素的随机试验和大型随访，尚未显示一般健康人服用后死亡风险降低。部分研究发现癌症发病减少，那是另一个研究结局。"
+          ],
+          "remember": "不为延寿常规服复合维生素；有营养缺乏、特定生命阶段或吸收障碍者按评估针对性补充。",
+          "tags": [
+            "A",
+            "输入",
+            "药物"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/23162860/"
+        },
+        {
+          "id": "glucosamine-chondroitin",
+          "title": "葡萄糖胺／软骨素",
+          "core": "原库39%ACM与65%CVD降低对应仅年龄校正；充分校正后ACM HR0.73（低27%）、CVD HR0.42（低58%）。持续使用者是658人而非648。是观察关联，没有直接证明疗效“等同运动”，也不能推出500–1000mg的延寿有效剂量。",
+          "body": [
+            "判定：需纠正",
+            "效应量：HR0.73（多变量校正ACM） 95%CI 0.57–0.93 基线报告使用葡萄糖胺/软骨素≥365天 vs 未使用或使用不足365天",
+            "人群：NHANES 1999–2010，16,686名≥40岁成人，排除基线CVD及生命状态缺失者；658使用≥1年；中位107个月；3,366死亡",
+            "设计：全国队列死亡随访分析",
+            "局限：年龄校正与多变量校正不得混用；联用补剂暴露不能拆成氨糖独有效果；基线自报使用，随访未追踪用量与持续依从性；使用者更常运动、不吸烟、受教育较多，调整不能消除健康使用者及其他补剂混杂。",
+            "证据：Glucosamine/Chondroitin and Mortality in a US NHANES Cohort. — https://pubmed.ncbi.nlm.nih.gov/33219063/",
+            "读者摘要：美国随访发现，长期使用氨糖和软骨素的人死亡风险较低；使用者也更常运动、不吸烟。研究尚未证明这些补剂能让健康人延寿。"
+          ],
+          "remember": "不为延寿开始氨糖/软骨素；有关节症状或抗凝治疗者，先与医生讨论适用性和相互作用，继续规律运动。",
+          "tags": [
+            "C",
+            "输入",
+            "药物"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/33219063/"
+        },
+        {
+          "id": "anti-aging-drugs-review",
+          "title": "综合抗衰药候选（综述）",
+          "core": "对应2020 Nature Reviews Drug Discovery综述讨论雷帕霉素、senolytics、二甲双胍、阿卡波糖、亚精胺、NAD增强剂、锂等；其分层主要依据临床前及部分临床结果，不是证实这些药可降低健康人ACM的meta分析。",
+          "body": [
+            "判定：无直接ACM证据",
+            "效应量：未报告可用于健康人的ACM合并效应 未报告 各药候选的机制、动物及早期临床研究；无统一随机ACM对照",
+            "人群：以动物模型与有限人类研究为主；不形成健康人死亡干预人群",
+            "设计：叙述性药物研发综述",
+            "局限：不同分子、剂量、适应证不能合并成“综合抗衰药”；疾病适应证获益不等于健康人延寿；综述2020年，不宣称全面检索截至2026所有新药。",
+            "证据：The quest to slow ageing through drug discovery. — https://pubmed.ncbi.nlm.nih.gov/32467649/",
+            "读者摘要：抗衰药物综述讨论了多种候选分子，证据主要来自动物和有限的人体研究。它们延长健康人寿命的效果仍未证实。"
+          ],
+          "remember": "不自行组合抗衰药；有明确疾病适应证按专科治疗，实验性抗衰干预应在规范研究中进行。",
+          "tags": [
+            "D",
+            "输入",
+            "药物"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/32467649/"
+        },
+        {
+          "id": "statins-indicated-patients",
+          "title": "他汀降脂（按心血管风险及适应证）",
+          "core": "27项随机试验个体数据meta分析显示，无既往血管病者每降低1mmol/L LDL-C，ACM RR0.91。结果适用于被纳入试验且适合降脂治疗者，不是所有健康人都应服药；绝对获益随基线风险变化。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：RR0.91 / 每1mmol/L LDL-C下降（无既往血管病） 95%CI 0.85–0.97 他汀vs对照或强化vs较低强度；按LDL-C差异标准化",
+            "人群：27RCT共174,149人；ACM数字为无既往血管病亚群；中位4.8–5.1年",
+            "设计：随机试验个体数据meta分析",
+            "局限：研究包含一级及二级预防，给出的0.91是无病史亚群；高低风险绝对收益不同；未单独核验2026当地用药阈值，不能按此处自行开药。",
+            "证据：The effects of lowering LDL cholesterol with statin therapy in people at low risk of vascular disease: meta-analysis of individual data from 27 randomised trials. — https://pubmed.ncbi.nlm.nih.gov/22607822/",
+            "读者摘要：随机试验汇总发现，他汀降脂治疗能减少心血管事件，在没有既往血管病的入组人群中也观察到死亡减少。个人获益取决于原有风险。"
+          ],
+          "remember": "已患ASCVD或经医生评估达到降脂指征者讨论他汀；低风险健康人不要仅因“延寿”自行开始；肌肉症状、相互作用及妊娠情境需个体评估。",
+          "tags": [
+            "A",
+            "输入",
+            "药物"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/22607822/"
+        },
+        {
+          "id": "vitamin-d-general-population",
+          "title": "维生素D补充（一般无选择老年成人）",
+          "core": "VITAL试验每天2000IU维生素D3未显示ACM降低：HR0.99、CI跨1。该结果不能否定缺乏症、骨病等明确适应证治疗，也不能证明任何剂量长期完全无风险。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：HR0.99 95%CI 0.87–1.12 维生素D3 2000IU/日 vs 安慰剂",
+            "人群：美国25,871人，男性≥50、女性≥55；中位5.3年；978死亡",
+            "设计：随机双盲安慰剂对照2×2析因试验",
+            "局限：未按严重缺乏筛选；大多数非缺乏人群，结果不涵盖所有剂量和适应证；不能把观察性低维D关联转成补充的因果效果。",
+            "证据：Vitamin D Supplements and Prevention of Cancer and Cardiovascular Disease. — https://pubmed.ncbi.nlm.nih.gov/30415629/",
+            "读者摘要：大型随机试验未发现常规补充维生素D能降低一般中老年人的死亡风险。营养缺乏和骨病等治疗需求需要另行评估。"
+          ],
+          "remember": "不以延寿为目的盲目大剂量补充；疑似缺乏或有明确骨健康等指征者按医生评估补充。",
+          "tags": [
+            "A",
+            "输入",
+            "药物"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/30415629/"
+        },
+        {
+          "id": "intensive-bp-control",
+          "title": "符合适应条件者的强化降压",
+          "core": "SPRINT中无糖尿病且心血管风险较高者，收缩压目标<120相对<140 mmHg降低ACM约27%。这是治疗策略试验，不是所有健康人吃降压药延寿；CVD复合终点HR0.75与ACM HR0.73分别报告。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：ACM HR 0.73 95%CI 0.60–0.90 强化收缩压目标<120 vs 标准目标<140 mmHg",
+            "人群：9,361名SBP≥130mmHg、心血管风险增加且无糖尿病的成人",
+            "设计：SPRINT随机对照试验；中位随访3.26年，提前停止",
+            "局限：提前停止可能高估获益；低血压、晕厥、电解质异常、急性肾损伤更常见；不能泛化至糖尿病或低风险正常血压者。",
+            "证据：A Randomized Trial of Intensive versus Standard Blood-Pressure Control. — https://europepmc.org/article/MED/26551272",
+            "读者摘要：一项随机试验发现，无糖尿病、心血管风险较高的高血压人群，强化降压后死亡更少；低血压和肾脏等不良事件也更常见。"
+          ],
+          "remember": "确诊高血压且风险较高者与医生讨论目标，监测肾功能、电解质、体位症状；不要自行加药或追求试验目标。",
+          "tags": [
+            "A",
+            "输入",
+            "药物"
+          ],
+          "sourceUrl": "https://europepmc.org/article/MED/26551272"
+        },
+        {
+          "id": "dapagliflozin-ckd",
+          "title": "达格列净（特定慢性肾病）",
+          "core": "在符合DAPA-CKD入组条件的慢性肾病人群中，随机治疗组的ACM较低；不构成健康人的抗衰用药证据。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：HR 0.69；死亡4.7% vs 6.8% 0.53–0.88 达格列净10 mg/日 vs 安慰剂，均在标准治疗基础上",
+            "人群：4304名CKD成人；eGFR 25–75、UACR 200–5000 mg/g；随访中位2.4年，含有/无2型糖尿病者",
+            "设计：双盲随机安慰剂对照；ACM为预设关键次要终点",
+            "局限：试验因疗效提前终止；不能外推到无CKD健康人、1型糖尿病或被排除的肾病类型。4.7%/6.8%是试验期间死亡比例，不是终身风险。",
+            "证据：Effects of dapagliflozin on mortality in patients with chronic kidney disease: a pre-specified analysis from the DAPA-CKD randomized controlled trial — https://pmc.ncbi.nlm.nih.gov/articles/PMC8244648/",
+            "读者摘要：随机试验发现，在符合入组条件的慢性肾病患者中，达格列净治疗组死亡较少，包含有和没有糖尿病的人。健康人延寿效果尚未证实。"
+          ],
+          "remember": "由临床医生按CKD与其他指征评估；需考虑体液不足、感染及酮症酸中毒等风险。剂量仅描述试验方案。",
+          "tags": [
+            "A",
+            "输入",
+            "药物"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8244648/"
+        },
+        {
+          "id": "semaglutide-select",
+          "title": "司美格鲁肽（SELECT适应人群）",
+          "core": "SELECT中ACM估计倾向较低，但主试验的分层检验在心血管死亡一关未通过，因此ACM不能作为通过多重性控制的确证性优效结论。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：HR 0.81（探索性解释） 0.71–0.93 每周皮下司美格鲁肽2.4 mg vs 安慰剂，标准治疗基础上",
+            "人群：17604人；≥45岁、BMI≥27、已有心血管疾病、无糖尿病；平均随访39.8个月",
+            "设计：随机双盲试验及其死亡结局分析",
+            "局限：不能推广到年轻、无心血管疾病、正常BMI人群；厂商资助；主试验因不良事件停药16.6% vs 8.2%。",
+            "证据：The Effect of Semaglutide on Mortality and COVID-19-Related Deaths: An Analysis From the SELECT Trial. — https://pubmed.ncbi.nlm.nih.gov/39217559/",
+            "证据：Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes — https://www.nejm.org/doi/full/10.1056/NEJMoa2307563",
+            "读者摘要：SELECT试验中，已有心血管病、超重或肥胖且无糖尿病的参与者，司美格鲁肽组死亡较少；这项死亡结果属于探索性发现。"
+          ],
+          "remember": "只在相应临床指征下评估，不把探索性ACM结果当作健康人的延寿承诺。",
+          "tags": [
+            "B",
+            "输入",
+            "药物"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/39217559/"
+        },
+        {
+          "id": "aspirin-primary-prevention",
+          "title": "阿司匹林（老年人初级预防）",
+          "core": "ASPREE未支持无既往心血管病老年人为了延寿开始每日阿司匹林；ACM次要终点出现较高死亡的信号，但未经多重比较调整，应谨慎解释。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：HR 1.14；12.7 vs 11.1 / 千人年 1.01–1.29（未校正多重比较） 阿司匹林100 mg/日 vs 安慰剂",
+            "人群：19114名通常≥70岁的社区老人（美国黑人/西语裔≥65岁），无心血管病、痴呆或残疾；中位4.7年",
+            "设计：随机双盲试验；ACM为次要终点",
+            "局限：与其他既往研究不完全一致；不适用于心肌梗死/卒中后二级预防，不代表所有年龄用药均增加ACM。",
+            "证据：Effect of Aspirin on All-Cause Mortality in the Healthy Elderly. — https://pubmed.ncbi.nlm.nih.gov/30221595/",
+            "证据：Effect of Aspirin on All-Cause Mortality in the Healthy Elderly — Discussion — https://www.nejm.org/doi/full/10.1056/NEJMoa1803955",
+            "读者摘要：在无既往心血管病的老年人随机试验中，每日阿司匹林未带来延寿获益，并出现死亡较多的信号。这个结果与心梗或卒中后的治疗是不同情境。"
+          ],
+          "remember": "不要仅为延寿自行启动阿司匹林；已因明确指征服用者与医生评估，不能根据该试验自行停药。",
+          "tags": [
+            "B",
+            "输入",
+            "药物"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/30221595/"
+        },
+        {
+          "id": "metformin-adverse-events",
+          "title": "二甲双胍不良反应（口径核对）",
+          "core": "美国药品标签所列53%对应特定试验的腹泻，9%无力和6%头痛亦为该试验数值，不代表所有服药人群的一般发生率。29周试验约7%出现血清B12低于正常，不等同全部有症状缺乏；17.4%上限未由本标签核实。乳酸酸中毒有黑框警告，肝损伤属上市后报告，不能从自发报告估算频率。",
+          "body": [
+            "判定：部分支持",
+            "效应量：ACM效应未评估；腹泻53% vs 12% ACM未报告；不良反应区间未列 二甲双胍速释片 vs 安慰剂；用药上限2550 mg/日",
+            "人群：标签收录美国2型糖尿病试验：药组141人、安慰剂145人；B12数据来自29周试验",
+            "设计：官方药品标签的不良反应试验及上市后报告，非ACM干预研究",
+            "局限：不同制剂、滴定、剂量、随访和人群的反应率不能直接比较；没有给17.4%提供统一定义；不将不良反应频率当死亡风险。",
+            "证据：Metformin hydrochloride tablets — Full prescribing information, sections 5.1–5.2, 6.1–6.2 — https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4f70f907-08d5-4c2e-a4be-32c6124faa7b",
+            "读者摘要：二甲双胍可引起腹泻等胃肠不适，也可能降低维生素B12水平；乳酸酸中毒也是需要重视的风险。反应会随制剂、剂量和身体状况变化。"
+          ],
+          "remember": "按临床指征用药并监测肾功能和B12；该记录用于纠正频率口径，不用于自行启动或停药。",
+          "tags": [
+            "D",
+            "输入",
+            "药物"
+          ],
+          "sourceUrl": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4f70f907-08d5-4c2e-a4be-32c6124faa7b"
+        },
+        {
+          "id": "hepatitis-c-treatment",
+          "title": "慢性丙肝的发现与治疗",
+          "core": "法国慢性丙肝患者的前瞻性队列中，接受直接抗病毒治疗与调整后全因死亡风险约低52%相关。该比较针对已感染患者，治疗分配并非随机。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：调整后 HR 0.48 95%CI 0.33–0.70 慢性丙肝患者接受直接抗病毒治疗 vs 未治疗；按时间变化的治疗暴露分析",
+            "人群：法国32个肝病中心、9,895名慢性丙肝成人；中位随访33.4个月",
+            "设计：前瞻性多中心观察队列，采用时间依赖模型并调整混杂因素",
+            "局限：研究排除了既往失代偿肝硬化、肝癌或肝移植等患者；不能外推未感染者，也不是某种方案的随机比较。抗体阳性本身不能确认当前感染。",
+            "证据：Clinical outcomes in patients with chronic hepatitis C after direct-acting antiviral treatment: a prospective cohort study. — https://pubmed.ncbi.nlm.nih.gov/30765123/",
+            "证据：Testing for Hepatitis C (CDC) — https://www.cdc.gov/hepatitis-c/testing/index.html",
+            "读者摘要：丙肝可以长期没有明显症状。慢性丙肝患者的随访研究发现，接受抗病毒治疗的人死亡风险更低，查清是否感染、及时治疗很重要。"
+          ],
+          "remember": "丙肝抗体阳性后，进一步检测病毒是否仍存在；确诊当前感染后，接受肝脏评估并与医生选择抗病毒治疗。",
+          "tags": [
+            "C",
+            "输入",
+            "药物"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/30765123/"
+        }
+      ]
+    },
+    {
+      "title": "输入 · 气体",
+      "items": [
+        {
+          "id": "smoking",
+          "title": "吸烟与戒烟",
+          "core": "墨西哥低强度吸烟的样本与1.17/1.54风险数字吻合；原文称RR，非所有吸烟者统一+50%。美国大型队列当前吸烟者ACM约3倍，寿命少>10年；原库11–12年未从该墨西哥论文核实，不能将不同强度人群合成统一数字。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：RR 1.17（<10支/日）；1.54（≥10支/日） 95%CI分别1.10–1.25；1.42–1.67 基线每日吸烟<10／≥10支 vs 从不吸烟",
+            "人群：墨西哥129,151无既往慢病成人，35–89岁；招募1998–2004，随访至2018",
+            "设计：前瞻队列，另美国全国队列验证",
+            "局限：烟量随时间变动；该队列非每日吸烟的阴性不能证明安全；美国研究CI为99%，不得标成95%。",
+            "证据：Low-intensity daily smoking and cause-specific mortality in Mexico: prospective study of 150 000 adults. — https://pubmed.ncbi.nlm.nih.gov/33659992/",
+            "证据：21st-century hazards of smoking and benefits of cessation in the United States. — https://pubmed.ncbi.nlm.nih.gov/23343063/",
+            "读者摘要：长期随访持续发现，吸烟者死亡风险较高，即使每日烟量不大也有风险。戒烟者的风险低于继续吸烟者。"
+          ],
+          "remember": "不开始吸烟，吸烟者尽早戒烟；需要时寻求戒烟门诊与循证药物支持，减少支数不等同消除风险。",
+          "tags": [
+            "B",
+            "输入",
+            "气体"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/33659992/"
+        },
+        {
+          "id": "ambient-air-pollution",
+          "title": "长期环境PM2.5污染",
+          "core": "大型Medicare队列中，长期PM2.5每增加10μg/m³与ACM增加7.3%相关；臭氧每10ppb与增加1.1%相关。这是环境暴露关联，不等于使用某款净化器能降低同等百分比死亡。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：ACM风险增加7.3% / 每10μg/m³ PM2.5 95%CI 增加7.1%–7.5% 按居住地估计的年均PM2.5每增加10μg/m³，两污染物模型",
+            "人群：美国60,925,443名Medicare受益者；2000–2012；460,310,521人年",
+            "设计：全国开放队列",
+            "局限：美国老年人群；邮编暴露不等于个人吸入；缺个体吸烟等详尽信息；关联不能直接给个人净化干预效应。",
+            "证据：Air Pollution and Mortality in the Medicare Population. — https://pubmed.ncbi.nlm.nih.gov/28657878/",
+            "读者摘要：美国老年人大型随访发现，长期暴露于较高细颗粒物和臭氧水平，与较高死亡风险相关。"
+          ],
+          "remember": "关注本地空气质量，污染高时减少高暴露时段户外剧烈活动，并在可行时改善室内空气；通风兼顾污染与感染情境。",
+          "tags": [
+            "B",
+            "输入",
+            "气体"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/28657878/"
+        }
+      ]
+    },
+    {
+      "title": "输入 · 光照",
+      "items": [
+        {
+          "id": "sun-exposure",
+          "title": "晒太阳／紫外线",
+          "core": "丹麦研究以皮肤癌诊断作为日晒代理，并未随机增加日晒。非黑色素瘤皮肤癌与ACM HR0.52相关，黑色素瘤HR0.89；作者明确不能作因果结论。“多晒延寿6年”“降低约40%ACM”不能由此推出；瑞典日晒习惯队列估计寿命差0.6–2.1年，也不是6年。",
+          "body": [
+            "判定：需纠正",
+            "效应量：HR 0.52（非黑色素瘤皮肤癌）；0.89（黑色素瘤） 95%CI 0.52–0.53；0.87–0.91 有皮肤癌诊断 vs 无诊断；不是日晒剂量干预",
+            "人群：丹麦>40岁440万人，1980–2006；瑞典29,518名女性20年随访",
+            "设计：全国登记观察研究；前瞻日晒习惯队列",
+            "局限：皮肤癌诊断和生存选择、社会经济、户外运动、健康就医行为混杂；暴露代理不可靠；晒伤增加皮肤癌风险；不存在从这些研究得出的最佳时长剂量。",
+            "证据：Skin cancer as a marker of sun exposure associates with myocardial infarction, hip fracture and death from any cause. — https://pubmed.ncbi.nlm.nih.gov/24038635/",
+            "证据：Avoidance of sun exposure as a risk factor for major causes of death: a competing risk analysis of the Melanoma in Southern Sweden cohort. — https://pubmed.ncbi.nlm.nih.gov/26992108/",
+            "读者摘要：北欧研究发现，日晒相关指标与生存存在关联，但户外活动、就医习惯等也会影响结果。研究没有确定一个延寿日晒时长。"
+          ],
+          "remember": "可规律户外活动、接触自然光，同时避免晒伤和日光浴床；光敏性疾病、相关用药或皮肤癌高风险者按医生防晒建议。",
+          "tags": [
+            "D",
+            "输入",
+            "光照"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/24038635/"
+        }
+      ]
+    },
+    {
+      "title": "输出 · 运动",
+      "items": [
+        {
+          "id": "racquet-sports",
+          "title": "挥拍运动",
+          "core": "47%对应挥拍参与者的调整后ACM危险比，非随机干预效果。摘要未支持每周三次、每次45–60分钟这一精确处方，也不能据此判定所有运动中性价比最高。论文发表于British Journal of Sports Medicine，并非柳叶刀。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：HR 0.53 95%CI 0.40–0.69 参与挥拍运动 vs 未参与该类运动",
+            "人群：80,306名英国成年人；平均52±14岁",
+            "设计：英格兰/苏格兰人群队列合并分析",
+            "局限：运动自报、健康参与者及社会经济混杂；不能无条件外推乒乓球或所有年龄。",
+            "证据：Associations of specific types of sports and exercise with all-cause and cardiovascular-disease mortality: a cohort study of 80 306 British adults. — https://europepmc.org/article/MED/27895075",
+            "读者摘要：英国成年人随访发现，参加挥拍运动与较低死亡风险相关。喜好、体能和能否长期坚持，也值得放进运动选择里。"
+          ],
+          "remember": "选择喜欢且身体允许的挥拍活动，循序增加；有关节损伤、心血管症状者先评估。",
+          "tags": [
+            "B",
+            "输出",
+            "运动"
+          ],
+          "sourceUrl": "https://europepmc.org/article/MED/27895075"
+        },
+        {
+          "id": "vigorous-activity",
+          "title": "剧烈运动",
+          "core": "原库把论文跨死亡终点的16–40%统写成ACM。约15分钟/周对应ACM低18%，约19.2分钟对应心血管死亡低40%；约53.6分钟/周对应ACM低36%。这些是相对于2.2分钟/周的模型关联，非每日8分钟的保证收益。",
+          "body": [
+            "判定：需纠正",
+            "效应量：ACM HR 0.82（约15分钟/周）；0.64（53.6分钟/周） 95%CI分别0.75–0.89；0.54–0.77 VPA约15或53.6分钟/周 vs 2.2分钟/周",
+            "人群：71,893名UK Biobank成年人，中位62.5岁，平均随访5.9年",
+            "设计：腕部加速度计前瞻性队列、剂量反应模型",
+            "局限：非随机；选择偏倚、残余混杂；曲线最低点非人人适用的最优处方。",
+            "证据：Vigorous physical activity, incident heart disease, and cancer: how little is enough? — https://pmc.ncbi.nlm.nih.gov/articles/PMC9726449/",
+            "读者摘要：英国随访发现，较短时间的高强度活动也与较低死亡风险相关。参与者主要是中老年人，运动量来自活动设备记录。"
+          ],
+          "remember": "有运动基础且无禁忌者逐渐加入短时较高强度活动；不适或慢病未稳定者先评估。",
+          "tags": [
+            "B",
+            "输出",
+            "运动"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9726449/"
+        },
+        {
+          "id": "walking-steps",
+          "title": "走路/每日步数",
+          "core": "原研究中每日7,000–9,999步及≥10,000步均与较低ACM相关，约低72%和55%；不是走路干预必然降低50%以上，也未证明步数越多越好或步频独立获益。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：HR 0.28；0.45 95%CI分别0.15–0.54；0.25–0.81 7,000–9,999及≥10,000步/日 vs <7,000步/日",
+            "人群：CARDIA 2,110名美国黑人/白人成年人，平均45.2岁；随访10.8年，72例死亡",
+            "设计：加速度计测量的前瞻性单队列",
+            "局限：短期活动测量；残余混杂和反向因果；不能把7,000步当普适阈值。",
+            "证据：Steps per Day and All-Cause Mortality in Middle-aged Adults in the Coronary Artery Risk Development in Young Adults Study. — https://pmc.ncbi.nlm.nih.gov/articles/PMC8417757/",
+            "读者摘要：美国中年人随访发现，日常步数较多的人死亡风险较低，结果并非步数越多越好。"
+          ],
+          "remember": "从自身基线逐渐增加步行；行动障碍、跌倒风险或心肺疾病者个体化安排。",
+          "tags": [
+            "C",
+            "输出",
+            "运动"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8417757/"
+        },
+        {
+          "id": "resistance-training",
+          "title": "抗阻/肌肉力量训练",
+          "core": "前瞻性队列荟萃分析中，任何肌力训练相对不训练与ACM约低15%相关；30–60分钟/周曲线附近获益较大，但高剂量效果不确定，不是随机试验确认的最佳剂量。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：RR 0.85 95%CI 0.79–0.93 任何肌肉强化活动 vs 无该活动，尽可能调整有氧活动",
+            "人群：ACM二分类合成7研究、263,058人、42,133死亡；综述总计16研究",
+            "设计：前瞻性队列系统综述/荟萃分析",
+            "局限：I²=83%；自报、健康参与者偏倚与混杂；不能据J曲线断言较多训练有害。",
+            "证据：Muscle-strengthening activities are associated with lower risk and mortality in major non-communicable diseases: a systematic review and meta-analysis of cohort studies. — https://pmc.ncbi.nlm.nih.gov/articles/PMC9209691/",
+            "读者摘要：队列研究综述发现，做肌力训练的人死亡风险较低。具体训练量与结果的关系仍有不确定性。"
+          ],
+          "remember": "身体条件允许时逐步练习主要肌群、结合有氧；疼痛、近期手术或不稳定慢病需先评估和调整。",
+          "tags": [
+            "B",
+            "输出",
+            "运动"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9209691/"
+        },
+        {
+          "id": "cardiorespiratory-fitness",
+          "title": "心肺适能（CRF）",
+          "core": "运动负荷测试测得的心肺适能每高 1 MET，与较低 ACM 相关；这是身体能力指标的观察性关联，不是“多运动 1 MET”必然带来的收益。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：RR 0.88 / 每高1 MET 0.83–0.93 CRF 每高1 MET；非运动分钟数比较",
+            "人群：34项成人队列纳入综述；ACM连续剂量分析来自其中子集",
+            "设计：队列研究剂量反应荟萃分析",
+            "局限：研究间异质性很高；既往疾病、遗传和测试方案影响CRF；检索截止2019-12-26。",
+            "证据：Cardiorespiratory fitness and mortality from all causes, cardiovascular disease and cancer: dose-response meta-analysis of cohort studies. — https://doi.org/10.1136/bjsports-2021-104876",
+            "读者摘要：多项队列研究发现，运动测试测得的心肺适能越好，死亡风险越低。它反映身体能力，也受疾病和遗传等因素影响。"
+          ],
+          "remember": "把适能当作体能评估线索，结合基础健康状态逐步训练；不能直接用RR估算个人延寿。",
+          "tags": [
+            "B",
+            "输出",
+            "运动"
+          ],
+          "sourceUrl": "https://doi.org/10.1136/bjsports-2021-104876"
+        },
+        {
+          "id": "walking-steps-2025",
+          "title": "每日步数（2025综述更新）",
+          "core": "2025综述摘要中，每日7000步相对2000步与较低ACM相关。不能将两组的关联直接当成从2000加到7000步的个人干预收益。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：HR 0.53（摘要报告） 0.46–0.60 设备测量每日7000步 vs 2000步，剂量反应模型",
+            "人群：成人前瞻性队列；ACM该比较含14项研究；综述检索至2025-02-14",
+            "设计：系统综述与剂量反应荟萃分析",
+            "局限：残余混杂；未给年龄分层结论；设备、测量周期与既往疾病有差异。本次依据摘要数值，未逐表核阅全文。",
+            "证据：Daily steps and health outcomes in adults: a systematic review and dose-response meta-analysis. — https://pubmed.ncbi.nlm.nih.gov/40713949/",
+            "读者摘要：较新的研究综述继续发现，日常步数较多与较低死亡风险相关。参与者的身体状况、设备和测量方式也会影响结果。"
+          ],
+          "remember": "在自身能力范围增加步数；7000步可作部分人的渐进目标，不能设为人人必须达到的硬阈值。",
+          "tags": [
+            "B",
+            "输出",
+            "运动"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/40713949/"
+        }
+      ]
+    },
+    {
+      "title": "输出 · 日常",
+      "items": [
+        {
+          "id": "toothbrushing",
+          "title": "刷牙",
+          "core": "很少/从不刷牙相对于规律刷牙的ACM HR为1.25；癌症、COPD和肝硬化数字主要为发病风险。观察结果不等于开始刷牙能使ACM降低25%，更不是牙刷本身的因果效应。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：HR 1.25 95%CI 1.21–1.28 很少/从不刷牙 vs 规律刷牙",
+            "人群：中国慢性病前瞻性研究512,715人，30–79岁",
+            "设计：大型前瞻性队列",
+            "局限：刷牙行为自报；与吸烟、贫困、既有健康状态和医疗可及性相关。",
+            "证据：Associations of toothbrushing behaviour with risks of vascular and nonvascular diseases in Chinese adults. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7616900/",
+            "读者摘要：中国大型随访发现，很少刷牙的人死亡风险较高。口腔护理也与吸烟、健康状况和就医条件相互关联。"
+          ],
+          "remember": "维持规律含氟牙膏刷牙和牙病诊治；不能替代控制吸烟、血压等措施。",
+          "tags": [
+            "B",
+            "输出",
+            "日常"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7616900/"
+        },
+        {
+          "id": "tub-bathing",
+          "title": "泡澡",
+          "core": "原库28%、26%、46%分别对应CVD发病、卒中发病和脑出血发病，数字可核实，但不是ACM。未发现猝死显著关联不等于证明泡澡完全安全。",
+          "body": [
+            "判定：无直接ACM证据",
+            "效应量：ACM未报告；CVD发病 HR 0.72 ACM未报告；CVD发病95%CI 0.62–0.84 几乎每日/每日泡澡 vs 每周0–2次",
+            "人群：30,076名40–59岁日本人，基线无CVD或癌症；1990–2009年随访",
+            "设计：日本前瞻性队列；终点为心脑血管事件",
+            "局限：无随机化；日本浴缸习惯不能直接推广为淋浴；溺水、热应激等风险未由无显著猝死结果排除。",
+            "证据：Habitual tub bathing and risks of incident coronary heart disease and stroke. — https://europepmc.org/article/MED/32209614",
+            "读者摘要：日本中年人随访发现，经常泡澡与较少心血管病和卒中发病相关。"
+          ],
+          "remember": "可按舒适、安全习惯温水洗浴；晕厥倾向、急性疾病、酒后或心血管不稳定者避免热水长泡和独自泡澡。",
+          "tags": [
+            "D",
+            "输出",
+            "日常"
+          ],
+          "sourceUrl": "https://europepmc.org/article/MED/32209614"
+        },
+        {
+          "id": "heavy-housework",
+          "title": "重型家务（老年男性）",
+          "core": "男性参与重型家务与ACM低29%相关，但72岁是纳入样本平均年龄，入组要求≥65岁；不是72岁后才有作用，也不是减少“平均死亡率”的试验结论。女性结果不显著。",
+          "body": [
+            "判定：需纠正",
+            "效应量：HR 0.71 95%CI 0.56–0.91 参与重型家务 vs 未参与",
+            "人群：香港社区≥65岁老人；排除特定慢病后2867人，平均72岁；452例死亡",
+            "设计：前瞻性单队列，约9年随访",
+            "局限：能做家务者可能本就较健康；不能把搬家具/煤气罐作为延寿处方。2013勘误只修正文中男女家务参与比例。",
+            "证据：Housework reduces all-cause and cancer mortality in Chinese men. — https://pmc.ncbi.nlm.nih.gov/articles/PMC3647044/",
+            "读者摘要：香港老年人随访中，做较重家务的男性死亡风险较低，女性未见明确关联。体能较好的人更能做家务，也可能影响结果。"
+          ],
+          "remember": "按体力参与适量家务；衰弱、骨质疏松、腰背病或跌倒风险者避免搬重物。",
+          "tags": [
+            "C",
+            "输出",
+            "日常"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3647044/"
+        }
+      ]
+    },
+    {
+      "title": "输出 · 睡眠",
+      "items": [
+        {
+          "id": "sleep-duration",
+          "title": "睡眠时长",
+          "core": "相对自报7小时，≥10小时的男性ACM高34%、女性高48%，数字吻合。长睡也可能反映潜在疾病；不能由此要求长睡者强制减到7小时，或断言改变时长必然改变死亡率。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：男性HR 1.34；女性HR 1.48 95%CI分别1.26–1.44；1.36–1.61 自报≥10小时 vs 7小时；各队列有夜间睡眠或含午睡的全天睡眠两种口径",
+            "人群：日本、中国、新加坡、韩国9队列322,721人，平均54.5岁；排除基线自报CVD/癌症及随访前5年死亡者；男性19,419例、女性13,768例死亡",
+            "设计：个体数据多队列合并，前瞻性随访约13–14年",
+            "局限：时长仅自报一次：多数队列在基线、上海女性健康研究在第三次随访测量；各队列问卷未标准化（夜间睡眠或含午睡的全天时长）；残余混杂，未掌握睡眠质量、抑郁及社会经济等信息；排除基线CVD/癌症和前5年死亡仍无法完全消除反向因果。",
+            "证据：Association of Sleep Duration With All- and Major-Cause Mortality Among Adults in Japan, China, Singapore, and Korea. — https://pmc.ncbi.nlm.nih.gov/articles/PMC8417759/",
+            "读者摘要：亚洲多国随访发现，睡得很久的人死亡风险较高；较长睡眠也可能是潜在疾病或睡眠问题的表现。"
+          ],
+          "remember": "保持充足、规律且醒后恢复良好的睡眠；长期过长睡眠伴疲劳、打鼾或嗜睡应查原因。",
+          "tags": [
+            "B",
+            "输出",
+            "睡眠"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8417759/"
+        },
+        {
+          "id": "bedtime",
+          "title": "就寝时间",
+          "core": "原研究可核实早晚就寝与不良结局相关，但已读原论文摘要没有提供“ACM高43%、15%”的独立效应及CI，不能照搬二手数字为充分调整后的ACM。摘要充分调整结果是死亡+非致死心血管事件复合终点HR1.09和1.10，不能替代纯ACM。",
+          "body": [
+            "判定：部分支持",
+            "效应量：ACM独立数值未能核实；复合终点HR 1.09/1.10 ACM未核实；复合终点95%CI 1.03–1.16/1.02–1.20 约22点前或午夜后 vs 22点至午夜就寝",
+            "人群：21国PURE 112,198人；9.2年随访；5633死亡、5346主要心血管事件",
+            "设计：跨国前瞻性队列；自报就寝时间",
+            "局限：社会作息和疾病混杂；充分调整大幅削弱关联；精确边界在Methods和Conclusion略有差别，勿定为硬阈值。",
+            "证据：Association of bedtime with mortality and major cardiovascular events: an analysis of 112,198 individuals from 21 countries in the PURE study. — https://europepmc.org/article/MED/33610073",
+            "读者摘要：跨国随访发现，过早或过晚就寝与较高的死亡及心血管事件复合风险相关；考虑其他因素后，关联明显减弱。"
+          ],
+          "remember": "按个人节律保持规律且足量睡眠；不因这项关联刻意推迟本来合适的早睡。",
+          "tags": [
+            "C",
+            "输出",
+            "睡眠"
+          ],
+          "sourceUrl": "https://europepmc.org/article/MED/33610073"
+        }
+      ]
+    },
+    {
+      "title": "输出 · 久坐",
+      "items": [
+        {
+          "id": "sedentary-time",
+          "title": "久坐及看电视",
+          "core": "高久坐量与较高ACM有关，但每多1小时固定增加3%并不适用所有久坐水平。对应系统综述发现非线性关系：总久坐≤8小时区间每小时约1%，>8小时区间约4%；看电视亦有不同斜率。6–8小时、3–4小时为观察模型转折，非安全线。",
+          "body": [
+            "判定：部分支持",
+            "效应量：总久坐每增1小时RR 1.01（≤8h/d）；1.04（>8h/d） 95%CI分别1.00–1.01；1.03–1.05 在对应暴露区间内增加1小时/日总久坐",
+            "人群：34项前瞻研究，共1,331,468名不同结局的独立参与者",
+            "设计：系统综述、剂量反应荟萃分析，调整身体活动",
+            "局限：久坐多为自报、研究异质性和残余混杂；该综述癌症死亡关联不显著，不能混作癌症发病。原中文报告PDF及WHO旧PDF未能访问。",
+            "证据：Sedentary behaviour and risk of all-cause, cardiovascular and cancer mortality, and incident type 2 diabetes: a systematic review and dose response meta-analysis. — https://pmc.ncbi.nlm.nih.gov/articles/PMC6133005/",
+            "读者摘要：研究综述发现，久坐时间较长与较高死亡风险相关，尤其在每日久坐较多的人群中。看电视和总久坐的关联也有所不同。"
+          ],
+          "remember": "在能力允许时用走动或活动替换部分久坐，并规律运动；无法站立者按康复建议活动，不规定未经证明的统一休息频率。",
+          "tags": [
+            "B",
+            "输出",
+            "久坐"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6133005/"
+        }
+      ]
+    },
+    {
+      "title": "上下文 · 情绪",
+      "items": [
+        {
+          "id": "pessimism",
+          "title": "悲观/乐观情绪",
+          "core": "原库HR1.134等与论文一致，是悲观评分每升高1个标准差的关联。本研究乐观分数未显著关联不等于证明乐观无益；论文称反向因果“不太可能”也没有排除它。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：每1SD悲观评分ACM HR 1.134；进一步调整HR 1.160 95%CI分别1.065–1.207；1.083–1.242 悲观评分每增加1个标准差",
+            "人群：澳大利亚≥50岁双胞胎相关样本2978人，平均20年后1068人死亡；具体模型因缺失人数减少",
+            "设计：前瞻性单队列、生存模型考虑家庭聚类",
+            "局限：心理特质非随机分配；反向因果未被排除；没有情绪治疗降低ACM的直接试验证据。",
+            "证据：Pessimism is associated with greater all-cause and cardiovascular mortality, but optimism is not protective. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7387533/",
+            "读者摘要：澳大利亚中老年人随访发现，悲观评分较高与较高死亡风险相关。情绪、身体健康和生活处境会相互影响。"
+          ],
+          "remember": "持续悲观或情绪低落影响生活时寻求支持或专业帮助；不以强迫乐观替代治疗。",
+          "tags": [
+            "C",
+            "上下文",
+            "情绪"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7387533/"
+        },
+        {
+          "id": "social-isolation",
+          "title": "社会隔离、孤独与独居",
+          "core": "调整后荟萃结果中社会隔离、孤独和独居分别与死亡比值比1.29、1.26、1.32相关。三者是不同暴露，OR不能改写成HR或个体绝对死亡率增加；未证明增加社交必然逆转同幅风险。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：社会隔离OR 1.29；孤独OR 1.26；独居OR 1.32 未报告（已读原始摘要未给95%CI，故不从二手补填） 有社会隔离/孤独/独居 vs 各研究对应低暴露组",
+            "人群：纳入截至2014年2月的死亡随访研究；各研究人群及调整因素不同",
+            "设计：原始研究系统综述及荟萃分析",
+            "局限：基线健康状态影响结果；暴露定义异质；独居不等于孤独；本次仅摘要。",
+            "证据：Loneliness and social isolation as risk factors for mortality: a meta-analytic review. — https://europepmc.org/article/MED/25910392",
+            "读者摘要：研究综述发现，社会隔离、孤独感和独居都与较高死亡风险相关，但它们是不同的生活体验。独居的人也可以有充实可靠的联系。"
+          ],
+          "remember": "依个人意愿维持可靠联系和求助渠道，关注听力、行动和抑郁等障碍；不要求所有独居者同住。",
+          "tags": [
+            "B",
+            "上下文",
+            "情绪"
+          ],
+          "sourceUrl": "https://europepmc.org/article/MED/25910392"
+        }
+      ]
+    },
+    {
+      "title": "上下文 · 贫富",
+      "items": [
+        {
+          "id": "wealth",
+          "title": "净资产/经济资源",
+          "core": "原库样本和方向吻合；净资产每多5万美元ACM HR0.95，家庭内模型0.94，但双胞胎单独亚组CI跨1。不能推断靠特定投资增加财富可按比例延寿，也不是贫富差距的生态效应。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：每增加5万美元净资产HR 0.95；家庭内HR 0.94 95%CI分别0.94–0.97；0.91–0.97 1994–1996年自报净资产每增加5万美元（研究单位）",
+            "人群：美国MIDUS 5414人，平均46.7岁，近24年随访；1010例死亡；兄弟姐妹/双胞胎2490人",
+            "设计：单队列及家庭内比较",
+            "局限：净资产自报；族群代表性有限；个体非共享混杂、健康导致财富下降；未检验改善收入的干预。",
+            "证据：Association of Wealth With Longevity in US Adults at Midlife. — https://midus.wisc.edu/findings/pdfs/2366.pdf",
+            "读者摘要：美国中年人随访发现，净资产较多与较低死亡风险相关。经济资源、健康和生活保障之间的关系往往是双向的。"
+          ],
+          "remember": "优先稳定住房、医疗可及性和基本财务保障；不能把高风险投资当健康干预。",
+          "tags": [
+            "C",
+            "上下文",
+            "贫富"
+          ],
+          "sourceUrl": "https://midus.wisc.edu/findings/pdfs/2366.pdf"
+        }
+      ]
+    },
+    {
+      "title": "上下文 · 体重",
+      "items": [
+        {
+          "id": "weight-change",
+          "title": "成年早期至中年体重变化",
+          "core": "肥胖降到超重相对持续肥胖HR0.46，数字吻合；超重降到正常相对持续超重HR1.12，CI跨1，表示未见显著差异，不能说减到正常体重无益或有害。减重发生在25岁至中年，不适用于高龄非自愿消瘦。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：肥胖→超重HR 0.46；超重→正常HR 1.12 95%CI分别0.27–0.77；0.86–1.45 分别vs持续肥胖、持续超重",
+            "人群：NHANES 24,205名40–74岁美国成年人；回忆25岁和基线前10年体重；随访10.7年，5846死亡",
+            "设计：回顾体重史与前瞻性死亡链接的观察研究",
+            "局限：肥胖→超重仅214人；非随机干预；不能证明54%为主动减重的因果收益。",
+            "证据：Association of Weight Loss Between Early Adulthood and Midlife With All-Cause Mortality Risk in the US. — https://pmc.ncbi.nlm.nih.gov/articles/PMC7428805/",
+            "读者摘要：美国随访发现，从成年早期到中年由肥胖降至超重的人，比持续肥胖者死亡风险低。"
+          ],
+          "remember": "肥胖者与医护制定长期体重和肌力管理；老年、孕期或非自愿消瘦者不照搬减重结论。",
+          "tags": [
+            "C",
+            "上下文",
+            "体重"
+          ],
+          "sourceUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7428805/"
+        },
+        {
+          "id": "waist-circumference",
+          "title": "腰围与腹型肥胖",
+          "core": "成人前瞻性队列汇总发现，腰围每增加10 cm，与全因死亡风险约高11%相关。考虑BMI后，腹部脂肪指标仍有额外的风险信息。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：HR 1.11 / 腰围每增加10 cm 95%CI 1.08–1.13 腰围每增加10 cm；比较不同腰围的成年人",
+            "人群：综述共72项前瞻性队列、2,528,297人；腰围分析含50项研究",
+            "设计：前瞻性队列的系统综述与剂量反应荟萃分析",
+            "局限：研究间异质性较高；腰围测量方法、基础疾病和生活方式不同。腰围是风险指标，不是直接测得的内脏脂肪量；本次结论不设统一减重目标。",
+            "证据：Central fatness and risk of all cause mortality: systematic review and dose-response meta-analysis of 72 prospective cohort studies. — https://www.bmj.com/content/370/bmj.m3324",
+            "读者摘要：体重之外，腰围也值得留意。多项长期研究发现，腰围越大，全因死亡风险往往越高；只看体重可能漏掉腹部脂肪带来的风险。"
+          ],
+          "remember": "体重之外，也留意腰围的长期变化；腹部脂肪增加时，结合饮食、运动和健康评估逐步改善。",
+          "tags": [
+            "B",
+            "上下文",
+            "体重"
+          ],
+          "sourceUrl": "https://www.bmj.com/content/370/bmj.m3324"
+        }
+      ]
+    },
+    {
+      "title": "上下文 · 新冠",
+      "items": [
+        {
+          "id": "covid-pandemic",
+          "title": "新冠疫情与全因超额死亡",
+          "core": "原论文支持疫情第一波的全因超额死亡，但其21国是欧洲19国加澳大利亚、新西兰，不含美国。不能支持原库“美国新冠死亡率1.5%”或“人均预期寿命减少2年”；前者还缺时间、分母及病例/感染死亡率定义。疫情超额死亡也包含医疗中断等间接作用。",
+          "body": [
+            "判定：需纠正",
+            "效应量：2020年2月中旬至5月底21国超额死亡206,000人；非个体HR 95%贝叶斯可信区间178,100–231,000；非95%CI 实际全因死亡 vs 无疫情反事实模型预测",
+            "人群：21个工业化国家全国死亡登记，2020年第一波；不含美国",
+            "设计：16个贝叶斯模型集合的人群时间序列/生态研究",
+            "局限：反事实模型和登记延迟；2020情境不能外推当前变异株、免疫和医疗条件；CDC原链接为通用死亡资料入口，不直接支持原数字。",
+            "证据：Magnitude, demographics and dynamics of the effect of the first wave of the COVID-19 pandemic on all-cause mortality in 21 industrialized countries. — https://www.nature.com/articles/s41591-020-1112-0.pdf",
+            "读者摘要：多国死亡登记显示，新冠疫情第一波期间出现明显超额死亡，既包括感染，也可能包括医疗中断等间接影响。这反映的是当时的疫情环境。"
+          ],
+          "remember": "降低感染暴露、保证基础病与及时医疗管理；具体防护和治疗按当前适用指南，不用2020固定百分比估计个人风险。",
+          "tags": [
+            "D",
+            "上下文",
+            "新冠"
+          ],
+          "sourceUrl": "https://www.nature.com/articles/s41591-020-1112-0.pdf"
+        }
+      ]
+    },
+    {
+      "title": "上下文 · 睡眠",
+      "items": [
+        {
+          "id": "obstructive-sleep-apnoea",
+          "title": "阻塞性睡眠呼吸暂停",
+          "core": "前瞻性观察研究汇总中，重度阻塞性睡眠呼吸暂停与更高全因死亡风险相关。2025年治疗综述中，气道正压治疗的随机试验汇总未显示明确的ACM降低，非随机研究则观察到较低风险。",
+          "body": [
+            "判定：支持但需限定",
+            "效应量：重度 vs 无睡眠呼吸暂停：HR 1.90 95%CI 1.29–2.81 重度阻塞性睡眠呼吸暂停 vs 无该病；不是治疗 vs 不治疗",
+            "人群：风险综述共6项前瞻性观察研究、11,932人；按呼吸暂停严重度分组",
+            "设计：前瞻性观察研究的荟萃分析；另参考气道正压治疗的综合研究",
+            "局限：基础疾病和治疗选择可能影响结果；治疗综述混合随机和非随机研究，不能把综合结果都视为随机试验证据。打鼾本身不等于确诊。",
+            "证据：Is obstructive sleep apnea associated with cardiovascular and all-cause mortality? — https://pubmed.ncbi.nlm.nih.gov/23936014/",
+            "证据：Positive airway pressure therapy and all-cause and cardiovascular mortality in people with obstructive sleep apnoea: a systematic review and meta-analysis of randomised controlled trials and confounder-adjusted, non-randomised controlled studies. — https://pubmed.ncbi.nlm.nih.gov/40118084/",
+            "证据：Sleep Apnea — Symptoms (NHLBI, NIH) — https://www.nhlbi.nih.gov/health/sleep-apnea/symptoms",
+            "读者摘要：睡得久，也可能没睡好。严重的睡眠呼吸暂停与更高死亡风险相关，长期打鼾、憋气和白天困倦值得查清原因。"
+          ],
+          "remember": "长期大声打鼾、睡中憋气或白天总犯困时，做睡眠评估；确诊后与医生选择治疗。",
+          "tags": [
+            "B",
+            "上下文",
+            "睡眠"
+          ],
+          "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/23936014/"
+        }
+      ]
+    }
+  ]
+}
