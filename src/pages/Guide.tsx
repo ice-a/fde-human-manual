@@ -1,19 +1,20 @@
 import { PrincipleCard } from '../components/PrincipleCard'
-import { guides } from '../data/guides'
+import { useLocale } from '../context/LocaleContext'
 
 export function Guide({ slug }: { slug?: string }) {
-  const guide = guides.find((item) => item.slug === slug)
+  const { t, content } = useLocale()
+  const guide = content.guides.find((item) => item.slug === slug)
 
   if (!guide) {
     return (
       <section className="about-hero">
         <div className="wrap">
-          <p className="eyebrow">404 · NOT FOUND</p>
-          <h1>这一册还没有写</h1>
-          <p className="about-hero__lead">目录里没有找到对应的指南。</p>
+          <p className="eyebrow">{t('guide.missing.eyebrow')}</p>
+          <h1>{t('guide.missing.title')}</h1>
+          <p className="about-hero__lead">{t('guide.missing.desc')}</p>
           <p style={{ marginTop: 28 }}>
             <a className="btn" href="#/">
-              返回目录 <span className="btn__arrow" aria-hidden="true">→</span>
+              {t('guide.missing.cta')} <span className="btn__arrow" aria-hidden="true">→</span>
             </a>
           </p>
         </div>
@@ -30,7 +31,7 @@ export function Guide({ slug }: { slug?: string }) {
       <section className="detail-head">
         <div className="wrap">
           <a className="back-link" href="#/">
-            ← 返回目录
+            {t('guide.back')}
           </a>
           <div className="detail-head__row">
             <div>
@@ -41,7 +42,7 @@ export function Guide({ slug }: { slug?: string }) {
             </div>
             <div className="detail-head__stamp">
               <strong>{String(guide.principles.length).padStart(2, '0')}</strong>
-              条原则
+              {t('guide.stamp')}
             </div>
           </div>
           <p className="detail-desc">{guide.longDesc}</p>
@@ -49,8 +50,8 @@ export function Guide({ slug }: { slug?: string }) {
       </section>
 
       <div className="wrap detail-layout">
-        <aside className="detail-index" aria-label="本册目录">
-          <p className="detail-index__title">INDEX / 目录</p>
+        <aside className="detail-index" aria-label={t('guide.index')}>
+          <p className="detail-index__title">{t('guide.index')}</p>
           <nav>
             {guide.principles.map((principle, index) => (
               <a
@@ -75,14 +76,15 @@ export function Guide({ slug }: { slug?: string }) {
               principle={principle}
               index={index}
               slug={guide.slug}
+              rememberLabel={t('principle.remember')}
             />
           ))}
 
           <div className="source-note">
-            本册内容整理自 <strong>{guide.sourceName}</strong>。原文持续更新，条目可能与原文存在差异；
-            涉及健康、法律、投资的具体决定，请以原文和专业意见为准。{' '}
+            {t('guide.source.prefix')} <strong>{guide.sourceName}</strong>
+            {t('guide.source.suffix')}{' '}
             <a href={guide.sourceUrl} target="_blank" rel="noreferrer">
-              查看原始项目 ↗
+              {t('guide.source.link')}
             </a>
           </div>
         </div>

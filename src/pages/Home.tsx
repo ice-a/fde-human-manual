@@ -1,27 +1,15 @@
 import { GuideCard } from '../components/GuideCard'
 import { Hitokoto } from '../components/Hitokoto'
-import { guides, totalPrinciples } from '../data/guides'
-import { site } from '../data/references'
-
-const steps = [
-  {
-    no: '01',
-    title: '先看目录',
-    text: '八册指南按主题分开，每册都是独立入口。先找到你现在真正关心的那一本，不必从头读到尾。',
-  },
-  {
-    no: '02',
-    title: '再找条目',
-    text: '每条原则都有核心判断、具体做法和一句可记住的话。用目录快速跳转，当作工具书来查。',
-  },
-  {
-    no: '03',
-    title: '去做一件',
-    text: '挑一条今天就能执行的最小动作。做完再回来看下一条，指南的价值只在被用起来的时候才成立。',
-  },
-]
-
+import { useLocale } from '../context/LocaleContext'
+import { totalPrinciples } from '../data/guides'
 export function Home() {
+  const { t, content, locale } = useLocale()
+  const steps = [
+    { no: t('how.step1.no'), title: t('how.step1.title'), text: t('how.step1.text') },
+    { no: t('how.step2.no'), title: t('how.step2.title'), text: t('how.step2.text') },
+    { no: t('how.step3.no'), title: t('how.step3.title'), text: t('how.step3.text') },
+  ]
+
   const scrollToCatalog = () => {
     document.getElementById('catalog')?.scrollIntoView({ behavior: 'smooth' })
   }
@@ -31,28 +19,29 @@ export function Home() {
       <section className="hero">
         <div className="wrap hero-grid">
           <div>
-            <div className="eyebrow enter enter--1">OPEN SOURCE · LIFE INDEX</div>
-            <h1 className="enter enter--2">
-              人间<span className="accent">使用</span>手册
+            <div className="eyebrow enter enter--1">{t('hero.eyebrow')}</div>
+            <h1 className={`enter enter--2${locale === 'en' ? ' is-latin' : ''}`}>
+              {content.site.name.slice(0, 2)}
+              <span className="accent">{content.site.name.slice(2, 4)}</span>
+              {content.site.name.slice(4)}
             </h1>
-            <p className="hero__sub enter enter--2">THE HUMAN MANUAL — VOL. 01 / 08</p>
-            <p className="hero__slogan enter enter--3">{site.slogan}</p>
-            <p className="hero__desc enter enter--3">
-              {site.sub} 把散落在开源社区里的防骗、健康、人际、金钱与成长经验，
-              整理成一套格式统一、随时可查的条目。不是成功学，是一份能翻的手册。
+            <p className="hero__sub enter enter--2">
+              {content.site.en} — VOL. 01 / 08
             </p>
+            <p className="hero__slogan enter enter--3">{content.site.slogan}</p>
+            <p className="hero__desc enter enter--3">{content.site.sub} {t('hero.desc')}</p>
             <div className="hero__actions enter enter--3">
               <button type="button" className="btn" onClick={scrollToCatalog}>
-                浏览八册指南 <span className="btn__arrow" aria-hidden="true">→</span>
+                {t('hero.cta.primary')} <span className="btn__arrow" aria-hidden="true">→</span>
               </button>
               <a className="btn btn--ghost" href="#/about">
-                这本手册从哪来
+                {t('hero.cta.secondary')}
               </a>
             </div>
             <div className="hero__meta enter enter--4">
-              <span><strong>08</strong> 册指南</span>
-              <span><strong>{totalPrinciples}</strong> 条原则</span>
-              <span><strong>100%</strong> 开源可部署</span>
+              <span><strong>08</strong> {t('hero.meta.volumes')}</span>
+              <span><strong>{totalPrinciples}</strong> {t('hero.meta.principles')}</span>
+              <span><strong>100%</strong> {t('hero.meta.opensource')}</span>
             </div>
           </div>
 
@@ -66,16 +55,13 @@ export function Home() {
         <div className="wrap">
           <div className="section-head">
             <div className="section-head__title">
-              <h2>八册指南</h2>
+              <h2>{t('catalog.title')}</h2>
             </div>
-            <span className="section-head__en">THE EIGHT VOLUMES</span>
+            <span className="section-head__en">{t('catalog.en')}</span>
           </div>
-          <p className="section-lead">
-            每一册对应一份开源指南，条目统一写成「一句判断 + 具体做法 + 一句记住」。
-            点开任意一册，即可按目录查阅。
-          </p>
+          <p className="section-lead">{t('catalog.lead')}</p>
           <div className="guide-grid">
-            {guides.map((guide) => (
+            {content.guides.map((guide) => (
               <GuideCard key={guide.slug} guide={guide} />
             ))}
           </div>
@@ -86,14 +72,14 @@ export function Home() {
         <div className="wrap">
           <div className="section-head">
             <div className="section-head__title">
-              <h2>怎么用</h2>
+              <h2>{t('how.title')}</h2>
             </div>
-            <span className="section-head__en">HOW TO USE</span>
+            <span className="section-head__en">{t('how.en')}</span>
           </div>
           <div className="steps">
             {steps.map((step) => (
               <div className="step" key={step.no}>
-                <div className="step__no">{step.no} / 03</div>
+                <div className="step__no">{step.no}</div>
                 <h3>{step.title}</h3>
                 <p>{step.text}</p>
               </div>
@@ -104,14 +90,10 @@ export function Home() {
 
       <section className="closing">
         <div className="wrap">
-          <p className="closing__eyebrow">A NOTE FROM THE EDITOR</p>
-          <p className="closing__line">
-            没有一种活法适用于所有人。
-            <br />
-            但有人把坑标了出来，你就不必再踩一遍。
-          </p>
+          <p className="closing__eyebrow">{t('closing1.eyebrow')}</p>
+          <p className="closing__line">{t('closing1.line')}</p>
           <a className="closing__link" href="#/about">
-            看看这些指南从哪里来 <span aria-hidden="true">→</span>
+            {t('closing1.link')} <span aria-hidden="true">→</span>
           </a>
         </div>
       </section>

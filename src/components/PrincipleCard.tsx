@@ -1,13 +1,15 @@
-import type { Principle } from '../data/guides'
+import type { PrincipleText } from '../data/i18n'
 
 export function PrincipleCard({
   principle,
   index,
   slug,
+  rememberLabel,
 }: {
-  principle: Principle
+  principle: PrincipleText
   index: number
   slug: string
+  rememberLabel: string
 }) {
   const no = String(index + 1).padStart(2, '0')
 
@@ -22,7 +24,9 @@ export function PrincipleCard({
             <li key={i}>{action}</li>
           ))}
         </ul>
-        <div className="principle__remember">记住：{principle.remember}</div>
+        <div className="principle__remember">
+          {rememberLabel}{principle.remember}
+        </div>
         <div className="principle__tags">
           {principle.tags.map((tag) => (
             <span className="tag" key={tag}>

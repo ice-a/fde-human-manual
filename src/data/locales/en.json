@@ -1,0 +1,965 @@
+{
+  "site": {
+    "name": "The Human Manual",
+    "slogan": "Live more clearly and step into fewer traps.",
+    "sub": "Eight open source guides and a life index."
+  },
+  "ui": {
+    "nav.guide": "Guide",
+    "nav.about": "About",
+    "hero.eyebrow": "OPEN SOURCE · LIFE INDEX",
+    "hero.desc": "Eight open source guides, an index of life. Organize the anti-fraud, health, interpersonal, money and growth experiences scattered in the open source community into a set of items with a unified format that can be checked at any time. It's not a success study, it's a manual that can be read.",
+    "hero.cta.primary": "Browse the eight-volume guide",
+    "hero.cta.secondary": "Where does this manual come from",
+    "hero.meta.volumes": "Volume guide",
+    "hero.meta.principles": "Principles",
+    "principle.remember": "Remember: ",
+    "hero.meta.opensource": "Open source deployable",
+    "quote.tab": "One word · HITOKOTO",
+    "quote.label": "DAILY WORD · One sentence per day",
+    "quote.refresh": "Change a sentence",
+    "catalog.title": "Eight-volume guide",
+    "catalog.en": "THE EIGHT VOLUMES",
+    "catalog.lead": "Each volume corresponds to an open source guide, and the entries are uniformly written as \"one sentence of judgment + specific practice + one sentence to remember\". Click on any volume to browse by table of contents.",
+    "card.principles": "Principles",
+    "how.title": "How to use",
+    "how.en": "HOW TO USE",
+    "how.step1.no": "01 / 03",
+    "how.step1.title": "Look at the table of contents first",
+    "principle.remember": "Remember:",
+    "how.step1.text": "The eight-volume guide is separated by theme, and each volume is an independent entrance. Find the one you really care about now, without reading it from cover to cover.",
+    "how.step2.no": "02 / 03",
+    "how.step2.title": "Find another entry",
+    "how.step2.text": "Each principle has a core judgment, specific practices and a memorable sentence. Use the table of contents to jump quickly and use it as a reference book to check.",
+    "how.step3.no": "03 / 03",
+    "how.step3.title": "Do one",
+    "how.step3.text": "Pick one smallest action you can do today. Come back to the next item after you finish. The value of the guide only exists when it is used.",
+    "closing1.eyebrow": "A NOTE FROM THE EDITOR",
+    "closing1.line": "There is no one way to live that works for everyone.\nBut someone has marked the pitfalls, so you don’t have to step on them again.",
+    "closing1.link": "Look where these guides come from",
+    "guide.back": "← Return to Table of Contents",
+    "guide.stamp": "Principles",
+    "guide.index": "INDEX / Table of Contents",
+    "guide.source.prefix": "The contents of this volume are compiled from",
+    "guide.source.suffix": ". The original text is continuously updated, and the entries may be different from the original text; for specific decisions involving health, law, and investment, please refer to the original text and professional opinions.",
+    "guide.source.link": "View original project ↗",
+    "guide.missing.eyebrow": "404 · NOT FOUND",
+    "guide.missing.title": "This volume has not been written yet",
+    "guide.missing.desc": "The corresponding guide was not found in the catalog.",
+    "guide.missing.cta": "Return to Table of Contents",
+    "about.eyebrow": "ABOUT THIS MANUAL",
+    "about.title": "About this Manual",
+    "about.lead": "This is an index, not an original theory of life. It compresses the most reusable parts of the eight open source guides into entries and arranges them in the same format, making it easy to check at any time, modify them at will, and deploy them to your own domain name.",
+    "about.why.title": "Why",
+    "about.why.en": "WHY IT EXISTS",
+    "about.why1.no": "01 / Why",
+    "about.why1.title": "Good guides are too scattered",
+    "about.why1.text": "These projects are well written, but scattered in different repositories and sites. When you want to check something, you often have to think about \"where should I look for it?\"",
+    "about.why2.no": "02 / How to do it",
+    "about.why2.title": "Unify the format first",
+    "about.why2.text": "press different writing methods into the same set: one sentence of judgment, specific method, one sentence to remember, and several labels. The format is consistent and the review speed is faster.",
+    "about.why3.no": "03 / Boundary",
+    "about.why3.title": "The index is not the original text",
+    "about.why3.text": "This is a secondary arrangement after compression and does not replace the original item. An entry to the original text is left at the end of each volume, allowing you to return to the source in case of disputes.",
+    "about.sources.title": "Eight guides for reference",
+    "about.sources.en": "THE SOURCES",
+    "about.sources.lead": "All content is compiled from the following open source projects. Copyright and permission belong to the respective authors and are summarized and indexed here only.",
+    "about.deploy.title": "Deploy to your own site",
+    "about.deploy.en": "DEPLOY ANYWHERE",
+    "about.deploy.lead": "Purely static site, the build product only has the dist directory. Use relative paths and hash routing, so it can be opened normally in the root directory or project subdirectory.",
+    "about.deploy.vercel.0": "Fork this repository to your own GitHub account.",
+    "about.deploy.vercel.1": "Select Add New → Project in Vercel to import the warehouse.",
+    "about.deploy.vercel.2": "Framework selects Vite; the build command is npm run build, and the output directory is dist.",
+    "about.deploy.vercel.3": "Click Deploy. Each subsequent push will automatically republish.",
+    "about.deploy.cloudflare.0": "Fork this repository.",
+    "about.deploy.cloudflare.1": "Go to Workers & Pages → Create → Pages → Connect to Git.",
+    "about.deploy.cloudflare.2": "For the build command, fill in npm run build, and for the output directory, fill in dist.",
+    "about.deploy.cloudflare.3": "Save and deploy; _redirects of the warehouse root directory are included with the build product.",
+    "about.deploy.github.0": "Fork this repository and go to Settings → Pages.",
+    "about.deploy.github.1": "Source Select GitHub Actions.",
+    "about.deploy.github.2": "The warehouse already comes with .github/workflows/deploy.yml, so there is no need to create another file.",
+    "about.deploy.github.3": "Push once and publish to https://<username>.github.io/<repository-name>/.",
+    "about.notice": "If you want to change it to your own brand: Just change the site object (site name, slogan, warehouse address) in src/data/references.ts, and the entries in src/data/guides.ts. The navigation, footer, and homepage title will all change automatically.",
+    "closing2.eyebrow": "THE END OF THE MANUAL",
+    "closing2.line": "The human manual will not make decisions for you.\nIt just makes it easier to find relevant information when you need to make a decision.",
+    "closing2.link": "Back to directory",
+    "footer.catalog": "Guide directory",
+    "footer.about": "About and deployment",
+    "footer.github": "GITHUB source code ↗",
+    "footer.credit": "The content is compiled from the open source community, for learning reference only",
+    "footer.tagline": "MADE FOR A CLEARER LIFE",
+    "lang.label": "Language"
+  },
+  "guides": [
+    {
+      "name": "Anti-fraud and information security",
+      "en": "Avoiding Scams",
+      "desc": "Identify the routine first, and then talk about prevention. Break the scam down into verifiable steps rather than relying on memory to avoid pitfalls.",
+      "longDesc": "Compiled from \"Guide to Prevent Fraud in the World\". The core method is not to read through all cases, but to search and verify first when encountering suspicious scenes. The following items are extracted in a unified format of \"Judgment → Routine → Action → Emergency\", covering high-frequency scams and account security.",
+      "sourceName": "Guide to Preventing Fraud",
+      "principles": [
+        {
+          "title": "Search first, then transfer",
+          "core": "What scams scare is not smart people, but people who are willing to spend three minutes to verify.",
+          "actions": [
+            "Search the link, number, and company name given by the other party separately",
+            "Change another channel to confirm with the person involved",
+            "Any countdown that is \"no waiting after expiration\" will be treated as a scam by default"
+          ],
+          "remember": "Slow down by three minutes, and you may save three years.",
+          "tags": [
+            "General",
+            "Verification"
+          ]
+        },
+        {
+          "title": "First question: What are you talking about?",
+          "core": "Understand where the money comes from, and then you can understand where the routine is going.",
+          "actions": [
+            "Ask yourself what the other party is after: money, account number, personal information or traffic",
+            "Anyone who offers sweeteners first and then invests money should be treated as bait",
+            "Pay attention to whether you fall into the high-victim group labels: students, mothers, elderly, job seekers"
+          ],
+          "remember": "Look for the chain of interests first, and then look at the words.",
+          "tags": [
+            "Identification",
+            "Routines"
+          ]
+        },
+        {
+          "title": "Part-time job for brushing orders: Those who pay first will not do it",
+          "core": "Regular part-time job will not let you advance money first.",
+          "actions": [
+            "Reject any prepayment request for \"commissions for completing tasks\"",
+            "Small rebates are the hook, large investments are the knife",
+            "Keep chat and transfer records, and call the police immediately if any abnormalities are found"
+          ],
+          "remember": "If you want to advance funds, be a liar first.",
+          "tags": [
+            "Part-time order brushing",
+            "High frequency"
+          ]
+        },
+        {
+          "title": "Pretend to be a public prosecutor: hang up and call back yourself",
+          "core": "A real case handler will not ask you to transfer money over the phone.",
+          "actions": [
+            "Do not continue the conversation during the incoming call. After hanging up, call the official number to verify",
+            "Do not download the conference or remote control software specified by the other party",
+            "\"Secure account\", \"Capital verification\" and \"Confidentiality\" are dangerous words"
+          ],
+          "remember": "The public security organs do not handle cases over the phone, and there are no safe accounts.",
+          "tags": [
+            "Impersonation",
+            "High risk"
+          ]
+        },
+        {
+          "title": "Account and privacy: guard the entrance",
+          "core": "The lowest-cost attack path is to get your account directly.",
+          "actions": [
+            "Do not share passwords across different platforms, turn on two-factor verification",
+            "Do not enter verification codes on unfamiliar links",
+            "Stop showing your ID, tickets and real-time location on social platforms"
+          ],
+          "remember": "Verification codes are the last door and will not be given to anyone who asks.",
+          "tags": [
+            "Account",
+            "Privacy"
+          ]
+        },
+        {
+          "title": "Investment and virtual currency: Check the subject first, then talk about income",
+          "core": "The high-yield narrative is the most common shell of a scam.",
+          "actions": [
+            "Check the platform license and operating entity, do not open an account through a private chat link",
+            "\"Sure profit\", \"Insider\" and \"Bringing orders\" are red line words",
+            "Stop adding funds immediately when withdrawals are blocked"
+          ],
+          "remember": "A project that you don't understand is a project that you will not invest in.",
+          "tags": [
+            "Investment",
+            "Virtual Currency"
+          ]
+        },
+        {
+          "title": "After being defrauded: stopping losses takes precedence over pursuing liability",
+          "core": "The first thing to do is to freeze funds and fix evidence.",
+          "actions": [
+            "Contact the bank or payment platform immediately to report the loss and stop the payment",
+            "Save the chat, link, transfer voucher and call the police",
+            "Don't believe in the secondary harvest of \"paying to help you recover\""
+          ],
+          "remember": "Stop the bleeding first, and then settle the account.",
+          "tags": [
+            "Emergency",
+            "Self-rescue"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cost-effective life",
+      "en": "Living Better",
+      "desc": "Use the least money, time and energy in exchange for life, money, time and personal freedom.",
+      "longDesc": "Compiled from \"Cost-Effective Life Guide\". It is a backlist, not a to-do list. The entries adopt the \"cost-benefit-evidence\" caliber: settle the accounts first, and then decide whether it is worth doing.",
+      "sourceName": "Cost-effective life guide",
+      "principles": [
+        {
+          "title": "Calculate accounts using cost-benefit",
+          "core": "Whether a piece of advice is worth it depends on what it costs and what it gets in return.",
+          "actions": [
+            "Write down the direct cost, time cost and opportunity cost",
+            "Estimate whether the benefit is saving money, time or risk",
+            "If the cost is clear but the benefit is vague, try it on a small scale first"
+          ],
+          "remember": "Calculate the calculation first, and then make a move.",
+          "tags": [
+            "Decision-making",
+            "Methods"
+          ]
+        },
+        {
+          "title": "Prioritize plugging the loophole of \"Don't die early\"",
+          "core": "The greatest cost-effectiveness is not to sacrifice lifespan and freedom.",
+          "actions": [
+            "Do not drink and drive, do not stay up late and overdraft, and do not participate in high-risk speculation",
+            "Regular physical examinations and deal with known abnormal indicators",
+            "Stand-up first aid and medication knowledge"
+          ],
+          "remember": "Life-saving matters have the highest priority.",
+          "tags": [
+            "Health",
+            "Bottom line"
+          ]
+        },
+        {
+          "title": "A negative list is more effective than a positive list",
+          "core": "Knowing what not to do is often more cost-effective than knowing what to do.",
+          "actions": [
+            "Make your own \"Never List\": don't borrow money to spend, don't pay for face",
+            "Review the pitfalls you have stepped on once every quarter",
+            "Write the pitfalls into searchable items, rather than one-time regrets"
+          ],
+          "remember": "Make one less mistake, equal to one more profit.",
+          "tags": [
+            "Consideration list",
+            "Review"
+          ]
+        },
+        {
+          "title": "Mark the level of evidence for suggestions",
+          "core": "Not all suggestions are equally worthy of trust.",
+          "actions": [
+            "Distinguish between research conclusions, institutional regulations and personal experience",
+            "Pay attention to sample size, effect size and whether there are controls",
+            "Write controversies and exceptions into notes instead of omitting them"
+          ],
+          "remember": "After grading, you will not be taken away by a \"supposedly\".",
+          "tags": [
+            "Evidence",
+            "Judgment"
+          ]
+        },
+        {
+          "title": "Preserve cash flow and health first when you have no money",
+          "core": "The most expensive decision during the trough is to borrow money for the sake of face.",
+          "actions": [
+            "Calculate the minimum cost of survival first and cut off non-essential expenses",
+            "Keep the skills and time that can bring cash",
+            "Don't use high-interest debt to solve temporary gaps"
+          ],
+          "remember": "Only when you have cash in your hand can you have a choice in your heart.",
+          "tags": [
+            "Trough",
+            "Money"
+          ]
+        },
+        {
+          "title": "Know the legal red lines in advance",
+          "core": "There is a price, just step on it once.",
+          "actions": [
+            "Clear the basic rights and obligations in labor, renting, and borrowing",
+            "Read the terms before signing, especially liquidated damages and automatic renewal",
+            "If you are unsure, check the terms before taking action"
+          ],
+          "remember": "Ignorance of the law is not a reason for exemption.",
+          "tags": [
+            "Laws",
+            "Boundaries"
+          ]
+        },
+        {
+          "title": "Be a backup list, not a task list",
+          "core": "Guidelines are toolboxes, not checklists.",
+          "actions": [
+            "Only choose one or two of the most relevant ones to try",
+            "Record the real feedback after trying",
+            "Change if it doesn't work, don't blame yourself"
+          ],
+          "remember": "The one that suits you is the best value for money.",
+          "tags": [
+            "How to use",
+            "Mindset"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Human wisdom",
+      "en": "Getting Along",
+      "desc": "From campus to workplace, the methods of getting along are written down into judgments and words that can be used directly.",
+      "longDesc": "Compiled from \"Guide to Human Relations and Sophistication\". It is all marked as empirical suggestions, distinguishing between research background, institutional regulations and personal experience. The entries here retain their structure of \"Key points of judgment → Specific practices → Examples of speaking skills → Exceptions\".",
+      "sourceName": "A Guide to Human Relations",
+      "principles": [
+        {
+          "title": "Look at the relationship first, then talk about the truth",
+          "core": "The same sentence has completely different effects in different relationships.",
+          "actions": [
+            "Determine whether the two parties are cooperative, competitive, or purely social",
+            "Confirm each other's obligation boundaries and expectations",
+            "When unsure, ask first: \"What do you need me to do now?\""
+          ],
+          "remember": "If the relationship is right, the words are right.",
+          "tags": [
+            "Judgment",
+            "Boundaries"
+          ]
+        },
+        {
+          "title": "Asking for help should be specific, and the response should be timely",
+          "core": "A vague request for help allows others to answer multiple-choice questions, while a specific request for help requires action questions.",
+          "actions": [
+            "Speak clearly what you want, why, and how much time it will take",
+            "Leave room for rejection by the other party",
+            "Clearly feedback the results afterwards and take the initiative to repay"
+          ],
+          "remember": "Others are helping you, not your ambiguity.",
+          "tags": [
+            "Ask for help",
+            "Report"
+          ]
+        },
+        {
+          "title": "At dinners and private occasions, pay attention to information and propriety",
+          "core": "You cannot take back the information you say.",
+          "actions": [
+            "Don’t disclose privacy, salary and evaluation for others",
+            "Don’t use other people’s shortcomings as a topic",
+            "Change the topic back to facts or jokes when being questioned"
+          ],
+          "remember": "Tighten your mouth, and the road will be longer.",
+          "tags": [
+            "Social",
+            "Privacy"
+          ]
+        },
+        {
+          "title": "Money is the high-voltage line of relationships",
+          "core": "The moment you borrow money, the relationship starts to count.",
+          "actions": [
+            "Write down the amount and return time for large transactions",
+            "Do not guarantee or act as a middleman",
+            "If you don’t want to borrow, just say so directly, don’t make vague promises"
+          ],
+          "remember": "Talking about money doesn't hurt feelings, only being vague does.",
+          "tags": [
+            "Money",
+            "Friends"
+          ]
+        },
+        {
+          "title": "In times of conflict, deal with emotions first, then deal with things",
+          "core": "When people are denied, they cannot listen to any reason.",
+          "actions": [
+            "Restate the other person's feelings first, and then express your own position",
+            "Replace \"you always\" with \"What happened this time\"",
+            "Allow each other to cool down if necessary"
+          ],
+          "remember": "Catch the person first, then solve the problem.",
+          "tags": [
+            "Conflict",
+            "Communication"
+          ]
+        },
+        {
+          "title": "Boundaries are the prerequisite for long-term relationships",
+          "core": "Closeness without boundaries will eventually turn into resentment.",
+          "actions": [
+            "Make it clear how far you can help",
+            "Provide alternatives to cross-border requests",
+            "Allow others to refuse, and allow yourself to refuse"
+          ],
+          "remember": "Closeness is maintained by propriety.",
+          "tags": [
+            "Boundaries",
+            "Long-term relationship"
+          ]
+        },
+        {
+          "title": "Words must be able to be used directly",
+          "core": "Good advice should be reduced to one sentence that can be spoken.",
+          "actions": [
+            "Prepare three statements: initial expression, follow-up questioning, and response and rejection.",
+            "Observe the other party’s adjustment signals",
+            "Review the actual results after speaking"
+          ],
+          "remember": "The method that can be expressed is called a method.",
+          "tags": [
+            "Words",
+            "Exercises"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Health and Life Extension",
+      "en": "Longevity",
+      "desc": "Put the research conclusions, effect size and practicality level together, and then decide whether to follow it or not.",
+      "longDesc": "Compiled from \"Programmer's Guide to Extending Life\". It is a research ledger that emphasizes that observational correlation does not equal causation, and effect sizes cannot be simply added. The entries here retain the evidence caliber of \"Conclusion → Judgment → Action\".",
+      "sourceName": "Programmer’s Guide to Extending Life",
+      "principles": [
+        {
+          "title": "Distinguish between correlation and causation",
+          "core": "\"Research says A is related to B\" does not mean that A causes B.",
+          "actions": [
+            "Look at study design, population, and sample size",
+            "Pay attention to effect sizes and confidence intervals, not just \"significant\"",
+            "Don't add up HR/RR from different studies as a definite conclusion"
+          ],
+          "remember": "Correlation is not causation, and numbers are not promises.",
+          "tags": [
+            "Evidence",
+            "Methods"
+          ]
+        },
+        {
+          "title": "Do the most certain thing first",
+          "core": "Sleep, exercise, and diet are more worthy of investing first than supplements.",
+          "actions": [
+            "Ensure regular sleep and adequate duration",
+            "Maintain a sustainable amount of exercise every week",
+            "Reduce ultra-processed foods and sugary drinks"
+          ],
+          "remember": "Supplements only make sense if the basics are done right.",
+          "tags": [
+            "Basics of Life",
+            "Priority"
+          ]
+        },
+        {
+          "title": "Diet: less processed, more natural, control the total amount",
+          "core": "Instead of chasing a certain \"superfood\", it is better to change the overall structure.",
+          "actions": [
+            "Increase fruits and vegetables, whole grains and nuts",
+            "Control red meat and sodium intake",
+            "Be skeptical of the single conclusion that \"a certain food extends life\""
+          ],
+          "remember": "Model is more important than a single product.",
+          "tags": [
+            "Diet",
+            "Evidence"
+          ]
+        },
+        {
+          "title": "Write the level of evidence next to the recommendation",
+          "core": "The credibility of the same recommendation may vary by several levels.",
+          "actions": [
+            "Mark the conclusion as supported, partially supported, or not supported",
+            "Record limitations and applicable groups",
+            "Separately look at the practical level and the strength of the evidence"
+          ],
+          "remember": "Look at the conclusion and how strong it is.",
+          "tags": [
+            "Evidence",
+            "Ledger"
+          ]
+        },
+        {
+          "title": "Don’t ignore environmental exposure",
+          "core": "Factors such as air pollution and prolonged sitting are often underestimated.",
+          "actions": [
+            "Pay attention to air quality and reduce exposure during periods of high pollution",
+            "Get up and move around for a few minutes every hour",
+            "Adjust ventilation and protection according to the actual environment"
+          ],
+          "remember": "Variables outside the body are also counted in lifespan.",
+          "tags": [
+            "Environment",
+            "Daily use"
+          ]
+        },
+        {
+          "title": "Medications and supplements: Ask about the necessity first",
+          "core": "The more supplements, the better, let alone the medicines.",
+          "actions": [
+            "Replenish when there are clear indications, such as confirmed vitamin D deficiency",
+            "Prescription drugs such as statins should be evaluated by doctors",
+            "Recheck indicators regularly, rather than adjusting based on feeling"
+          ],
+          "remember": "Diagnosis first, then intervention.",
+          "tags": [
+            "Medical",
+            "Caution"
+          ]
+        },
+        {
+          "title": "Sustainability is more important than intensity",
+          "core": "A moderate program that can last for ten years is better than an extreme program for three weeks.",
+          "actions": [
+            "Start with the smallest executable action",
+            "Record and look back at your actual data",
+            "Allow adjustments and don’t pursue perfection"
+          ],
+          "remember": "Live longer by repetition.",
+          "tags": [
+            "Execute",
+            "Long-term"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kitchen and Cooking",
+      "en": "Cooking",
+      "desc": "Replace \"appropriate amount\" with grams, and \"a little\" with a standard that can be judged.",
+      "longDesc": "Compiled from \"HowToCook\". It uses a unified template to constrain each dish: ingredients are calculated by portion, step numbers, waiting time or judgment criteria. The items here distill the methodology itself.",
+      "sourceName": "Cooking Guide",
+      "principles": [
+        {
+          "title": "Write the number of grams clearly and refuse \"appropriate amount\"",
+          "core": "The vagueness of the recipe is the starting point for the kitchen to overturn.",
+          "actions": [
+            "The raw materials are given in grams or milliliters according to the portion",
+            "The heat and time are judged as standards",
+            "The range of empirical seasonings is written, and the taste differences are noted"
+          ],
+          "remember": "If you can weigh it, don't rely on feeling.",
+          "tags": [
+            "Standardization",
+            "Recipe"
+          ]
+        },
+        {
+          "title": "Prepare the ingredients first, then start the fire",
+          "core": "Being in a hurry is probably because it was not prepared in advance.",
+          "actions": [
+            "Prepare the ingredients and tools according to the recipe",
+            "Arrange the processing sequence according to the time required",
+            "Mark the error-prone steps separately"
+          ],
+          "remember": "Prepare the ingredients in place and cook without panic.",
+          "tags": [
+            "Prepare",
+            "Process"
+          ]
+        },
+        {
+          "title": "There are basic rules for removing fishy smell and heating",
+          "core": "Most problems in the kitchen can be attributed to temperature and moisture.",
+          "actions": [
+            "Blanch or pickle the meat according to the recommended method to remove the fishy smell",
+            "Distinguish the applicable ingredients for steaming, boiling, stir-frying, and frying",
+            "Wait for the time given in the step or clear judgment criteria"
+          ],
+          "remember": "Control the fire, and control half of it.",
+          "tags": [
+            "Tips",
+            "Heat"
+          ]
+        },
+        {
+          "title": "Food safety cannot depend on luck",
+          "core": "Just because the taste is not bad, it does not mean it is edible.",
+          "actions": [
+            "Separate raw and cooked food",
+            "The storage temperature and duration are given according to the ingredients",
+            "Discard the ingredients that you are not sure about"
+          ],
+          "remember": "If you are not sure, throw them away.",
+          "tags": [
+            "Safety",
+            "Hygiene"
+          ]
+        },
+        {
+          "title": "The difficulty and calories are written into the recipe",
+          "core": "Before choosing a dish, look at the difficulty and cost.",
+          "actions": [
+            "Give each dish a difficulty star rating and estimated time",
+            "Mark the main nutritional ingredients",
+            "Start with low-difficulty, high-frequency dishes"
+          ],
+          "remember": "It is more important to make it well than to make it amazing.",
+          "tags": [
+            "Choose",
+            "Getting Started"
+          ]
+        },
+        {
+          "title": "Check the tool list in advance",
+          "core": "If one tool is missing, the entire dish may come to a standstill.",
+          "actions": [
+            "List the necessary tools before starting",
+            "Distinguish between necessary and optional",
+            "Newbies must first prepare the basic tools"
+          ],
+          "remember": "If you want to do your job well, you must first list the tools.",
+          "tags": [
+            "Tools",
+            "Prepare"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Introduction to Investment",
+      "en": "Investing",
+      "desc": "Does not give the answer to \"what to buy\", but only teaches concepts, risk boundaries and check items before placing an order.",
+      "longDesc": "Compiled from \"investing-for-beginners\". It uses a word library to cover US stocks, options and cryptocurrencies, emphasizing risk boundaries and interest disclosure. The items here are extracted in a unified format of \"Concept → Risk → Check Items\".",
+      "sourceName": "Investment Guide",
+      "principles": [
+        {
+          "title": "Understand the concept first, then place an order",
+          "core": "The most expensive tuition fee with zero foundation is to buy it if you don’t understand it.",
+          "actions": [
+            "Start by reading basic terms before and after the market, order types, financial report valuations, etc.",
+            "Understand the trading mechanism before touching derivatives",
+            "Use the glossary to check back at any time, don't rely on memory"
+          ],
+          "remember": "Don't press the code you can't understand.",
+          "tags": [
+            "Getting Started",
+            "Concept"
+          ]
+        },
+        {
+          "title": "The risk boundary is written first",
+          "core": "First calculate the maximum loss, and then think about how much you can earn.",
+          "actions": [
+            "Clear the maximum loss, position and exit conditions before placing an order",
+            "The upper limit of option losses can be roughly calculated based on \"Price Difference × Quantity\"",
+            "No need to participate with funds necessary for daily life"
+          ],
+          "remember": "Think of losing first, then making profit.",
+          "tags": [
+            "Risk",
+            "Position"
+          ]
+        },
+        {
+          "title": "Leverage and Liquidation: Don’t regard luck as ability",
+          "core": "Leverage magnifies fluctuations, not winning rate.",
+          "actions": [
+            "Understand the margin, liquidation and margin call mechanisms",
+            "Crypto contracts pay special attention to high volatility and high leverage combinations",
+            "Set the maximum tolerable drawdown and strictly implement it"
+          ],
+          "remember": "It only takes one time to liquidate your position.",
+          "tags": [
+            "Leverage",
+            "Encryption"
+          ]
+        },
+        {
+          "title": "Private keys and authorization: the bottom line of asset security",
+          "core": "On the chain, if you lose your private key, no one can help you retrieve it.",
+          "actions": [
+            "Save the mnemonic phrase offline and never take screenshots or send it to others",
+            "Check the contract address and limit before authorization",
+            "Revoke unnecessary authorizations regularly"
+          ],
+          "remember": "If it is not your private key, it is not your currency.",
+          "tags": [
+            "Encryption",
+            "Safety"
+          ]
+        },
+        {
+          "title": "Be wary of placing orders and \"guaranteed profits\"",
+          "core": "People who can really make guaranteed profits will not make money by recruiting you into a group.",
+          "actions": [
+            "Remain suspicious of income promises and \"inside information\" by default",
+            "Do not open an account and deposit funds through private message links",
+            "Stop adding immediately if withdrawals are blocked"
+          ],
+          "remember": "Promise of income is a risk signal.",
+          "tags": [
+            "Anti-fraud",
+            "Risk"
+          ]
+        },
+        {
+          "title": "See clearly the benefits behind recommendations",
+          "core": "There may be rebates hidden in the recommendations.",
+          "actions": [
+            "Read the commission statement of the platform comparison table",
+            "Distinguish between factual descriptions and sales pitches",
+            "Choose tools based on your own needs, not by ranking"
+          ],
+          "remember": "See who is recommending first, and then what is recommended.",
+          "tags": [
+            "Platform",
+            "Information Disclosure"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Love and Relationships",
+      "en": "Love & Relationships",
+      "desc": "Emotions are settled first, then facts are broken down, and finally an executable next step is given.",
+      "longDesc": "Compiled from \"The Dog-Headed Military Advisor's Guide to Love\". It turns interdisciplinary knowledge into situational decision-making workflows and makes it clear that consent, exit rights and safety boundaries cannot be bypassed. Entries here retain their Judgment → Action → Observation Window structure.",
+      "sourceName": "Guide to Love",
+      "principles": [
+        {
+          "title": "Catch the person first, then deal with things",
+          "core": "When the emotions are not on the ground, any analysis is just noise.",
+          "actions": [
+            "Acknowledge the other person’s feelings first and don’t rush to judge",
+            "Write facts, speculations, and unknowns separately",
+            "Wait until the mood is stable before discussing plans"
+          ],
+          "remember": "Only when people are heard first can the conversation continue.",
+          "tags": [
+            "Communication",
+            "Emotions"
+          ]
+        },
+        {
+          "title": "Behaviors are more reliable than labels",
+          "core": "Look at what a person does, not who he says he is.",
+          "actions": [
+            "Consistency and repeatability of observed behavior",
+            "Do not cover all behaviors with one label",
+            "Allow sufficient time window for observation"
+          ],
+          "remember": "Listen to what they say, but also watch what they do.",
+          "tags": [
+            "Judgment",
+            "Observation"
+          ]
+        },
+        {
+          "title": "Consent and right to withdraw cannot be bypassed",
+          "core": "In any relationship, saying \"no\" must be safe and effective.",
+          "actions": [
+            "Clarify your boundaries and bottom line",
+            "Respect the other party's rejection and withdrawal",
+            "Be wary of pressure, guilt kidnapping and isolation"
+          ],
+          "remember": "Unwillingness is enough reason.",
+          "tags": [
+            "Boundaries",
+            "Safety"
+          ]
+        },
+        {
+          "title": "Judge benefits: reciprocity, opportunity cost, safety",
+          "core": "A good relationship should make both parties better.",
+          "actions": [
+            "See if the investment is roughly equal",
+            "Calculate what you have given up for this relationship",
+            "Take the sense of security as a hard indicator, not a bonus"
+          ],
+          "remember": "Relationships also need to settle accounts, and the calculation is long-term.",
+          "tags": [
+            "Decision-making",
+            "Reciprocity"
+          ]
+        },
+        {
+          "title": "Words are the skeleton, not lines",
+          "core": "It is better to express your own meaning clearly than to copy love words.",
+          "actions": [
+            "Use \"Feelings + Facts + Requests\" to organize expressions",
+            "Prepare observation windows and stopping conditions",
+            "Look back at the other party's true reaction after speaking"
+          ],
+          "remember": "Sincerity requires structure, not routines.",
+          "tags": [
+            "Words",
+            "Expression"
+          ]
+        },
+        {
+          "title": "Breakup and reconciliation: look at changes, not commitments",
+          "core": "The prerequisite for reconciliation is that the problem is really solved.",
+          "actions": [
+            "Make clear the reasons for separation and the unacceptable items",
+            "Observe stable changes over a period of time",
+            "Ask a trusted third party if necessary"
+          ],
+          "remember": "Reuniting is a new choice, not a return to the past.",
+          "tags": [
+            "Breakup",
+            "Recombination"
+          ]
+        },
+        {
+          "title": "The strength of evidence must be graded",
+          "core": "Psychological conclusions also have applicable conditions.",
+          "actions": [
+            "Distinguish between research conclusions, empirical suggestions and personal opinions",
+            "Do not regard a single theory as a master key",
+            "Remain ethically vigilant about manipulation techniques"
+          ],
+          "remember": "Methods are useful, but boundaries are more important.",
+          "tags": [
+            "Evidence",
+            "Ethics"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Life Advancement",
+      "en": "Starting Again",
+      "desc": "Recovery manual after failure, unemployment, and trough: write down the problem and complete a visible action.",
+      "longDesc": "Organized from \"byoungd/up\". It is not a successful learning, nor does it promise results, but a cycle of \"write down the question → complete a visible action → retest and review\". The entries here retain their restrained, small-step, repeatable expression.",
+      "sourceName": "Advanced Guide to Life",
+      "principles": [
+        {
+          "title": "Put yourself back into life first",
+          "core": "The first step when you are at a trough is not to turn over, but to return to your daily routine.",
+          "actions": [
+            "Reestablish the basic rhythm of eating, sleeping, and going out",
+            "Lower your goal to a small thing that can be accomplished today",
+            "Allow yourself to be slow"
+          ],
+          "remember": "Live the daily routine first, and then talk about the future.",
+          "tags": [
+            "Trough",
+            "Recovery"
+          ]
+        },
+        {
+          "title": "Write down the problem instead of dwelling on",
+          "core": "the vague anxiety. Write it down and it becomes a manageable problem.",
+          "actions": [
+            "Write down the current biggest problem in one sentence",
+            "List the known, unknown and verifiable things in the next step",
+            "Decompose the big problem into visible actions"
+          ],
+          "remember": "Half of the problem written out has been solved.",
+          "tags": [
+            "Methods",
+            "Review"
+          ]
+        },
+        {
+          "title": "Complete a visible action",
+          "core": "Recovery relies on action, not epiphany.",
+          "actions": [
+            "Do a small thing that can be seen every day",
+            "Record the completed fact, not the current feeling",
+            "Start from the smallest unit and accumulate"
+          ],
+          "remember": "Do one thing, count it as one.",
+          "tags": [
+            "Action",
+            "Small Steps"
+          ]
+        },
+        {
+          "title": "Use Tools to Amplify Your Abilities",
+          "core": "Don’t rely on your status, let the tools save you effort.",
+          "actions": [
+            "Hand over repetitive work to checklists, templates or software",
+            "Build a weekly review sheet",
+            "Use a 90-day action sheet to track long-term goals"
+          ],
+          "remember": "Those who know how to use tools move faster.",
+          "tags": [
+            "Tools",
+            "Efficiency"
+          ]
+        },
+        {
+          "title": "Retest periodically, do not pursue a straight rise",
+          "core": "Recovery is fluctuating, use cycles to see the trend.",
+          "actions": [
+            "Review the status and completion level at a fixed time every week",
+            "Allow to go back and adjust the next goal",
+            "Write the review into a comparable record"
+          ],
+          "remember": "Look at the trend, not a specific day.",
+          "tags": [
+            "Review",
+            "Long-term"
+          ]
+        },
+        {
+          "title": "Make it clear who is suitable and who is not suitable",
+          "core": "Any method has its applicable boundaries.",
+          "actions": [
+            "Determine which stage you are currently in",
+            "Do not regard other people's paths as the standard answer",
+            "Ask for professional help promptly"
+          ],
+          "remember": "Recognize yourself first, and then choose a method.",
+          "tags": [
+            "Applicable boundaries",
+            "Self-awareness"
+          ]
+        },
+        {
+          "title": "Getting along with yourself",
+          "core": "Long-term changes require ultimately coming to terms with one's own rhythm.",
+          "actions": [
+            "Reduce self-competition comparison",
+            "Make a proper place for rest",
+            "Treat \"good enough\" as a sustainable standard"
+          ],
+          "remember": "Side with yourself.",
+          "tags": [
+            "Mindset",
+            "Long-term"
+          ]
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Guide to Preventing Fraud",
+      "desc": "405 real scams are dismantled, classified according to routines, losses, and victim groups, with verification records and emergency procedures attached.",
+      "tag": "Anti-fraud"
+    },
+    {
+      "name": "Cost-effective life guide",
+      "desc": "772 pieces of advice with costs, benefits, and levels of evidence, covering health, money, law, and rock bottom situations.",
+      "tag": "Life"
+    },
+    {
+      "name": "A Guide to Human Relations",
+      "desc": "How to get along on campus and in the workplace, including key judgments, examples, effects and exceptions.",
+      "tag": "Interpersonal"
+    },
+    {
+      "name": "Programmer’s Guide to Extending Life",
+      "desc": "64 research records, marked with effect size, confidence interval, practical level and original literature.",
+      "tag": "Health"
+    },
+    {
+      "name": "Cooking Guide",
+      "desc": "Recipe library from a programmer's perspective: Ingredients are calculated by portion, steps are numbered, \"appropriate amount\" is disabled.",
+      "tag": "Kitchen"
+    },
+    {
+      "name": "Investment Guide",
+      "desc": "Zero-based investment entry database, covering US stocks, options, and cryptocurrencies, emphasizing risk boundaries and check items.",
+      "tag": "Money"
+    },
+    {
+      "name": "Guide to Love",
+      "desc": "Full-cycle relationship decision-making workflow, emphasizing consent and withdrawal rights, behavioral observation and evidence strength grading.",
+      "tag": "Relationship"
+    },
+    {
+      "name": "Advanced Guide to Life",
+      "desc": "Facing the recovery after failure and trough, use the \"write down the problem - visible action - retest\" cycle to advance.",
+      "tag": "Growth"
+    }
+  ]
+}

@@ -1,9 +1,11 @@
 import { useCallback, useEffect, useRef, useState } from 'react'
 import { fallbackQuotes, type Quote } from '../data/quotes'
+import { useLocale } from '../context/LocaleContext'
 
 const API = 'https://v1.hitokoto.cn/?encode=json'
 
 export function Hitokoto() {
+  const { t } = useLocale()
   const [quote, setQuote] = useState<Quote>(fallbackQuotes[0])
   const [loading, setLoading] = useState(false)
   const [switching, setSwitching] = useState(false)
@@ -63,22 +65,22 @@ export function Hitokoto() {
   return (
     <div className="quote-wrap enter enter--4">
       <article className="quote-card">
-        <span className="quote-card__tab">一言 · HITOKOTO</span>
+        <span className="quote-card__tab">{t('quote.tab')}</span>
         <div className="quote-card__mark" aria-hidden="true">
           “
         </div>
         <p className={`quote-card__text${switching ? ' is-switching' : ''}`}>{quote.text}</p>
         <div className="quote-card__from">— {attribution}</div>
         <div className="quote-card__foot">
-          <span className="quote-card__label">DAILY WORD · 每日一句</span>
+          <span className="quote-card__label">{t('quote.label')}</span>
           <button
             type="button"
             className="quote-card__refresh"
             onClick={() => void load()}
             disabled={loading}
-            aria-label="换一句"
+            aria-label={t('quote.refresh')}
           >
-            ↻ 换一句
+            ↻ {t('quote.refresh')}
           </button>
         </div>
       </article>

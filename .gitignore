@@ -3,4 +3,6 @@ dist/
 .vercel/
 .wrangler/
 *.local
+scripts/.translation-cache.json
+*.tsbuildinfo
 .DS_Store

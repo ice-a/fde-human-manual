@@ -1,12 +1,13 @@
 import { useEffect } from 'react'
 import { Footer } from './components/Footer'
 import { Header } from './components/Header'
+import { LocaleProvider } from './context/LocaleContext'
 import { useHashRoute } from './hooks/useHashRoute'
 import { About } from './pages/About'
 import { Guide } from './pages/Guide'
 import { Home } from './pages/Home'
 
-export default function App() {
+function Router() {
   const route = useHashRoute()
 
   useEffect(() => {
@@ -24,5 +25,13 @@ export default function App() {
       </main>
       <Footer />
     </>
+  )
+}
+
+export default function App() {
+  return (
+    <LocaleProvider>
+      <Router />
+    </LocaleProvider>
   )
 }

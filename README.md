@@ -97,27 +97,31 @@ npm run preview  # 预览构建结果
 
 ## 线上地址
 
-- 自定义域名：https://020417.xyz
+- 正式域名：https://guide.020417.xyz
 - GitHub Pages 默认地址：https://ice-a.github.io/human-manual/
 
 ## 自定义域名 DNS 设置（Cloudflare）
 
-域名托管在 Cloudflare。所有记录必须选 **DNS only（灰云）**，不要开代理（橙云）：
-Cloudflare 代理会挡住 GitHub 的证书校验，导致 Enforce HTTPS 无法开启，还可能返回 520。
-
-仓库 Pages 设置里的 Custom domain 与 `public/CNAME` 都是 `020417.xyz`。
+域名托管在 Cloudflare，只需加一条记录：
 
 | 类型 | 名称 | 值 | 代理状态 |
 | --- | --- | --- | --- |
-| A | @ | 185.199.108.153 | DNS only |
-| A | @ | 185.199.109.153 | DNS only |
-| A | @ | 185.199.110.153 | DNS only |
-| A | @ | 185.199.111.153 | DNS only |
-| CNAME | www | ice-a.github.io | DNS only |
-| CNAME | apex | ice-a.github.io | DNS only |
+| CNAME | guide | ice-a.github.io | DNS only |
 
-Cloudflare 支持 apex CNAME flattening，所以 `@` 也可以只写一条
-`CNAME → ice-a.github.io`（同样 DNS only），效果与四条 A 记录相同。
+**必须选 DNS only（灰云）**，不要开橙云代理：Cloudflare 代理会挡住 GitHub 的证书校验，
+导致 Enforce HTTPS 开不了，还可能返回 520。根域 `020417.xyz` 不需要动，旧站继续保留。
 
-GitHub Pages 会自动把 `www.020417.xyz` 和 `apex.020417.xyz` 跳转到 `020417.xyz`。
-DNS 生效后在仓库 Settings → Pages 勾选 Enforce HTTPS，证书签发最多可能需要 24 小时。
+Pages 的 Custom domain 和 `public/CNAME` 都是 `guide.020417.xyz`。DNS 生效后，
+在仓库 Settings → Pages 勾选 Enforce HTTPS（证书签发最多可能需要 24 小时）。
+
+## 多语言
+
+默认简体中文，右上角可切换 English / 繁體中文，选择会保存在浏览器本地。
+
+- 界面文案原文：`src/data/ui.ts`
+- 指南与参考项目内容：沿用 `src/data/guides.ts`、`src/data/references.ts` 的简体中文
+- 翻译产物：`src/data/locales/en.json`、`src/data/locales/zh-TW.json`（提交进仓库，运行时不请求翻译接口）
+- 英文：`bun scripts/generate-locales.ts`（免费翻译接口，批量生成）
+- 繁体：`bun scripts/generate-zh-tw.ts`（OpenCC 从简体确定性转换）
+
+新增文案时在 `src/data/ui.ts` 加一个键，再补进两个 JSON；内容改动后重新运行翻译脚本即可。

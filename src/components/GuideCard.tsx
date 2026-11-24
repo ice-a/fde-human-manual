@@ -1,6 +1,9 @@
-import type { Guide } from '../data/guides'
+import type { GuideView } from '../context/LocaleContext'
+import { useLocale } from '../context/LocaleContext'
 
-export function GuideCard({ guide }: { guide: Guide }) {
+export function GuideCard({ guide }: { guide: GuideView }) {
+  const { t } = useLocale()
+
   return (
     <a className="guide-card" href={`#/guide/${guide.slug}`}>
       <span className="guide-card__no">VOL. {guide.no}</span>
@@ -11,7 +14,9 @@ export function GuideCard({ guide }: { guide: Guide }) {
       <span className="guide-card__en">{guide.en}</span>
       <p className="guide-card__desc">{guide.desc}</p>
       <div className="guide-card__foot">
-        <span>{guide.principles.length} 条原则</span>
+        <span>
+          {guide.principles.length} {t('card.principles')}
+        </span>
         <span className="guide-card__arrow" aria-hidden="true">
           →
         </span>
