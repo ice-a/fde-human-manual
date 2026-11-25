@@ -1584,8 +1584,9 @@ button {
 @media (max-width: 560px) {
   .site-header__inner { min-height: 60px; }
   .brand__en { display: none; }
-  .site-nav { gap: 14px; }
-  .site-nav a { font-size: 13px; }
+  .site-nav { gap: 10px; }
+  .site-nav a { font-size: 12px; white-space: nowrap; }
+  .brand__name { font-size: 1rem; white-space: nowrap; }
   .site-nav__ext { display: none !important; }
   .guide-grid { grid-template-columns: 1fr; }
   .guide-card { min-height: 0; }
