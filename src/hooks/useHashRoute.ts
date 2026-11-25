@@ -13,6 +13,7 @@ function parseHash(): Route {
   if (first === 'guide' && second) return { page: 'guide', slug: second }
   if (first === 'about') return { page: 'about' }
   if (first === 'sites') return { page: 'sites' }
+  if (first === '') return { page: 'home' }
   return { page: 'missing' }
 }
 
