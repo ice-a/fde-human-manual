@@ -1462,6 +1462,28 @@ button {
   .vote-panel { padding: 22px; }
 }
 
+.feedback-steps {
+  margin: 18px 0 12px;
+  padding-left: 20px;
+  font-size: 14px;
+  color: var(--ink-2);
+  line-height: 1.85;
+}
+
+.feedback-steps li + li { margin-top: 4px; }
+
+.feedback-template {
+  margin: 0 0 18px;
+  padding: 12px 16px;
+  background: var(--paper-2);
+  border: 1px dashed var(--rule-strong);
+  font-family: var(--mono);
+  font-size: 12px;
+  line-height: 1.8;
+  white-space: pre-wrap;
+  color: var(--ink-2);
+}
+
 .sites-group { margin-top: 44px; }
 
 .sites-grid {

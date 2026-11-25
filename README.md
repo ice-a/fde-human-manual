@@ -6,17 +6,17 @@
 
 ## 站点结构
 
-- **首页**：内容主题目录、使用方式、投票区块（从 GitHub Gist 读取配置），以及「一言」组件；底部有「内容说明」入口。
+- **首页**：内容主题目录、使用方式、Issue 反馈区块（从 GitHub Gist 读取配置），以及「一言」组件；底部有「内容说明」入口。
 - **指南页**：每册按分类列出全部条目，支持搜索与展开/收起，条目只保留文字。
 - **关于页**：极简文字说明与自愿赞赏区块，仅在首页底部提供入口。
 - **导航**：顶部「我的站点」打开站内 `/#/sites` 页面，集中展示你的全部站点，支持搜索与分类。
 
-站点与投票配置在仓库根目录 `sites.json`、`poll.json`，同步到同一个公开 Gist（`0160c8ccd7781e3c88d33ed7bcbe6dc5`）：
+站点与反馈配置在仓库根目录 `sites.json`、`poll.json`，同步到同一个公开 Gist（`0160c8ccd7781e3c88d33ed7bcbe6dc5`）：
 
 - 站点：`https://gist.githubusercontent.com/ice-a/0160c8ccd7781e3c88d33ed7bcbe6dc5/raw/9cb6a6f39787fd5a43ea5ff53885a18c07043224/sites.json`
-- 投票：`https://gist.githubusercontent.com/ice-a/0160c8ccd7781e3c88d33ed7bcbe6dc5/raw/c4ba76fa6e3d051071f55007baa84ef7bad3f33a/poll.json`
+- 反馈：`https://gist.githubusercontent.com/ice-a/0160c8ccd7781e3c88d33ed7bcbe6dc5/raw/4972a84123c092fa522eda09e57a05eac5f2ba23/poll.json`
 
-直接编辑 Gist 里的 JSON 即可增删站点或改投票，刷新页面生效，不用重新构建。`sites.json` 的 `groups[].items[]` 每项含 `name`、`url`、`desc`，可选 `nameEn`/`descEn`。`poll.json` 的 `voteUrl` 是 GitHub Issue，`formUrl` 可填金山文档收集表链接。
+直接编辑 Gist 里的 JSON 即可增删站点或改反馈文案，刷新页面生效，不用重新构建。`sites.json` 的 `groups[].items[]` 每项含 `name`、`url`、`desc`，可选 `nameEn`/`descEn`。`poll.json` 的 `issueUrl` 是新建 Issue 的地址（默认本项目 Issues/new），`formUrl` 可填金山文档收集表链接。
 
 ### 统一内容格式
 
