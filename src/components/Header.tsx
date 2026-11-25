@@ -20,6 +20,9 @@ export function Header({ page }: { page: string }) {
             {t('nav.guide')}
           </a>
 
+          <a className="site-nav__ext" href="https://020417.xyz/" target="_blank" rel="noreferrer">
+            {t('nav.sites')} ↗
+          </a>
           {content.site.repo && (
             <a className="site-nav__ext" href={content.site.repo} target="_blank" rel="noreferrer">
               GITHUB ↗

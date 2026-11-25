@@ -129,4 +129,9 @@ export const ui: Record<string, string> = {
   'support.toggle': '查看赞赏码',
   'support.hide': '收起赞赏码',
   'support.bmc': 'Buy Me a Coffee',
+  'vote.title': '投票',
+  'vote.open': '去投票',
+  'vote.form': '填写表单',
+  'vote.optional': '自愿参与，不影响阅读',
+  'nav.sites': '我的站点',
 }

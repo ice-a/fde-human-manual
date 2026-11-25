@@ -111,7 +111,12 @@
     "support.usdt": "USDT receiving address",
     "support.toggle": "Show QR codes",
     "support.hide": "Hide QR codes",
-    "support.bmc": "Buy Me a Coffee"
+    "support.bmc": "Buy Me a Coffee",
+    "vote.title": "Poll",
+    "vote.open": "Vote now",
+    "vote.form": "Open form",
+    "vote.optional": "Optional — reading is unaffected",
+    "nav.sites": "My Sites"
   },
   "guides": [
     {

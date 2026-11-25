@@ -1,4 +1,5 @@
 import { GuideCard } from '../components/GuideCard'
+import { VotePanel } from '../components/VotePanel'
 import { Hitokoto } from '../components/Hitokoto'
 import { useLocale } from '../context/LocaleContext'
 import { contentStats } from '../data/content'
@@ -87,6 +88,10 @@ export function Home() {
           </div>
         </div>
       </section>
+
+      <div className="wrap">
+        <VotePanel />
+      </div>
 
       <section className="closing">
         <div className="wrap">
