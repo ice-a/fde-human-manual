@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <filter id="paper" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="4" stitchTiles="stitch" result="n"/>
+      <feColorMatrix in="n" type="saturate" values="0" result="g"/>
+      <feComponentTransfer in="g" result="grain"><feFuncA type="linear" slope="0.06"/></feComponentTransfer>
+      <feBlend in="SourceGraphic" in2="grain" mode="multiply"/>
+    </filter>
+    <filter id="hand" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.018" numOctaves="3" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="2.5" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <filter id="handBig" x="-5%" y="-5%" width="110%" height="110%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.012" numOctaves="3" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="4" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <style>
+      .hk { font-family: "Kaiti SC","STKaiti","KaiTi","楷体",cursive; }
+      .ink { fill: #2b2a27; }
+      .red { fill: #c8442a; }
+      .muted { fill: #6b675d; }
+      .line { fill: none; stroke: #2b2a27; stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; filter: url(#hand); }
+      .redline { fill: none; stroke: #c8442a; stroke-width: 2.6; stroke-linecap: round; stroke-linejoin: round; filter: url(#hand); }
+      .card { fill: #fffdf7; stroke: #2b2a27; stroke-width: 2; filter: url(#hand); }
+      .tagnum { font-family: "Kaiti SC","STKaiti","KaiTi",cursive; font-size: 20px; fill: #c8442a; }
+      .tagtitle { font-family: "Kaiti SC","STKaiti","KaiTi",cursive; font-size: 23px; fill: #2b2a27; font-weight: bold; }
+      .tagdesc { font-family: "Kaiti SC","STKaiti","KaiTi",cursive; font-size: 15px; fill: #6b675d; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="900" fill="#f5f0e2" filter="url(#paper)"/>
+
+  <!-- 手绘边框 -->
+  <g filter="url(#handBig)">
+    <path d="M34 30 L1166 28 L1170 870 L30 872 Z" fill="none" stroke="#2b2a27" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M48 44 L1152 42 L1156 856 L44 858 Z" fill="none" stroke="#c8442a" stroke-width="1.4" stroke-linejoin="round" opacity="0.65"/>
+  </g>
+
+  <!-- 标题区 -->
+  <g transform="translate(92,120)">
+    <text class="hk ink" x="0" y="0" font-size="72" font-weight="bold" filter="url(#handBig)">人间使用手册</text>
+    <path class="redline" d="M4 14 Q140 30 300 12" />
+    <text class="hk muted" x="6" y="48" font-size="20" letter-spacing="4">THE HUMAN MANUAL · 14 VOLUMES</text>
+    <text class="hk red" x="6" y="92" font-size="30" filter="url(#hand)">活得明白一点，坑踩得少一点。</text>
+  </g>
+
+  <!-- 右上涂鸦：打开的书 -->
+  <g transform="translate(930,70)" filter="url(#hand)">
+    <path class="line" d="M0 20 Q55 0 110 18 L110 120 Q55 102 0 122 Z"/>
+    <path class="line" d="M110 18 Q165 0 220 20 L220 122 Q165 102 110 120 Z"/>
+    <path class="line" d="M110 20 L110 120"/>
+    <path class="redline" d="M18 42 Q52 32 88 42 M18 62 Q52 52 88 62 M18 82 Q52 72 88 82"/>
+    <path class="redline" d="M132 42 Q166 32 202 42 M132 62 Q166 52 202 62 M132 82 Q166 72 202 82"/>
+  </g>
+
+  <!-- 统计徽章 -->
+  <g transform="translate(92,250)" filter="url(#hand)">
+    <path class="card" d="M0 0 Q60 -6 122 2 Q128 34 120 66 Q60 72 0 64 Q-6 32 0 0 Z"/>
+    <text class="tagnum" x="14" y="30" font-size="26">14</text><text class="tagdesc" x="52" y="29">册内容</text>
+    <text class="tagnum" x="14" y="56" font-size="26">2374</text><text class="tagdesc" x="78" y="55">条原则</text>
+
+    <path class="card" d="M146 0 Q206 -6 268 2 Q274 34 266 66 Q206 72 146 64 Q140 32 146 0 Z"/>
+    <text class="tagnum" x="160" y="30" font-size="26">中 / EN</text><text class="tagdesc" x="160" y="56">双语可查</text>
+
+    <path class="card" d="M292 0 Q352 -6 414 2 Q420 34 412 66 Q352 72 292 64 Q286 32 292 0 Z"/>
+    <text class="tagnum" x="306" y="30" font-size="26">100%</text><text class="tagdesc" x="306" y="56">开源可部署</text>
+  </g>
+
+  <!-- 14 册主题卡片 -->
+  <g transform="translate(92,355)">
+    <!-- row1 -->
+    <g transform="translate(0,0)"><rect class="card" width="240" height="108" rx="6"/><text class="tagnum" x="14" y="28">01</text><text class="tagtitle" x="52" y="28">防骗与信息安全</text><text class="tagdesc" x="14" y="58">405 条 · 套路拆解与应急自救</text><path class="redline" d="M14 76 Q70 84 130 76"/></g>
+    <g transform="translate(256,0)"><rect class="card" width="240" height="108" rx="6"/><text class="tagnum" x="14" y="28">02</text><text class="tagtitle" x="52" y="28">高性价比生活</text><text class="tagdesc" x="14" y="58">772 条 · 成本收益与证据等级</text><path class="redline" d="M14 76 Q70 84 130 76"/></g>
+    <g transform="translate(512,0)"><rect class="card" width="240" height="108" rx="6"/><text class="tagnum" x="14" y="28">03</text><text class="tagtitle" x="52" y="28">人情世故</text><text class="tagdesc" x="14" y="58">77 条 · 场景判断与话术</text><path class="redline" d="M14 76 Q70 84 130 76"/></g>
+    <g transform="translate(768,0)"><rect class="card" width="240" height="108" rx="6"/><text class="tagnum" x="14" y="28">04</text><text class="tagtitle" x="52" y="28">健康与延寿</text><text class="tagdesc" x="14" y="58">64 条 · 研究结论与行动建议</text><path class="redline" d="M14 76 Q70 84 130 76"/></g>
+    <!-- row2 -->
+    <g transform="translate(0,124)"><rect class="card" width="240" height="108" rx="6"/><text class="tagnum" x="14" y="28">05</text><text class="tagtitle" x="52" y="28">厨房与做饭</text><text class="tagdesc" x="14" y="58">393 条 · 精确到克的菜谱</text><path class="redline" d="M14 76 Q70 84 130 76"/></g>
+    <g transform="translate(256,124)"><rect class="card" width="240" height="108" rx="6"/><text class="tagnum" x="14" y="28">06</text><text class="tagtitle" x="52" y="28">投资入门</text><text class="tagdesc" x="14" y="58">75 条 · 概念与风险边界</text><path class="redline" d="M14 76 Q70 84 130 76"/></g>
+    <g transform="translate(512,124)"><rect class="card" width="240" height="108" rx="6"/><text class="tagnum" x="14" y="28">07</text><text class="tagtitle" x="52" y="28">恋爱与关系</text><text class="tagdesc" x="14" y="58">43 条 · 关系决策与安全边界</text><path class="redline" d="M14 76 Q70 84 130 76"/></g>
+    <g transform="translate(768,124)"><rect class="card" width="240" height="108" rx="6"/><text class="tagnum" x="14" y="28">08</text><text class="tagtitle" x="52" y="28">人生进阶</text><text class="tagdesc" x="14" y="58">110 条 · 低谷恢复与复盘</text><path class="redline" d="M14 76 Q70 84 130 76"/></g>
+    <!-- row3 -->
+    <g transform="translate(0,248)"><rect class="card" width="240" height="108" rx="6"/><text class="tagnum" x="14" y="28">09</text><text class="tagtitle" x="52" y="28">法律与权益</text><text class="tagdesc" x="14" y="58">75 条 · 留证据走流程</text><path class="redline" d="M14 76 Q70 84 130 76"/></g>
+    <g transform="translate(256,248)"><rect class="card" width="240" height="108" rx="6"/><text class="tagnum" x="14" y="28">10</text><text class="tagtitle" x="52" y="28">应急与安全</text><text class="tagdesc" x="14" y="58">72 条 · 先呼救再施救</text><path class="redline" d="M14 76 Q70 84 130 76"/></g>
+    <g transform="translate(512,248)"><rect class="card" width="240" height="108" rx="6"/><text class="tagnum" x="14" y="28">11</text><text class="tagtitle" x="52" y="28">情绪与心理</text><text class="tagdesc" x="14" y="58">72 条 · 看清情绪与调节</text><path class="redline" d="M14 76 Q70 84 130 76"/></g>
+    <g transform="translate(768,248)"><rect class="card" width="240" height="108" rx="6"/><text class="tagnum" x="14" y="28">12</text><text class="tagtitle" x="52" y="28">效率与工具</text><text class="tagdesc" x="14" y="58">72 条 · 清单与复盘方法</text><path class="redline" d="M14 76 Q70 84 130 76"/></g>
+    <!-- row4 -->
+    <g transform="translate(128,372)"><rect class="card" width="240" height="108" rx="6"/><text class="tagnum" x="14" y="28">13</text><text class="tagtitle" x="52" y="28">育儿与家庭</text><text class="tagdesc" x="14" y="58">72 条 · 照护与家庭协作</text><path class="redline" d="M14 76 Q70 84 130 76"/></g>
+    <g transform="translate(384,372)"><rect class="card" width="240" height="108" rx="6"/><text class="tagnum" x="14" y="28">14</text><text class="tagtitle" x="52" y="28">出行与旅行</text><text class="tagdesc" x="14" y="58">72 条 · 出发准备与应急</text><path class="redline" d="M14 76 Q70 84 130 76"/></g>
+  </g>
+
+  <!-- 底部 -->
+  <g transform="translate(92,856)" filter="url(#hand)">
+    <text class="hk muted" x="0" y="0" font-size="16">guide.020417.xyz · 开源 · 持续整理中</text>
+    <path class="redline" d="M560 -12 Q600 -20 660 -10"/>
+  </g>
+</svg>
