@@ -4,6 +4,7 @@ import { Header } from './components/Header'
 import { LocaleProvider } from './context/LocaleContext'
 import { useHashRoute } from './hooks/useHashRoute'
 import { About } from './pages/About'
+import { Sites } from './pages/Sites'
 import { Guide } from './pages/Guide'
 import { Home } from './pages/Home'
 
@@ -21,6 +22,7 @@ function Router() {
         {route.page === 'home' && <Home />}
         {route.page === 'guide' && <Guide slug={route.slug} />}
         {route.page === 'about' && <About />}
+        {route.page === 'sites' && <Sites />}
         {route.page === 'missing' && <Guide />}
       </main>
       <Footer />

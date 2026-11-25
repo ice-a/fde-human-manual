@@ -134,4 +134,6 @@ export const ui: Record<string, string> = {
   'vote.form': '填写表单',
   'vote.optional': '自愿参与，不影响阅读',
   'nav.sites': '我的站点',
+  'sites.search': '搜索站点',
+  'sites.count': '个站点',
 }

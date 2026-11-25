@@ -116,7 +116,9 @@
     "vote.open": "Vote now",
     "vote.form": "Open form",
     "vote.optional": "Optional — reading is unaffected",
-    "nav.sites": "My Sites"
+    "nav.sites": "My Sites",
+    "sites.search": "Search sites",
+    "sites.count": "sites"
   },
   "guides": [
     {

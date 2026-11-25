@@ -1462,6 +1462,43 @@ button {
   .vote-panel { padding: 22px; }
 }
 
+.sites-group { margin-top: 44px; }
+
+.sites-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 14px;
+}
+
+.site-card {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-height: 108px;
+  padding: 16px 18px;
+  border: 1px solid var(--rule);
+  background: var(--card);
+  transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+}
+
+.site-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--rule-strong);
+  box-shadow: 0 10px 24px rgba(28, 27, 24, 0.08);
+}
+
+.site-card strong { font-family: var(--serif); font-size: 1.1rem; }
+.site-card__url { font-family: var(--mono); font-size: 11px; color: var(--accent); }
+.site-card__desc { font-size: 13px; color: var(--ink-2); line-height: 1.65; margin-top: 4px; }
+
+@media (max-width: 900px) {
+  .sites-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 560px) {
+  .sites-grid { grid-template-columns: 1fr; }
+}
+
 .support-block {
   margin-top: 36px;
   border: 1px solid var(--rule);

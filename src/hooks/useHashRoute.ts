@@ -1,9 +1,10 @@
 import { useEffect, useState } from 'react'
 
 export type Route = {
-  page: 'home' | 'guide' | 'about' | 'missing'
+  page: 'home' | 'guide' | 'about' | 'sites' | 'missing'
   slug?: string
 }
+
 
 function parseHash(): Route {
   const raw = window.location.hash.replace(/^#\/?/, '')
@@ -11,7 +12,7 @@ function parseHash(): Route {
 
   if (first === 'guide' && second) return { page: 'guide', slug: second }
   if (first === 'about') return { page: 'about' }
-  if (first === '') return { page: 'home' }
+  if (first === 'sites') return { page: 'sites' }
   return { page: 'missing' }
 }
 

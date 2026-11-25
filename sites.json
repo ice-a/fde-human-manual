@@ -1,0 +1,48 @@
+{
+  "title": "我的站点",
+  "titleEn": "My Sites",
+  "description": "我在用的站点、工具与账号入口。配置来自公开 Gist，可直接编辑，不需要改代码。",
+  "descriptionEn": "Sites, tools and profiles I use. Loaded from a public Gist — edit the Gist to update without redeploying.",
+  "groups": [
+    {
+      "name": "个人站点",
+      "nameEn": "Personal Sites",
+      "items": [
+        { "name": "个人主页", "nameEn": "Homepage", "url": "https://home.020417.xyz/", "desc": "爱喝水的木子，存在即合理", "descEn": "Personal homepage and service entry" },
+        { "name": "渡口", "nameEn": "Ferry", "url": "https://020417.xyz/", "desc": "站点导航 + AI 资源 + 站内文章", "descEn": "Site directory, AI resources and articles" },
+        { "name": "博客", "nameEn": "Blog", "url": "https://ice-a.github.io/less_is_more_cn/", "desc": "技术笔记：爬虫逆向、AST、AI 实践", "descEn": "Tech notes on crawling, reverse engineering and AI" },
+        { "name": "博客 RSS", "nameEn": "Blog RSS", "url": "https://ice-a.github.io/less_is_more_cn/feed.rss", "desc": "订阅更新", "descEn": "Subscribe to updates" },
+        { "name": "人间使用手册", "nameEn": "Human Manual", "url": "https://guide.020417.xyz/", "desc": "本项目：十四册生活主题索引", "descEn": "This site: fourteen volumes of practical guides" },
+        { "name": "GitHub", "nameEn": "GitHub", "url": "https://github.com/ice-a", "desc": "代码仓库与开源项目", "descEn": "Repositories and open-source projects" }
+      ]
+    },
+    {
+      "name": "实用工具",
+      "nameEn": "Utilities",
+      "items": [
+        { "name": "Web 探测", "nameEn": "Web Probe", "url": "https://web.020417.xyz/", "desc": "网站信息在线检测", "descEn": "Online website information checker" },
+        { "name": "GitHub 日榜", "nameEn": "GitHub Trending", "url": "https://info.020417.xyz/", "desc": "Trending 日周月榜与历史留存", "descEn": "Daily, weekly and monthly trending archives" },
+        { "name": "缠论看板", "nameEn": "Market Board", "url": "https://pan.020417.xyz/", "desc": "缠论 × 动量二维共振观察看板", "descEn": "Chan theory and momentum dashboard" },
+        { "name": "短链生成器", "nameEn": "Short Links", "url": "https://l.020417.xyz/", "desc": "短链接生成服务", "descEn": "Short link generator" },
+        { "name": "图床服务", "nameEn": "Image Host", "url": "https://img.020417.xyz", "desc": "图片托管服务", "descEn": "Image hosting service" },
+        { "name": "订阅转换", "nameEn": "Subscription Converter", "url": "https://sub.020417.xyz/", "desc": "基于 Cloudflare 的订阅转换与管理", "descEn": "Cloudflare-based subscription converter" },
+        { "name": "导航门户", "nameEn": "Nav Portal", "url": "https://nav.020417.xyz/", "desc": "导航门户", "descEn": "Navigation portal" },
+        { "name": "动作图鉴", "nameEn": "FitAtlas", "url": "https://sport.hlds.fun/", "desc": "1,324 个健身动作，多语言分步说明", "descEn": "1,324 exercises with step-by-step guides" },
+        { "name": "识图", "nameEn": "Image Search", "url": "https://avscan.cc/", "desc": "以图搜番号", "descEn": "Reverse image search" },
+        { "name": "逍遥旅行", "nameEn": "Travel Guide", "url": "https://xiaoyao-travel.vercel.app/", "desc": "旅行规划与记录", "descEn": "Travel planning and notes" },
+        { "name": "Markdown 编辑器", "nameEn": "Markdown Editor", "url": "https://md.lideshan.cn/", "desc": "在线 Markdown 编辑", "descEn": "Online Markdown editor" }
+      ]
+    },
+    {
+      "name": "社交账号",
+      "nameEn": "Social",
+      "items": [
+        { "name": "Bilibili", "url": "https://space.bilibili.com/309278307", "desc": "视频与动态", "descEn": "Videos and posts" },
+        { "name": "YouTube", "url": "https://www.youtube.com/@lovewatermuzi", "desc": "视频频道", "descEn": "Video channel" },
+        { "name": "知乎", "url": "https://www.zhihu.com/people/love_water_blue", "desc": "文章与回答", "descEn": "Articles and answers" },
+        { "name": "掘金", "url": "https://juejin.cn/user/712139267643543", "desc": "技术文章", "descEn": "Tech articles" },
+        { "name": "博客园", "url": "https://www.cnblogs.com/ldsice", "desc": "技术博客", "descEn": "Tech blog" }
+      ]
+    }
+  ]
+}
