@@ -2,7 +2,24 @@
 
 > 活得明白一点，坑踩得少一点。
 
-把十四类生活主题整理成一份格式统一、随时可查的内容集合。纯静态站点，可部署到 Vercel、Cloudflare Pages、GitHub Pages 或任意静态托管。
+![人间使用手册内容总览](docs/images/hand-drawn-manual.svg)
+
+把十四类生活主题整理成一份格式统一、随时可查的内容集合。当前收录 **14 册、2374 条**，简体中文与英文双语。纯静态站点，可部署到 Vercel、Cloudflare Pages、GitHub Pages 或任意静态托管。
+
+- 在线站点：<https://guide.020417.xyz/>
+- 源码仓库：<https://github.com/ice-a/human-manual>
+
+## 页面预览
+
+| 首页 | 指南页 |
+| --- | --- |
+| ![首页](docs/images/home-desktop.png) | ![指南页](docs/images/guide-page.png) |
+
+| 我的站点 | 关于与赞赏 |
+| --- | --- |
+| ![站点导航](docs/images/sites-page.png) | ![关于页](docs/images/about-support.png) |
+
+![移动端首页](docs/images/home-mobile.png)
 
 ## 站点结构
 
@@ -28,7 +45,7 @@
 { "id": "...", "title": "...", "core": "...", "body": ["..."], "tags": ["..."] }
 ```
 
-按册懒加载：中文源为 `src/data/content/<slug>.zh-CN.json`，英文为 `<slug>.en.json`，条目数与章节数记录在 `manifest.json`。
+按册懒加载：中文源为 `src/data/content/<slug>.zh-CN.json`，英文为 `<slug>.en.json`，条目数与章节数记录在 `manifest.json`。每条都带以「案例：」开头的具体场景。
 
 ### 已收录内容
 
@@ -60,7 +77,7 @@ export const site = {
   name: '人间使用手册',
   en: 'THE HUMAN MANUAL',
   slogan: '活得明白一点，坑踩得少一点。',
-  sub: '八册内容、近两千条生活原则。',
+  sub: '十四册内容、两千多条生活原则。',
   repo: 'https://github.com/ice-a/human-manual',
 }
 ```
@@ -84,11 +101,16 @@ npm run preview
 
 ```bash
 bun scripts/extract/<slug>.ts       # 从源项目重新抓取，写入 *.zh-CN.json
+bun scripts/seed-rewritten.ts       # 重建人情世故 / 投资两册改写内容
+bun scripts/seed-extra.ts           # 重建六个原创主题册
+bun scripts/seed-extra-more.ts      # 给新增主题册补充条目
 bun scripts/translate-content.ts    # 翻译成 *.en.json（带断点缓存）
 bun scripts/generate-locales.ts     # 更新界面文案英文包
 ```
 
 抓取脚本在 `scripts/extract/`，共用工具在 `scripts/extract/common.ts`。翻译使用免费接口，带磁盘缓存，中断后重跑可继续。
+
+手绘总览图源文件为 `docs/images/hand-drawn-manual.svg`，改文字或配色后用浏览器打开即可查看，PNG 由它渲染生成。
 
 ## 部署
 
@@ -125,6 +147,14 @@ Cloudflare 里只需加一条记录，且必须选 **DNS only（灰云）**：
 - 中文内容：`src/data/content/*.zh-CN.json`
 - 英文内容：`src/data/content/*.en.json`
 - 界面英文包：`src/data/locales/en.json`
+
+## 发布文章
+
+- 通用版：`docs/文章-人间使用手册.md`
+- 小红书版：`docs/文章-人间使用手册-小红书版.md`
+- 配图：`docs/images/`
+
+两篇 Markdown 都用 `raw.githubusercontent.com` 直链引用截图，可直接粘贴到知乎 / CSDN；公众号需把图片下载后逐张上传。
 
 ## 参考项目
 
